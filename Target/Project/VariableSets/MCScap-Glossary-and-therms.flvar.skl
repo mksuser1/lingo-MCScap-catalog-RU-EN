@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Name="parameter Фиксация электродных кабелей" Comment="Устарел. Для проводов электродов на шлеме" EvaluatedDefinition="Фиксация электродных кабелей">砻קยด1ตว融</Variable>
+    <Variable Name="parameter Позиция электродов" Comment="" EvaluatedDefinition="Позиции электродов">砻קยด2ตว融</Variable>
+    <Variable Name="value подвижные силиконовые трубки" Comment="" EvaluatedDefinition="подвижные силиконовые трубки">砻קยด3ตว融</Variable>
+    <Variable Name="parameter Выход шлейфа" Comment="" EvaluatedDefinition="Выход электродного шлейфа из шлема">砻קยด4ตว融</Variable>
+    <Variable Name="parameter Материал электрода" Comment="" EvaluatedDefinition="Материал токосъёмной поверхности электрода">砻קยด5ตว融</Variable>
+    <Variable Name="value сплошные силиконовые трубки" Comment="" EvaluatedDefinition="сплошные силиконовые трубки">砻קยด6ตว融</Variable>
+    <Variable Name="parameter Совместимые модели электродов" Comment="" EvaluatedDefinition="Совместимые модели электродов">砻קยด7ตว融</Variable>
+    <Variable Name="value все электроды кроме Е" Comment="" EvaluatedDefinition="MCScap-C/TC/T/NT/NTC/NTH/StTC/StNT">砻קยด8ตว融</Variable>
+    <Variable Name="parameter Система расположения электродов" Comment="" EvaluatedDefinition="Система расположения электродов">砻קยด9ตว融</Variable>
+    <Variable Name="parameter Кол-во эл-дов - отведений" Comment="" EvaluatedDefinition="Количество электродов / отведений">砻קยด10ตว融</Variable>
+    <Variable Name="parameter Длина шлейфа" Comment="" EvaluatedDefinition="Длина электродного шлейфа">砻קยด11ตว融</Variable>
+    <Variable Name="parameter кол-во текстильных шлемов" Comment="" EvaluatedDefinition="Количество текстильных шлемов в комплекте">砻קยด12ตว融</Variable>
+    <Variable Name="parameter Диаметр отверстия в электроде" Comment="Диаметр отверстия в электроде для добавления геля" EvaluatedDefinition="Диаметр отверстия для добавления геля">砻קยด13ตว融</Variable>
+    <Variable Name="parameter Площадь токосъемной поверхности электрода" Comment="" EvaluatedDefinition="Площадь токосъёмной поверхности электрода">砻קยด14ตว融</Variable>
+    <Variable Name="parameter Внутренний диаметр электрода" Comment="Внутренний диаметр электрода в месте соприкосновения электродного контактного вещества с кожей" EvaluatedDefinition="Внутренний диаметр электрода в месте соприкосновения электродного контактного вещества с кожей">砻קยด15ตว融</Variable>
+    <Variable Name="parameter Площадь контакта электродного вещества с кожей" Comment="" EvaluatedDefinition="Площадь контакта электродного вещества с кожей">砻קยด16ตว融</Variable>
+    <Variable Name="parameter Внешний диаметр электрода" Comment="Внешний диаметр электрода в месте соприкосновения с кожей" EvaluatedDefinition="Внешний диаметр электрода в месте соприкосновения с кожей">砻קยด17ตว融</Variable>
+    <Variable Name="parameter расстояние до электрода" Comment="" EvaluatedDefinition="Расстояние от поверхности кожи до токосъёмной поверхности электрода">砻קยด18ตว融</Variable>
+    <Variable Name="parameter поляризация" Comment="" EvaluatedDefinition="Максимальная разность потенциалов (поляризация)">砻קยด19ตว融</Variable>
+    <Variable Name="parameter Кол-во эл-дов" Comment="" EvaluatedDefinition="Количество ЭЭГ электродов">砻קยด20ตว融</Variable>
+    <Variable Name="parameter Макс кол-во эл-дов в адаптере" Comment="" EvaluatedDefinition="Максимальное число электродов для подключения">砻קยด21ตว融</Variable>
+    <Variable Name="value St-электроды" Comment="" EvaluatedDefinition="MCScap-StTC/StNT">砻קยด22ตว融</Variable>
+    <Variable Name="parameter совместимость" Comment="" EvaluatedDefinition="Совместимость с усилителями">砻קยด23ตว融</Variable>
+    <Variable Name="parameter ушные электроды" Comment="" EvaluatedDefinition="Ушные электроды">砻קยด24ตว融</Variable>
+    <Variable Name="term встроенные" Comment="" EvaluatedDefinition="встроенные в общий разъём">砻קยด25ตว融</Variable>
+    <Variable Name="parameter дополнительные эл-ды" Comment="" EvaluatedDefinition="Дополнительные электроды">砻קยด26ตว融</Variable>
+    <Variable Name="parameter дополнительные разъемы" Comment="" EvaluatedDefinition="Дополнительные разъёмы">砻קยด27ตว融</Variable>
+    <Variable Name="parameter тип разъема" Comment="" EvaluatedDefinition="Тип разъёма">砻קยด28ตว融</Variable>
+    <Variable Name="parameter Схема контактов" Comment="" EvaluatedDefinition="Схема контактов общего разъёма">砻קยด29ตว融</Variable>
+    <Variable Name="value электроды TES-d22" Comment="" EvaluatedDefinition="MCScap&#8209;CS22, CS22SS">砻קยด30ตว融</Variable>
+    <Variable Name="parameter тип разъема1" Comment="Разъем для подключения к шлему - Для адаптеров" EvaluatedDefinition="Тип разъёма для подключения к шлему">砻קยด31ตว融</Variable>
+    <Variable Name="parameter тип разъема2" Comment="Разъем для подключения к усилителю - Для адаптеров" EvaluatedDefinition="Тип разъёма для подключения к усилителю">砻קยด32ตว融</Variable>
+    <Variable Name="parameter Схема головы" Comment="" EvaluatedDefinition="Схема расположения электродов">砻קยด33ตว融</Variable>
+    <Variable Name="parameter схема контактов платы" Comment="" EvaluatedDefinition="Схема контактов платы общего разъёма">砻קยด34ตว融</Variable>
+    <Variable Name="parameter Модель электродов" Comment="" EvaluatedDefinition="Модель электродов">砻קยด35ตว融</Variable>
+    <Variable Name="parameter Маркировка посадочных мест" Comment="" EvaluatedDefinition="Маркировка посадочных мест">砻קยด36ตว融</Variable>
+    <Variable Name="parameter Маркировка электродов" Comment="" EvaluatedDefinition="Маркировка электродов">砻קยด37ตว融</Variable>
+    <Variable Name="parameter Материал корпуса электрода" Comment="" EvaluatedDefinition="Материал корпуса электрода">砻קยด38ตว融</Variable>
+    <Variable Name="parameter Длина провода электрода" Comment="" EvaluatedDefinition="Длина провода электрода">砻קยด39ตว融</Variable>
+    <Variable Name="parameter Ушные фиксаторы" Comment="" EvaluatedDefinition="Ушные фиксаторы">砻קยด40ตว融</Variable>
+    <Variable Name="parameter Доступные размеры шлемов" Comment="" EvaluatedDefinition="Доступные размеры шлемов">砻קยด41ตว融</Variable>
+    <Variable Name="parameter Максимально допустимый ток" Comment="для CS22, CS22SS" EvaluatedDefinition="Максимально допустимый ток, протекающий через электрод в режиме стимуляции">砻קยด42ตว融</Variable>
+    <Variable Name="parameter Максимальное рабочее напряжение" Comment="для CS22, CS22SS" EvaluatedDefinition="Максимальное рабочее напряжение">砻קยด43ตว融</Variable>
+    <Variable Name="parameter Материал шлема" Comment="" EvaluatedDefinition="Материал шлема">砻קยด44ตว融</Variable>
+    <Variable Name="parameter Материал фиксирующих колец" Comment="" EvaluatedDefinition="Материал фиксирующих колец">砻קยด45ตว融</Variable>
+    <Variable Name="parameter Количество фиксирующих колец" Comment="" EvaluatedDefinition="Количество фиксирующих колец">砻קยด46ตว融</Variable>
+    <Variable Name="parameter Крепление к шлему" Comment="" EvaluatedDefinition="Крепление к шлему">砻קยด47ตว融</Variable>
+    <Variable Name="parameter Регулировка" Comment="" EvaluatedDefinition="Регулировка">砻קยด48ตว融</Variable>
+    <Variable Name="parameter Материал подбородника" Comment="" EvaluatedDefinition="Материал подбородника">砻קยด49ตว融</Variable>
+    <Variable Name="parameter Материал фиксатора" Comment="для ушных фиксаторов и ленточного фиксатора" EvaluatedDefinition="Материал фиксатора">砻קยด50ตว融</Variable>
+    <Variable Name="parameter Диаметр трубки" Comment="Для шлема из силиконовых трубок" EvaluatedDefinition="Диаметр трубки">砻קยด51ตว融</Variable>
+    <Variable Name="parameter Длина иглы" Comment="Для игл, установочных комплектов" EvaluatedDefinition="Длина иглы">砻קยด52ตว融</Variable>
+    <Variable Name="parameter Фиксация разъемов" Comment="Для адаптеров" EvaluatedDefinition="Фиксация разъёмов">砻קยด53ตว融</Variable>
+    <Variable Name="parameter Формфактор адаптера" Comment="" EvaluatedDefinition="Формфактор адаптера/удлинителя">砻קยด54ตว融</Variable>
+    <Variable Name="parameter Количество ярлыков" Comment="" EvaluatedDefinition="Количество ярлыков/маркеров">砻קยด55ตว融</Variable>
+    <Variable Name="parameter Длина измерительной ленты" Comment="" EvaluatedDefinition="Длина измерительной ленты">砻קยด56ตว融</Variable>
+    <Variable Name="parameter Диаметр иглы" Comment="для иглы" EvaluatedDefinition="Диаметр иглы">砻קยด57ตว融</Variable>
+    <Variable Name="parameter Тип крепления" Comment="для иглы" EvaluatedDefinition="Тип крепления">砻קยด58ตว融</Variable>
+    <Variable Name="parameter Номинальный диаметр провода" Comment="" EvaluatedDefinition="Номинальный диаметр провода">砻קยด59ตว融</Variable>
+    <Variable Name="parameter Символы" Comment="Для ярлыков" EvaluatedDefinition="Символы">砻קยด60ตว融</Variable>
+    <Variable Name="parameter Длина адаптера" Comment="" EvaluatedDefinition="Длина адаптера/удлинителя">砻קยด61ตว融</Variable>
+    <Variable Name="parameter Объем средства для дезинфекции" Comment="" EvaluatedDefinition="Номинальный объем средства для дезинфекции">砻קยด62ตว融</Variable>
+    <Variable Name="parameter Удельная электропроводность" Comment="" EvaluatedDefinition="Удельная электропроводность">砻קยด63ตว融</Variable>
+    <Variable Name="parameter Действующие вещества" Comment="" EvaluatedDefinition="Действующие вещества">砻קยด64ตว融</Variable>
+    <Variable Name="parameter Длина кабеля" Comment="Для адаптеров и удлинителей" EvaluatedDefinition="Длина кабеля">砻קยด65ตว融</Variable>
+    <Variable Name="value макушка" Comment="" EvaluatedDefinition="макушка">砻קยด66ตว融</Variable>
+    <Variable Name="value затылок" Comment="" EvaluatedDefinition="затылок">砻קยด67ตว融</Variable>
+    <Variable Name="parameter Use with MCScap caps" Comment="" EvaluatedDefinition="Использование с текстильными шлемами MCScap®">砻קยด68ตว融</Variable>
+    <Variable Name="parameter Use with siliconetube caps" Comment="" EvaluatedDefinition="Использование со&#160;шлемами из&#160;трубок">砻קยด69ตว融</Variable>
+    <Variable Name="value фиксация в отверстиях шлема" Comment="" EvaluatedDefinition="да, фиксация напрямую в отверстиях шлема">砻קยด70ตว融</Variable>
+    <Variable Name="parameter Схема колец" Comment="" EvaluatedDefinition="Схема размещения колец">砻קยด71ตว融</Variable>
+    <Variable Name="value color-cap" Comment="" EvaluatedDefinition="цветной, в соответствии с размером шлема">砻קยด72ตว融</Variable>
+    <Variable Name="value black-cap" Comment="" EvaluatedDefinition="чёрный">砻קยด73ตว融</Variable>
+    <Variable Name="value black-or-color" Comment="" EvaluatedDefinition="чёрный&#160;/&#160;цветной&#160;(опционально)">砻קยด74ตว融</Variable>
+    <Variable Name="parameter Electrodecap weight" Comment="" EvaluatedDefinition="Масса электродного шлема">砻קยด75ตว融</Variable>
+</CatapultVariableSet>

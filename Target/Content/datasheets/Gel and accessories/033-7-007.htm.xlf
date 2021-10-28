@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="033-7-007.htm"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="033-7-007.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">9</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Спрей для дезинфекции, 750 мл.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Спрей для дезинфекции, 750 мл.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Disinfection spray, 750 ml.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Состав комплекта</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Описание</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Описание</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Спрей для быстрой дезинфекции электродов, шлемов и принадлежностей.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Спрей для быстрой дезинфекции электродов, шлемов и принадлежностей.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Spray for quick disinfection of electrodes, EEG caps and accessories.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Технические характеристики</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Алкилдиметилбензиламмоний хлорид (АДБАХ), Дидецилдиметиламмоний хлорид, Диоктилдиметиламмоний хлорид, Октилдецилдиметиламмоний хлорид, Смесь ЧАС 0.65 %, Вспомогательные компоненты, ПАВы</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Алкилдиметилбензиламмоний хлорид (АДБАХ), Дидецилдиметиламмоний хлорид, Диоктилдиметиламмоний хлорид, Октилдецилдиметиламмоний хлорид, Смесь ЧАС 0.65 %, Вспомогательные компоненты, ПАВы</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Alkyldimethylbenzylammonium chloride (ADBACH), Didecyldimethylammonium chloride, Dioctyldimethylammonium chloride, Octyl decyldimethylammonium chloride, Mixture HOUR 0.65%, Auxiliary components, Surfactants</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>ООО «Полисепт», Россия</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ООО «Полисепт», Россия</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Polisept, Russia</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>750 мл</source><seg-source><mrk
+            mtype="seg"
+            mid="1">750 мл</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">750 ml</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>&lt; 820 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1">&lt; 820 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">&lt; 820 g</mrk></target></trans-unit></body>
+  </file>
+</xliff>

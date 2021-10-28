@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="033-0-304.htm"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="033-0-304.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">18</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Комплект ярлыков для маркировки электродов по системе 10-20.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Комплект ярлыков для маркировки электродов по системе 10-20.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="98">A set of labels for marking electrodes according to the 10‑20 system.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Состав комплекта</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Ярлыки для электродов, символьные,</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Ярлыки для электродов, символьные,</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">labels for electrodes, with symbols,</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>ярлыки для электродов, с цифрами.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ярлыки для электродов, с цифрами.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="96"
+            MadCap:diff="ContentChanged">labels for electrodes, numeric.</mrk></target><alt-trans
+          match-quality="96"
+          origin="previous-version"><seg-source>ярлыки для электродов, с цифрами,</seg-source><target
+            MadCap:segmentStatus="Untranslated">labels for electrodes, numeric,</target></alt-trans><alt-trans
+          match-quality="67"
+          origin="previous-version"><seg-source>Ярлыки для электродов, символьные,</seg-source><target
+            MadCap:segmentStatus="Untranslated">labels for electrodes, with symbols,</target></alt-trans></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Описание</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Описание</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Комплект ярлыков для маркировки электродов содержит парные клейкие ярлыки для крепления на проводе электрода. Один ярлык из пары предназначен для крепления рядом с электродом, второй — рядом с соединительным разъемом. Система маркировки ярлыков соответствует международной системе 10-20.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Комплект ярлыков для маркировки электродов содержит парные клейкие ярлыки для крепления на проводе электрода.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Один ярлык из пары предназначен для крепления рядом с электродом, второй — рядом с соединительным разъемом.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Система маркировки ярлыков соответствует международной системе 10-20.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="99">Set of labels for electrode marking contains paired adhesive labels for attaching to the electrode wire.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">One label from the pair is designed for mounting near the electrode, the other is next to the connector.</mrk><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="98">Electrode labeling system corresponds to the international system 10-20.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Технические характеристики</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>100 шт.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">100 шт.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">100 pcs.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Числа:1-24,</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Числа:1-24,</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Numbers:1-24,</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Символы: Fp1, Fp2, F3, F4, F7, F8, C3, C4, T3, T4, P3, P4, T5, T6, A1, A2, O1, O2, Fpz, Cz, Fz, Pz, Oz, Ref, GND</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Символы: Fp1, Fp2, F3, F4, F7, F8, C3, C4, T3, T4, P3, P4, T5, T6, A1, A2, O1, O2, Fpz, Cz, Fz, Pz, Oz, Ref, GND</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Symbols: Fp1, Fp2, F3, F4, F7, F8, C3, C4, T3, T4, P3, P4, T5, T6, A1, A2, O1, O2, Fpz, Cz, Fz, Pz, Oz, Ref, GND</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>&lt; 10 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1">&lt; 10 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">&lt; 10 g</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>10 ±1 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.PrintOnly">10 ±1 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">10 ±1 g</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">2021-04-22</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">Унификация параметров в таблице ТТХ</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Унификация параметров в таблице ТТХ</mrk></target></trans-unit></body>
+  </file>
+</xliff>

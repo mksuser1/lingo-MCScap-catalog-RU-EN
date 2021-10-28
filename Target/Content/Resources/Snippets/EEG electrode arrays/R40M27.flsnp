@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <div class="figure">
+            <img src="../../Images/Album_ElectrodeArrays/40M27.png" class="electrodeArray" />
+            <p class="schemeName">
+                <MadCap:variable name="Global(External)Variables.term Код схемы производителя" />: 40M27 (27 электродов)</p>
+        </div>
+    </body>
+</html>

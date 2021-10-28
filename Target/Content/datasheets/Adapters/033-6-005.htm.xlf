@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="033-6-005.htm"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="033-6-005.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">14</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Адаптер для подключения электродного шлема с общим разъемом <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, предназначенного для усилителя ЭЭГ одного типа, к усилителю другого типа.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Адаптер для подключения электродного шлема с общим разъемом <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, предназначенного для усилителя ЭЭГ одного типа, к усилителю другого типа.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="ContentChanged">Passive adapter to connect an electrode cap with <ph
+              id="1">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector intended for an EEG amplifier of one type to an amplifier of another type.</mrk></target><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>Адаптер для подключения электродного шлема с общим разъемом <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, предназначенного для усилителя ЭЭГ одного типа, к усилителю другого типа.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Passive adapter to connect an electrode cap with <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector intended for an EEG amplifier of one type to an amplifier of another type.</target></alt-trans></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Состав комплекта</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Описание</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Описание</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.DB25FM-adapter_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения шлема с общим разъемом типа <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (схема коммутации 1) к разъему типа <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> ЭЭГ усилителя (схема коммутации 2) через общий разъем.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.DB25FM-adapter_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения шлема с общим разъемом типа <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (схема коммутации 1) к разъему типа <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> ЭЭГ усилителя (схема коммутации 2) через общий разъем.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="99"
+            MadCap:diff="ContentChanged"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.DB25FM-adapter_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed to connect a electrode cap with a common connector <ph
+              id="2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> type (pin layout 1) to an EEG amplifier connector <ph
+              id="3">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> type (pin layout 2).</mrk></target><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.DB25FM-adapter_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения шлема с общим разъемом типа <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (схема коммутации 1) к разъему типа <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> ЭЭГ усилителя (схема коммутации 2) через общий разъем.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.DB25FM-adapter_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed to connect a electrode cap with a common connector <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> type (pin layout 1) to an EEG amplifier connector <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> type (pin layout 2).</target></alt-trans></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Технические характеристики</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>25</source><seg-source><mrk
+            mtype="seg"
+            mid="1">25</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">25</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>0,3 ±0,02 м</source><seg-source><mrk
+            mtype="seg"
+            mid="1">0,3 ±0,02 м</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">0.3 ±0.02 m</mrk></target><alt-trans
+          match-quality="84"
+          origin="previous-version"><seg-source>0,3 м ±0,02 м</seg-source><target
+            MadCap:segmentStatus="Untranslated">0.3 ±0.02 m</target></alt-trans></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Для получения информации о  возможных схемах подключения следует обратиться к производителю.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Для получения информации о  возможных схемах подключения следует обратиться к производителю.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="73"
+            MadCap:diff="New">For information about possible pin layouts, contact the manufacturer.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">Унификация параметров в таблице ТТХ</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"
+            MadCap:diff="New">Унификация параметров в таблице ТТХ</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>добавлены погешности в параметр длина и масса</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">добавлены погешности в параметр длина и масса</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">добавлены погешности в параметр длина и масса</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-10-06</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-10-06</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">2021-10-06</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>длина 0,3 м ±0,02 м</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">длина 0,3 м ±0,02 м</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="89"
+            MadCap:diff="New">length 0.3 ±0.02 m</mrk></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:onlyLocalStylesheets="False" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1 class="deviceName">
+            <MadCap:variable name="ModuleAndDevicesNames.MCScap-NTH_fullname" />
+        </h1>
+        <p class="shortDescription">砻קยด1ตว融</p>
+        <section class="withimg">
+            <table>
+                <col class="width50" />
+                <col class="width50" />
+                <tr>
+                    <td>
+                        <table class="refs_table">
+                            <col class="width50" />
+                            <col class="width50" />
+                            <tr>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.REFname" />
+                                </th>
+                                <th>
+                                </th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-NTH_code" />
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <img src="../../Resources/Images/Catalog/Accessories/Electrodes/033-0-105/MCScap-NTH.jpg" style="width:76mm; float: right;" />
+                    </td>
+                </tr>
+            </table>
+        </section>
+        <section class="target-section">
+            <h2>砻קยด2ตว融</h2>
+            <p>砻קยด3ตว融</p>
+        </section>
+        <section class="set-section">
+            <h2>砻קยด4ตว融</h2>
+            <ul>
+                <li>
+                    <p>
+                        <MadCap:variable name="ModuleAndDevicesNames.MCScap-NTH_fullname" />.</p>
+                </li>
+            </ul>
+        </section>
+        <section class="fullDescription">
+            <h2>砻קยด5ตว融</h2>
+            <p>砻קยด6ตว融</p>
+        </section>
+        <section class="technicalData-section">
+            <h2>砻קยด7ตว融</h2>
+            <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/MCScap-NTH_parameters.flsnp" />
+            <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/electrodes-GOST.flsnp" />
+            <table class="datasheet">
+                <col class="col_param" />
+                <col class="col_value" />
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Длина провода электрода" />
+                    </td>
+                    <td>砻קยด8ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter тип разъема" />
+                    </td>
+                    <td>砻קยด9ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Use with MCScap caps" />
+                    </td>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.value фиксация в отверстиях шлема" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
+                    </td>
+                    <td>砻קยด10ตว融</td>
+                </tr>
+                <tr MadCap:conditions="Default.PrintOnly">
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
+                    </td>
+                    <td>砻קยด11ตว融</td>
+                </tr>
+            </table>
+        </section>
+        <section MadCap:conditions="documents.InternalDocument">
+            <table>
+                <tr>
+                    <td>砻קยด12ตว融</td>
+                    <td>砻קยด13ตว融</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด14ตว融</td>
+                    <td>
+                        <p>砻קยด15ตว融</p>
+                        <p>砻קยด16ตว融</p>
+                    </td>
+                    <td> </td>
+                </tr>
+            </table>
+        </section>
+    </body>
+</html>

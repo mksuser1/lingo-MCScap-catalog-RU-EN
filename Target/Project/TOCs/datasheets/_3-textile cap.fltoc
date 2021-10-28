@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Текстильные шлемы" Link="/Content/Титульные листы/title - Текстильные шлемы.htm" BreakType="chapter" PageType="title" StartSection="false" PageNumberReset="continue">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-213.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-225.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-234.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-246.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-255.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-264.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-266.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-269.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-272.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-284.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-501.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Textile caps/033-0-296.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+    </TocEntry>
+</CatapultToc>

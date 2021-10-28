@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="003-0-308.fltar"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="x-fltar"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="003-0-308.fltar.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">5</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Техническое описание</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Техническое описание</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Data sheet</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>0.1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">0.1</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">0.1</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>MCS.<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ProductVariables.ProductCode%]</ph>-<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.DocSubCode%]</ph>-<ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.Market%]</ph>-<ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.Language%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">MCS.<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ProductVariables.ProductCode%]</ph>-<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.DocSubCode%]</ph>-<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.Market%]</ph>-<ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.Language%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">MCS.<ph
+              id="1">[%=ProductVariables.ProductCode%]</ph>-<ph
+              id="2">[%=DocsVariables.DocSubCode%]</ph>-<ph
+              id="3">[%=DocsVariables.Market%]</ph>-<ph
+              id="4">[%=DocsVariables.Language%]</ph></mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>DS</source><seg-source><mrk
+            mtype="seg"
+            mid="1">DS</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">DS</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>EU</source><seg-source><mrk
+            mtype="seg"
+            mid="1">EU</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">EU</mrk></target></trans-unit></body>
+  </file>
+</xliff>

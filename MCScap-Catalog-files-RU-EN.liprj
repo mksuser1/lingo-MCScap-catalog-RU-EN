@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="en" xml:lang="en" SourceLanguage="ru" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedConditions="" SelectedTarget="" statsLanguages="false" SourceControlBound="false">
+    <ProjectFile Source="Target/MCScap-catalog-RU.flprj" Target="Target/MCScap-catalog-RU.flprj" />
+    <TMConnection Connection="MCScap.db" ReadOnly="false" Type="StandAlone" />
+    <TermConnection Connection="file:///C:/Users/felena/Documents/Lingo Termbases/MCScapTermbase.litdb3" ReadOnly="false" Type="StandAlone" />
+</LingoProject>

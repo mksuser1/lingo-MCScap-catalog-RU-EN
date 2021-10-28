@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="completed">
+  <file
+    xml:space="preserve"
+    original="Standard_EEG_scheme_toDatasheet.flsnp"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="x-flsnp"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="Standard_EEG_scheme_toDatasheet.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">3</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Схема контактов общего разъема</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Схема контактов общего разъема</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Pin layouts of common connector</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Схема размещения электродов</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Схема размещения электродов</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="79">Scheme of electrode arrangement</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Для получения информации о других возможных схемах обратитесь к производителю.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Для получения информации о других возможных схемах обратитесь к производителю.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">For information about other possible EEG electrode arrays, contact the manufacturer.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

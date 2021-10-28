@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MasterStylesheetOverride="false" MasterToc="/Project/TOCs/datasheets/Ready Specifications.fltoc" ConditionTagExpression="include[Default.ScreenOnly or market.EU] exclude[Default.NoOutput or Default.PrintOnly or documents.InternalDocument or documents.ModDatasheet or market.All] " OutputFile="Каталог технических описаний" GenerateWebSafeImages="true" PreCompileScaledImages="true" WebSafeFileExtension="jpg" ExcludeUnreferencedContent="true" MoveOutputContentToRoot="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="false" GenerateIndexProxy="false" GenerateGlossaryProxy="false" />
+    <Glossaries>
+    </Glossaries>
+    <PDF DownsampleImages="true" ImagePPIThreshold="150" />
+    <Variables>
+        <Variable Name="DocsVariables/DocRevision">2.0</Variable>
+    </Variables>
+</CatapultTarget>

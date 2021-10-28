@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:onlyLocalStylesheets="False" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1 class="deviceName">
+            <MadCap:variable name="ModuleAndDevicesNames.MCScap-color_fullname" />
+        </h1>
+        <p class="shortDescription">砻קยด1ตว融</p>
+        <section class="withimg">
+            <table>
+                <col class="width50" />
+                <col class="width50" />
+                <tr>
+                    <td>
+                        <table class="refs_table">
+                            <col style="width: 30%" />
+                            <col style="width: 30%" />
+                            <col style="width: 40%" />
+                            <tr>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.REFname" />
+                                </th>
+                                <th>砻קยด2ตว融</th>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.parameter Head circumference" />
+                                </th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-color_code" />
+                                </td>
+                                <td>砻קยด3ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL" /> </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorXL-L_code" />
+                                </td>
+                                <td>砻קยด4ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL-L" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorL_code" />
+                                </td>
+                                <td>砻קยด5ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorL-M_code" />
+                                </td>
+                                <td>砻קยด6ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L-M" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorM_code" />
+                                </td>
+                                <td>砻קยด7ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorM-S_code" />
+                                </td>
+                                <td>砻קยด8ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M-S" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorS_code" />
+                                </td>
+                                <td>砻קยด9ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorS-XS_code" />
+                                </td>
+                                <td>砻קยด10ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S-XS" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorXS_code" />
+                                </td>
+                                <td>砻קยด11ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XS" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorInf1_code" />
+                                </td>
+                                <td>砻קยด12ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.Inf I" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorInf2_code" />
+                                </td>
+                                <td>砻קยด13ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.Inf II" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-colorInf3_code" />
+                                </td>
+                                <td>砻קยด14ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.Inf III" />
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="figure">
+                        <img src="../../Resources/Images/Catalog/Accessories/Textile caps/033-0-213/MCScap10-20color.JPG" />
+                    </td>
+                </tr>
+            </table>
+        </section>
+        <section class="set-section">
+            <h2>砻קยด15ตว融</h2>
+            <ul>
+                <li>
+                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-color_fullname" />,</li>
+                <li>砻קยด16ตว融</li>
+                <li>砻קยด17ตว融</li>
+            </ul>
+        </section>
+        <section class="fullDescription">
+            <h2>砻קยด18ตว融</h2>
+            <p>砻קยด19ตว融</p>
+        </section>
+        <section class="technicalData-section">
+            <h2>砻קยด20ตว融</h2>
+            <table class="datasheet">
+                <col class="col_param" />
+                <col class="col_value" />
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал шлема" />
+                    </td>
+                    <td>砻קยด21ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Система расположения электродов" />
+                    </td>
+                    <td>砻קยด22ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Совместимые модели электродов" />
+                    </td>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.value все электроды кроме Е" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Цвет" />
+                    </td>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.value color-cap" />
+                    </td>
+                </tr>
+                <tr class="noBreakAfter">
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
+                    </td>
+                    <td>砻קยด23ตว融</td>
+                </tr>
+                <tr MadCap:conditions="Default.PrintOnly">
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
+                    </td>
+                    <td>砻קยด24ตว融</td>
+                </tr>
+            </table>
+        </section>
+        <section MadCap:conditions="documents.InternalDocument">
+            <table>
+                <tr>
+                    <td>砻קยด25ตว融</td>
+                    <td>砻קยด26ตว融</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด27ตว融</td>
+                    <td>砻קยด28ตว融</td>
+                    <td> </td>
+                </tr>
+            </table>
+        </section>
+    </body>
+</html>

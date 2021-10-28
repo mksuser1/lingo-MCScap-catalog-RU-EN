@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:onlyLocalStylesheets="False" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1 class="deviceName">
+            <MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" />
+        </h1>
+        <p class="shortDescription">砻קยด1ตว融</p>
+        <section class="withimg">
+            <table>
+                <col class="width50" />
+                <col class="width50" />
+                <tr>
+                    <td>
+                        <table class="refs_table">
+                            <col style="width:30%" />
+                            <col style="width:30%" />
+                            <col style="width:40%" />
+                            <tr>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.REFname" />
+                                </th>
+                                <th>砻קยด2ตว融</th>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.parameter Head circumference" />
+                                </th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Sleep_code" />
+                                </td>
+                                <td>砻קยด3ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL" /> </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepXL-L_code" />
+                                </td>
+                                <td>砻קยด4ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL-L" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepL_code" />
+                                </td>
+                                <td>砻קยด5ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepL-M_code" />
+                                </td>
+                                <td>砻קยด6ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L-M" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepM_code" />
+                                </td>
+                                <td>砻קยด7ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepM-S_code" />
+                                </td>
+                                <td>砻קยด8ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M-S" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepS_code" />
+                                </td>
+                                <td>砻קยด9ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepS-XS_code" />
+                                </td>
+                                <td>砻קยด10ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S-XS" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepXS_code" />
+                                </td>
+                                <td>砻קยด11ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XS" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepInf1_code" />
+                                </td>
+                                <td>砻קยด12ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.Inf I" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepInf2_code" />
+                                </td>
+                                <td>砻קยด13ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.Inf II" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.SleepInf3_code" />
+                                </td>
+                                <td>砻קยด14ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.Inf III" />
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="figure">
+                        <img src="../../Resources/Images/Catalog/Electrode caps/033-2-001/SLEEP.jpg" />
+                    </td>
+                </tr>
+            </table>
+        </section>
+        <section class="target-section">
+            <h2 class="section-title">砻קยด15ตว融</h2>
+            <p>砻קยด16ตว融</p>
+        </section>
+        <section class="set-section">
+            <h2>砻קยด17ตว融</h2>
+            <ul>
+                <li>
+                    <p>
+                        <MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" />,</p>
+                </li>
+                <li>
+                    <p>砻קยด18ตว融</p>
+                </li>
+                <li>
+                    <p>砻קยด19ตว融</p>
+                </li>
+            </ul>
+        </section>
+        <section class="fullDescription">
+            <h2>砻קยด20ตว融</h2>
+            <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/SLEEP-description.flsnp" />
+        </section>
+        <section class="technicalData-section">
+            <h2>砻קยด21ตว融</h2>
+            <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/SLEEP-datasheet.flsnp" />
+        </section>
+        <section class="noBreakInside" MadCap:conditions="documents.GroupDatasheet">
+            <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/Standard_EEG_scheme_toDatasheet.flsnp" />
+        </section>
+        <section MadCap:conditions="documents.InternalDocument">
+            <table>
+                <tr>
+                    <td>砻קยด22ตว融</td>
+                    <td>砻קยด23ตว融</td>
+                    <td>砻קยด24ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด25ตว融</td>
+                    <td>砻קยด26ตว融</td>
+                    <td>砻קยด27ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด28ตว融</td>
+                    <td>砻קยด29ตว融</td>
+                    <td> </td>
+                </tr>
+            </table>
+        </section>
+    </body>
+</html>

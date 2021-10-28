@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <table class="datasheet">
+            <col class="col_param" />
+            <col class="col_value" />
+            <tr>
+                <td>砻קยด1ตว融</td>
+                <td>砻קยด2ตว融</td>
+            </tr>
+            <tr>
+                <td>砻קยด3ตว融</td>
+                <td>砻קยด4ตว融</td>
+            </tr>
+            <tr>
+                <td>砻קยด5ตว融</td>
+                <td>砻קยด6ตว融</td>
+            </tr>
+        </table>
+    </body>
+</html>

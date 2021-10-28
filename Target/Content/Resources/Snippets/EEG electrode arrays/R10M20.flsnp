@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <div class="figure">
+            <img src="../../Images/Схемы отведений/R10M20.eps" class="electrodeArray" />
+            <p class="schemeName">
+                <MadCap:variable name="Global(External)Variables.term Код схемы производителя" />: 10M20 (20 электродов)</p>
+        </div>
+    </body>
+</html>

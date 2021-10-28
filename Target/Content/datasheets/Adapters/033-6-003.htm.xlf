@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="033-6-003.htm"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="033-6-003.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">20</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Адаптер для подключения до 25 электродов с разъемом <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> к усилителю с разъемом <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Адаптер для подключения до 25 электродов с разъемом <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> к усилителю с разъемом <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="87"
+            MadCap:diff="ContentChanged">Adapter for connecting up to 25 electrodes, including GND with a <ph
+              id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to an amplifier with a <ph
+              id="2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
+          match-quality="69"
+          origin="previous-version"><seg-source>Адаптер для подключения до 25 электродов с разъемом <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2"
+              ctype="lb" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;br /&gt;</ph></seg-source><target
+            MadCap:segmentStatus="Untranslated">Adapter for connecting up to 25 electrodes with <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connectors <ph
+              id="2"
+              ctype="lb" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;br /&gt;</ph></target></alt-trans></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Состав комплекта</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Описание</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Описание</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это пассивный адаптер(коммутатор) для подключения электрофизиологических электродов с индивидуальными разъемами <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) к биоэлектрическим усилителям с общим разъемом <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это пассивный адаптер(коммутатор) для подключения электрофизиологических электродов с индивидуальными разъемами <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) к биоэлектрическим усилителям с общим разъемом <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="98"
+            MadCap:diff="ContentChanged"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a passive adapter (switch) for connecting electrophysiological electrodes with individual connectors <ph
+              id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="3">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) to EEG amplifiers with a common <ph
+              id="4">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это пассивный адаптер(коммутатор) для подключения электрофизиологических электродов с индивидуальными разъемами <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) к биоэлектрическим усилителям с общим разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a passive adapter (switch) for connecting electrophysiological electrodes with individual connectors <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) to EEG amplifiers with a common <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</target></alt-trans></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> может быть использован в случаях, когда нужно оперативное отключение или подключение установленных на пациента электродов к ЭЭГ усилителю, например, при регистрации сомнограммы.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> может быть использован в случаях, когда нужно оперативное отключение или подключение установленных на пациента электродов к ЭЭГ усилителю, например, при регистрации сомнограммы.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="98"
+            MadCap:diff="ContentChanged"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  can be used in cases, when it is necessary operative disconnection or connection mounted on the patient electrodes to the amplifier, for example, during registration somnograms.</mrk></target><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> может быть использован в случаях, когда нужно оперативное отключение или подключение установленных на пациента электродов к ЭЭГ усилителю, например, при регистрации сомнограммы.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> can be used in cases, when it is necessary operative disconnection or connection mounted on the patient electrodes to the amplifier, for example, during registration somnograms.</target></alt-trans></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений. Разъемы 11, 12, 13, 24, 25 могут быть использованы для произвольного подключения дополнительных электродов.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Разъемы 11, 12, 13, 24, 25 могут быть использованы для произвольного подключения дополнительных электродов.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="98"
+            MadCap:diff="ContentChanged">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Connectors 11, 12, 13, 24, 25 can be used for arbitrary connection of additional electrodes.</mrk></target><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъемов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Технические характеристики</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>до 25 <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">до 25 <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">up to 25 <ph
+              id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>25</source><seg-source><mrk
+            mtype="seg"
+            mid="1">25</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">25</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>0,3 ±0,02 м</source><seg-source><mrk
+            mtype="seg"
+            mid="1">0,3 ±0,02 м</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">0.3 ±0.02 m</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>&lt; 75 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1">&lt; 75 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">&lt; 75 g</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>&lt; 80 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.PrintOnly">&lt; 80 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">&lt; 80 g</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">Унификация параметров в таблице ТТХ</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">Унификация параметров в таблице ТТХ</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>добавлены погешности в параметр длина и масса</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">добавлены погешности в параметр длина и масса</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="98"
+            MadCap:diff="New">добавлены погешности в параметр длина и масса</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-10-05</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-10-05</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">2021-10-05</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>длина 0,3 ±0,02 м</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">длина 0,3 ±0,02 м</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="64"
+            MadCap:diff="New">length 0.3 ±0.02 m</mrk></target></trans-unit></body>
+  </file>
+</xliff>

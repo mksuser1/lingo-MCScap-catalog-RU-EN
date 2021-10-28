@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <p>
+            <MadCap:variable name="ModuleAndDevicesNames._ELECTRODE_SET" /> – это комплект из съёмных Ag/AgCl sintered электродов <MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-E.flsnp" /> с разъемами <MadCap:variable name="Global(External)Variables.Touch Proof Name" /> (<MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" />) и текстильных шлемов <MadCap:variable name="ModuleAndDevicesNames._mainMCScap" /> с кольцами. <MadCap:snippetText src="../../../Resources/Snippets/electrode_caps/electrodecap-text.flsnp" /></p>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/Accessories/Fixing-rings-test.flsnp" /></p>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Electrodes/MCScap-E_text.flsnp" />
+        </p>
+        <p>Комплект электродов с разъемами <MadCap:variable name="Global(External)Variables.Touch Proof Name" /> является универсальным и подходит к большинству ЭЭГ усилителей.</p>
+    </body>
+</html>

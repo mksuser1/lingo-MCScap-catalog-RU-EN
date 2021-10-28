@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheetOverride="True" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." xml:lang="ru" IncludePattern="*.png;*.bmp;*.jpg;*.jpeg;*.tif;*.tiff;*.gif;*.swd;*.emf;*.wmf;*.xaml;*.xps;*.exps;*.hdp;*.wdp;*.dib;*.svg;*.ps;*.eps;*.pdf" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" LastImport="2018-11-16T12:20:28.6669962+03:00">
+    <Files>
+        <Url Source="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/MCSCap.flprj" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/MCSCap.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/MKS-logo-light.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/MKS-logo-light.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/MKS-logo.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/MKS-logo.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/back.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/back.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/DSC_4343.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/DSC_4343.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-left-cover.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-left-cover.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-left.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-left.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-right.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-right.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/left.jpg" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/left.jpg" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Project/VariableSets/Variables.flvar" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Project/VariableSets/Variables.flvar" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/back.tif" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/back.tif" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-left.tif" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-left.tif" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-right.tif" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front-right.tif" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front.tif" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/front.tif" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/left.tif" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mannequin/left.tif" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/LOT.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/LOT.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/REF.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/REF.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Беречь-от-влаги.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Беречь-от-влаги.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Беречь-от-солнечных-лучей.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Беречь-от-солнечных-лучей.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Время-применения-ограничено-4-часа.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Время-применения-ограничено-4-часа.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Дата-изготовления.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Дата-изготовления.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Диапазон влажности-20-80.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Диапазон влажности-20-80.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Диапазон-влажности.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Диапазон-влажности.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Изделие-соответствует-системе-ГОСТ-Р.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Изделие-соответствует-системе-ГОСТ-Р.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Использовать-до.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Использовать-до.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-использовать-в-условиях-магнитно-резонансного-томографа-2.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-использовать-в-условиях-магнитно-резонансного-томографа-2.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-использовать-повторно.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-использовать-повторно.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-использовать-при-поврежденной-упаковке.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-использовать-при-поврежденной-упаковке.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-содержит-латекс.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-содержит-латекс.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-стерильно.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Не-стерильно.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Обратитесь-к-инструкции-по-применению.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Обратитесь-к-инструкции-по-применению.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Обратитесь-к-инструкции-по-эксплуатации.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Обратитесь-к-инструкции-по-эксплуатации.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Осторожно.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Осторожно.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Отходы-электрического-и-электронного-оборудования.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Отходы-электрического-и-электронного-оборудования.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Производитель.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Производитель.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Температурный диапазон-5-40.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Температурный диапазон-5-40.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Температурный-диапазон.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Температурный-диапазон.png" />
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Тип-сенсора-ЭЭГ-электрода.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/маркировочные символы/Тип-сенсора-ЭЭГ-электрода.png" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles>
+        <Url Source="../../Templates/Projects/MCSCap.flprj/Content/Resources/Images/mks-logo-graphpart.png" AbsoluteSource="file:///C:/Users/felena/Documents/FlareProjects/Templates/Projects/MCSCap.flprj/Content/Resources/Images/mks-logo-graphpart.png" />
+    </SkippedSourceFiles>
+    <GeneratedFiles>
+        <Url Source="Content/Resources/Images/MKS-logo-light.jpg" TimeStamp="10.01.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/MKS-logo.jpg" TimeStamp="10.01.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/back.jpg" TimeStamp="10.01.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/DSC_4343.jpg" TimeStamp="01.01.0001 0:00:00" />
+        <Url Source="Content/Resources/Images/mannequin/front-left-cover.jpg" TimeStamp="10.01.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/front-left.jpg" TimeStamp="10.01.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/front-right.jpg" TimeStamp="10.01.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/front.jpg" TimeStamp="10.01.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/left.jpg" TimeStamp="10.01.2018 14:33:16" />
+        <Url Source="Project/VariableSets/Variables.flvar" TimeStamp="10.12.2018 16:45:49" />
+        <Url Source="Content/Resources/Images/mannequin/back.tif" TimeStamp="01.10.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/front-left.tif" TimeStamp="01.10.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/front-right.tif" TimeStamp="01.10.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/front.tif" TimeStamp="01.10.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/mannequin/left.tif" TimeStamp="01.10.2018 14:33:16" />
+        <Url Source="Content/Resources/Images/маркировочные символы/LOT.png" TimeStamp="02.11.2018 13:07:29" />
+        <Url Source="Content/Resources/Images/маркировочные символы/REF.png" TimeStamp="02.11.2018 13:07:30" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Беречь-от-влаги.png" TimeStamp="02.11.2018 13:07:30" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Беречь-от-солнечных-лучей.png" TimeStamp="02.11.2018 13:07:30" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Время-применения-ограничено-4-часа.png" TimeStamp="02.11.2018 13:07:31" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Дата-изготовления.png" TimeStamp="02.11.2018 13:07:31" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Диапазон влажности-20-80.png" TimeStamp="08.11.2018 15:57:46" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Диапазон-влажности.png" TimeStamp="02.11.2018 13:07:24" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Изделие-соответствует-системе-ГОСТ-Р.png" TimeStamp="02.11.2018 13:07:25" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Использовать-до.png" TimeStamp="02.11.2018 13:07:25" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Не-использовать-в-условиях-магнитно-резонансного-томографа-2.png" TimeStamp="02.11.2018 13:07:25" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Не-использовать-повторно.png" TimeStamp="02.11.2018 13:07:26" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Не-использовать-при-поврежденной-упаковке.png" TimeStamp="02.11.2018 13:07:26" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Не-содержит-латекс.png" TimeStamp="02.11.2018 13:07:26" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Не-стерильно.png" TimeStamp="02.11.2018 13:07:27" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Обратитесь-к-инструкции-по-применению.png" TimeStamp="02.11.2018 13:07:27" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Обратитесь-к-инструкции-по-эксплуатации.png" TimeStamp="02.11.2018 13:07:27" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Осторожно.png" TimeStamp="02.11.2018 13:07:28" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Отходы-электрического-и-электронного-оборудования.png" TimeStamp="02.11.2018 13:07:28" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Производитель.png" TimeStamp="02.11.2018 13:07:28" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Температурный диапазон-5-40.png" TimeStamp="08.11.2018 15:57:29" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Температурный-диапазон.png" TimeStamp="02.11.2018 13:07:29" />
+        <Url Source="Content/Resources/Images/маркировочные символы/Тип-сенсора-ЭЭГ-электрода.png" TimeStamp="02.11.2018 13:07:29" />
+    </GeneratedFiles>
+</CatapultProject>

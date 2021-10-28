@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="砻קยด1ตว融" BreakType="none" StartSection="false" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" ComputeToc="false" ReplaceMergeNode="false" PageType="empty" PageNumberReset="continue" Link="/Content/Титульные листы/0 Титул.htm">
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/_Common Topics/TableOfContent.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" StartSection="false" ReplaceMergeNode="false" BreakType="none" ComputeToc="false" PageNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" PageType="continue" />
+</CatapultToc>

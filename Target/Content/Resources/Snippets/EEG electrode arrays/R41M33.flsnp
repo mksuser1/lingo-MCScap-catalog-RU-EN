@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <div class="figure">
+            <img src="../../Images/Схемы отведений/R41M33.eps" class="electrodeArray" />
+            <p class="schemeName">
+                <MadCap:variable name="Global(External)Variables.term Код схемы производителя" />: R41M33 (33 электрода)</p>
+        </div>
+    </body>
+</html>

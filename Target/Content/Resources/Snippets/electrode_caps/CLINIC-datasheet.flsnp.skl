@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <table class="datasheet">
+            <col class="col_param" />
+            <col class="col_value" />
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Модель электродов" />
+                </td>
+                <td>
+                    <img src="../../../Resources/Images/electrodes/MCScap-C.tif" class="electrode" />
+                    <br />
+                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-C_name" />
+                </td>
+            </tr>
+        </table>
+        <!-- Сам электрод -->
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Electrodes/MCScap-C_parameters.flsnp" />
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Electrodes/electrodes-GOST.flsnp" />
+        <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/group-parameters-DB25M.flsnp" MadCap:conditions="documents.GroupDatasheet" />
+        <table class="datasheet">
+            <col class="col_param" />
+            <col class="col_value" />
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Длина шлейфа" />
+                </td>
+                <td>砻קยด1ตว融</td>
+            </tr>
+            <tr MadCap:conditions="Default.NoOutput">
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Фиксация электродных кабелей" />
+                </td>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.value подвижные силиконовые трубки" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Выход шлейфа" />
+                </td>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.value затылок" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter ушные электроды" />
+                </td>
+                <td>砻קยด2ตว融</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Маркировка посадочных мест" />
+                </td>
+                <td>砻קยด3ตว融</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Маркировка электродов" />
+                </td>
+                <td>砻קยด4ตว融</td>
+            </tr>
+            <tr MadCap:conditions="Default.NoOutput">
+                <td>砻קยด5ตว融</td>
+                <td>砻קยด6ตว融</td>
+            </tr>
+            <tr MadCap:conditions="Default.NoOutput">
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter кол-во текстильных шлемов" />
+                </td>
+                <td>砻קยด7ตว融</td>
+            </tr>
+            <tr MadCap:conditions="documents.GroupDatasheet">
+                <td>
+                    <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
+                </td>
+                <td>砻קยด8ตว融</td>
+            </tr>
+            <tr MadCap:conditions="documents.GroupDatasheet">
+                <td>
+                    <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
+                </td>
+                <td>砻קยด9ตว融</td>
+            </tr>
+            <tr MadCap:conditions="Default.PrintOnly,documents.GroupDatasheet">
+                <td>
+                    <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
+                </td>
+                <td>砻קยด10ตว融</td>
+            </tr>
+        </table>
+    </body>
+</html>

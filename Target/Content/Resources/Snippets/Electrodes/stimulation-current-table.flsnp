@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <p>При применении электродов в режиме стимуляции следует учитывать рекомендованные научным или клиническим сообществом максимально допустимые значения плотности тока, которые зависят от величины и формы тока. Примеры расчета плотности тока для <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" /> и <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" /> электродов для ряда значений тока стимуляции приведены в таблице.</p>
+        <table class="common_table" style="width: 66%;  margin-left: auto; margin-right: auto;">
+            <caption MadCap:conditions="Default.NoOutput">Примеры плотности тока для электродов <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" /> и <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" /></caption>
+            <tr>
+                <th>Ток стимуляции</th>
+                <th>Плотность тока</th>
+            </tr>
+            <tr>
+                <td>4 мА</td>
+                <td>1.05 мА/см<sup>2</sup> (10.5 А/м<sup>2</sup>)</td>
+            </tr>
+            <tr>
+                <td>3 мА</td>
+                <td>0.79 мА/см<sup>2</sup> (7.9 А/м<sup>2</sup>)</td>
+            </tr>
+            <tr>
+                <td>2 мА</td>
+                <td>0.53 мА/см<sup>2</sup> (5.3 А/м<sup>2</sup>)</td>
+            </tr>
+            <tr>
+                <td>1 мА</td>
+                <td>0.26 мА/см<sup>2</sup> (2.6 А/м<sup>2</sup>)</td>
+            </tr>
+            <tr>
+                <td>500 мкА</td>
+                <td>0.13 мА/см<sup>2</sup>  (1.3 А/м<sup>2</sup>)</td>
+            </tr>
+        </table>
+    </body>
+</html>

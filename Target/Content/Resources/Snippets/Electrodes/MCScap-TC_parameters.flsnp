@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <table class="datasheet">
+            <col class="col_param" />
+            <col class="col_value" />
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал электрода" />
+                </td>
+                <td>Ag/AgCl</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал корпуса электрода" />
+                </td>
+                <td>полиуретан</td>
+            </tr>
+            <tr MadCap:conditions="Default.NoOutput">
+                <td>Диаметр токосъемной поверхности электрода</td>
+                <td>6 мм</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Площадь токосъемной поверхности электрода" />
+                </td>
+                <td>26 мм<sup>2</sup></td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Внутренний диаметр электрода" />
+                </td>
+                <td>8 мм</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Площадь контакта электродного вещества с кожей" />
+                </td>
+                <td>50,2 мм<sup>2</sup></td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Внешний диаметр электрода" />
+                </td>
+                <td>11,9 мм</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter расстояние до электрода" />
+                </td>
+                <td>1,1 мм</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Диаметр отверстия в электроде" />
+                </td>
+                <td>2,8 мм</td>
+            </tr>
+        </table>
+    </body>
+</html>

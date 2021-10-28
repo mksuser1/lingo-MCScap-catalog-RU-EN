@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Гели пасты и спреи" BreakType="none" PageType="title" StartSection="false" PageNumberReset="continue">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-001.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-003.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-004.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-008.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-005.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-006.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-007.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+    </TocEntry>
+</CatapultToc>

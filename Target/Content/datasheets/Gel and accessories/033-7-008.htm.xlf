@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="033-7-008.htm"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="033-7-008.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">22</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Гель абразивный проводящий для подготовки кожи.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Гель абразивный проводящий для подготовки кожи.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="87">Conductive abrasive gel for skin preparation.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Состав комплекта</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Описание</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Описание</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> применяется для предварительной обработки кожи при проведении следующих электрофизиологических исследований: ЭЭГ, записи ВП, ЭМГ, стресс-тестах ЭКГ.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> применяется для предварительной обработки кожи при проведении следующих электрофизиологических исследований: ЭЭГ, записи ВП, ЭМГ, стресс-тестах ЭКГ.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a conductive abrasive gel for pretreatment of the skin during the following electrophysiological studies: EEG, EP, EMG recordings, ECG stress tests.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Обработка кожи гелем <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> перед установкой электродов различного типа позволяет улучшить качество сигнала за счет обезжиривания кожи и снижения ее электрического сопротивления.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Обработка кожи гелем <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> перед установкой электродов различного типа позволяет улучшить качество сигнала за счет обезжиривания кожи и снижения ее электрического сопротивления.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Treatment of the skin with <ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> gel before installing electrodes of various types makes it possible to improve the signal quality by degreasing the skin and reducing its electrical resistance.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Технические характеристики</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Удельная электропроводность геля</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Удельная электропроводность геля</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="ContentChanged">Gel conductivity</mrk></target><alt-trans
+          match-quality="84"
+          origin="previous-version"><seg-source>Удельная электропроводность</seg-source><target
+            MadCap:segmentStatus="Untranslated">Conductivity</target></alt-trans></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>0,10 – 0,4 См/м</source><seg-source><mrk
+            mtype="seg"
+            mid="1">0,10 – 0,4 См/м</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">0.10 - 0.4 S/m</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Вязкость геля</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Вязкость геля</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="ContentChanged">Gel viscosity</mrk></target><alt-trans
+          match-quality="61"
+          origin="previous-version"><seg-source>Вязкость</seg-source><target
+            MadCap:segmentStatus="Untranslated">Viscosity</target></alt-trans></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>15,0 – 31,0 Па × с (Брукфильд RVD VII + Pro/SC4-29/30 об/мин. скорость сдвига 7,5±0,1 с<bpt
+            id="1"
+            ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>-1<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept>, при 23 °С).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">15,0 – 31,0 Па × с (Брукфильд RVD VII + Pro/SC4-29/30 об/мин.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">скорость сдвига 7,5±0,1 с<bpt
+              id="1"
+              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>-1<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept>, при 23 °С).</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="99">15.0 - 31.0 Pa • s (Brookfield RVD VII + Pro/SC4-29/30 rpm</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">shear rate 7.5 ± 0.1 s<bpt
+              id="1"
+              ctype="x-superscript">&lt;sup&gt;</bpt>-1<ept
+              id="1">&lt;/sup&gt;</ept>, at 23 °C).</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>pH геля</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pH геля</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">Gel pH</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>5,0 – 7,0</source><seg-source><mrk
+            mtype="seg"
+            mid="1">5,0 – 7,0</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">5.0 - 7.0</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Цвет</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Цвет</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Color</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>голубовато-серый</source><seg-source><mrk
+            mtype="seg"
+            mid="1">голубовато-серый</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">bluish gray</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>ООО «Гельтек-Медика», Россия</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ООО «Гельтек-Медика», Россия</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Geltek, Russia</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Номинальная масса геля</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Номинальная масса геля</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Nominal gel weight</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>160 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1">160 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">160 g</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>&lt; 185 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1">&lt; 185 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="85">&lt; 185 g</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">Унификация параметров в таблице ТТХ</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Унификация параметров в таблице ТТХ</mrk></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Name="parameter Фиксация электродных кабелей" Comment="Устарел. Для проводов электродов на шлеме" EvaluatedDefinition="Фиксация электродных кабелей">Фиксация электродных кабелей</Variable>
+    <Variable Name="parameter Позиция электродов" Comment="" EvaluatedDefinition="Позиции электродов">Позиции электродов</Variable>
+    <Variable Name="value подвижные силиконовые трубки" Comment="" EvaluatedDefinition="подвижные силиконовые трубки">подвижные силиконовые трубки</Variable>
+    <Variable Name="parameter Выход шлейфа" Comment="" EvaluatedDefinition="Выход электродного шлейфа из шлема">Выход электродного шлейфа из шлема</Variable>
+    <Variable Name="parameter Материал электрода" Comment="" EvaluatedDefinition="Материал токосъёмной поверхности электрода">Материал токосъёмной поверхности электрода</Variable>
+    <Variable Name="value сплошные силиконовые трубки" Comment="" EvaluatedDefinition="сплошные силиконовые трубки">сплошные силиконовые трубки</Variable>
+    <Variable Name="parameter Совместимые модели электродов" Comment="" EvaluatedDefinition="Совместимые модели электродов">Совместимые модели электродов</Variable>
+    <Variable Name="value все электроды кроме Е" Comment="" EvaluatedDefinition="MCScap-C/TC/T/NT/NTC/NTH/StTC/StNT">MCScap-C/TC/T/NT/NTC/NTH/StTC/StNT</Variable>
+    <Variable Name="parameter Система расположения электродов" Comment="" EvaluatedDefinition="Система расположения электродов">Система расположения электродов</Variable>
+    <Variable Name="parameter Кол-во эл-дов - отведений" Comment="" EvaluatedDefinition="Количество электродов / отведений">Количество электродов / отведений</Variable>
+    <Variable Name="parameter Длина шлейфа" Comment="" EvaluatedDefinition="Длина электродного шлейфа">Длина электродного шлейфа</Variable>
+    <Variable Name="parameter кол-во текстильных шлемов" Comment="" EvaluatedDefinition="Количество текстильных шлемов в комплекте">Количество текстильных шлемов в комплекте</Variable>
+    <Variable Name="parameter Диаметр отверстия в электроде" Comment="Диаметр отверстия в электроде для добавления геля" EvaluatedDefinition="Диаметр отверстия для добавления геля">Диаметр отверстия для добавления геля</Variable>
+    <Variable Name="parameter Площадь токосъемной поверхности электрода" Comment="" EvaluatedDefinition="Площадь токосъёмной поверхности электрода">Площадь токосъёмной поверхности электрода</Variable>
+    <Variable Name="parameter Внутренний диаметр электрода" Comment="Внутренний диаметр электрода в месте соприкосновения электродного контактного вещества с кожей" EvaluatedDefinition="Внутренний диаметр электрода в месте соприкосновения электродного контактного вещества с кожей">Внутренний диаметр электрода в месте соприкосновения электродного контактного вещества с кожей</Variable>
+    <Variable Name="parameter Площадь контакта электродного вещества с кожей" Comment="" EvaluatedDefinition="Площадь контакта электродного вещества с кожей">Площадь контакта электродного вещества с кожей</Variable>
+    <Variable Name="parameter Внешний диаметр электрода" Comment="Внешний диаметр электрода в месте соприкосновения с кожей" EvaluatedDefinition="Внешний диаметр электрода в месте соприкосновения с кожей">Внешний диаметр электрода в месте соприкосновения с кожей</Variable>
+    <Variable Name="parameter расстояние до электрода" Comment="" EvaluatedDefinition="Расстояние от поверхности кожи до токосъёмной поверхности электрода">Расстояние от поверхности кожи до токосъёмной поверхности электрода</Variable>
+    <Variable Name="parameter поляризация" Comment="" EvaluatedDefinition="Максимальная разность потенциалов (поляризация)">Максимальная разность потенциалов (поляризация)</Variable>
+    <Variable Name="parameter Кол-во эл-дов" Comment="" EvaluatedDefinition="Количество ЭЭГ электродов">Количество ЭЭГ электродов</Variable>
+    <Variable Name="parameter Макс кол-во эл-дов в адаптере" Comment="" EvaluatedDefinition="Максимальное число электродов для подключения">Максимальное число электродов для подключения</Variable>
+    <Variable Name="value St-электроды" Comment="" EvaluatedDefinition="MCScap-StTC/StNT">MCScap-StTC/StNT</Variable>
+    <Variable Name="parameter совместимость" Comment="" EvaluatedDefinition="Совместимость с усилителями">Совместимость с усилителями</Variable>
+    <Variable Name="parameter ушные электроды" Comment="" EvaluatedDefinition="Ушные электроды">Ушные электроды</Variable>
+    <Variable Name="term встроенные" Comment="" EvaluatedDefinition="встроенные в общий разъём">встроенные в общий разъём</Variable>
+    <Variable Name="parameter дополнительные эл-ды" Comment="" EvaluatedDefinition="Дополнительные электроды">Дополнительные электроды</Variable>
+    <Variable Name="parameter дополнительные разъемы" Comment="" EvaluatedDefinition="Дополнительные разъёмы">Дополнительные разъёмы</Variable>
+    <Variable Name="parameter тип разъема" Comment="" EvaluatedDefinition="Тип разъёма">Тип разъёма</Variable>
+    <Variable Name="parameter Схема контактов" Comment="" EvaluatedDefinition="Схема контактов общего разъёма">Схема контактов общего разъёма</Variable>
+    <Variable Name="value электроды TES-d22" Comment="" EvaluatedDefinition="MCScap&#8209;CS22, CS22SS">MCScap-CS22, MCScap-CS22SS</Variable>
+    <Variable Name="parameter тип разъема1" Comment="Разъем для подключения к шлему - Для адаптеров" EvaluatedDefinition="Тип разъёма для подключения к шлему">Тип разъёма для подключения к шлему</Variable>
+    <Variable Name="parameter тип разъема2" Comment="Разъем для подключения к усилителю - Для адаптеров" EvaluatedDefinition="Тип разъёма для подключения к усилителю">Тип разъёма для подключения к усилителю</Variable>
+    <Variable Name="parameter Схема головы" Comment="" EvaluatedDefinition="Схема расположения электродов">Схема расположения электродов</Variable>
+    <Variable Name="parameter схема контактов платы" Comment="" EvaluatedDefinition="Схема контактов платы общего разъёма">Схема контактов платы общего разъёма</Variable>
+    <Variable Name="parameter Модель электродов" Comment="" EvaluatedDefinition="Модель электродов">Модель электродов</Variable>
+    <Variable Name="parameter Маркировка посадочных мест" Comment="" EvaluatedDefinition="Маркировка посадочных мест">Маркировка посадочных мест</Variable>
+    <Variable Name="parameter Маркировка электродов" Comment="" EvaluatedDefinition="Маркировка электродов">Маркировка электродов</Variable>
+    <Variable Name="parameter Материал корпуса электрода" Comment="" EvaluatedDefinition="Материал корпуса электрода">Материал корпуса электрода</Variable>
+    <Variable Name="parameter Длина провода электрода" Comment="" EvaluatedDefinition="Длина провода электрода">Длина провода электрода</Variable>
+    <Variable Name="parameter Ушные фиксаторы" Comment="" EvaluatedDefinition="Ушные фиксаторы">Ушные фиксаторы</Variable>
+    <Variable Name="parameter Доступные размеры шлемов" Comment="" EvaluatedDefinition="Доступные размеры шлемов">Доступные размеры шлемов</Variable>
+    <Variable Name="parameter Максимально допустимый ток" Comment="для CS22, CS22SS" EvaluatedDefinition="Максимально допустимый ток, протекающий через электрод в режиме стимуляции">Максимально допустимый ток, протекающий через электрод в режиме стимуляции</Variable>
+    <Variable Name="parameter Максимальное рабочее напряжение" Comment="для CS22, CS22SS" EvaluatedDefinition="Максимальное рабочее напряжение">Максимальное рабочее напряжение</Variable>
+    <Variable Name="parameter Материал шлема" Comment="" EvaluatedDefinition="Материал шлема">Материал шлема</Variable>
+    <Variable Name="parameter Материал фиксирующих колец" Comment="" EvaluatedDefinition="Материал фиксирующих колец">Материал фиксирующих колец</Variable>
+    <Variable Name="parameter Количество фиксирующих колец" Comment="" EvaluatedDefinition="Количество фиксирующих колец">Количество фиксирующих колец</Variable>
+    <Variable Name="parameter Крепление к шлему" Comment="" EvaluatedDefinition="Крепление к шлему">Крепление к шлему</Variable>
+    <Variable Name="parameter Регулировка" Comment="" EvaluatedDefinition="Регулировка">Регулировка</Variable>
+    <Variable Name="parameter Материал подбородника" Comment="" EvaluatedDefinition="Материал подбородника">Материал подбородника</Variable>
+    <Variable Name="parameter Материал фиксатора" Comment="для ушных фиксаторов и ленточного фиксатора" EvaluatedDefinition="Материал фиксатора">Материал фиксатора</Variable>
+    <Variable Name="parameter Диаметр трубки" Comment="Для шлема из силиконовых трубок" EvaluatedDefinition="Диаметр трубки">Диаметр трубки</Variable>
+    <Variable Name="parameter Длина иглы" Comment="Для игл, установочных комплектов" EvaluatedDefinition="Длина иглы">Длина иглы</Variable>
+    <Variable Name="parameter Фиксация разъемов" Comment="Для адаптеров" EvaluatedDefinition="Фиксация разъёмов">Фиксация разъёмов</Variable>
+    <Variable Name="parameter Формфактор адаптера" Comment="" EvaluatedDefinition="Формфактор адаптера/удлинителя">Формфактор адаптера/удлинителя</Variable>
+    <Variable Name="parameter Количество ярлыков" Comment="" EvaluatedDefinition="Количество ярлыков/маркеров">Количество ярлыков/маркеров</Variable>
+    <Variable Name="parameter Длина измерительной ленты" Comment="" EvaluatedDefinition="Длина измерительной ленты">Длина измерительной ленты</Variable>
+    <Variable Name="parameter Диаметр иглы" Comment="для иглы" EvaluatedDefinition="Диаметр иглы">Диаметр иглы</Variable>
+    <Variable Name="parameter Тип крепления" Comment="для иглы" EvaluatedDefinition="Тип крепления">Тип крепления</Variable>
+    <Variable Name="parameter Номинальный диаметр провода" Comment="" EvaluatedDefinition="Номинальный диаметр провода">Номинальный диаметр провода</Variable>
+    <Variable Name="parameter Символы" Comment="Для ярлыков" EvaluatedDefinition="Символы">Символы</Variable>
+    <Variable Name="parameter Длина адаптера" Comment="" EvaluatedDefinition="Длина адаптера/удлинителя">Длина адаптера/удлинителя</Variable>
+    <Variable Name="parameter Объем средства для дезинфекции" Comment="" EvaluatedDefinition="Номинальный объем средства для дезинфекции">Номинальный объем средства для дезинфекции</Variable>
+    <Variable Name="parameter Удельная электропроводность" Comment="" EvaluatedDefinition="Удельная электропроводность">Удельная электропроводность</Variable>
+    <Variable Name="parameter Действующие вещества" Comment="" EvaluatedDefinition="Действующие вещества">Действующие вещества</Variable>
+    <Variable Name="parameter Длина кабеля" Comment="Для адаптеров и удлинителей" EvaluatedDefinition="Длина кабеля">Длина кабеля</Variable>
+    <Variable Name="value макушка" Comment="" EvaluatedDefinition="макушка">макушка</Variable>
+    <Variable Name="value затылок" Comment="" EvaluatedDefinition="затылок">затылок</Variable>
+    <Variable Name="parameter Use with MCScap caps" Comment="" EvaluatedDefinition="Использование с текстильными шлемами MCScap®">Использование с текстильными шлемами [%=ModuleAndDevicesNames._mainMCScap%]</Variable>
+    <Variable Name="parameter Use with siliconetube caps" Comment="" EvaluatedDefinition="Использование со&#160;шлемами из&#160;трубок">Использование со&#160;шлемами из&#160;трубок</Variable>
+    <Variable Name="value фиксация в отверстиях шлема" Comment="" EvaluatedDefinition="да, фиксация напрямую в отверстиях шлема">да, фиксация напрямую в отверстиях шлема</Variable>
+    <Variable Name="parameter Схема колец" Comment="" EvaluatedDefinition="Схема размещения колец">Схема размещения колец</Variable>
+    <Variable Name="value color-cap" Comment="" EvaluatedDefinition="цветной, в соответствии с размером шлема">цветной, в соответствии с размером шлема</Variable>
+    <Variable Name="value black-cap" Comment="" EvaluatedDefinition="чёрный">чёрный</Variable>
+    <Variable Name="value black-or-color" Comment="" EvaluatedDefinition="чёрный&#160;/&#160;цветной&#160;(опционально)">чёрный&#160;/&#160;цветной&#160;(опционально)</Variable>
+    <Variable Name="parameter Electrodecap weight" Comment="" EvaluatedDefinition="Масса электродного шлема">Масса электродного шлема</Variable>
+</CatapultVariableSet>

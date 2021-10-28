@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Ready Specifications.fltoc"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="x-fltoc"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="Ready Specifications.fltoc.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">9</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Catalog Title</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"
+            comment="Title">Catalog Title</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Catalog Title</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>_1-electrode system</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">_1-electrode system</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">_1-electrode system</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>_2-electrodes</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">_2-electrodes</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">_2-electrodes</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>_3-textile cap</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">_3-textile cap</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">_3-textile cap</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>_5-adapters</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">_5-adapters</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">_5-adapters</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>_4-accessories</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">_4-accessories</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">_4-accessories</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>_6-gel and spray</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">_6-gel and spray</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">_6-gel and spray</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>_10_NeoRec.fltoc</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">_10_NeoRec.fltoc</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">_10_NeoRec.fltoc</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>11_TES</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">11_TES</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">11_TES</mrk></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterStylesheet="/Content/Resources/Stylesheets/DatasheetA4.css" MasterPageLayout="/Content/Resources/PageLayouts/PassportA4-withoutIntendedFor.flpgl" MasterStylesheetOverride="false" MasterToc="/Project/TOCs/datasheets/Gel and accessories/033-0-326.fltoc" ConditionTagExpression="include[market.EU or siteLink.mcscap_com] exclude[Default.NoOutput or documents.InternalDocument or documents.ModDatasheet or market.All or siteLink.All] " InjectEmptyPages="true" OutputFile="[%=ProductVariables.ProductCode%] [%=DevicesVariables.DeviceName%] [%=DocsVariables.DocName%]">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="false" GenerateIndexProxy="false" GenerateGlossaryProxy="false" />
+    <Glossaries>
+    </Glossaries>
+    <Variables>
+        <Variable Name="DocsVariables/DocName">Техническое описание</Variable>
+        <Variable Name="DocsVariables/DocCode"> MCS.[%=ProductVariables.ProductCode%]-[%=DocsVariables.DocSubCode%]-[%=DocsVariables.Market%]-[%=DocsVariables.Language%] </Variable>
+        <Variable Name="DocsVariables/DocSubCode">DS</Variable>
+        <Variable Name="DocsVariables/Market">EU</Variable>
+        <Variable Name="DocsVariables/DocRevision">2.0</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.Removable-markers_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.Removable-markers_fullname%]</Variable>
+    </Variables>
+    <PDF ShowUsedBookmarks="false" PageMode="UseNone" />
+</CatapultTarget>

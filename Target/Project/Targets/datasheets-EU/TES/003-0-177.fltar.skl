@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterStylesheet="/Content/Resources/Stylesheets/DatasheetA4.css" MasterPageLayout="/Content/Resources/PageLayouts/PassportA4.flpgl" MasterStylesheetOverride="false" MasterToc="/Project/TOCs/datasheets/TES/003-0-177.fltoc" ConditionTagExpression="include[market.RU or siteLink.mcscap_ru]exclude[Default.NoOutput or documents.InternalDocument or documents.ModDatasheet or market.All or siteLink.All]" InjectEmptyPages="true" OutputFile="[%=ProductVariables.ProductCode%] MCScap-CS22 electrode, 2 mm DIY Jack [%=DocsVariables.DocName%]">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="false" GenerateIndexProxy="false" GenerateGlossaryProxy="false" />
+    <Glossaries>
+    </Glossaries>
+    <Variables>
+        <Variable Name="DocsVariables/DocName">砻קยด1ตว融</Variable>
+        <Variable Name="DocsVariables/DocCode">砻קยด2ตว融</Variable> <Variable Name="DocsVariables/DocSubCode">砻קยด3ตว融</Variable> <Variable Name="DocsVariables/Market">砻קยด4ตว融</Variable><Variable Name="DocsVariables/DocRevision">砻קยด5ตว融</Variable><Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.MCScap-CS22-DIYJack_code%]</Variable><Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.MCScap-CS22-DIYJack_fullname%]</Variable><Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceName%]</Variable><Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable><Variable Name="ProductVariables/ProductName">[%=DevicesVariables.DeviceName%]</Variable></Variables>
+    <PDF PageMode="UseNone" />
+</CatapultTarget>

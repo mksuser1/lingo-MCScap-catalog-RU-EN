@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <table class="datasheet">
+            <col class="col_param" />
+            <col class="col_value" />
+            <tr>
+                <td>Удельная электропроводность геля</td>
+                <td>3,0 - 4,0 См/м</td>
+            </tr>
+            <tr>
+                <td>Вязкость геля</td>
+                <td>9,0-11,0 Па × c (скорость сдвига 16,8±0,3 с<sup>-1</sup>);<br />17,0-21,0 Па × с (скорость сдвига 7,5±0,05 с<sup>-1</sup>)</td>
+            </tr>
+            <tr>
+                <td>pH геля</td>
+                <td>6,0 - 7,0</td>
+            </tr>
+        </table>
+    </body>
+</html>

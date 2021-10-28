@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="ТЭС электроды и&#160;аксессуары" Link="/Content/Титульные листы/title - tES.htm" BreakType="chapter" PageType="title" StartSection="false" PageNumberReset="continue">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/TES/033-0-107.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/TES/033-0-119.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/TES/033-0-338.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+    </TocEntry>
+</CatapultToc>

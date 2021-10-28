@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/datasheets/Electrode caps/033-2-001.fltoc" DisableAutoSync="true" MasterStylesheet="/Content/Resources/Stylesheets/DatasheetA4.css" MasterPageLayout="/Content/Resources/PageLayouts/PassportA4-withoutIntendedFor.flpgl" GetLatestBeforeCompile="false" InjectEmptyPages="true" ConditionTagExpression="include[Default.PrintOnly or market.EU or siteLink.mks_ru] exclude[Default.NoOutput or Default.ScreenOnly or documents.InternalDocument or market.All or siteLink.All] " OutputFile="[%=ProductVariables.ProductCode%] [%=DevicesVariables.DeviceName%] [%=DocsVariables.DocName%]">
+    <Variables>
+        <Variable Name="DocsVariables/DocName">Техническое описание</Variable>
+        <Variable Name="DocsVariables/DocRevision"> 0.1 </Variable>
+        <Variable Name="DocsVariables/DocCode"> MCS.[%=ProductVariables.ProductCode%]-[%=DocsVariables.DocSubCode%]-[%=DocsVariables.Market%]-[%=DocsVariables.Language%] </Variable>
+        <Variable Name="DocsVariables/DocSubCode">DS</Variable>
+        <Variable Name="DocsVariables/Market">EU</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.Sleep_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.Sleep_name%]</Variable>
+    </Variables>
+    <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />
+</CatapultTarget>

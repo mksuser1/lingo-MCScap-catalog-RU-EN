@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="[%=System.LinkedTitle%]" BreakType="pageLayout" StartSection="false" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" ComputeToc="false" ReplaceMergeNode="false" PageType="first" PageNumberReset="continue" Link="/Content/datasheets/Textile caps/033-0-234.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/MCScap size table.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+</CatapultToc>

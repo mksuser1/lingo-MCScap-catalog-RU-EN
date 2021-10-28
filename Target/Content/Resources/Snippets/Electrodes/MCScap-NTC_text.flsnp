@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <p>
+            <MadCap:variable name="ModuleAndDevicesNames._electrode_firstname" /> <MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /> – это чашечный с юбкой Ag/AgCl sintered  электрод для регистрации ЭЭГ.  Форма электрода в виде чаши с широкой юбкой позволяет добиться плотного прилегания к голове пациента и обеспечивает комфорт на протяжении всего исследования, а также не позволяет электродному гелю вытекать за пределы корпуса электрода. <MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" /> <MadCap:snippetText src="text-hole-for-conductive.flsnp" /></p>
+    </body>
+</html>

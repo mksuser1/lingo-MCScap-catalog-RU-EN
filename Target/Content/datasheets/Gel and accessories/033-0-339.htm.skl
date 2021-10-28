@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:onlyLocalStylesheets="False" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1 class="deviceName">
+            <MadCap:variable name="ModuleAndDevicesNames.MCScap-plasters_name" />
+        </h1>
+        <p class="shortDescription">砻קยด1ตว融</p>
+        <section class="withimg">
+            <table>
+                <col class="width50" />
+                <col class="width50" />
+                <tr>
+                    <td>
+                        <table class="refs_table">
+                            <col class="width50" />
+                            <col />
+                            <tr>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.REFname" />
+                                </th>
+                                <th>砻קยด2ตว融</th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-plasters_code" />
+                                </td>
+                                <td>砻קยด3ตว融</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-plasters100_code" />
+                                </td>
+                                <td>砻קยด4ตว融</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-339/MCSplasters.jpg" style="width:76mm; float: right;" />
+                    </td>
+                </tr>
+            </table>
+        </section>
+        <section class="target-section" MadCap:conditions="Default.NoOutput">
+            <h2>砻קยด5ตว融</h2>
+            <p>
+            </p>
+        </section>
+        <section class="set-section">
+            <h2>砻קยด6ตว融</h2>
+            <ul>
+                <li>
+                    <p>
+                        <MadCap:variable name="ModuleAndDevicesNames.MCScap-plasters_name" />.</p>
+                </li>
+            </ul>
+        </section>
+        <section class="fullDescription">
+            <h2>砻קยด7ตว融</h2>
+            <p>砻קยด8ตว融</p>
+        </section>
+        <section class="technicalData-section">
+            <h2>砻קยด9ตว融</h2>
+            <table class="datasheet">
+                <col class="col_param" />
+                <col class="col_value" />
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал фиксатора" />
+                    </td>
+                    <td>砻קยด10ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Габариты изделия" />
+                    </td>
+                    <td>砻קยด11ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Диаметр отверстия в электроде" />
+                    </td>
+                    <td>砻קยด12ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Количество в упаковке" />
+                    </td>
+                    <td>
+                        <p>砻קยด13ตว融</p>
+                        <p>砻קยด14ตว融</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
+                    </td>
+                    <td>砻קยด15ตว融</td>
+                </tr>
+                <tr MadCap:conditions="Default.PrintOnly">
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
+                    </td>
+                    <td>
+                        <p>砻קยด16ตว融</p>
+                        <p>砻קยด17ตว融</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Default.NoOutput">
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.parameter Габариты упаковки" />
+                    </td>
+                    <td> </td>
+                </tr>
+            </table>
+        </section>
+        <section class="using-section">
+            <h2>砻קยด18ตว融</h2>
+            <table class="table_of_figures">
+                <col style="width: 33%" />
+                <col style="width: 33%" />
+                <col style="width: 34%" />
+                <tr>
+                    <td>
+                        <div class="figure">
+                            <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-339/step1.jpg" class="" style="width:30mm;" />
+                            <p>砻קยด19ตว融</p>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="figure">
+                            <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-339/step2.jpg" class="" style="width:30mm;" />
+                            <p>砻קยด20ตว融</p>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="figure">
+                            <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-339/step3.jpg" class="" style="width:30mm;" />
+                            <p>砻קยด21ตว融</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </section>
+    </body>
+</html>

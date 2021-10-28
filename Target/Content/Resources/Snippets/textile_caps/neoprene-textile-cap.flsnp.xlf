@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="neoprene-textile-cap.flsnp"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="x-flsnp"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="neoprene-textile-cap.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">5</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-body"
+        phase-name="pretrans"><source>Текстильный шлем изготовлен из эластичного материала,  сохраняющего форму и размер. Шлем обеспечивает точное положение электродов на голове без дополнительных измерений и регулировки. Большие отверстия предусмотрены для вентиляции и обеспечения доступа к электродам и коже пациента.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Текстильный шлем изготовлен из эластичного материала, сохраняющего форму и размер.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Шлем обеспечивает точное положение электродов на голове без дополнительных измерений и регулировки.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Большие отверстия предусмотрены для вентиляции и обеспечения доступа к электродам и коже пациента.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Textile cap is made of elastic material, preserving the shape and size.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="98">The cap provides the exact position of the electrodes on the head without additional measurements and adjustments.</mrk><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="98">Large holes are provided for ventilation and access to the electrodes and patient’s skin.</mrk></target></trans-unit></body>
+  </file>
+</xliff>
