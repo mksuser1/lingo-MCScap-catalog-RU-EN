@@ -102,7 +102,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">electrode caps</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">electrode cap</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Адаптер электродный</source><seg-source><mrk
