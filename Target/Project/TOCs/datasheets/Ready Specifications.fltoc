@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc Version="1">
     <TocEntry Title="Catalog Title" Link="/Project/TOCs/datasheets/Catalog Title.fltoc" BreakType="chapter" StartSection="false" PageNumberReset="continue" AutoEndOnLeftPage="enabled" PageType="empty" ComputeToc="false" ReplaceMergeNode="false" conditions="Default.PrintOnly" />
-    <TocEntry Title="_1-electrode system" Link="/Project/TOCs/datasheets/_1-electrode system.fltoc" ChapterNumberReset="reset" ChapterNumber="1" StartSection="false" SectionNumberReset="continue" VolumeNumberReset="same" BreakType="chapter" PageNumberReset="continue">
+    <TocEntry Title="_1-electrode system" Link="/Project/TOCs/datasheets/_1-electrode system.fltoc" ChapterNumberReset="reset" ChapterNumber="1" StartSection="false" SectionNumberReset="continue" VolumeNumberReset="same" BreakType="none" PageNumberReset="continue" ReplaceMergeNode="true">
     </TocEntry>
-    <TocEntry Title="_2-electrodes" Link="/Project/TOCs/datasheets/_2-electrodes.fltoc" StartSection="false">
+    <TocEntry Title="_2-electrodes" Link="/Project/TOCs/datasheets/_2-electrodes.fltoc" StartSection="false" ReplaceMergeNode="true">
     </TocEntry>
-    <TocEntry Title="_3-textile cap" Link="/Project/TOCs/datasheets/_3-textile cap.fltoc" StartSection="false" />
-    <TocEntry Title="_5-adapters" Link="/Project/TOCs/datasheets/_5-adapters.fltoc" BreakType="none" StartSection="false" PageNumberReset="continue">
+    <TocEntry Title="_3-textile cap" Link="/Project/TOCs/datasheets/_3-textile cap.fltoc" StartSection="false" ReplaceMergeNode="true" />
+    <TocEntry Title="_5-adapters" Link="/Project/TOCs/datasheets/_5-adapters.fltoc" BreakType="none" StartSection="false" PageNumberReset="continue" ReplaceMergeNode="true">
     </TocEntry>
-    <TocEntry Title="_4-accessories" Link="/Project/TOCs/datasheets/_4-accessories.fltoc">
+    <TocEntry Title="_4-accessories" Link="/Project/TOCs/datasheets/_4-accessories.fltoc" StartSection="false" ReplaceMergeNode="true">
     </TocEntry>
-    <TocEntry Title="_6-gel and spray" Link="/Project/TOCs/datasheets/_6-gel and spray.fltoc" />
-    <TocEntry Title="_10_NeoRec.fltoc" Link="/Project/TOCs/datasheets/_10_NeoRec.fltoc.fltoc" />
-    <TocEntry Title="11_TES" Link="/Project/TOCs/datasheets/_11_TES.fltoc" />
+    <TocEntry Title="_6-gel and spray" Link="/Project/TOCs/datasheets/_6-gel and spray.fltoc" StartSection="false" ReplaceMergeNode="true" />
+    <TocEntry Title="_10_NeoRec.fltoc" Link="/Project/TOCs/datasheets/_10_NeoRec.fltoc.fltoc" StartSection="false" ReplaceMergeNode="true" />
+    <TocEntry Title="11_TES" Link="/Project/TOCs/datasheets/_11_TES.fltoc" StartSection="false" ReplaceMergeNode="true" />
 </CatapultToc>

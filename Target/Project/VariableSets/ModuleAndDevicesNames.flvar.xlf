@@ -52,7 +52,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0"
+            MadCap:matchPercent="101"
             MadCap:diff="New">Repair kit for</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-variable"
@@ -5431,7 +5431,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unigel_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unigel_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGgel_firstname%]</ph></mrk></target><alt-trans
           match-quality="66"
           origin="previous-version"><seg-source><ph
@@ -6964,7 +6964,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.NeoRecCap_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.NeoRecCap_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGcap_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
@@ -7064,7 +7064,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.NeoRecCap-system_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.NeoRecCap-system_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.NeoRecCap-system_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph

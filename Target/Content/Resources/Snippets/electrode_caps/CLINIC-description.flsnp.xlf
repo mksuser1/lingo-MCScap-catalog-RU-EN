@@ -63,11 +63,8 @@
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="72"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Clinic_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is the textile cap with pre-installed Ag/AgCl <ph
-              id="2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-C.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes with <ph
-              id="3">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector.</mrk><mrk
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"

@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <body>
-        <p MadCap:conditions="market.All,market.RU">
+        <span MadCap:conditions="market.All,market.RU">
             <a href="https://mcscap.ru/catalog/eeg-elektrody-mcscap/mcscap-t/" MadCap:conditions="Default.ScreenOnly">
                 <MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" />
-            </a> <MadCap:conditionalText MadCap:conditions="Default.PrintOnly"><MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" /></MadCap:conditionalText></p>
-        <p MadCap:conditions="market.All,market.EU">
+            </a>
+        </span>
+        <span MadCap:conditions="market.All,market.EU">
             <a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-t/" MadCap:conditions="Default.ScreenOnly">
                 <MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" />
-            </a> <MadCap:conditionalText MadCap:conditions="Default.PrintOnly"><MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" /></MadCap:conditionalText></p>
-    </body>
+            </a>
+        </span> <MadCap:conditionalText MadCap:conditions="Default.PrintOnly"><MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" /></MadCap:conditionalText></body>
 </html>

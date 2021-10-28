@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">2</count>
+          unit="segment">1</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -44,62 +44,50 @@
     </header>
     <body><trans-unit
         id="1"
-        restype="x-xml-p"
+        restype="x-xml-body"
         phase-name="pretrans"><source><bpt
-            id="1"
-            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.ru/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>
+            <bpt
+            id="2"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.ru/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly"&gt;</bpt>
                 <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph>
             <ept
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;&lt;/MadCap:conditionalText&gt;</ph></source><seg-source><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:conditions="market.All,market.RU"><bpt
-              id="1"
-              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.ru/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph> <ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;&lt;/MadCap:conditionalText&gt;</ph></mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
-            MadCap:diff="New"><bpt
-              id="1"
-              ctype="link">&lt;a href="https://mcscap.ru/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph><ept
-              id="1">&lt;/a&gt;</ept> <ph
-              id="2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;&lt;/MadCap:conditionalText&gt;</ph></mrk></target></trans-unit><trans-unit
-        id="2"
-        restype="x-xml-p"
-        phase-name="pretrans"><source><bpt
-            id="1"
-            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>
+        <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>
+        <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>
+            <bpt
+            id="4"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly"&gt;</bpt>
                 <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph>
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph>
             <ept
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;&lt;/MadCap:conditionalText&gt;</ph></source><seg-source><mrk
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>
+        <ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> <ph
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;&lt;/MadCap:conditionalText&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:conditions="market.EU,market.All"><bpt
-              id="1"
-              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> <ph
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> <bpt
+              id="2"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.ru/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly"&gt;</bpt> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph> <ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;&lt;/MadCap:conditionalText&gt;</ph></mrk></seg-source><target
-          state="translated"><mrk
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> <bpt
+              id="4"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly"&gt;</bpt> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph> <ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> <ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;&lt;/MadCap:conditionalText&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
-            MadCap:diff="New"><bpt
-              id="1"
-              ctype="link">&lt;a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph><ept
-              id="1">&lt;/a&gt;</ept> <ph
-              id="2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;&lt;/MadCap:conditionalText&gt;</ph></mrk></target></trans-unit></body>
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit></body>
   </file>
 </xliff>
