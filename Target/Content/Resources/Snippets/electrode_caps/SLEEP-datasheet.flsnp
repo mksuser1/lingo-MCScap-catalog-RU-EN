@@ -75,7 +75,7 @@
             </tr>
             <tr MadCap:conditions="documents.GroupDatasheet">
                 <td>
-                    <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Electrodecap weight" />
                 </td>
                 <td>&lt; 250 г</td>
             </tr>

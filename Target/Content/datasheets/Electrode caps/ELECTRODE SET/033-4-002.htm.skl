@@ -163,7 +163,7 @@
                     </td>
                     <td>砻קยด22ตว融</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>

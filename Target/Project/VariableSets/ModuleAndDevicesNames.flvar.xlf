@@ -563,7 +563,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unimax_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGgel_firstname%]</ph></mrk></target><alt-trans
@@ -1718,7 +1718,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-TC_name%]</ph></mrk></target><alt-trans
@@ -5431,7 +5431,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unigel_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unigel_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGgel_firstname%]</ph></mrk></target><alt-trans
           match-quality="66"
           origin="previous-version"><seg-source><ph
