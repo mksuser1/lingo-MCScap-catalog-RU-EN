@@ -2,6 +2,6 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <body>
         <p>
-            <MadCap:variable name="ModuleAndDevicesNames._electrode_firstname" /> <MadCap:variable name="ModuleAndDevicesNames.MCScap-NT_name" /> – это чашечный Ag/AgCl sintered электрод для регистрации ЭЭГ. <MadCap:variable name="ModuleAndDevicesNames.MCScap-NT_name" /> предназначен для проведения исследований, требующих повышенного комфорта пациента в течение длительного времени. <MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" /> <MadCap:snippetText src="text-hole-for-conductive.flsnp" /></p>
+            <MadCap:variable name="ModuleAndDevicesNames.MCScap-NT_name" /> – это чашечный Ag/AgCl sintered электрод для регистрации ЭЭГ. <MadCap:variable name="ModuleAndDevicesNames.MCScap-NT_name" /> предназначен для проведения исследований, требующих повышенного комфорта пациента в течение длительного времени. <MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" /> <MadCap:snippetText src="text-hole-for-conductive.flsnp" /></p>
     </body>
 </html>

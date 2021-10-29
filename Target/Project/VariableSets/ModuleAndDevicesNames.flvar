@@ -146,7 +146,6 @@
     <Variable Name="MCScap-light_name" Comment="" EvaluatedDefinition="MCScap LIGHT">MCScap LIGHT</Variable>
     <Variable Name="MCScap-light_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap LIGHT">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-light_name%]</Variable>
     <Variable Name="Disposable-cover_code" Comment="003-0-296" EvaluatedDefinition="033-0-296">033&#8209;0&#8209;296</Variable>
-    <Variable Name="Disposable-cover_firstname" Comment="" EvaluatedDefinition="Фиксатор защитный одноразовый">Фиксатор защитный одноразовый</Variable>
     <Variable Name="Tubular-cap_code" Comment="003-0-351" EvaluatedDefinition="033-0-501">033&#8209;0&#8209;501</Variable>
     <Variable Name="Tubular-cap_fullname" Comment="" EvaluatedDefinition="Шлем из&#160;трубок регулируемый">Шлем из&#160;трубок регулируемый</Variable>
     <Variable Name="_textile-cap_firstname" Comment="" EvaluatedDefinition="Шлем текстильный">Шлем текстильный</Variable>
@@ -242,7 +241,7 @@
     <Variable Name="Chest-belt_fullname" Comment="" EvaluatedDefinition="Пояс нагрудный&#160;MCScap">[%=ModuleAndDevicesNames.Chest-belt_firstname%]&#160;[%=ModuleAndDevicesNames.Chest-belt_name%]</Variable>
     <Variable Name="Chin-belt_fullname" Comment="" EvaluatedDefinition="Подбородник&#160;MCScap">[%=ModuleAndDevicesNames.Chin-belt_firstname%]&#160;[%=ModuleAndDevicesNames.Chin-belt_name%]</Variable>
     <Variable Name="DB25FM-adapter_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;DB25F&#8209;M">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]&#160;[%=ModuleAndDevicesNames.DB25FM-adapter_name%]</Variable>
-    <Variable Name="Disposable-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный одноразовый Disposable cover">[%=ModuleAndDevicesNames.Disposable-cover_firstname%] [%=ModuleAndDevicesNames.Disposable-cover_name%]</Variable>
+    <Variable Name="Disposable-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный одноразовый Disposable cover">Фиксатор защитный одноразовый [%=ModuleAndDevicesNames.Disposable-cover_name%]</Variable>
     <Variable Name="MCScap-10-5_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;5">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-10-5_name%]</Variable>
     <Variable Name="MCScap-A_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;A">[%=ModuleAndDevicesNames._ear-fixators_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-A_name%]</Variable>
     <Variable Name="MCScap-AT_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;AT">[%=ModuleAndDevicesNames._ear-fixators_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-AT_name%]</Variable>

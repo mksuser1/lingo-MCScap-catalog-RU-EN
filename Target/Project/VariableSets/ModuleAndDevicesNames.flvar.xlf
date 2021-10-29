@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">423</count>
+          unit="segment">422</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -64,7 +64,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
-            MadCap:diff="New">Repair electrode</mrk></target></trans-unit><trans-unit
+            MadCap:diff="New">repair electrode</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Ушные электроды</source><seg-source><mrk
@@ -1443,8 +1443,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></mrk></target><alt-trans
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-electrode_firstname%]</ph> <ph
@@ -1521,8 +1521,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph></mrk></target></trans-unit><trans-unit
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
         id="84"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑117</source><seg-source><mrk
@@ -1564,8 +1564,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph></mrk></target><alt-trans
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-electrode_firstname%]</ph> <ph
@@ -1642,8 +1642,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NTC_name%]</ph></mrk></target><alt-trans
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NTC_name%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-electrode_firstname%]</ph> <ph
@@ -1720,8 +1720,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-TC_name%]</ph></mrk></target><alt-trans
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-TC_name%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-electrode_firstname%]</ph> <ph
@@ -1798,8 +1798,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph></mrk></target><alt-trans
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-electrode_firstname%]</ph> <ph
@@ -2750,7 +2750,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
+            MadCap:matchPercent="100"
             MadCap:diff="ContentChanged">003‑0‑296</mrk></target><alt-trans
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑336</seg-source><target
@@ -2769,17 +2769,6 @@
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
         id="144"
         restype="x-xml-variable"
-        phase-name="pretrans"><source>Фиксатор защитный одноразовый</source><seg-source><mrk
-            mtype="seg"
-            mid="1">Фиксатор защитный одноразовый</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
-            MadCap:diff="New">Disposable cover</mrk></target></trans-unit><trans-unit
-        id="145"
-        restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑501</source><seg-source><mrk
             mtype="seg"
             mid="1">033‑0‑501</mrk></seg-source><target
@@ -2787,7 +2776,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
+            MadCap:matchPercent="100"
             MadCap:diff="ContentChanged">003‑0‑351</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑101</seg-source><target
@@ -2804,7 +2793,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑341</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑017</target></alt-trans></trans-unit><trans-unit
-        id="146"
+        id="145"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Шлем из трубок регулируемый</source><seg-source><mrk
             mtype="seg"
@@ -2815,7 +2804,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="96"
             MadCap:diff="New">Silicone cap standard</mrk></target></trans-unit><trans-unit
-        id="147"
+        id="146"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Шлем текстильный</source><seg-source><mrk
             mtype="seg"
@@ -2826,7 +2815,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">textile cap</mrk></target></trans-unit><trans-unit
-        id="148"
+        id="147"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Шлем текстильный с фиксирующими кольцами</source><seg-source><mrk
             mtype="seg"
@@ -2837,7 +2826,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">textile cap with fixing rings</mrk></target></trans-unit><trans-unit
-        id="149"
+        id="148"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑214</source><seg-source><mrk
             mtype="seg"
@@ -2863,7 +2852,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑104</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑104</target></alt-trans></trans-unit><trans-unit
-        id="150"
+        id="149"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑215</source><seg-source><mrk
             mtype="seg"
@@ -2889,7 +2878,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑122</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑122</target></alt-trans></trans-unit><trans-unit
-        id="151"
+        id="150"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑216</source><seg-source><mrk
             mtype="seg"
@@ -2915,7 +2904,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑016</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑362</target></alt-trans></trans-unit><trans-unit
-        id="152"
+        id="151"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑217</source><seg-source><mrk
             mtype="seg"
@@ -2941,7 +2930,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="153"
+        id="152"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑218</source><seg-source><mrk
             mtype="seg"
@@ -2967,7 +2956,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑122</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑122</target></alt-trans></trans-unit><trans-unit
-        id="154"
+        id="153"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑219</source><seg-source><mrk
             mtype="seg"
@@ -2993,7 +2982,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑122</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑122</target></alt-trans></trans-unit><trans-unit
-        id="155"
+        id="154"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑220</source><seg-source><mrk
             mtype="seg"
@@ -3019,7 +3008,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑340</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑346</target></alt-trans></trans-unit><trans-unit
-        id="156"
+        id="155"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑221</source><seg-source><mrk
             mtype="seg"
@@ -3045,7 +3034,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑341</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑017</target></alt-trans></trans-unit><trans-unit
-        id="157"
+        id="156"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑222</source><seg-source><mrk
             mtype="seg"
@@ -3071,7 +3060,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑327</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑327</target></alt-trans></trans-unit><trans-unit
-        id="158"
+        id="157"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑223</source><seg-source><mrk
             mtype="seg"
@@ -3097,7 +3086,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑326</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑326</target></alt-trans></trans-unit><trans-unit
-        id="159"
+        id="158"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑224</source><seg-source><mrk
             mtype="seg"
@@ -3123,7 +3112,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑326</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑326</target></alt-trans></trans-unit><trans-unit
-        id="160"
+        id="159"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑226</source><seg-source><mrk
             mtype="seg"
@@ -3149,7 +3138,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑320</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑320</target></alt-trans></trans-unit><trans-unit
-        id="161"
+        id="160"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑227</source><seg-source><mrk
             mtype="seg"
@@ -3175,7 +3164,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑326</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑326</target></alt-trans></trans-unit><trans-unit
-        id="162"
+        id="161"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑228</source><seg-source><mrk
             mtype="seg"
@@ -3201,7 +3190,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑122</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑122</target></alt-trans></trans-unit><trans-unit
-        id="163"
+        id="162"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑229</source><seg-source><mrk
             mtype="seg"
@@ -3227,7 +3216,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑339</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑345</target></alt-trans></trans-unit><trans-unit
-        id="164"
+        id="163"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑230</source><seg-source><mrk
             mtype="seg"
@@ -3253,7 +3242,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑326</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑326</target></alt-trans></trans-unit><trans-unit
-        id="165"
+        id="164"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑231</source><seg-source><mrk
             mtype="seg"
@@ -3279,7 +3268,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑327</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑327</target></alt-trans></trans-unit><trans-unit
-        id="166"
+        id="165"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑232</source><seg-source><mrk
             mtype="seg"
@@ -3305,7 +3294,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑326</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑326</target></alt-trans></trans-unit><trans-unit
-        id="167"
+        id="166"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑233</source><seg-source><mrk
             mtype="seg"
@@ -3331,7 +3320,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑343</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑348</target></alt-trans></trans-unit><trans-unit
-        id="168"
+        id="167"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑234</source><seg-source><mrk
             mtype="seg"
@@ -3357,7 +3346,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑336</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑347</target></alt-trans></trans-unit><trans-unit
-        id="169"
+        id="168"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑235</source><seg-source><mrk
             mtype="seg"
@@ -3383,7 +3372,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑327</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑327</target></alt-trans></trans-unit><trans-unit
-        id="170"
+        id="169"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑236</source><seg-source><mrk
             mtype="seg"
@@ -3409,7 +3398,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑327</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑327</target></alt-trans></trans-unit><trans-unit
-        id="171"
+        id="170"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑237</source><seg-source><mrk
             mtype="seg"
@@ -3435,7 +3424,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑326</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑326</target></alt-trans></trans-unit><trans-unit
-        id="172"
+        id="171"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑238</source><seg-source><mrk
             mtype="seg"
@@ -3461,7 +3450,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑327</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑327</target></alt-trans></trans-unit><trans-unit
-        id="173"
+        id="172"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑239</source><seg-source><mrk
             mtype="seg"
@@ -3487,7 +3476,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑326</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑326</target></alt-trans></trans-unit><trans-unit
-        id="174"
+        id="173"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑240</source><seg-source><mrk
             mtype="seg"
@@ -3513,7 +3502,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑342</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑018</target></alt-trans></trans-unit><trans-unit
-        id="175"
+        id="174"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑241</source><seg-source><mrk
             mtype="seg"
@@ -3539,7 +3528,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑342</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑018</target></alt-trans></trans-unit><trans-unit
-        id="176"
+        id="175"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑242</source><seg-source><mrk
             mtype="seg"
@@ -3565,7 +3554,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑102</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑102</target></alt-trans></trans-unit><trans-unit
-        id="177"
+        id="176"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑243</source><seg-source><mrk
             mtype="seg"
@@ -3591,7 +3580,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑103</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑103</target></alt-trans></trans-unit><trans-unit
-        id="178"
+        id="177"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑244</source><seg-source><mrk
             mtype="seg"
@@ -3617,7 +3606,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑340</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑346</target></alt-trans></trans-unit><trans-unit
-        id="179"
+        id="178"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑245</source><seg-source><mrk
             mtype="seg"
@@ -3643,7 +3632,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑105</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑105</target></alt-trans></trans-unit><trans-unit
-        id="180"
+        id="179"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑247</source><seg-source><mrk
             mtype="seg"
@@ -3669,7 +3658,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑342</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑018</target></alt-trans></trans-unit><trans-unit
-        id="181"
+        id="180"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑248</source><seg-source><mrk
             mtype="seg"
@@ -3695,7 +3684,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑108</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑108</target></alt-trans></trans-unit><trans-unit
-        id="182"
+        id="181"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑249</source><seg-source><mrk
             mtype="seg"
@@ -3721,7 +3710,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑340</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑346</target></alt-trans></trans-unit><trans-unit
-        id="183"
+        id="182"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑250</source><seg-source><mrk
             mtype="seg"
@@ -3747,7 +3736,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑014</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
-        id="184"
+        id="183"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑251</source><seg-source><mrk
             mtype="seg"
@@ -3773,7 +3762,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑111</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑111</target></alt-trans></trans-unit><trans-unit
-        id="185"
+        id="184"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑252</source><seg-source><mrk
             mtype="seg"
@@ -3799,7 +3788,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑125</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑125</target></alt-trans></trans-unit><trans-unit
-        id="186"
+        id="185"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑253</source><seg-source><mrk
             mtype="seg"
@@ -3825,7 +3814,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑323</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑323</target></alt-trans></trans-unit><trans-unit
-        id="187"
+        id="186"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑254</source><seg-source><mrk
             mtype="seg"
@@ -3851,7 +3840,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑114</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑114</target></alt-trans></trans-unit><trans-unit
-        id="188"
+        id="187"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑256</source><seg-source><mrk
             mtype="seg"
@@ -3877,7 +3866,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑014</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
-        id="189"
+        id="188"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑257</source><seg-source><mrk
             mtype="seg"
@@ -3903,7 +3892,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑317</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑317</target></alt-trans></trans-unit><trans-unit
-        id="190"
+        id="189"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑258</source><seg-source><mrk
             mtype="seg"
@@ -3929,7 +3918,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="191"
+        id="190"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑259</source><seg-source><mrk
             mtype="seg"
@@ -3955,7 +3944,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="192"
+        id="191"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑260</source><seg-source><mrk
             mtype="seg"
@@ -3981,7 +3970,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑014</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
-        id="193"
+        id="192"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑261</source><seg-source><mrk
             mtype="seg"
@@ -4007,7 +3996,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑116</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑116</target></alt-trans></trans-unit><trans-unit
-        id="194"
+        id="193"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑262</source><seg-source><mrk
             mtype="seg"
@@ -4033,7 +4022,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑112</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑112</target></alt-trans></trans-unit><trans-unit
-        id="195"
+        id="194"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑263</source><seg-source><mrk
             mtype="seg"
@@ -4059,7 +4048,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑123</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑123</target></alt-trans></trans-unit><trans-unit
-        id="196"
+        id="195"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑265</source><seg-source><mrk
             mtype="seg"
@@ -4085,7 +4074,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="197"
+        id="196"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑267</source><seg-source><mrk
             mtype="seg"
@@ -4111,7 +4100,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑317</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑317</target></alt-trans></trans-unit><trans-unit
-        id="198"
+        id="197"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑268</source><seg-source><mrk
             mtype="seg"
@@ -4137,7 +4126,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="199"
+        id="198"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑270</source><seg-source><mrk
             mtype="seg"
@@ -4163,7 +4152,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="200"
+        id="199"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑271</source><seg-source><mrk
             mtype="seg"
@@ -4189,7 +4178,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑117</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑117</target></alt-trans></trans-unit><trans-unit
-        id="201"
+        id="200"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑273</source><seg-source><mrk
             mtype="seg"
@@ -4215,7 +4204,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑123</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑123</target></alt-trans></trans-unit><trans-unit
-        id="202"
+        id="201"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑274</source><seg-source><mrk
             mtype="seg"
@@ -4241,7 +4230,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑114</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑114</target></alt-trans></trans-unit><trans-unit
-        id="203"
+        id="202"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑275</source><seg-source><mrk
             mtype="seg"
@@ -4267,7 +4256,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="204"
+        id="203"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑276</source><seg-source><mrk
             mtype="seg"
@@ -4293,7 +4282,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑014</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
-        id="205"
+        id="204"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑277</source><seg-source><mrk
             mtype="seg"
@@ -4319,7 +4308,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑317</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑317</target></alt-trans></trans-unit><trans-unit
-        id="206"
+        id="205"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑278</source><seg-source><mrk
             mtype="seg"
@@ -4345,7 +4334,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="207"
+        id="206"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑279</source><seg-source><mrk
             mtype="seg"
@@ -4371,7 +4360,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="208"
+        id="207"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑280</source><seg-source><mrk
             mtype="seg"
@@ -4397,7 +4386,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑014</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
-        id="209"
+        id="208"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑281</source><seg-source><mrk
             mtype="seg"
@@ -4423,7 +4412,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑118</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑118</target></alt-trans></trans-unit><trans-unit
-        id="210"
+        id="209"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑282</source><seg-source><mrk
             mtype="seg"
@@ -4449,7 +4438,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑322</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑322</target></alt-trans></trans-unit><trans-unit
-        id="211"
+        id="210"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑283</source><seg-source><mrk
             mtype="seg"
@@ -4475,7 +4464,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑323</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑323</target></alt-trans></trans-unit><trans-unit
-        id="212"
+        id="211"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑285</source><seg-source><mrk
             mtype="seg"
@@ -4501,7 +4490,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="213"
+        id="212"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑286</source><seg-source><mrk
             mtype="seg"
@@ -4527,7 +4516,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑014</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
-        id="214"
+        id="213"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑287</source><seg-source><mrk
             mtype="seg"
@@ -4553,7 +4542,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑317</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑317</target></alt-trans></trans-unit><trans-unit
-        id="215"
+        id="214"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑288</source><seg-source><mrk
             mtype="seg"
@@ -4579,7 +4568,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="216"
+        id="215"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑289</source><seg-source><mrk
             mtype="seg"
@@ -4605,7 +4594,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="217"
+        id="216"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑290</source><seg-source><mrk
             mtype="seg"
@@ -4631,7 +4620,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑014</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
-        id="218"
+        id="217"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑291</source><seg-source><mrk
             mtype="seg"
@@ -4657,7 +4646,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑319</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑319</target></alt-trans></trans-unit><trans-unit
-        id="219"
+        id="218"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑292</source><seg-source><mrk
             mtype="seg"
@@ -4683,7 +4672,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑322</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑322</target></alt-trans></trans-unit><trans-unit
-        id="220"
+        id="219"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑293</source><seg-source><mrk
             mtype="seg"
@@ -4709,7 +4698,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑123</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑123</target></alt-trans></trans-unit><trans-unit
-        id="221"
+        id="220"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑294</source><seg-source><mrk
             mtype="seg"
@@ -4735,7 +4724,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑114</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑114</target></alt-trans></trans-unit><trans-unit
-        id="222"
+        id="221"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑295</source><seg-source><mrk
             mtype="seg"
@@ -4761,7 +4750,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="223"
+        id="222"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑297</source><seg-source><mrk
             mtype="seg"
@@ -4787,7 +4776,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑317</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑317</target></alt-trans></trans-unit><trans-unit
-        id="224"
+        id="223"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑298</source><seg-source><mrk
             mtype="seg"
@@ -4813,7 +4802,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
-        id="225"
+        id="224"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑502</source><seg-source><mrk
             mtype="seg"
@@ -4839,7 +4828,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑101</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑101</target></alt-trans></trans-unit><trans-unit
-        id="226"
+        id="225"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑503</source><seg-source><mrk
             mtype="seg"
@@ -4865,7 +4854,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑101</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑101</target></alt-trans></trans-unit><trans-unit
-        id="227"
+        id="226"
         restype="x-xml-variable"
         phase-name="pretrans"><source>MCScap-CS22SS</source><seg-source><mrk
             mtype="seg"
@@ -4876,7 +4865,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">MCScap‑CS22SS</mrk></target></trans-unit><trans-unit
-        id="228"
+        id="227"
         restype="x-xml-variable"
         phase-name="pretrans"><source>MCScap-CS22</source><seg-source><mrk
             mtype="seg"
@@ -4887,7 +4876,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">MCScap‑CS22</mrk></target></trans-unit><trans-unit
-        id="229"
+        id="228"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑506</source><seg-source><mrk
             mtype="seg"
@@ -4913,7 +4902,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑101</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑101</target></alt-trans></trans-unit><trans-unit
-        id="230"
+        id="229"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑7‑002</source><seg-source><mrk
             mtype="seg"
@@ -4939,7 +4928,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑003</target></alt-trans></trans-unit><trans-unit
-        id="231"
+        id="230"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Унигель</source><seg-source><mrk
             mtype="seg"
@@ -4950,7 +4939,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Unigel</mrk></target></trans-unit><trans-unit
-        id="232"
+        id="231"
         restype="x-xml-variable"
         phase-name="pretrans"><source>ELECTRODE SET</source><seg-source><mrk
             mtype="seg"
@@ -4961,7 +4950,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">ELECTRODE SET</mrk></target></trans-unit><trans-unit
-        id="233"
+        id="232"
         restype="x-xml-variable"
         phase-name="pretrans"><source>MCScap®</source><seg-source><mrk
             mtype="seg"
@@ -4972,7 +4961,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">MCScap®</mrk></target></trans-unit><trans-unit
-        id="234"
+        id="233"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Disposable cover</source><seg-source><mrk
             mtype="seg"
@@ -4983,7 +4972,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">Disposable cover</mrk></target></trans-unit><trans-unit
-        id="235"
+        id="234"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ExtendedLead_firstname%]</ph> <ph
@@ -5000,7 +4989,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.DB25FM-extension_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ExtendedLead_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="236"
+        id="235"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Chest-belt_firstname%]</ph> <ph
@@ -5017,7 +5006,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Chest-belt_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Chest-belt_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="237"
+        id="236"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Chin-belt_firstname%]</ph> <ph
@@ -5034,7 +5023,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Chin-belt_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Chin-belt_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="238"
+        id="237"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph> <ph
@@ -5051,44 +5040,29 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.DB25FM-adapter_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="239"
+        id="238"
         restype="x-xml-variable"
-        phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_firstname%]</ph> <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_name%]</ph></source><seg-source><mrk
+        phase-name="pretrans"><source>Фиксатор защитный одноразовый <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_name%]</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_name%]</ph></mrk></seg-source><target
+            mid="1">Фиксатор защитный одноразовый <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_name%]</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
+            MadCap:matchPercent="84"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_name%]</ph></mrk></target><alt-trans
-          match-quality="75"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph>  <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_name%]</ph></mrk></target><alt-trans
+          match-quality="93"
+          origin="previous-version"><seg-source>Фиксатор защитный одноразовый</seg-source><target
+            MadCap:segmentStatus="Untranslated">Disposable cover</target></alt-trans><alt-trans
+          match-quality="84"
+          origin="previous-version"><seg-source>Фиксатор защитный многоразовый <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-cover_name%]</ph></seg-source><target
             MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans><alt-trans
-          match-quality="75"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph>  <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph></seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph></target></alt-trans><alt-trans
-          match-quality="75"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph>  <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NTC_name%]</ph></seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NTC_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="240"
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-cover_name%]</ph> reusable protective cover</target></alt-trans></trans-unit><trans-unit
+        id="239"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
@@ -5105,7 +5079,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-10-5_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="241"
+        id="240"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-fixators_firstname%]</ph> <ph
@@ -5122,7 +5096,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-A_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-fixators_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="242"
+        id="241"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-fixators_firstname%]</ph> <ph
@@ -5139,7 +5113,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-AT_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-fixators_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="243"
+        id="242"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5156,7 +5130,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="244"
+        id="243"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5173,7 +5147,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-CS22_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="245"
+        id="244"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5190,7 +5164,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-CS22SS_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="246"
+        id="245"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5207,7 +5181,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="247"
+        id="246"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Фиксатор защитный многоразовый <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-cover_name%]</ph></source><seg-source><mrk
@@ -5221,7 +5195,7 @@
             MadCap:matchPercent="0"
             MadCap:diff="New"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-cover_name%]</ph> reusable protective cover</mrk></target></trans-unit><trans-unit
-        id="248"
+        id="247"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Манекен</source><seg-source><mrk
             mtype="seg"
@@ -5231,8 +5205,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
-            MadCap:diff="New">Mannequin</mrk></target></trans-unit><trans-unit
-        id="249"
+            MadCap:diff="New">mannequin</mrk></target></trans-unit><trans-unit
+        id="248"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._mannequin_name%]</ph> <ph
@@ -5249,7 +5223,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-mannequin_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._mannequin_name%]</ph></mrk></target></trans-unit><trans-unit
-        id="250"
+        id="249"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5266,7 +5240,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="251"
+        id="250"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5283,7 +5257,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NTC_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="252"
+        id="251"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5300,7 +5274,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NTH_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="253"
+        id="252"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5317,7 +5291,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-StNT_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="254"
+        id="253"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5334,7 +5308,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-StTC_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="255"
+        id="254"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5351,7 +5325,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="256"
+        id="255"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
@@ -5368,7 +5342,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-TC_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="257"
+        id="256"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Пластырь <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-plasters_name%]</ph></source><seg-source><mrk
@@ -5382,7 +5356,7 @@
             MadCap:matchPercent="101"
             MadCap:diff="New"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-plasters_name%]</ph></mrk></target></trans-unit><trans-unit
-        id="258"
+        id="257"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph> <ph
@@ -5399,7 +5373,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.TP2DB25_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="259"
+        id="258"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph> <ph
@@ -5416,7 +5390,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.TP2DB25F_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="260"
+        id="259"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGgel_firstname%]</ph> <ph
@@ -5468,7 +5442,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="261"
+        id="260"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph> <ph
@@ -5485,7 +5459,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.NVX2CAP_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="262"
+        id="261"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph> <ph
@@ -5502,7 +5476,7 @@
             MadCap:diff="New"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.NVX2CAP24_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]</ph></mrk></target></trans-unit><trans-unit
-        id="263"
+        id="262"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑301</source><seg-source><mrk
             mtype="seg"
@@ -5528,7 +5502,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑1‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑1‑057</target></alt-trans></trans-unit><trans-unit
-        id="264"
+        id="263"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Фиксирующее кольцо MCScap</source><seg-source><mrk
             mtype="seg"
@@ -5539,7 +5513,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Fixing ring</mrk></target></trans-unit><trans-unit
-        id="265"
+        id="264"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑301y10</source><seg-source><mrk
             mtype="seg"
@@ -5549,7 +5523,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
-            MadCap:diff="ContentChanged">003-0-329</mrk></target><alt-trans
+            MadCap:diff="ContentChanged">003‑0‑329</mrk></target><alt-trans
           match-quality="75"
           origin="previous-version"><seg-source>033‑0‑110</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑110</target></alt-trans><alt-trans
@@ -5565,7 +5539,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑341</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑017</target></alt-trans></trans-unit><trans-unit
-        id="266"
+        id="265"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑301b10</source><seg-source><mrk
             mtype="seg"
@@ -5591,7 +5565,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑341</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑017</target></alt-trans></trans-unit><trans-unit
-        id="267"
+        id="266"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑302</source><seg-source><mrk
             mtype="seg"
@@ -5617,7 +5591,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑502</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑352</target></alt-trans></trans-unit><trans-unit
-        id="268"
+        id="267"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Ярлыки для колец, система 10-20</source><seg-source><mrk
             mtype="seg"
@@ -5628,7 +5602,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Labels for fixing rings 10-20</mrk></target></trans-unit><trans-unit
-        id="269"
+        id="268"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑303</source><seg-source><mrk
             mtype="seg"
@@ -5654,7 +5628,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑003</target></alt-trans></trans-unit><trans-unit
-        id="270"
+        id="269"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Ярлыки для колец, система 10‑10</source><seg-source><mrk
             mtype="seg"
@@ -5674,7 +5648,7 @@
           match-quality="72"
           origin="previous-version"><seg-source>Ярлыки для электродов, система 10-20</seg-source><target
             MadCap:segmentStatus="Untranslated">Labels for electrodes 10-20</target></alt-trans></trans-unit><trans-unit
-        id="271"
+        id="270"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑304</source><seg-source><mrk
             mtype="seg"
@@ -5700,7 +5674,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑014</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑014</target></alt-trans></trans-unit><trans-unit
-        id="272"
+        id="271"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Ярлыки для электродов, система 10-20</source><seg-source><mrk
             mtype="seg"
@@ -5714,7 +5688,7 @@
           match-quality="69"
           origin="previous-version"><seg-source>Ярлыки для электродов съемные</seg-source><target
             MadCap:segmentStatus="Untranslated">Removable markers for EEG electrodes</target></alt-trans></trans-unit><trans-unit
-        id="273"
+        id="272"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑305</source><seg-source><mrk
             mtype="seg"
@@ -5740,7 +5714,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑343</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑348</target></alt-trans></trans-unit><trans-unit
-        id="274"
+        id="273"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Ярлыки для электродов, система 10-10</source><seg-source><mrk
             mtype="seg"
@@ -5754,7 +5728,7 @@
           match-quality="69"
           origin="previous-version"><seg-source>Ярлыки для электродов съемные</seg-source><target
             MadCap:segmentStatus="Untranslated">Removable markers for EEG electrodes</target></alt-trans></trans-unit><trans-unit
-        id="275"
+        id="274"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑306</source><seg-source><mrk
             mtype="seg"
@@ -5780,7 +5754,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑006</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑006</target></alt-trans></trans-unit><trans-unit
-        id="276"
+        id="275"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Лента измерительная SECA</source><seg-source><mrk
             mtype="seg"
@@ -5791,7 +5765,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Measuring tape MCScap</mrk></target></trans-unit><trans-unit
-        id="277"
+        id="276"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑307</source><seg-source><mrk
             mtype="seg"
@@ -5817,7 +5791,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑336</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑347</target></alt-trans></trans-unit><trans-unit
-        id="278"
+        id="277"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Лента измерительная сантиметровая, стандартная</source><seg-source><mrk
             mtype="seg"
@@ -5828,7 +5802,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Measuring tape standard</mrk></target></trans-unit><trans-unit
-        id="279"
+        id="278"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑334</source><seg-source><mrk
             mtype="seg"
@@ -5854,7 +5828,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑324</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑324</target></alt-trans></trans-unit><trans-unit
-        id="280"
+        id="279"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Лента мерная одноразовая MCScap</source><seg-source><mrk
             mtype="seg"
@@ -5865,7 +5839,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">Disposable measuring tape</mrk></target></trans-unit><trans-unit
-        id="281"
+        id="280"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑308</source><seg-source><mrk
             mtype="seg"
@@ -5891,7 +5865,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑336</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑347</target></alt-trans></trans-unit><trans-unit
-        id="282"
+        id="281"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Шприц для геля</source><seg-source><mrk
             mtype="seg"
@@ -5902,7 +5876,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Syringe</mrk></target></trans-unit><trans-unit
-        id="283"
+        id="282"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑309</source><seg-source><mrk
             mtype="seg"
@@ -5928,7 +5902,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑321</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑321</target></alt-trans></trans-unit><trans-unit
-        id="284"
+        id="283"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑310</source><seg-source><mrk
             mtype="seg"
@@ -5954,7 +5928,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑318</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑318</target></alt-trans></trans-unit><trans-unit
-        id="285"
+        id="284"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Игла многоразовая</source><seg-source><mrk
             mtype="seg"
@@ -5965,7 +5939,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Reusable needle</mrk></target></trans-unit><trans-unit
-        id="286"
+        id="285"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑311</source><seg-source><mrk
             mtype="seg"
@@ -5991,7 +5965,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑318</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑318</target></alt-trans></trans-unit><trans-unit
-        id="287"
+        id="286"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Игла многоразовая укороченная</source><seg-source><mrk
             mtype="seg"
@@ -6002,7 +5976,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="58"
             MadCap:diff="New">Reusable needle Inf</mrk></target></trans-unit><trans-unit
-        id="288"
+        id="287"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑312</source><seg-source><mrk
             mtype="seg"
@@ -6028,7 +6002,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑318</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑318</target></alt-trans></trans-unit><trans-unit
-        id="289"
+        id="288"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Одноразовые иглы</source><seg-source><mrk
             mtype="seg"
@@ -6039,7 +6013,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">Disposable needle</mrk></target></trans-unit><trans-unit
-        id="290"
+        id="289"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑313</source><seg-source><mrk
             mtype="seg"
@@ -6065,7 +6039,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑319</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑319</target></alt-trans></trans-unit><trans-unit
-        id="291"
+        id="290"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑314</source><seg-source><mrk
             mtype="seg"
@@ -6091,7 +6065,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑319</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑319</target></alt-trans></trans-unit><trans-unit
-        id="292"
+        id="291"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Щеточка для чистки электродов</source><seg-source><mrk
             mtype="seg"
@@ -6105,7 +6079,7 @@
           match-quality="58"
           origin="previous-version"><seg-source>Юбка для электродов</seg-source><target
             MadCap:segmentStatus="Untranslated">Soft skirt</target></alt-trans></trans-unit><trans-unit
-        id="293"
+        id="292"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑314n5</source><seg-source><mrk
             mtype="seg"
@@ -6131,7 +6105,7 @@
           match-quality="72"
           origin="previous-version"><seg-source>033‑0‑340</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑346</target></alt-trans></trans-unit><trans-unit
-        id="294"
+        id="293"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑315</source><seg-source><mrk
             mtype="seg"
@@ -6157,7 +6131,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑215</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑236</target></alt-trans></trans-unit><trans-unit
-        id="295"
+        id="294"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Сумка для хранения</source><seg-source><mrk
             mtype="seg"
@@ -6168,7 +6142,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">Bag</mrk></target></trans-unit><trans-unit
-        id="296"
+        id="295"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑316</source><seg-source><mrk
             mtype="seg"
@@ -6194,7 +6168,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑318</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑318</target></alt-trans></trans-unit><trans-unit
-        id="297"
+        id="296"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Манекен</source><seg-source><mrk
             mtype="seg"
@@ -6205,7 +6179,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">mannequin</mrk></target></trans-unit><trans-unit
-        id="298"
+        id="297"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑328</source><seg-source><mrk
             mtype="seg"
@@ -6231,7 +6205,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑318</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑318</target></alt-trans></trans-unit><trans-unit
-        id="299"
+        id="298"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑329</source><seg-source><mrk
             mtype="seg"
@@ -6257,7 +6231,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑339</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑345</target></alt-trans></trans-unit><trans-unit
-        id="300"
+        id="299"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑330</source><seg-source><mrk
             mtype="seg"
@@ -6283,7 +6257,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑340</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑346</target></alt-trans></trans-unit><trans-unit
-        id="301"
+        id="300"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑7‑004</source><seg-source><mrk
             mtype="seg"
@@ -6309,7 +6283,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="302"
+        id="301"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Унипаста</source><seg-source><mrk
             mtype="seg"
@@ -6320,7 +6294,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Unipaste</mrk></target></trans-unit><trans-unit
-        id="303"
+        id="302"
         restype="x-xml-variable"
         phase-name="pretrans"><source>ЭЭГ паста <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unipaste_name%]</ph></source><seg-source><mrk
@@ -6339,7 +6313,7 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unigel_name%]</ph></seg-source><target
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unigel_name%]</ph> EEG gel</target></alt-trans></trans-unit><trans-unit
-        id="304"
+        id="303"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑7‑005</source><seg-source><mrk
             mtype="seg"
@@ -6365,7 +6339,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="305"
+        id="304"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Салфетки для дезинфекции</source><seg-source><mrk
             mtype="seg"
@@ -6376,7 +6350,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Disinfection Wipes</mrk></target></trans-unit><trans-unit
-        id="306"
+        id="305"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑7‑006</source><seg-source><mrk
             mtype="seg"
@@ -6402,7 +6376,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="307"
+        id="306"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Спрей для дезинфекции маленький</source><seg-source><mrk
             mtype="seg"
@@ -6413,7 +6387,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Disinfection spray small</mrk></target></trans-unit><trans-unit
-        id="308"
+        id="307"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑7‑008</source><seg-source><mrk
             mtype="seg"
@@ -6439,7 +6413,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="309"
+        id="308"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Унискраб</source><seg-source><mrk
             mtype="seg"
@@ -6450,7 +6424,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Uniscrab</mrk></target></trans-unit><trans-unit
-        id="310"
+        id="309"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Uniscrub_firstname%]</ph> <ph
@@ -6502,7 +6476,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="311"
+        id="310"
         restype="x-xml-variable"
         phase-name="pretrans"><source>003‑7‑016</source><seg-source><mrk
             mtype="seg"
@@ -6528,7 +6502,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑106</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑106</target></alt-trans></trans-unit><trans-unit
-        id="312"
+        id="311"
         restype="x-xml-variable"
         phase-name="pretrans"><source>granulGEL</source><seg-source><mrk
             mtype="seg"
@@ -6539,7 +6513,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">granulGEL</mrk></target></trans-unit><trans-unit
-        id="313"
+        id="312"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑7‑001</source><seg-source><mrk
             mtype="seg"
@@ -6565,7 +6539,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="314"
+        id="313"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Установочный комплект</source><seg-source><mrk
             mtype="seg"
@@ -6576,7 +6550,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">EEG starter kit</mrk></target></trans-unit><trans-unit
-        id="315"
+        id="314"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Гель абразивный</source><seg-source><mrk
             mtype="seg"
@@ -6587,7 +6561,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">abrasive gel</mrk></target></trans-unit><trans-unit
-        id="316"
+        id="315"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑7‑007</source><seg-source><mrk
             mtype="seg"
@@ -6613,7 +6587,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="317"
+        id="316"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Спрей для дезинфекции большой</source><seg-source><mrk
             mtype="seg"
@@ -6624,7 +6598,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Disinfection spray large</mrk></target></trans-unit><trans-unit
-        id="318"
+        id="317"
         restype="x-xml-variable"
         phase-name="pretrans"><source>ЭЭГ гель</source><seg-source><mrk
             mtype="seg"
@@ -6645,7 +6619,7 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unimax_name%]</ph></seg-source><target
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Unimax_name%]</ph> EEG gel</target></alt-trans></trans-unit><trans-unit
-        id="319"
+        id="318"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Демонстрационная модель MCScap</source><seg-source><mrk
             mtype="seg"
@@ -6656,7 +6630,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">MCScap Demonstration model</mrk></target></trans-unit><trans-unit
-        id="320"
+        id="319"
         restype="x-xml-variable"
         phase-name="pretrans"><source>003‑7‑012</source><seg-source><mrk
             mtype="seg"
@@ -6682,7 +6656,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑7‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑003</target></alt-trans></trans-unit><trans-unit
-        id="321"
+        id="320"
         restype="x-xml-variable"
         phase-name="pretrans"><source>003‑7‑013</source><seg-source><mrk
             mtype="seg"
@@ -6708,7 +6682,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑103</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑103</target></alt-trans></trans-unit><trans-unit
-        id="322"
+        id="321"
         restype="x-xml-variable"
         phase-name="pretrans"><source>003‑7‑014</source><seg-source><mrk
             mtype="seg"
@@ -6734,7 +6708,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑7‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑003</target></alt-trans></trans-unit><trans-unit
-        id="323"
+        id="322"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑107</source><seg-source><mrk
             mtype="seg"
@@ -6760,7 +6734,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑105</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑105</target></alt-trans></trans-unit><trans-unit
-        id="324"
+        id="323"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑119</source><seg-source><mrk
             mtype="seg"
@@ -6786,7 +6760,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑112</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑112</target></alt-trans></trans-unit><trans-unit
-        id="325"
+        id="324"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑120</source><seg-source><mrk
             mtype="seg"
@@ -6812,7 +6786,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑110</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑110</target></alt-trans></trans-unit><trans-unit
-        id="326"
+        id="325"
         restype="x-xml-variable"
         phase-name="pretrans"><source>003‑0‑177</source><seg-source><mrk
             mtype="seg"
@@ -6838,7 +6812,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑327</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑327</target></alt-trans></trans-unit><trans-unit
-        id="327"
+        id="326"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Электрод MCScap‑CS22, 2 mm DIY Jack</source><seg-source><mrk
             mtype="seg"
@@ -6849,7 +6823,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">MCScap-CS22 electrode, 2 mm DIY Jack</mrk></target></trans-unit><trans-unit
-        id="328"
+        id="327"
         restype="x-xml-variable"
         phase-name="pretrans"><source>003‑0‑192</source><seg-source><mrk
             mtype="seg"
@@ -6875,7 +6849,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑0‑342</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑7‑018</target></alt-trans></trans-unit><trans-unit
-        id="329"
+        id="328"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑0‑338</source><seg-source><mrk
             mtype="seg"
@@ -6901,7 +6875,7 @@
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑238</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑217</target></alt-trans></trans-unit><trans-unit
-        id="330"
+        id="329"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Спонж D22</source><seg-source><mrk
             mtype="seg"
@@ -6912,7 +6886,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">Sponge D22</mrk></target></trans-unit><trans-unit
-        id="331"
+        id="330"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑001</source><seg-source><mrk
             mtype="seg"
@@ -6938,7 +6912,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑003</target></alt-trans></trans-unit><trans-unit
-        id="332"
+        id="331"
         restype="x-xml-variable"
         phase-name="pretrans"><source>NeoRecCap</source><seg-source><mrk
             mtype="seg"
@@ -6949,7 +6923,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">NeoRecCap</mrk></target></trans-unit><trans-unit
-        id="333"
+        id="332"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGcap_firstname%]</ph> <ph
@@ -7001,7 +6975,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="334"
+        id="333"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑101</source><seg-source><mrk
             mtype="seg"
@@ -7027,7 +7001,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑103</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑103</target></alt-trans></trans-unit><trans-unit
-        id="335"
+        id="334"
         restype="x-xml-variable"
         phase-name="pretrans"><source>NeoRecCap</source><seg-source><mrk
             mtype="seg"
@@ -7038,7 +7012,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">NeoRecCap</mrk></target></trans-unit><trans-unit
-        id="336"
+        id="335"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Система</source><seg-source><mrk
             mtype="seg"
@@ -7049,7 +7023,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">system</mrk></target></trans-unit><trans-unit
-        id="337"
+        id="336"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.NeoRecCap-system_firstname%]</ph> <ph
@@ -7101,7 +7075,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="338"
+        id="337"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑104</source><seg-source><mrk
             mtype="seg"
@@ -7127,7 +7101,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑102</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑102</target></alt-trans></trans-unit><trans-unit
-        id="339"
+        id="338"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Генератор световых меток</source><seg-source><mrk
             mtype="seg"
@@ -7138,7 +7112,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">Generator of light events</mrk></target></trans-unit><trans-unit
-        id="340"
+        id="339"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑002</source><seg-source><mrk
             mtype="seg"
@@ -7164,7 +7138,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑003</target></alt-trans></trans-unit><trans-unit
-        id="341"
+        id="340"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑003</source><seg-source><mrk
             mtype="seg"
@@ -7190,7 +7164,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="342"
+        id="341"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑004</source><seg-source><mrk
             mtype="seg"
@@ -7216,7 +7190,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="343"
+        id="342"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑005</source><seg-source><mrk
             mtype="seg"
@@ -7242,7 +7216,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑003</target></alt-trans></trans-unit><trans-unit
-        id="344"
+        id="343"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑006</source><seg-source><mrk
             mtype="seg"
@@ -7268,7 +7242,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="345"
+        id="344"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑007</source><seg-source><mrk
             mtype="seg"
@@ -7294,7 +7268,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑003</target></alt-trans></trans-unit><trans-unit
-        id="346"
+        id="345"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑008</source><seg-source><mrk
             mtype="seg"
@@ -7320,7 +7294,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑003</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑003</target></alt-trans></trans-unit><trans-unit
-        id="347"
+        id="346"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑111</source><seg-source><mrk
             mtype="seg"
@@ -7346,7 +7320,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑112</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑112</target></alt-trans></trans-unit><trans-unit
-        id="348"
+        id="347"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑121</source><seg-source><mrk
             mtype="seg"
@@ -7372,7 +7346,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑111</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑111</target></alt-trans></trans-unit><trans-unit
-        id="349"
+        id="348"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑131</source><seg-source><mrk
             mtype="seg"
@@ -7398,7 +7372,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑311</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑311</target></alt-trans></trans-unit><trans-unit
-        id="350"
+        id="349"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑141</source><seg-source><mrk
             mtype="seg"
@@ -7424,7 +7398,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑241</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑220</target></alt-trans></trans-unit><trans-unit
-        id="351"
+        id="350"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑5‑151</source><seg-source><mrk
             mtype="seg"
@@ -7450,7 +7424,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑1‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑1‑057</target></alt-trans></trans-unit><trans-unit
-        id="352"
+        id="351"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑001</source><seg-source><mrk
             mtype="seg"
@@ -7460,7 +7434,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">003‑1‑057</mrk></target></trans-unit><trans-unit
-        id="353"
+        id="352"
         restype="x-xml-variable"
         phase-name="pretrans"><source>CLINIC</source><seg-source><mrk
             mtype="seg"
@@ -7470,7 +7444,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">CLINIC</mrk></target></trans-unit><trans-unit
-        id="354"
+        id="353"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGcap_firstname%]</ph> <ph
@@ -7522,7 +7496,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="355"
+        id="354"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑001</source><seg-source><mrk
             mtype="seg"
@@ -7531,8 +7505,8 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
-            MadCap:diff="ContentChanged">033-8-001</mrk></target><alt-trans
+            MadCap:matchPercent="77"
+            MadCap:diff="ContentChanged">003‑8‑001</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑1‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑1‑057</target></alt-trans><alt-trans
@@ -7548,7 +7522,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="356"
+        id="355"
         restype="x-xml-variable"
         phase-name="pretrans"><source>BASE</source><seg-source><mrk
             mtype="seg"
@@ -7559,7 +7533,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">BASE</mrk></target></trans-unit><trans-unit
-        id="357"
+        id="356"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGcap_firstname%]</ph> <ph
@@ -7611,7 +7585,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="358"
+        id="357"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑081</source><seg-source><mrk
             mtype="seg"
@@ -7637,7 +7611,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑5‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑5‑001</target></alt-trans></trans-unit><trans-unit
-        id="359"
+        id="358"
         restype="x-xml-variable"
         phase-name="pretrans"><source>PROFESSIONAL light</source><seg-source><mrk
             mtype="seg"
@@ -7648,7 +7622,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">PROFESSIONAL light</mrk></target></trans-unit><trans-unit
-        id="360"
+        id="359"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGcap_firstname%]</ph> <ph
@@ -7700,7 +7674,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="361"
+        id="360"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑001</source><seg-source><mrk
             mtype="seg"
@@ -7726,7 +7700,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="362"
+        id="361"
         restype="x-xml-variable"
         phase-name="pretrans"><source>PROFESSIONAL</source><seg-source><mrk
             mtype="seg"
@@ -7737,7 +7711,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">PROFESSIONAL</mrk></target></trans-unit><trans-unit
-        id="363"
+        id="362"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGcap_firstname%]</ph> <ph
@@ -7789,7 +7763,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="364"
+        id="363"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑001</source><seg-source><mrk
             mtype="seg"
@@ -7815,7 +7789,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="365"
+        id="364"
         restype="x-xml-variable"
         phase-name="pretrans"><source>SLEEP</source><seg-source><mrk
             mtype="seg"
@@ -7826,7 +7800,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">SLEEP</mrk></target></trans-unit><trans-unit
-        id="366"
+        id="365"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._EEGcap_firstname%]</ph> <ph
@@ -7878,7 +7852,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="367"
+        id="366"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑4‑001</source><seg-source><mrk
             mtype="seg"
@@ -7904,7 +7878,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="368"
+        id="367"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ELECTRODE_SET%]</ph>-24</source><seg-source><mrk
@@ -7918,7 +7892,7 @@
             MadCap:matchPercent="0"
             MadCap:diff="New"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ELECTRODE_SET%]</ph> classic</mrk></target></trans-unit><trans-unit
-        id="369"
+        id="368"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Electrode-set_firstname%]</ph> <ph
@@ -7931,7 +7905,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
+            MadCap:matchPercent="100"
             MadCap:diff="ContentChanged"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Electrode-set-classic_name%]</ph></mrk></target><alt-trans
           match-quality="99"
@@ -7969,7 +7943,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="370"
+        id="369"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑4‑002</source><seg-source><mrk
             mtype="seg"
@@ -7995,7 +7969,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="371"
+        id="370"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ELECTRODE_SET%]</ph>-36</source><seg-source><mrk
@@ -8009,7 +7983,7 @@
             MadCap:matchPercent="0"
             MadCap:diff="New"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ELECTRODE_SET%]</ph>-36</mrk></target></trans-unit><trans-unit
-        id="372"
+        id="371"
         restype="x-xml-variable"
         phase-name="pretrans"><source>Комплект</source><seg-source><mrk
             mtype="seg"
@@ -8020,7 +7994,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="New">Set</mrk></target></trans-unit><trans-unit
-        id="373"
+        id="372"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Electrode-set_firstname%]</ph> <ph
@@ -8071,7 +8045,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="374"
+        id="373"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑4‑003</source><seg-source><mrk
             mtype="seg"
@@ -8097,7 +8071,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="375"
+        id="374"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ELECTRODE_SET%]</ph>-52</source><seg-source><mrk
@@ -8111,7 +8085,7 @@
             MadCap:matchPercent="101"
             MadCap:diff="New"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ELECTRODE_SET%]</ph>-52</mrk></target></trans-unit><trans-unit
-        id="376"
+        id="375"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Electrode-set_firstname%]</ph> <ph
@@ -8162,7 +8136,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="377"
+        id="376"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑4‑006</source><seg-source><mrk
             mtype="seg"
@@ -8188,7 +8162,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="378"
+        id="377"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ELECTRODE_SET%]</ph> 10-10</source><seg-source><mrk
@@ -8202,7 +8176,7 @@
             MadCap:matchPercent="101"
             MadCap:diff="New"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ELECTRODE_SET%]</ph> 10-10</mrk></target></trans-unit><trans-unit
-        id="379"
+        id="378"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Electrode-set_firstname%]</ph> <ph
@@ -8253,7 +8227,7 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph></target></alt-trans></trans-unit><trans-unit
-        id="380"
+        id="379"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑002</source><seg-source><mrk
             mtype="seg"
@@ -8279,7 +8253,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="381"
+        id="380"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑003</source><seg-source><mrk
             mtype="seg"
@@ -8305,7 +8279,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="382"
+        id="381"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑004</source><seg-source><mrk
             mtype="seg"
@@ -8331,7 +8305,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="383"
+        id="382"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑005</source><seg-source><mrk
             mtype="seg"
@@ -8357,7 +8331,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="384"
+        id="383"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑006</source><seg-source><mrk
             mtype="seg"
@@ -8383,7 +8357,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="385"
+        id="384"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑007</source><seg-source><mrk
             mtype="seg"
@@ -8409,7 +8383,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="386"
+        id="385"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑008</source><seg-source><mrk
             mtype="seg"
@@ -8435,7 +8409,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="387"
+        id="386"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑1‑009</source><seg-source><mrk
             mtype="seg"
@@ -8461,7 +8435,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑004</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑004</target></alt-trans></trans-unit><trans-unit
-        id="388"
+        id="387"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑002</source><seg-source><mrk
             mtype="seg"
@@ -8487,7 +8461,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="389"
+        id="388"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑003</source><seg-source><mrk
             mtype="seg"
@@ -8513,7 +8487,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="390"
+        id="389"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑004</source><seg-source><mrk
             mtype="seg"
@@ -8539,7 +8513,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="391"
+        id="390"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑005</source><seg-source><mrk
             mtype="seg"
@@ -8565,7 +8539,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="392"
+        id="391"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑006</source><seg-source><mrk
             mtype="seg"
@@ -8591,7 +8565,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="393"
+        id="392"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑007</source><seg-source><mrk
             mtype="seg"
@@ -8617,7 +8591,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="394"
+        id="393"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑008</source><seg-source><mrk
             mtype="seg"
@@ -8643,7 +8617,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="395"
+        id="394"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑009</source><seg-source><mrk
             mtype="seg"
@@ -8669,7 +8643,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑004</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑004</target></alt-trans></trans-unit><trans-unit
-        id="396"
+        id="395"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑010</source><seg-source><mrk
             mtype="seg"
@@ -8695,7 +8669,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑110</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑110</target></alt-trans></trans-unit><trans-unit
-        id="397"
+        id="396"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑011</source><seg-source><mrk
             mtype="seg"
@@ -8721,7 +8695,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑101</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑101</target></alt-trans></trans-unit><trans-unit
-        id="398"
+        id="397"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑2‑012</source><seg-source><mrk
             mtype="seg"
@@ -8747,7 +8721,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑112</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑112</target></alt-trans></trans-unit><trans-unit
-        id="399"
+        id="398"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑002</source><seg-source><mrk
             mtype="seg"
@@ -8773,7 +8747,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="400"
+        id="399"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑003</source><seg-source><mrk
             mtype="seg"
@@ -8799,7 +8773,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="401"
+        id="400"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑004</source><seg-source><mrk
             mtype="seg"
@@ -8825,7 +8799,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="402"
+        id="401"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑005</source><seg-source><mrk
             mtype="seg"
@@ -8851,7 +8825,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="403"
+        id="402"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑006</source><seg-source><mrk
             mtype="seg"
@@ -8877,7 +8851,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="404"
+        id="403"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑007</source><seg-source><mrk
             mtype="seg"
@@ -8903,7 +8877,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="405"
+        id="404"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑008</source><seg-source><mrk
             mtype="seg"
@@ -8929,7 +8903,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="406"
+        id="405"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑002</source><seg-source><mrk
             mtype="seg"
@@ -8955,7 +8929,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="407"
+        id="406"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑003</source><seg-source><mrk
             mtype="seg"
@@ -8981,7 +8955,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="408"
+        id="407"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑004</source><seg-source><mrk
             mtype="seg"
@@ -9007,7 +8981,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="409"
+        id="408"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑005</source><seg-source><mrk
             mtype="seg"
@@ -9033,7 +9007,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="410"
+        id="409"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑006</source><seg-source><mrk
             mtype="seg"
@@ -9059,7 +9033,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="411"
+        id="410"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑007</source><seg-source><mrk
             mtype="seg"
@@ -9085,7 +9059,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="412"
+        id="411"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑008</source><seg-source><mrk
             mtype="seg"
@@ -9111,7 +9085,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑002</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑002</target></alt-trans></trans-unit><trans-unit
-        id="413"
+        id="412"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑009</source><seg-source><mrk
             mtype="seg"
@@ -9137,7 +9111,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑6‑004</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑004</target></alt-trans></trans-unit><trans-unit
-        id="414"
+        id="413"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑010</source><seg-source><mrk
             mtype="seg"
@@ -9163,7 +9137,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑110</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑110</target></alt-trans></trans-unit><trans-unit
-        id="415"
+        id="414"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑011</source><seg-source><mrk
             mtype="seg"
@@ -9189,7 +9163,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑101</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑101</target></alt-trans></trans-unit><trans-unit
-        id="416"
+        id="415"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑8‑012</source><seg-source><mrk
             mtype="seg"
@@ -9215,7 +9189,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑112</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑0‑112</target></alt-trans></trans-unit><trans-unit
-        id="417"
+        id="416"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑082</source><seg-source><mrk
             mtype="seg"
@@ -9241,7 +9215,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑1‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑1‑057</target></alt-trans></trans-unit><trans-unit
-        id="418"
+        id="417"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑083</source><seg-source><mrk
             mtype="seg"
@@ -9267,7 +9241,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑1‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑1‑057</target></alt-trans></trans-unit><trans-unit
-        id="419"
+        id="418"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑084</source><seg-source><mrk
             mtype="seg"
@@ -9293,7 +9267,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑5‑004</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑5‑004</target></alt-trans></trans-unit><trans-unit
-        id="420"
+        id="419"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑085</source><seg-source><mrk
             mtype="seg"
@@ -9319,7 +9293,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="421"
+        id="420"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑086</source><seg-source><mrk
             mtype="seg"
@@ -9345,7 +9319,7 @@
           match-quality="77"
           origin="previous-version"><seg-source>033‑5‑006</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑5‑006</target></alt-trans></trans-unit><trans-unit
-        id="422"
+        id="421"
         restype="x-xml-variable"
         phase-name="pretrans"><source>033‑3‑087</source><seg-source><mrk
             mtype="seg"
@@ -9371,7 +9345,7 @@
           match-quality="66"
           origin="previous-version"><seg-source>033‑6‑001</seg-source><target
             MadCap:segmentStatus="Untranslated">003‑6‑001</target></alt-trans></trans-unit><trans-unit
-        id="423"
+        id="422"
         restype="x-xml-variable"
         phase-name="pretrans"><source>CLINIC</source><seg-source><mrk
             mtype="seg"
@@ -9380,6 +9354,6 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">CLINIC</mrk></target></trans-unit></body>
+            MadCap:matchPercent="100">CLINIC</mrk></target></trans-unit></body>
   </file>
 </xliff>
