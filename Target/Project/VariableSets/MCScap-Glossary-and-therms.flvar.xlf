@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">75</count>
+          unit="segment">76</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -893,6 +893,17 @@
             MadCap:segmentStatus="Untranslated">Cable length</target></alt-trans><alt-trans
           match-quality="55"
           origin="previous-version"><seg-source>Выход электродного шлейфа из шлема</seg-source><target
-            MadCap:segmentStatus="Untranslated">Location of the output of the electrode cable from the cap</target></alt-trans></trans-unit></body>
+            MadCap:segmentStatus="Untranslated">Location of the output of the electrode cable from the cap</target></alt-trans></trans-unit><trans-unit
+        id="76"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Номинал ограничивающего резистора</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Номинал ограничивающего резистора</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">Nominal value of the limiting resistor</mrk></target></trans-unit></body>
   </file>
 </xliff>

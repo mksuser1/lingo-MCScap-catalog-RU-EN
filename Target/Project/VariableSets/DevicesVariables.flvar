@@ -193,4 +193,8 @@
     <Variable Name="DeviceName" Comment="" EvaluatedDefinition="ELECTRODE SET-52">[%=ModuleAndDevicesNames.Electrode-set-52_fullname%]</Variable>
     <Variable Name="DeviceCode" Comment="" EvaluatedDefinition="033-4-006">[%=ModuleAndDevicesNames.Electrode-set-74_code%]</Variable>
     <Variable Name="DeviceName" Comment="" EvaluatedDefinition="ELECTRODE SET 10-10">[%=ModuleAndDevicesNames.Electrode-set-74_fullname%]</Variable>
+    <Variable Name="DeviceCode" Comment="" EvaluatedDefinition="003-0-702">[%=ModuleAndDevicesNames.MCScap-T-HD_code%]</Variable>
+    <Variable Name="DeviceName" Comment="" EvaluatedDefinition="MCScap-T-HD">[%=ModuleAndDevicesNames.MCScap-T-HD_fullname%]</Variable>
+    <Variable Name="DeviceCode" Comment="" EvaluatedDefinition="003-0-703">[%=ModuleAndDevicesNames.MCScap-T-MR_code%]</Variable>
+    <Variable Name="DeviceName" Comment="" EvaluatedDefinition="MCScap-T-MR">[%=ModuleAndDevicesNames.MCScap-T-MR_fullname%]</Variable>
 </CatapultVariableSet>

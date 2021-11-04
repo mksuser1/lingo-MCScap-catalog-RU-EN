@@ -75,4 +75,5 @@
     <Variable Name="value black-cap" Comment="" EvaluatedDefinition="чёрный">砻קยด73ตว融</Variable>
     <Variable Name="value black-or-color" Comment="" EvaluatedDefinition="чёрный&#160;/&#160;цветной&#160;(опционально)">砻קยด74ตว融</Variable>
     <Variable Name="parameter Electrodecap weight" Comment="" EvaluatedDefinition="Масса электродного шлема">砻קยด75ตว融</Variable>
+    <Variable Name="parameter Номинал ограничивающего резистора" Comment="" EvaluatedDefinition="Номинал ограничивающего резистора">砻קยด76ตว融</Variable>
 </CatapultVariableSet>

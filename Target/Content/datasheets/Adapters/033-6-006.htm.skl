@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName" MadCap:autonum="">
+        <h1 class="deviceName">
             <MadCap:variable name="ModuleAndDevicesNames.DB25FM-extension_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
@@ -39,18 +39,18 @@
             </table>
         </section>
         <section class="set-section">
-            <h2 MadCap:autonum="">砻קยด2ตว融</h2>
+            <h2>砻קยด2ตว融</h2>
             <ul>
                 <li>
                     <MadCap:variable name="ModuleAndDevicesNames.DB25FM-extension_fullname" />.</li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2 MadCap:autonum="">砻קยด3ตว融</h2>
+            <h2>砻קยด3ตว融</h2>
             <p>砻קยด4ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2 MadCap:autonum="">砻קยด5ตว融</h2>
+            <h2>砻קยด5ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />

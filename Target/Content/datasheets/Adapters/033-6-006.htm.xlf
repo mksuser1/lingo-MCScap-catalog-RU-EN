@@ -54,7 +54,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Extension cable for an EEG electrode cable of a cap with a common <ph
               id="1">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
           match-quality="98"
@@ -104,7 +104,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="98"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
               id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.DB25FM-extension_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed to extend the electrode cable of the EEG cap with a common <ph
               id="2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
@@ -144,15 +144,18 @@
             MadCap:matchPercent="100">25</mrk></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-td"
-        phase-name="pretrans"><source>0,3 ±0,02 м</source><seg-source><mrk
+        phase-name="pretrans"><source>3 ±0,02 м</source><seg-source><mrk
             mtype="seg"
-            mid="1">0,3 ±0,02 м</mrk></seg-source><target
+            mid="1">3 ±0,02 м</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
-            MadCap:diff="New">0.3 ±0.02 m</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="0"
+            MadCap:diff="ContentChanged">3 ±0.02 m</mrk></target><alt-trans
+          match-quality="81"
+          origin="previous-version"><seg-source>0,3 ±0,02 м</seg-source><target
+            MadCap:segmentStatus="Untranslated">0.3 ±0.02 m</target></alt-trans></trans-unit><trans-unit
         id="8"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 280 г</source><seg-source><mrk

@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">35</count>
+          unit="segment">37</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -412,6 +412,30 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Добавление переменных</mrk></target></trans-unit></body>
+            MadCap:matchPercent="0">Добавление переменных</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2021-11-02</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2021-11-02</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">2021-11-02</mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Удален столбец с обхватом головы</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">Удален столбец с обхватом головы</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">Удален столбец с обхватом головы</mrk></target></trans-unit></body>
   </file>
 </xliff>

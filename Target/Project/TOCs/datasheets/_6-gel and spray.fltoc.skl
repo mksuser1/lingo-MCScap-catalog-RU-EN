@@ -8,5 +8,6 @@
         <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-005.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
         <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-006.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
         <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-007.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Gel and accessories/033-7-012.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
 </CatapultToc>

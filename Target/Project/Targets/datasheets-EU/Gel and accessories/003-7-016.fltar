@@ -8,6 +8,9 @@
         <Variable Name="DocsVariables/Market">EU</Variable>
         <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.granulGEL_code%]</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.granulGEL_fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceName%]</Variable>
+        <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
+        <Variable Name="ProductVariables/ProductName">[%=DevicesVariables.DeviceName%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />
 </CatapultTarget>

@@ -18,7 +18,7 @@
     <Variable Name="TP2DB25F_name" Comment="" EvaluatedDefinition="TP2DB25F">TP2DB25F</Variable>
     <Variable Name="TP2DB25F_code" Comment="" EvaluatedDefinition="033&#8209;6&#8209;004">033&#8209;6&#8209;004</Variable>
     <Variable Name="DB25FM-adapter_name" Comment="" EvaluatedDefinition="DB25F&#8209;M">DB25F&#8209;M</Variable>
-    <Variable Name="DB25FM-adapter_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;014">033&#8209;0&#8209;014</Variable>
+    <Variable Name="DB25FM-adapter_code" Comment="003-6-005" EvaluatedDefinition="033&#8209;6&#8209;005">033&#8209;6&#8209;005</Variable>
     <Variable Name="DB25FM-extension_name" Comment="" EvaluatedDefinition="DB25F&#8209;M">DB25F&#8209;M</Variable>
     <Variable Name="DB25FM-extension_code" Comment="" EvaluatedDefinition="033&#8209;6&#8209;006">033&#8209;6&#8209;006</Variable>
     <Variable Name="VelcroTie_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;337">033&#8209;0&#8209;337</Variable>
@@ -329,8 +329,8 @@
     <Variable Name="disinfection-spay-small_fullname" Comment="" EvaluatedDefinition="Спрей для дезинфекции">[%=ModuleAndDevicesNames.disinfection-spay-small_name%]</Variable>
     <Variable Name="Uniscrub_code" Comment="003-7-015" EvaluatedDefinition="033-7-008">033&#8209;7&#8209;008</Variable>
     <Variable Name="Uniscrub_name" Comment="" EvaluatedDefinition="Унискраб">Унискраб</Variable>
-    <Variable Name="Uniscrub_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.Uniscrub_firstname]]]&#160;Унискраб">[%=ModuleAndDevicesNames.Uniscrub_firstname%]&#160;[%=ModuleAndDevicesNames.Uniscrub_name%]</Variable>
-    <Variable Name="granulGEL_code" Comment="003-7-016" EvaluatedDefinition="003-7-016">003&#8209;7&#8209;016</Variable>
+    <Variable Name="Uniscrub_fullname" Comment="" EvaluatedDefinition="Гель абразивный Унискраб">[%=ModuleAndDevicesNames.Uniscrub_firstname%]&#160;[%=ModuleAndDevicesNames.Uniscrub_name%]</Variable>
+    <Variable Name="granulGEL_code" Comment="003-7-016" EvaluatedDefinition="033&#8209;7&#8209;012">033&#8209;7&#8209;012</Variable>
     <Variable Name="granulGEL_name" Comment="" EvaluatedDefinition="granulGEL">granulGEL</Variable>
     <Variable Name="granulGEL_fullname" Comment="" EvaluatedDefinition="granulGEL">[%=ModuleAndDevicesNames.granulGEL_name%]</Variable>
     <Variable Name="EEG-starter-kit_code" Comment="003-7-001" EvaluatedDefinition="033-7-001">033&#8209;7&#8209;001</Variable>
@@ -395,17 +395,17 @@
     <Variable Name="Sleep_fullname" Comment="" EvaluatedDefinition="SLEEP">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Sleep_name%]</Variable>
     <Variable Name="Electrode-set-classic_code" Comment="003-4-001" EvaluatedDefinition="033-4-001">033&#8209;4&#8209;001</Variable>
     <Variable Name="Electrode-set-classic_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-24</Variable>
-    <Variable Name="Electrode-set-classic_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames._Electrode-set_firstname]]] ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-classic_name%]</Variable>
+    <Variable Name="Electrode-set-classic_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-classic_name%]</Variable>
     <Variable Name="Electrode-set-36_code" Comment="003-4-002" EvaluatedDefinition="033-4-002">033&#8209;4&#8209;002</Variable>
     <Variable Name="Electrode-set-36_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-36</Variable>
     <Variable Name="_Electrode-set_firstname" Comment="" EvaluatedDefinition="Комплект">Комплект</Variable>
-    <Variable Name="Electrode-set-36_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames._Electrode-set_firstname]]] ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-36_name%]</Variable>
+    <Variable Name="Electrode-set-36_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-36_name%]</Variable>
     <Variable Name="Electrode-set-52_code" Comment="003-4-003" EvaluatedDefinition="033-4-003">033&#8209;4&#8209;003</Variable>
     <Variable Name="Electrode-set-52_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-52</Variable>
-    <Variable Name="Electrode-set-52_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames._Electrode-set_firstname]]] ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-52_name%]</Variable>
+    <Variable Name="Electrode-set-52_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-52_name%]</Variable>
     <Variable Name="Electrode-set-74_code" Comment="003-4-006" EvaluatedDefinition="033-4-006">033&#8209;4&#8209;006</Variable>
     <Variable Name="Electrode-set-74_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames._ELECTRODE_SET%] 10-10</Variable>
-    <Variable Name="Electrode-set-74_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames._Electrode-set_firstname]]] ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-74_name%]</Variable>
+    <Variable Name="Electrode-set-74_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-74_name%]</Variable>
     <Variable Name="ClinicXL-L_code" Comment="003-1-002" EvaluatedDefinition="033-1-002">033&#8209;1&#8209;002</Variable>
     <Variable Name="ClinicL_code" Comment="003-1-003" EvaluatedDefinition="033-1-003">033&#8209;1&#8209;003</Variable>
     <Variable Name="ClinicL-M_code" Comment="003-1-004" EvaluatedDefinition="033-1-004">033&#8209;1&#8209;004</Variable>
@@ -450,4 +450,11 @@
     <Variable Name="Professional-lightM-S_code" Comment="003-3-180" EvaluatedDefinition="033-3-086">033&#8209;3&#8209;086</Variable>
     <Variable Name="Professional-lightS_code" Comment="003-3-181" EvaluatedDefinition="033-3-087">033&#8209;3&#8209;087</Variable>
     <Variable Name="_CLINIC" Comment="" EvaluatedDefinition="CLINIC">CLINIC</Variable>
+    <Variable Name="granulGel_firstname" Comment="" EvaluatedDefinition="Твердый гель для регистрации ЭЭГ">Твердый гель для регистрации ЭЭГ</Variable>
+    <Variable Name="MCScap-T-HD_code" Comment="003-0-702" EvaluatedDefinition="003-0-702">003&#8209;0&#8209;702</Variable>
+    <Variable Name="MCScap-T-HD_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;HD">MCScap&#8209;T&#8209;HD</Variable>
+    <Variable Name="MCScap-T-HD_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;HD">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-HD_name%]</Variable>
+    <Variable Name="MCScap-T-MR_code" Comment="003-0-703" EvaluatedDefinition="003-0-703">003&#8209;0&#8209;703</Variable>
+    <Variable Name="MCScap-T-MR_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;MR">MCScap&#8209;T&#8209;MR</Variable>
+    <Variable Name="MCScap-T-MR_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;MR">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-MR_name%]</Variable>
 </CatapultVariableSet>

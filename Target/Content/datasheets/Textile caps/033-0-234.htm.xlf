@@ -137,8 +137,7 @@
         restype="x-xml-td"
         phase-name="pretrans"><source>S/XS</source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:parentConditions="Default.NoOutput">S/XS</mrk></seg-source><target
+            mid="1">S/XS</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -148,8 +147,7 @@
         restype="x-xml-td"
         phase-name="pretrans"><source>XS</source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:parentConditions="Default.NoOutput">XS</mrk></seg-source><target
+            mid="1">XS</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -159,8 +157,7 @@
         restype="x-xml-td"
         phase-name="pretrans"><source>Inf I</source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:parentConditions="Default.NoOutput">Inf I</mrk></seg-source><target
+            mid="1">Inf I</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -170,8 +167,7 @@
         restype="x-xml-td"
         phase-name="pretrans"><source>Inf II</source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:parentConditions="Default.NoOutput">Inf II</mrk></seg-source><target
+            mid="1">Inf II</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -181,8 +177,7 @@
         restype="x-xml-td"
         phase-name="pretrans"><source>Inf III</source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:parentConditions="Default.NoOutput">Inf III</mrk></seg-source><target
+            mid="1">Inf III</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -271,7 +266,7 @@
             mtype="seg"
             mid="5"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
+            MadCap:matchPercent="100"
             MadCap:diff="ContentChanged"><ph
               id="3">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
               id="4">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans

@@ -75,4 +75,5 @@
     <Variable Name="value black-cap" Comment="" EvaluatedDefinition="чёрный">чёрный</Variable>
     <Variable Name="value black-or-color" Comment="" EvaluatedDefinition="чёрный&#160;/&#160;цветной&#160;(опционально)">чёрный&#160;/&#160;цветной&#160;(опционально)</Variable>
     <Variable Name="parameter Electrodecap weight" Comment="" EvaluatedDefinition="Масса электродного шлема">Масса электродного шлема</Variable>
+    <Variable Name="parameter Номинал ограничивающего резистора" Comment="" EvaluatedDefinition="Номинал ограничивающего резистора">Номинал ограничивающего резистора</Variable>
 </CatapultVariableSet>
