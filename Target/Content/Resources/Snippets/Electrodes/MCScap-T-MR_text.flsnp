@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <p>
+            <MadCap:variable name="ModuleAndDevicesNames.MCScap-T-MR_name" /> – это тонкий Ag/AgCl sintered электрод для регистрации ЭЭГ на основе электрода <MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" />. <MadCap:variable name="ModuleAndDevicesNames.MCScap-T-MR_name" /> обладает уменьшенным диаметром корпуса для регистрации ЭЭГ высокого разрешения и встроенным сопротивлением для возможности использования во время МРТ. Тонкий корпус обеспечивает комфорт пациента при обследовании в положении лёжа. <MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" /> <MadCap:snippetText src="text-hole-for-conductive.flsnp" /> Возможно использование с электропроводящей пастой.</p>
+    </body>
+</html>

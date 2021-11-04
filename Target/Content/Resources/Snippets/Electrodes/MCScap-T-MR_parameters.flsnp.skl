@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <MadCap:snippetBlock src="MCScap-T-HD_parameters.flsnp" />
+        <table class="datasheet">
+            <col class="col_param" />
+            <col class="col_value" />
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Номинал ограничивающего резистора" />
+                </td>
+                <td>砻קยด1ตว融</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="Global(External)Variables.parameter MR-compatible" />
+                </td>
+                <td>
+                    <MadCap:variable name="Global(External)Variables.value MR-conditional" />
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

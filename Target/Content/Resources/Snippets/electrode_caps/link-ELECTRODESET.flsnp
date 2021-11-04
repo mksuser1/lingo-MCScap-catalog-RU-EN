@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <span MadCap:conditions="market.All,market.RU">
+            <a href="https://mcscap.ru/catalog/elektrodnye-shlemy-mcscap/electrode-set-26/" MadCap:conditions="Default.ScreenOnly">
+                <MadCap:variable name="ModuleAndDevicesNames._ELECTRODE_SET" />
+            </a>
+        </span>
+        <span MadCap:conditions="market.All,market.EU">
+            <a href="https://mcscap.com/catalog/elektrodnye-shlemy-mcscap/electrode-set-26/" MadCap:conditions="Default.ScreenOnly">
+                <MadCap:variable name="ModuleAndDevicesNames._ELECTRODE_SET" />
+            </a>
+        </span> <MadCap:conditionalText MadCap:conditions="Default.PrintOnly"><MadCap:variable name="ModuleAndDevicesNames._ELECTRODE_SET" /></MadCap:conditionalText></body>
+</html>
