@@ -7,7 +7,7 @@
         <Variable Name="DocsVariables/DocSubCode">砻קยด4ตว融</Variable>
         <Variable Name="DocsVariables/Market">砻קยด5ตว融</Variable>
         <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.measuring-standard_code%]</Variable>
-        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.measuring-standard_name%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.measuring-standard_fullname%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />
 </CatapultTarget>

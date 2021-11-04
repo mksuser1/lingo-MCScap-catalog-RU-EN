@@ -7,7 +7,7 @@
         <Variable Name="DocsVariables/DocSubCode">DS</Variable>
         <Variable Name="DocsVariables/Market">EU</Variable>
         <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.SpongeD22_code%]</Variable>
-        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.SpongeD22_name%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.SpongeD22_fullname%]</Variable>
         <Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceName%]</Variable>
         <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
         <Variable Name="ProductVariables/ProductName">[%=DevicesVariables.DeviceName%]</Variable>

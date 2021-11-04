@@ -1443,7 +1443,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
@@ -1564,7 +1564,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
@@ -1642,7 +1642,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NTC_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NTC_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
@@ -1720,7 +1720,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-TC_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-TC_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
@@ -1798,7 +1798,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._Repair-electrode_firstname%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
@@ -2750,7 +2750,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑296</mrk></target><alt-trans
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑336</seg-source><target
@@ -2776,7 +2776,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑351</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑101</seg-source><target
@@ -5051,7 +5051,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="84"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Disposable-cover_name%]</ph></mrk></target><alt-trans
           match-quality="93"
@@ -7505,7 +7505,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="77"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑8‑001</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑1‑001</seg-source><target
@@ -7905,7 +7905,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Electrode-set-classic_name%]</ph></mrk></target><alt-trans
           match-quality="99"

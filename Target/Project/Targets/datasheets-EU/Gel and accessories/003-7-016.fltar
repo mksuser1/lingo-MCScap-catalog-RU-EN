@@ -7,7 +7,7 @@
         <Variable Name="DocsVariables/DocSubCode">DS</Variable>
         <Variable Name="DocsVariables/Market">EU</Variable>
         <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.granulGEL_code%]</Variable>
-        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.granulGEL_name%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.granulGEL_fullname%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />
 </CatapultTarget>

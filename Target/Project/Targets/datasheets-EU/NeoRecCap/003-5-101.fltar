@@ -7,7 +7,7 @@
         <Variable Name="DocsVariables/DocSubCode">DS</Variable>
         <Variable Name="DocsVariables/Market">EU</Variable>
         <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.NeoRecCap-system_code%]</Variable>
-        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.NeoRecCap-system_name%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.NeoRecCap-system_fullname%]</Variable>
         <Variable Name="ProductVariables/ProductFirstName">Мобильная система</Variable>
         <Variable Name="ProductVariables/ProductFullName">[%=ProductVariables.ProductFirstName%]&#160;[%=ProductVariables.ProductLastName%]</Variable>
         <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>

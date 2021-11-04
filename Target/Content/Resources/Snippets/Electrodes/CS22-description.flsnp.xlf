@@ -55,7 +55,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  is a reusable electrode with a diameter of 22 mm of Ag/AgCl composite, designed for carrying out transcranial electrical stimulation (TES), mainly by alternating current (tACS - transcranial alternating current stimulation), and recording the electroencephalogram (EEG).</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a reusable electrode with a diameter of 22 mm of Ag/AgCl composite, designed for carrying out transcranial electrical stimulation (TES), mainly by alternating current (tACS - transcranial alternating current stimulation), and recording the electroencephalogram (EEG).</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Электрод состоит из электропроводящего диска с отверстием в центре, окруженного литым корпусом с упругим кольцом-юбкой, обеспечивающим комфортное прилегание к коже и увеличенную площадь контакта.</source><seg-source><mrk
@@ -84,8 +84,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes are designed for installation in <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile caps.</mrk><mrk
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes are designed for installation in <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile caps.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
