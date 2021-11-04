@@ -46,10 +46,6 @@
     <Variable Name="Unimax_code" Comment="" EvaluatedDefinition="033&#8209;7&#8209;003">033&#8209;7&#8209;003</Variable>
     <Variable Name="Unimax_name" Comment="" EvaluatedDefinition="Unimax">Унимакс</Variable>
     <Variable Name="Unimax_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;гель&#160;Унимакс">[%=ModuleAndDevicesNames._EEGgel_firstname%]&#160;[%=ModuleAndDevicesNames.Unimax_name%]</Variable>
-    <Variable Name="MCScap-S190_code" Comment="" EvaluatedDefinition="081&#8209;0&#8209;121">081&#8209;0&#8209;121</Variable>
-    <Variable Name="MCScap-mannequinS_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;342">033&#8209;0&#8209;342</Variable>
-    <Variable Name="MCScap-plasters100_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;340">033&#8209;0&#8209;340</Variable>
-    <Variable Name="Unimax5kg_code" Comment="" EvaluatedDefinition="033&#8209;7&#8209;011">033&#8209;7&#8209;011</Variable>
     <Variable Name="MCScap-E_code" Comment="003-0-101" EvaluatedDefinition="033-0-101">033&#8209;0&#8209;101</Variable>
     <Variable Name="MCScap-E_name" Comment="" EvaluatedDefinition="MCScap-E">MCScap&#8209;E</Variable>
     <Variable Name="MCScap-T_code" Comment="003-0-102" EvaluatedDefinition="033-0-102">033&#8209;0&#8209;102</Variable>
@@ -113,14 +109,48 @@
     <Variable Name="MCScap-RT30_name" Comment="" EvaluatedDefinition="MCScap&#8209;RT&#8209;30">MCScap&#8209;RT&#8209;30</Variable>
     <Variable Name="MCScap-RT30_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;114">033&#8209;0&#8209;114</Variable>
     <Variable Name="MCScap-RT30_fullname" Comment="" EvaluatedDefinition="Комплект крепежный&#160;MCScap&#8209;RT&#8209;30">Комплект крепежный&#160;[%=ModuleAndDevicesNames.MCScap-RT30_name%]</Variable>
+    <Variable Name="granulGel_firstname" Comment="" EvaluatedDefinition="Твердый гель для регистрации ЭЭГ">Твердый гель для регистрации ЭЭГ</Variable>
+    <Variable Name="MCScap-T-HD_code" Comment="003-0-702" EvaluatedDefinition="003-0-702">003&#8209;0&#8209;702</Variable>
+    <Variable Name="MCScap-T-HD_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;HD">MCScap&#8209;T&#8209;HD</Variable>
+    <Variable Name="MCScap-T-HD_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;HD">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-HD_name%]</Variable>
+    <Variable Name="MCScap-T-MR_code" Comment="003-0-703" EvaluatedDefinition="003-0-703">003&#8209;0&#8209;703</Variable>
+    <Variable Name="MCScap-T-MR_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;MR">MCScap&#8209;T&#8209;MR</Variable>
+    <Variable Name="MCScap-T-MR_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;MR">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-MR_name%]</Variable>
+    <Variable Name="Clinic_name" Comment="" EvaluatedDefinition="CLINIC">[%=ModuleAndDevicesNames._CLINIC%]</Variable>
+    <Variable Name="Clinic_fullname" Comment="" EvaluatedDefinition="CLINIC">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Clinic_name%]</Variable>
+    <Variable Name="Base_code" Comment="003-8-001" EvaluatedDefinition="033-8-001">033&#8209;8&#8209;001</Variable>
+    <Variable Name="Base_name" Comment="" EvaluatedDefinition="BASE">[%=ModuleAndDevicesNames._BASE%]</Variable>
+    <Variable Name="Base_fullname" Comment="" EvaluatedDefinition="BASE">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Base_name%]</Variable>
+    <Variable Name="Professional-light_code" Comment="003-3-175" EvaluatedDefinition="033-3-081">033&#8209;3&#8209;081</Variable>
+    <Variable Name="Professional-light_name" Comment="" EvaluatedDefinition="PROFESSIONAL light">PROFESSIONAL light</Variable>
+    <Variable Name="Professional-light_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL light">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Professional-light_name%]</Variable>
+    <Variable Name="Professional_code" Comment="003-3-001" EvaluatedDefinition="033-3-001">033&#8209;3&#8209;001</Variable>
+    <Variable Name="Professional_name" Comment="" EvaluatedDefinition="PROFESSIONAL">[%=ModuleAndDevicesNames._PROFESSIONAL%]</Variable>
+    <Variable Name="Professional_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Professional_name%]</Variable>
+    <Variable Name="Sleep_code" Comment="003-2-001" EvaluatedDefinition="033-2-001">033&#8209;2&#8209;001</Variable>
+    <Variable Name="Sleep_name" Comment="" EvaluatedDefinition="SLEEP">[%=ModuleAndDevicesNames._SLEEP%]</Variable>
+    <Variable Name="Sleep_fullname" Comment="" EvaluatedDefinition="SLEEP">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Sleep_name%]</Variable>
+    <Variable Name="Electrode-set-classic_code" Comment="003-4-001" EvaluatedDefinition="033-4-001">033&#8209;4&#8209;001</Variable>
+    <Variable Name="Electrode-set-classic_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-24</Variable>
+    <Variable Name="Electrode-set-classic_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames.Electrode-set-classic_name%]</Variable>
+    <Variable Name="Electrode-set-36_code" Comment="003-4-002" EvaluatedDefinition="033-4-002">033&#8209;4&#8209;002</Variable>
+    <Variable Name="Electrode-set-36_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-36</Variable>
+    <Variable Name="_Electrode-set_firstname" Comment="" EvaluatedDefinition="Комплект">Комплект</Variable>
+    <Variable Name="Electrode-set-36_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames.Electrode-set-36_name%]</Variable>
+    <Variable Name="Electrode-set-52_code" Comment="003-4-003" EvaluatedDefinition="033-4-003">033&#8209;4&#8209;003</Variable>
+    <Variable Name="Electrode-set-52_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-52</Variable>
+    <Variable Name="Electrode-set-52_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames.Electrode-set-52_name%]</Variable>
+    <Variable Name="Electrode-set-74_code" Comment="003-4-006" EvaluatedDefinition="033-4-006">033&#8209;4&#8209;006</Variable>
+    <Variable Name="Electrode-set-74_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames._ELECTRODE_SET%] 10-10</Variable>
+    <Variable Name="Electrode-set-74_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames.Electrode-set-74_name%]</Variable>
+    <Variable Name="_CLINIC" Comment="" EvaluatedDefinition="CLINIC">CLINIC</Variable>
     <Variable Name="MCScap-color_code" Comment="003-0-213" EvaluatedDefinition="033-0-213">033&#8209;0&#8209;213</Variable>
     <Variable Name="MCScap-color_name" Comment="" EvaluatedDefinition="MCScap">MCScap</Variable>
     <Variable Name="MCScap-color_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-color_name%]</Variable>
     <Variable Name="MCScap-20_code" Comment="003-0-225" EvaluatedDefinition="033-0-225">033&#8209;0&#8209;225</Variable>
-    <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap&#8209;20">MCScap&#8209;20</Variable>
+    <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap 20&#8209;20">MCScap 20&#8209;20</Variable>
     <Variable Name="MCScap-20_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;20">[%=ModuleAndDevicesNames._textile-cap-rings_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-20_name%]</Variable>
-    <Variable Name="MCScap-32_code" Comment="" EvaluatedDefinition="">
-    </Variable>
+    <Variable Name="MCScap-32_code" Comment="" EvaluatedDefinition="MCScap-32">MCScap-32</Variable>
     <Variable Name="MCScap-32_name" Comment="" EvaluatedDefinition="MCScap&#8209;32">MCScap&#8209;32</Variable>
     <Variable Name="MCScap-32_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;32">[%=ModuleAndDevicesNames._textile-cap-rings_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-32_name%]</Variable>
     <Variable Name="MCScap-51_code" Comment="003-0-246" EvaluatedDefinition="033-0-246">033&#8209;0&#8209;246</Variable>
@@ -379,33 +409,6 @@
     <Variable Name="NeoRecCap-systemM_code" Comment="003-5-005" EvaluatedDefinition="033-5-141">033&#8209;5&#8209;141</Variable>
     <Variable Name="NeoRecCap-systemM-S_code" Comment="003-5-006" EvaluatedDefinition="033-5-151">033&#8209;5&#8209;151</Variable>
     <Variable Name="Clinic_code" Comment="003-1-001" EvaluatedDefinition="033-1-001">033&#8209;1&#8209;001</Variable>
-    <Variable Name="Clinic_name" Comment="" EvaluatedDefinition="CLINIC">CLINIC</Variable>
-    <Variable Name="Clinic_fullname" Comment="" EvaluatedDefinition="CLINIC">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Clinic_name%]</Variable>
-    <Variable Name="Base_code" Comment="003-8-001" EvaluatedDefinition="033-8-001">033&#8209;8&#8209;001</Variable>
-    <Variable Name="Base_name" Comment="" EvaluatedDefinition="BASE">BASE</Variable>
-    <Variable Name="Base_fullname" Comment="" EvaluatedDefinition="BASE">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Base_name%]</Variable>
-    <Variable Name="Professional-light_code" Comment="003-3-175" EvaluatedDefinition="033-3-081">033&#8209;3&#8209;081</Variable>
-    <Variable Name="Professional-light_name" Comment="" EvaluatedDefinition="PROFESSIONAL light">PROFESSIONAL light</Variable>
-    <Variable Name="Professional-light_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL light">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Professional-light_name%]</Variable>
-    <Variable Name="Professional_code" Comment="003-3-001" EvaluatedDefinition="033-3-001">033&#8209;3&#8209;001</Variable>
-    <Variable Name="Professional_name" Comment="" EvaluatedDefinition="PROFESSIONAL">PROFESSIONAL</Variable>
-    <Variable Name="Professional_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Professional_name%]</Variable>
-    <Variable Name="Sleep_code" Comment="003-2-001" EvaluatedDefinition="033-2-001">033&#8209;2&#8209;001</Variable>
-    <Variable Name="Sleep_name" Comment="" EvaluatedDefinition="SLEEP">SLEEP</Variable>
-    <Variable Name="Sleep_fullname" Comment="" EvaluatedDefinition="SLEEP">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Sleep_name%]</Variable>
-    <Variable Name="Electrode-set-classic_code" Comment="003-4-001" EvaluatedDefinition="033-4-001">033&#8209;4&#8209;001</Variable>
-    <Variable Name="Electrode-set-classic_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-24</Variable>
-    <Variable Name="Electrode-set-classic_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-classic_name%]</Variable>
-    <Variable Name="Electrode-set-36_code" Comment="003-4-002" EvaluatedDefinition="033-4-002">033&#8209;4&#8209;002</Variable>
-    <Variable Name="Electrode-set-36_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-36</Variable>
-    <Variable Name="_Electrode-set_firstname" Comment="" EvaluatedDefinition="Комплект">Комплект</Variable>
-    <Variable Name="Electrode-set-36_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-36_name%]</Variable>
-    <Variable Name="Electrode-set-52_code" Comment="003-4-003" EvaluatedDefinition="033-4-003">033&#8209;4&#8209;003</Variable>
-    <Variable Name="Electrode-set-52_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-52</Variable>
-    <Variable Name="Electrode-set-52_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-52_name%]</Variable>
-    <Variable Name="Electrode-set-74_code" Comment="003-4-006" EvaluatedDefinition="033-4-006">033&#8209;4&#8209;006</Variable>
-    <Variable Name="Electrode-set-74_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames._ELECTRODE_SET%] 10-10</Variable>
-    <Variable Name="Electrode-set-74_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames._Electrode-set_firstname%] [%=ModuleAndDevicesNames.Electrode-set-74_name%]</Variable>
     <Variable Name="ClinicXL-L_code" Comment="003-1-002" EvaluatedDefinition="033-1-002">033&#8209;1&#8209;002</Variable>
     <Variable Name="ClinicL_code" Comment="003-1-003" EvaluatedDefinition="033-1-003">033&#8209;1&#8209;003</Variable>
     <Variable Name="ClinicL-M_code" Comment="003-1-004" EvaluatedDefinition="033-1-004">033&#8209;1&#8209;004</Variable>
@@ -449,12 +452,8 @@
     <Variable Name="Professional-lightM_code" Comment="003-3-179" EvaluatedDefinition="033-3-085">033&#8209;3&#8209;085</Variable>
     <Variable Name="Professional-lightM-S_code" Comment="003-3-180" EvaluatedDefinition="033-3-086">033&#8209;3&#8209;086</Variable>
     <Variable Name="Professional-lightS_code" Comment="003-3-181" EvaluatedDefinition="033-3-087">033&#8209;3&#8209;087</Variable>
-    <Variable Name="_CLINIC" Comment="" EvaluatedDefinition="CLINIC">CLINIC</Variable>
-    <Variable Name="granulGel_firstname" Comment="" EvaluatedDefinition="Твердый гель для регистрации ЭЭГ">Твердый гель для регистрации ЭЭГ</Variable>
-    <Variable Name="MCScap-T-HD_code" Comment="003-0-702" EvaluatedDefinition="003-0-702">003&#8209;0&#8209;702</Variable>
-    <Variable Name="MCScap-T-HD_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;HD">MCScap&#8209;T&#8209;HD</Variable>
-    <Variable Name="MCScap-T-HD_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;HD">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-HD_name%]</Variable>
-    <Variable Name="MCScap-T-MR_code" Comment="003-0-703" EvaluatedDefinition="003-0-703">003&#8209;0&#8209;703</Variable>
-    <Variable Name="MCScap-T-MR_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;MR">MCScap&#8209;T&#8209;MR</Variable>
-    <Variable Name="MCScap-T-MR_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;MR">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-MR_name%]</Variable>
+    <Variable Name="MCScap-S190_code" Comment="" EvaluatedDefinition="081&#8209;0&#8209;121">081&#8209;0&#8209;121</Variable>
+    <Variable Name="MCScap-mannequinS_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;342">033&#8209;0&#8209;342</Variable>
+    <Variable Name="MCScap-plasters100_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;340">033&#8209;0&#8209;340</Variable>
+    <Variable Name="Unimax5kg_code" Comment="" EvaluatedDefinition="033&#8209;7&#8209;011">033&#8209;7&#8209;011</Variable>
 </CatapultVariableSet>

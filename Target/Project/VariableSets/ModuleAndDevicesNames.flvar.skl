@@ -46,415 +46,414 @@
     <Variable Name="Unimax_code" Comment="" EvaluatedDefinition="033&#8209;7&#8209;003">砻קยด43ตว融</Variable>
     <Variable Name="Unimax_name" Comment="" EvaluatedDefinition="Unimax">砻קยด44ตว融</Variable>
     <Variable Name="Unimax_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;гель&#160;Унимакс">砻קยด45ตว融</Variable>
-    <Variable Name="MCScap-S190_code" Comment="" EvaluatedDefinition="081&#8209;0&#8209;121">砻קยด46ตว融</Variable>
-    <Variable Name="MCScap-mannequinS_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;342">砻קยด47ตว融</Variable>
-    <Variable Name="MCScap-plasters100_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;340">砻קยด48ตว融</Variable>
-    <Variable Name="Unimax5kg_code" Comment="" EvaluatedDefinition="033&#8209;7&#8209;011">砻קยด49ตว融</Variable>
-    <Variable Name="MCScap-E_code" Comment="003-0-101" EvaluatedDefinition="033-0-101">砻קยด50ตว融</Variable>
-    <Variable Name="MCScap-E_name" Comment="" EvaluatedDefinition="MCScap-E">砻קยด51ตว融</Variable>
-    <Variable Name="MCScap-T_code" Comment="003-0-102" EvaluatedDefinition="033-0-102">砻קยด52ตว融</Variable>
-    <Variable Name="MCScap-T_name" Comment="" EvaluatedDefinition="MCScap-T">砻קยด53ตว融</Variable>
-    <Variable Name="MCScap-NT_code" Comment="003-0-103" EvaluatedDefinition="033-0-103">砻קยด54ตว融</Variable>
-    <Variable Name="MCScap-NT_name" Comment="" EvaluatedDefinition="MCScap-NT">砻קยด55ตว融</Variable>
-    <Variable Name="MCScap-NTC_code" Comment="003-0-104" EvaluatedDefinition="033-0-104">砻קยด56ตว融</Variable>
-    <Variable Name="MCScap-NTC_name" Comment="" EvaluatedDefinition="MCScap-NTC">砻קยด57ตว融</Variable>
-    <Variable Name="MCScap-NTH_code" Comment="003-0-105" EvaluatedDefinition="033-0-105">砻קยด58ตว融</Variable>
-    <Variable Name="MCScap-NTH_name" Comment="" EvaluatedDefinition="MCScap-NTH">砻קยด59ตว融</Variable>
-    <Variable Name="MCScap-C_code" Comment="003-0-106" EvaluatedDefinition="033-0-106">砻קยด60ตว融</Variable>
-    <Variable Name="MCScap-C_name" Comment="" EvaluatedDefinition="MCScap-C">砻קยด61ตว融</Variable>
-    <Variable Name="MCScap-TC_code" Comment="003-0-115" EvaluatedDefinition="033-0-115">砻קยด62ตว融</Variable>
-    <Variable Name="MCScap-TC_name" Comment="" EvaluatedDefinition="MCScap-TC">砻קยด63ตว融</Variable>
-    <Variable Name="MCScap-StTC_code" Comment="003-0-122" EvaluatedDefinition="033-0-122">砻קยด64ตว融</Variable>
-    <Variable Name="MCScap-StTC_name" Comment="" EvaluatedDefinition="MCScap-StTC">砻קยด65ตว融</Variable>
-    <Variable Name="MCScap-StNT_code" Comment="003-0-176" EvaluatedDefinition="033-0-127">砻קยด66ตว融</Variable>
-    <Variable Name="MCScap-StNT_name" Comment="" EvaluatedDefinition="MCScap-StNT">砻קยด67ตว融</Variable>
-    <Variable Name="Ear-BASE_code" Comment="003-0-108" EvaluatedDefinition="033-0-108">砻קยด68ตว融</Variable>
-    <Variable Name="Ear-BASE_fullname" Comment="" EvaluatedDefinition="Ушные электроды">砻קยด69ตว融</Variable>
-    <Variable Name="Ear-SLEEP_code" Comment="003-0-109" EvaluatedDefinition="033-0-109">砻קยด70ตว融</Variable>
-    <Variable Name="Ear-SLEEP_fullname" Comment="" EvaluatedDefinition="Ушные электроды SLEEP">砻קยด71ตว融</Variable>
-    <Variable Name="Ear-PROFESSIONAL_code" Comment="003-0-110" EvaluatedDefinition="033-0-110">砻קยด72ตว融</Variable>
-    <Variable Name="Ear-PROFESSIONAL_fullname" Comment="" EvaluatedDefinition="Ушные электроды PROFESSIONAL">砻קยด73ตว融</Variable>
-    <Variable Name="Ear-CLINIC_code" Comment="003-0-111" EvaluatedDefinition="033-0-111">砻קยด74ตว融</Variable>
-    <Variable Name="Ear-CLINIC_fullname" Comment="" EvaluatedDefinition="Ушные электроды CLINIC">砻קยด75ตว融</Variable>
-    <Variable Name="MCScap-A_code" Comment="003-0-112" EvaluatedDefinition="033-0-112">砻קยด76ตว融</Variable>
-    <Variable Name="MCScap-A_name" Comment="" EvaluatedDefinition="MCScap-A">砻קยด77ตว融</Variable>
-    <Variable Name="MCScap-AT_code" Comment="003-0-113" EvaluatedDefinition="033-0-113">砻קยด78ตว融</Variable>
-    <Variable Name="MCScap-AT_name" Comment="" EvaluatedDefinition="MCScap-AT">砻קยด79ตว融</Variable>
-    <Variable Name="Repair-MCScap-Е_code" Comment="003-0-125" EvaluatedDefinition="033-0-125">砻קยด80ตว融</Variable>
-    <Variable Name="Repair-MCScap-Е_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;E">砻קยด81ตว融</Variable>
-    <Variable Name="Repair-MCScap-C_code" Comment="003-0-116" EvaluatedDefinition="033-0-116">砻קยด82ตว融</Variable>
-    <Variable Name="Repair-MCScap-C_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;C">砻קยด83ตว融</Variable>
-    <Variable Name="Repair-MCScap-T_code" Comment="003-0-117" EvaluatedDefinition="033-0-117">砻קยด84ตว融</Variable>
-    <Variable Name="Repair-MCScap-T_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;T">砻קยด85ตว融</Variable>
-    <Variable Name="Repair-MCScap-NTC_code" Comment="003-0-118" EvaluatedDefinition="033-0-118">砻קยด86ตว融</Variable>
-    <Variable Name="Repair-MCScap-NTC_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;NTC">砻קยด87ตว融</Variable>
-    <Variable Name="Repair-MCScap-ТC_code" Comment="003-0-123" EvaluatedDefinition="033-0-123">砻קยด88ตว融</Variable>
-    <Variable Name="Repair-MCScap-ТC_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;TC">砻קยด89ตว融</Variable>
-    <Variable Name="Repair-MCScap-NT_code" Comment="003-0-124" EvaluatedDefinition="033-0-124">砻קยด90ตว融</Variable>
-    <Variable Name="Repair-MCScap-NT_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;NT">砻קยด91ตว融</Variable>
-    <Variable Name="Repairkit-CLINIC _code" Comment="003-0-317" EvaluatedDefinition="033-0-317">砻קยด92ตว融</Variable>
-    <Variable Name="Repairkit-CLINIC _fullname" Comment="" EvaluatedDefinition="Комплект ремонтный CLINIC">砻קยด93ตว融</Variable>
-    <Variable Name="Repairkit-SLEEP_code" Comment="003-0-318" EvaluatedDefinition="033-0-318">砻קยด94ตว融</Variable>
-    <Variable Name="Repairkit-SLEEP_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный SLEEP">砻קยด95ตว融</Variable>
-    <Variable Name="Repairkit-PROFESSIONAL_code" Comment="003-0-319" EvaluatedDefinition="033-0-319">砻קยด96ตว融</Variable>
-    <Variable Name="Repairkit-PROFESSIONAL_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный PROFESSIONAL">砻קยด97ตว融</Variable>
-    <Variable Name="Repairkit-CLINIC-TC_code" Comment="003-0-322" EvaluatedDefinition="033-0-322">砻קยด98ตว融</Variable>
-    <Variable Name="Repairkit-CLINIC-TC_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный CLINIC-TC">砻קยด99ตว融</Variable>
-    <Variable Name="Repairkit-PROFESSIONAL-NT_code" Comment="003-0-323" EvaluatedDefinition="033-0-323">砻קยด100ตว融</Variable>
-    <Variable Name="Repairkit-PROFESSIONAL-NT_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный PROFESSIONAL-NT">砻קยด101ตว融</Variable>
-    <Variable Name="Repairkit-BASE_code" Comment="003-0-324" EvaluatedDefinition="033-0-324">砻קยด102ตว融</Variable>
-    <Variable Name="Repairkit-BASE_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный BASE">砻קยด103ตว融</Variable>
-    <Variable Name="_SLEEP" Comment="" EvaluatedDefinition="SLEEP">砻קยด104ตว融</Variable>
-    <Variable Name="_PROFESSIONAL" Comment="" EvaluatedDefinition="PROFESSIONAL">砻קยด105ตว融</Variable>
-    <Variable Name="_BASE" Comment="" EvaluatedDefinition="BASE">砻קยด106ตว融</Variable>
-    <Variable Name="_CLINIC-TC" Comment="" EvaluatedDefinition="CLINIC-TC">砻קยด107ตว融</Variable>
-    <Variable Name="_PROFESSIONAL-NT" Comment="" EvaluatedDefinition="PROFESSIONAL-NT">砻קยด108ตว融</Variable>
-    <Variable Name="_ear-fixators_firstname" Comment="" EvaluatedDefinition="Фиксаторы ушные">砻קยด109ตว融</Variable>
-    <Variable Name="MCScap-RT30_name" Comment="" EvaluatedDefinition="MCScap&#8209;RT&#8209;30">砻קยด110ตว融</Variable>
-    <Variable Name="MCScap-RT30_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;114">砻קยด111ตว融</Variable>
-    <Variable Name="MCScap-RT30_fullname" Comment="" EvaluatedDefinition="Комплект крепежный&#160;MCScap&#8209;RT&#8209;30">砻קยด112ตว融</Variable>
-    <Variable Name="MCScap-color_code" Comment="003-0-213" EvaluatedDefinition="033-0-213">砻קยด113ตว融</Variable>
-    <Variable Name="MCScap-color_name" Comment="" EvaluatedDefinition="MCScap">砻קยด114ตว融</Variable>
-    <Variable Name="MCScap-color_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap">砻קยด115ตว融</Variable>
-    <Variable Name="MCScap-20_code" Comment="003-0-225" EvaluatedDefinition="033-0-225">砻קยด116ตว融</Variable>
-    <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap&#8209;20">砻קยด117ตว融</Variable>
-    <Variable Name="MCScap-20_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;20">砻קยด118ตว融</Variable>
-    <Variable Name="MCScap-32_code" Comment="" EvaluatedDefinition="">
-    </Variable>
-    <Variable Name="MCScap-32_name" Comment="" EvaluatedDefinition="MCScap&#8209;32">砻קยด119ตว融</Variable>
-    <Variable Name="MCScap-32_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;32">砻קยด120ตว融</Variable>
-    <Variable Name="MCScap-51_code" Comment="003-0-246" EvaluatedDefinition="033-0-246">砻קยด121ตว融</Variable>
-    <Variable Name="MCScap-51_name" Comment="" EvaluatedDefinition="MCScap&#8209;51">砻קยด122ตว融</Variable>
-    <Variable Name="MCScap-51_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;51">砻קยด123ตว融</Variable>
-    <Variable Name="MCScap-74_code" Comment="003-0-255" EvaluatedDefinition="033-0-255">砻קยด124ตว融</Variable>
-    <Variable Name="MCScap-74_name" Comment="" EvaluatedDefinition="MCScap&#8209;74">砻קยด125ตว融</Variable>
-    <Variable Name="MCScap-74_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;74">砻קยด126ตว融</Variable>
-    <Variable Name="MCScap-black_code" Comment="003-0-234" EvaluatedDefinition="033-0-234">砻קยด127ตว融</Variable>
-    <Variable Name="MCScap-black_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;10 чёрный">砻קยด128ตว融</Variable>
-    <Variable Name="MCScap-black_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;10 чёрный">砻קยด129ตว融</Variable>
-    <Variable Name="MCScap-10-5_code" Comment="003-0-264" EvaluatedDefinition="033-0-264">砻קยด130ตว融</Variable>
-    <Variable Name="MCScap-10-5_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;5">砻קยด131ตว融</Variable>
-    <Variable Name="Chest-belt_code" Comment="003-0-266" EvaluatedDefinition="033-0-266">砻קยด132ตว融</Variable>
-    <Variable Name="Chest-belt_name" Comment="" EvaluatedDefinition="MCScap">砻קยด133ตว融</Variable>
-    <Variable Name="Chest-belt_firstname" Comment="" EvaluatedDefinition="Пояс нагрудный">砻קยด134ตว融</Variable>
-    <Variable Name="Chin-belt_code" Comment="003-0-269" EvaluatedDefinition="033-0-269">砻קยด135ตว融</Variable>
-    <Variable Name="Chin-belt_name" Comment="" EvaluatedDefinition="MCScap">砻קยด136ตว融</Variable>
-    <Variable Name="Chin-belt_firstname" Comment="" EvaluatedDefinition="Подбородник">砻קยด137ตว融</Variable>
-    <Variable Name="MCScap-cover_code" Comment="003-0-272" EvaluatedDefinition="033-0-272">砻קยด138ตว融</Variable>
-    <Variable Name="MCScap-cover_name" Comment="" EvaluatedDefinition="MCScap COVER">砻קยด139ตว融</Variable>
-    <Variable Name="MCScap-light_code" Comment="003-0-284" EvaluatedDefinition="033-0-284">砻קยด140ตว融</Variable>
-    <Variable Name="MCScap-light_name" Comment="" EvaluatedDefinition="MCScap LIGHT">砻קยด141ตว融</Variable>
-    <Variable Name="MCScap-light_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap LIGHT">砻קยด142ตว融</Variable>
-    <Variable Name="Disposable-cover_code" Comment="003-0-296" EvaluatedDefinition="033-0-296">砻קยด143ตว融</Variable>
-    <Variable Name="Tubular-cap_code" Comment="003-0-351" EvaluatedDefinition="033-0-501">砻קยด144ตว融</Variable>
-    <Variable Name="Tubular-cap_fullname" Comment="" EvaluatedDefinition="Шлем из&#160;трубок регулируемый">砻קยด145ตว融</Variable>
-    <Variable Name="_textile-cap_firstname" Comment="" EvaluatedDefinition="Шлем текстильный">砻קยด146ตว融</Variable>
-    <Variable Name="_textile-cap-rings_firstname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами">砻קยด147ตว融</Variable>
-    <Variable Name="MCScap-colorXL-L_code" Comment="003-0-214" EvaluatedDefinition="033-0-214">砻קยด148ตว融</Variable>
-    <Variable Name="MCScap-colorL_code" Comment="003-0-215" EvaluatedDefinition="033-0-215">砻קยด149ตว融</Variable>
-    <Variable Name="MCScap-colorL-M_code" Comment="003-0-216" EvaluatedDefinition="033-0-216">砻קยด150ตว融</Variable>
-    <Variable Name="MCScap-colorM_code" Comment="003-0-217" EvaluatedDefinition="033-0-217">砻קยด151ตว融</Variable>
-    <Variable Name="MCScap-colorM-S_code" Comment="003-0-218" EvaluatedDefinition="033-0-218">砻קยด152ตว融</Variable>
-    <Variable Name="MCScap-colorS_code" Comment="003-0-219" EvaluatedDefinition="033-0-219">砻קยด153ตว融</Variable>
-    <Variable Name="MCScap-colorS-XS_code" Comment="003-0-220" EvaluatedDefinition="033-0-220">砻קยด154ตว融</Variable>
-    <Variable Name="MCScap-colorXS_code" Comment="003-0-221" EvaluatedDefinition="033-0-221">砻קยด155ตว融</Variable>
-    <Variable Name="MCScap-colorInf1_code" Comment="003-0-222" EvaluatedDefinition="033-0-222">砻קยด156ตว融</Variable>
-    <Variable Name="MCScap-colorInf2_code" Comment="003-0-223" EvaluatedDefinition="033-0-223">砻קยด157ตว融</Variable>
-    <Variable Name="MCScap-colorInf3_code" Comment="003-0-224" EvaluatedDefinition="033-0-224">砻קยด158ตว融</Variable>
-    <Variable Name="MCScap-20XL-L_code" Comment="003-0-226" EvaluatedDefinition="033-0-226">砻קยด159ตว融</Variable>
-    <Variable Name="MCScap-20L_code" Comment="003-0-227" EvaluatedDefinition="033-0-227">砻קยด160ตว融</Variable>
-    <Variable Name="MCScap-20L-M_code" Comment="003-0-228" EvaluatedDefinition="033-0-228">砻קยด161ตว融</Variable>
-    <Variable Name="MCScap-20M_code" Comment="003-0-229" EvaluatedDefinition="033-0-229">砻קยด162ตว融</Variable>
-    <Variable Name="MCScap-20M-S_code" Comment="003-0-230" EvaluatedDefinition="033-0-230">砻קยด163ตว融</Variable>
-    <Variable Name="MCScap-20S_code" Comment="003-0-231" EvaluatedDefinition="033-0-231">砻קยด164ตว融</Variable>
-    <Variable Name="MCScap-20S-XS_code" Comment="003-0-232" EvaluatedDefinition="033-0-232">砻קยด165ตว融</Variable>
-    <Variable Name="MCScap-20XS_code" Comment="003-0-233" EvaluatedDefinition="033-0-233">砻קยด166ตว融</Variable>
-    <Variable Name="MCScap-20Inf1_code" Comment="003-0-234" EvaluatedDefinition="033-0-234">砻קยด167ตว融</Variable>
-    <Variable Name="MCScap-blackXL-L_code" Comment="003-0-235" EvaluatedDefinition="033-0-235">砻קยด168ตว融</Variable>
-    <Variable Name="MCScap-blackL_code" Comment="003-0-236" EvaluatedDefinition="033-0-236">砻קยด169ตว融</Variable>
-    <Variable Name="MCScap-blackL-M_code" Comment="003-0-237" EvaluatedDefinition="033-0-237">砻קยด170ตว融</Variable>
-    <Variable Name="MCScap-blackM_code" Comment="003-0-238" EvaluatedDefinition="033-0-238">砻קยด171ตว融</Variable>
-    <Variable Name="MCScap-blackM-S_code" Comment="003-0-239" EvaluatedDefinition="033-0-239">砻קยด172ตว融</Variable>
-    <Variable Name="MCScap-blackS_code" Comment="003-0-240" EvaluatedDefinition="033-0-240">砻קยด173ตว融</Variable>
-    <Variable Name="MCScap-blackS-XS_code" Comment="003-0-241" EvaluatedDefinition="033-0-241">砻קยด174ตว融</Variable>
-    <Variable Name="MCScap-blackXS_code" Comment="003-0-242" EvaluatedDefinition="033-0-242">砻קยด175ตว融</Variable>
-    <Variable Name="MCScap-blackInf1_code" Comment="003-0-243" EvaluatedDefinition="033-0-243">砻קยด176ตว融</Variable>
-    <Variable Name="MCScap-blackInf2_code" Comment="003-0-244" EvaluatedDefinition="033-0-244">砻קยด177ตว融</Variable>
-    <Variable Name="MCScap-blackInf3_code" Comment="003-0-245" EvaluatedDefinition="033-0-245">砻קยด178ตว融</Variable>
-    <Variable Name="MCScap-51XL-L_code" Comment="003-0-247" EvaluatedDefinition="033-0-247">砻קยด179ตว融</Variable>
-    <Variable Name="MCScap-51L_code" Comment="003-0-248" EvaluatedDefinition="033-0-248">砻קยด180ตว融</Variable>
-    <Variable Name="MCScap-51L-M_code" Comment="003-0-249" EvaluatedDefinition="033-0-249">砻קยด181ตว融</Variable>
-    <Variable Name="MCScap-51M_code" Comment="003-0-250" EvaluatedDefinition="033-0-250">砻קยด182ตว融</Variable>
-    <Variable Name="MCScap-51M-S_code" Comment="003-0-251" EvaluatedDefinition="033-0-251">砻קยด183ตว融</Variable>
-    <Variable Name="MCScap-51S_code" Comment="003-0-252" EvaluatedDefinition="033-0-252">砻קยด184ตว融</Variable>
-    <Variable Name="MCScap-51S-XS_code" Comment="003-0-253" EvaluatedDefinition="033-0-253">砻קยด185ตว融</Variable>
-    <Variable Name="MCScap-51XS_code" Comment="003-0-254" EvaluatedDefinition="033-0-254">砻קยด186ตว融</Variable>
-    <Variable Name="MCScap-74XL-L_code" Comment="003-0-256" EvaluatedDefinition="033-0-256">砻קยด187ตว融</Variable>
-    <Variable Name="MCScap-74L_code" Comment="003-0-257" EvaluatedDefinition="033-0-257">砻קยด188ตว融</Variable>
-    <Variable Name="MCScap-74L-M_code" Comment="003-0-258" EvaluatedDefinition="033-0-258">砻קยด189ตว融</Variable>
-    <Variable Name="MCScap-74M_code" Comment="003-0-259" EvaluatedDefinition="033-0-259">砻קยด190ตว融</Variable>
-    <Variable Name="MCScap-74M-S_code" Comment="003-0-260" EvaluatedDefinition="033-0-260">砻קยด191ตว融</Variable>
-    <Variable Name="MCScap-74S_code" Comment="003-0-261" EvaluatedDefinition="033-0-261">砻קยด192ตว融</Variable>
-    <Variable Name="MCScap-74S-XS_code" Comment="003-0-262" EvaluatedDefinition="033-0-262">砻קยด193ตว融</Variable>
-    <Variable Name="MCScap-74XS_code" Comment="003-0-263" EvaluatedDefinition="033-0-263">砻קยด194ตว融</Variable>
-    <Variable Name="MCScap-10-5L-M_code" Comment="003-0-265" EvaluatedDefinition="033-0-265">砻קยด195ตว融</Variable>
-    <Variable Name="Chest-beltchildren_code" Comment="003-0-267" EvaluatedDefinition="033-0-267">砻קยด196ตว融</Variable>
-    <Variable Name="Chest-beltinfant_code" Comment="003-0-268" EvaluatedDefinition="033-0-268">砻קยด197ตว融</Variable>
-    <Variable Name="Chin-beltchildren_code" Comment="003-0-270" EvaluatedDefinition="033-0-270">砻קยด198ตว融</Variable>
-    <Variable Name="Chin-beltinfant_code" Comment="003-0-271" EvaluatedDefinition="033-0-271">砻קยด199ตว融</Variable>
-    <Variable Name="MCScap-coverXL-L_code" Comment="003-0-273" EvaluatedDefinition="033-0-273">砻קยด200ตว融</Variable>
-    <Variable Name="MCScap-coverL_code" Comment="003-0-274" EvaluatedDefinition="033-0-274">砻קยด201ตว融</Variable>
-    <Variable Name="MCScap-coverL-M_code" Comment="003-0-275" EvaluatedDefinition="033-0-275">砻קยด202ตว融</Variable>
-    <Variable Name="MCScap-coverM_code" Comment="003-0-276" EvaluatedDefinition="033-0-276">砻קยด203ตว融</Variable>
-    <Variable Name="MCScap-coverM-S_code" Comment="003-0-277" EvaluatedDefinition="033-0-277">砻קยด204ตว融</Variable>
-    <Variable Name="MCScap-coverS_code" Comment="003-0-278" EvaluatedDefinition="033-0-278">砻קยด205ตว融</Variable>
-    <Variable Name="MCScap-coverS-XS_code" Comment="003-0-279" EvaluatedDefinition="033-0-279">砻קยด206ตว融</Variable>
-    <Variable Name="MCScap-coverXS_code" Comment="003-0-280" EvaluatedDefinition="033-0-280">砻קยด207ตว融</Variable>
-    <Variable Name="MCScap-coverInf1_code" Comment="003-0-281" EvaluatedDefinition="033-0-281">砻קยด208ตว融</Variable>
-    <Variable Name="MCScap-coverInf2_code" Comment="003-0-282" EvaluatedDefinition="033-0-282">砻קยด209ตว融</Variable>
-    <Variable Name="MCScap-coverInf3_code" Comment="003-0-283" EvaluatedDefinition="033-0-283">砻קยด210ตว融</Variable>
-    <Variable Name="MCScap-lightXL-L_code" Comment="003-0-285" EvaluatedDefinition="033-0-285">砻קยด211ตว融</Variable>
-    <Variable Name="MCScap-lightL_code" Comment="003-0-286" EvaluatedDefinition="033-0-286">砻קยด212ตว融</Variable>
-    <Variable Name="MCScap-lightL-M_code" Comment="003-0-287" EvaluatedDefinition="033-0-287">砻קยด213ตว融</Variable>
-    <Variable Name="MCScap-lightM_code" Comment="003-0-288" EvaluatedDefinition="033-0-288">砻קยด214ตว融</Variable>
-    <Variable Name="MCScap-lightM-S_code" Comment="003-0-289" EvaluatedDefinition="033-0-289">砻קยด215ตว融</Variable>
-    <Variable Name="MCScap-lightS_code" Comment="003-0-290" EvaluatedDefinition="033-0-290">砻קยด216ตว融</Variable>
-    <Variable Name="MCScap-lightS-XS_code" Comment="003-0-291" EvaluatedDefinition="033-0-291">砻קยด217ตว融</Variable>
-    <Variable Name="MCScap-lightXS_code" Comment="003-0-292" EvaluatedDefinition="033-0-292">砻קยด218ตว融</Variable>
-    <Variable Name="MCScap-lightInf1_code" Comment="003-0-293" EvaluatedDefinition="033-0-293">砻קยด219ตว融</Variable>
-    <Variable Name="MCScap-lightInf2_code" Comment="003-0-294" EvaluatedDefinition="033-0-294">砻קยด220ตว融</Variable>
-    <Variable Name="MCScap-lightInf3_code" Comment="003-0-295" EvaluatedDefinition="033-0-295">砻קยด221ตว融</Variable>
-    <Variable Name="Disposable-coverL-M_code" Comment="003-0-297" EvaluatedDefinition="033-0-297">砻קยด222ตว融</Variable>
-    <Variable Name="Disposable-coverS-XS_code" Comment="003-0-298" EvaluatedDefinition="033-0-298">砻קยด223ตว融</Variable>
-    <Variable Name="Tubular-capM_code" Comment="003-0-352" EvaluatedDefinition="033-0-502">砻קยด224ตว融</Variable>
-    <Variable Name="Tubular-capS_code" Comment="003-0-353" EvaluatedDefinition="033-0-503">砻קยด225ตว融</Variable>
-    <Variable Name="MCScap-CS22SS_name" Comment="" EvaluatedDefinition="MCScap-CS22SS">砻קยด226ตว融</Variable>
-    <Variable Name="MCScap-CS22_name" Comment="" EvaluatedDefinition="MCScap-CS22">砻קยด227ตว融</Variable>
-    <Variable Name="MCScap-10-5M_code" Comment="003-0-354" EvaluatedDefinition="033&#8209;0&#8209;506">砻קยด228ตว融</Variable>
-    <Variable Name="Unigel_code" Comment="003-7-002" EvaluatedDefinition="033&#8209;7&#8209;002">砻קยด229ตว融</Variable>
-    <Variable Name="Unigel_name" EvaluatedDefinition="Унигель">砻קยด230ตว融</Variable>
-    <Variable Name="_ELECTRODE_SET" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET">砻קยด231ตว融</Variable>
-    <Variable Name="_mainMCScap" Comment="" EvaluatedDefinition="MCScap®">砻קยด232ตว融</Variable>
-    <Variable Name="Disposable-cover_name" Comment="" EvaluatedDefinition="Disposable cover">砻קยด233ตว融</Variable>
+    <Variable Name="MCScap-E_code" Comment="003-0-101" EvaluatedDefinition="033-0-101">砻קยด46ตว融</Variable>
+    <Variable Name="MCScap-E_name" Comment="" EvaluatedDefinition="MCScap-E">砻קยด47ตว融</Variable>
+    <Variable Name="MCScap-T_code" Comment="003-0-102" EvaluatedDefinition="033-0-102">砻קยด48ตว融</Variable>
+    <Variable Name="MCScap-T_name" Comment="" EvaluatedDefinition="MCScap-T">砻קยด49ตว融</Variable>
+    <Variable Name="MCScap-NT_code" Comment="003-0-103" EvaluatedDefinition="033-0-103">砻קยด50ตว融</Variable>
+    <Variable Name="MCScap-NT_name" Comment="" EvaluatedDefinition="MCScap-NT">砻קยด51ตว融</Variable>
+    <Variable Name="MCScap-NTC_code" Comment="003-0-104" EvaluatedDefinition="033-0-104">砻קยด52ตว融</Variable>
+    <Variable Name="MCScap-NTC_name" Comment="" EvaluatedDefinition="MCScap-NTC">砻קยด53ตว融</Variable>
+    <Variable Name="MCScap-NTH_code" Comment="003-0-105" EvaluatedDefinition="033-0-105">砻קยด54ตว融</Variable>
+    <Variable Name="MCScap-NTH_name" Comment="" EvaluatedDefinition="MCScap-NTH">砻קยด55ตว融</Variable>
+    <Variable Name="MCScap-C_code" Comment="003-0-106" EvaluatedDefinition="033-0-106">砻קยด56ตว融</Variable>
+    <Variable Name="MCScap-C_name" Comment="" EvaluatedDefinition="MCScap-C">砻קยด57ตว融</Variable>
+    <Variable Name="MCScap-TC_code" Comment="003-0-115" EvaluatedDefinition="033-0-115">砻קยด58ตว融</Variable>
+    <Variable Name="MCScap-TC_name" Comment="" EvaluatedDefinition="MCScap-TC">砻קยด59ตว融</Variable>
+    <Variable Name="MCScap-StTC_code" Comment="003-0-122" EvaluatedDefinition="033-0-122">砻קยด60ตว融</Variable>
+    <Variable Name="MCScap-StTC_name" Comment="" EvaluatedDefinition="MCScap-StTC">砻קยด61ตว融</Variable>
+    <Variable Name="MCScap-StNT_code" Comment="003-0-176" EvaluatedDefinition="033-0-127">砻קยด62ตว融</Variable>
+    <Variable Name="MCScap-StNT_name" Comment="" EvaluatedDefinition="MCScap-StNT">砻קยด63ตว融</Variable>
+    <Variable Name="Ear-BASE_code" Comment="003-0-108" EvaluatedDefinition="033-0-108">砻קยด64ตว融</Variable>
+    <Variable Name="Ear-BASE_fullname" Comment="" EvaluatedDefinition="Ушные электроды">砻קยด65ตว融</Variable>
+    <Variable Name="Ear-SLEEP_code" Comment="003-0-109" EvaluatedDefinition="033-0-109">砻קยด66ตว融</Variable>
+    <Variable Name="Ear-SLEEP_fullname" Comment="" EvaluatedDefinition="Ушные электроды SLEEP">砻קยด67ตว融</Variable>
+    <Variable Name="Ear-PROFESSIONAL_code" Comment="003-0-110" EvaluatedDefinition="033-0-110">砻קยด68ตว融</Variable>
+    <Variable Name="Ear-PROFESSIONAL_fullname" Comment="" EvaluatedDefinition="Ушные электроды PROFESSIONAL">砻קยด69ตว融</Variable>
+    <Variable Name="Ear-CLINIC_code" Comment="003-0-111" EvaluatedDefinition="033-0-111">砻קยด70ตว融</Variable>
+    <Variable Name="Ear-CLINIC_fullname" Comment="" EvaluatedDefinition="Ушные электроды CLINIC">砻קยด71ตว融</Variable>
+    <Variable Name="MCScap-A_code" Comment="003-0-112" EvaluatedDefinition="033-0-112">砻קยด72ตว融</Variable>
+    <Variable Name="MCScap-A_name" Comment="" EvaluatedDefinition="MCScap-A">砻קยด73ตว融</Variable>
+    <Variable Name="MCScap-AT_code" Comment="003-0-113" EvaluatedDefinition="033-0-113">砻קยด74ตว融</Variable>
+    <Variable Name="MCScap-AT_name" Comment="" EvaluatedDefinition="MCScap-AT">砻קยด75ตว融</Variable>
+    <Variable Name="Repair-MCScap-Е_code" Comment="003-0-125" EvaluatedDefinition="033-0-125">砻קยด76ตว融</Variable>
+    <Variable Name="Repair-MCScap-Е_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;E">砻קยด77ตว融</Variable>
+    <Variable Name="Repair-MCScap-C_code" Comment="003-0-116" EvaluatedDefinition="033-0-116">砻קยด78ตว融</Variable>
+    <Variable Name="Repair-MCScap-C_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;C">砻קยด79ตว融</Variable>
+    <Variable Name="Repair-MCScap-T_code" Comment="003-0-117" EvaluatedDefinition="033-0-117">砻קยด80ตว融</Variable>
+    <Variable Name="Repair-MCScap-T_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;T">砻קยด81ตว融</Variable>
+    <Variable Name="Repair-MCScap-NTC_code" Comment="003-0-118" EvaluatedDefinition="033-0-118">砻קยด82ตว融</Variable>
+    <Variable Name="Repair-MCScap-NTC_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;NTC">砻קยด83ตว融</Variable>
+    <Variable Name="Repair-MCScap-ТC_code" Comment="003-0-123" EvaluatedDefinition="033-0-123">砻קยด84ตว融</Variable>
+    <Variable Name="Repair-MCScap-ТC_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;TC">砻קยด85ตว融</Variable>
+    <Variable Name="Repair-MCScap-NT_code" Comment="003-0-124" EvaluatedDefinition="033-0-124">砻קยด86ตว融</Variable>
+    <Variable Name="Repair-MCScap-NT_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;NT">砻קยด87ตว融</Variable>
+    <Variable Name="Repairkit-CLINIC _code" Comment="003-0-317" EvaluatedDefinition="033-0-317">砻קยด88ตว融</Variable>
+    <Variable Name="Repairkit-CLINIC _fullname" Comment="" EvaluatedDefinition="Комплект ремонтный CLINIC">砻קยด89ตว融</Variable>
+    <Variable Name="Repairkit-SLEEP_code" Comment="003-0-318" EvaluatedDefinition="033-0-318">砻קยด90ตว融</Variable>
+    <Variable Name="Repairkit-SLEEP_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный SLEEP">砻קยด91ตว融</Variable>
+    <Variable Name="Repairkit-PROFESSIONAL_code" Comment="003-0-319" EvaluatedDefinition="033-0-319">砻קยด92ตว融</Variable>
+    <Variable Name="Repairkit-PROFESSIONAL_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный PROFESSIONAL">砻קยด93ตว融</Variable>
+    <Variable Name="Repairkit-CLINIC-TC_code" Comment="003-0-322" EvaluatedDefinition="033-0-322">砻קยด94ตว融</Variable>
+    <Variable Name="Repairkit-CLINIC-TC_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный CLINIC-TC">砻קยด95ตว融</Variable>
+    <Variable Name="Repairkit-PROFESSIONAL-NT_code" Comment="003-0-323" EvaluatedDefinition="033-0-323">砻קยด96ตว融</Variable>
+    <Variable Name="Repairkit-PROFESSIONAL-NT_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный PROFESSIONAL-NT">砻קยด97ตว融</Variable>
+    <Variable Name="Repairkit-BASE_code" Comment="003-0-324" EvaluatedDefinition="033-0-324">砻קยด98ตว融</Variable>
+    <Variable Name="Repairkit-BASE_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный BASE">砻קยด99ตว融</Variable>
+    <Variable Name="_SLEEP" Comment="" EvaluatedDefinition="SLEEP">砻קยด100ตว融</Variable>
+    <Variable Name="_PROFESSIONAL" Comment="" EvaluatedDefinition="PROFESSIONAL">砻קยด101ตว融</Variable>
+    <Variable Name="_BASE" Comment="" EvaluatedDefinition="BASE">砻קยด102ตว融</Variable>
+    <Variable Name="_CLINIC-TC" Comment="" EvaluatedDefinition="CLINIC-TC">砻קยด103ตว融</Variable>
+    <Variable Name="_PROFESSIONAL-NT" Comment="" EvaluatedDefinition="PROFESSIONAL-NT">砻קยด104ตว融</Variable>
+    <Variable Name="_ear-fixators_firstname" Comment="" EvaluatedDefinition="Фиксаторы ушные">砻קยด105ตว融</Variable>
+    <Variable Name="MCScap-RT30_name" Comment="" EvaluatedDefinition="MCScap&#8209;RT&#8209;30">砻קยด106ตว融</Variable>
+    <Variable Name="MCScap-RT30_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;114">砻קยด107ตว融</Variable>
+    <Variable Name="MCScap-RT30_fullname" Comment="" EvaluatedDefinition="Комплект крепежный&#160;MCScap&#8209;RT&#8209;30">砻קยด108ตว融</Variable>
+    <Variable Name="granulGel_firstname" Comment="" EvaluatedDefinition="Твердый гель для регистрации ЭЭГ">砻קยด109ตว融</Variable>
+    <Variable Name="MCScap-T-HD_code" Comment="003-0-702" EvaluatedDefinition="003-0-702">砻קยด110ตว融</Variable>
+    <Variable Name="MCScap-T-HD_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;HD">砻קยด111ตว融</Variable>
+    <Variable Name="MCScap-T-HD_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;HD">砻קยด112ตว融</Variable>
+    <Variable Name="MCScap-T-MR_code" Comment="003-0-703" EvaluatedDefinition="003-0-703">砻קยด113ตว融</Variable>
+    <Variable Name="MCScap-T-MR_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;MR">砻קยด114ตว融</Variable>
+    <Variable Name="MCScap-T-MR_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;MR">砻קยด115ตว融</Variable>
+    <Variable Name="Clinic_name" Comment="" EvaluatedDefinition="CLINIC">[%=ModuleAndDevicesNames._CLINIC%]</Variable>
+    <Variable Name="Clinic_fullname" Comment="" EvaluatedDefinition="CLINIC">砻קยด116ตว融</Variable>
+    <Variable Name="Base_code" Comment="003-8-001" EvaluatedDefinition="033-8-001">砻קยด117ตว融</Variable>
+    <Variable Name="Base_name" Comment="" EvaluatedDefinition="BASE">[%=ModuleAndDevicesNames._BASE%]</Variable>
+    <Variable Name="Base_fullname" Comment="" EvaluatedDefinition="BASE">砻קยด118ตว融</Variable>
+    <Variable Name="Professional-light_code" Comment="003-3-175" EvaluatedDefinition="033-3-081">砻קยด119ตว融</Variable>
+    <Variable Name="Professional-light_name" Comment="" EvaluatedDefinition="PROFESSIONAL light">砻קยด120ตว融</Variable>
+    <Variable Name="Professional-light_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL light">砻קยด121ตว融</Variable>
+    <Variable Name="Professional_code" Comment="003-3-001" EvaluatedDefinition="033-3-001">砻קยด122ตว融</Variable>
+    <Variable Name="Professional_name" Comment="" EvaluatedDefinition="PROFESSIONAL">[%=ModuleAndDevicesNames._PROFESSIONAL%]</Variable>
+    <Variable Name="Professional_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL">砻קยด123ตว融</Variable>
+    <Variable Name="Sleep_code" Comment="003-2-001" EvaluatedDefinition="033-2-001">砻קยด124ตว融</Variable>
+    <Variable Name="Sleep_name" Comment="" EvaluatedDefinition="SLEEP">[%=ModuleAndDevicesNames._SLEEP%]</Variable>
+    <Variable Name="Sleep_fullname" Comment="" EvaluatedDefinition="SLEEP">砻קยด125ตว融</Variable>
+    <Variable Name="Electrode-set-classic_code" Comment="003-4-001" EvaluatedDefinition="033-4-001">砻קยด126ตว融</Variable>
+    <Variable Name="Electrode-set-classic_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">砻קยด127ตว融</Variable>
+    <Variable Name="Electrode-set-classic_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames.Electrode-set-classic_name%]</Variable>
+    <Variable Name="Electrode-set-36_code" Comment="003-4-002" EvaluatedDefinition="033-4-002">砻קยด128ตว融</Variable>
+    <Variable Name="Electrode-set-36_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">砻קยด129ตว融</Variable>
+    <Variable Name="_Electrode-set_firstname" Comment="" EvaluatedDefinition="Комплект">砻קยด130ตว融</Variable>
+    <Variable Name="Electrode-set-36_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames.Electrode-set-36_name%]</Variable>
+    <Variable Name="Electrode-set-52_code" Comment="003-4-003" EvaluatedDefinition="033-4-003">砻קยด131ตว融</Variable>
+    <Variable Name="Electrode-set-52_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">砻קยด132ตว融</Variable>
+    <Variable Name="Electrode-set-52_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames.Electrode-set-52_name%]</Variable>
+    <Variable Name="Electrode-set-74_code" Comment="003-4-006" EvaluatedDefinition="033-4-006">砻קยด133ตว融</Variable>
+    <Variable Name="Electrode-set-74_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">砻קยด134ตว融</Variable>
+    <Variable Name="Electrode-set-74_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames.Electrode-set-74_name%]</Variable>
+    <Variable Name="_CLINIC" Comment="" EvaluatedDefinition="CLINIC">砻קยด135ตว融</Variable>
+    <Variable Name="MCScap-color_code" Comment="003-0-213" EvaluatedDefinition="033-0-213">砻קยด136ตว融</Variable>
+    <Variable Name="MCScap-color_name" Comment="" EvaluatedDefinition="MCScap">砻קยด137ตว融</Variable>
+    <Variable Name="MCScap-color_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap">砻קยด138ตว融</Variable>
+    <Variable Name="MCScap-20_code" Comment="003-0-225" EvaluatedDefinition="033-0-225">砻קยด139ตว融</Variable>
+    <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap 20&#8209;20">砻קยด140ตว融</Variable>
+    <Variable Name="MCScap-20_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;20">砻קยด141ตว融</Variable>
+    <Variable Name="MCScap-32_code" Comment="" EvaluatedDefinition="MCScap-32">砻קยด142ตว融</Variable>
+    <Variable Name="MCScap-32_name" Comment="" EvaluatedDefinition="MCScap&#8209;32">砻קยด143ตว融</Variable>
+    <Variable Name="MCScap-32_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;32">砻קยด144ตว融</Variable>
+    <Variable Name="MCScap-51_code" Comment="003-0-246" EvaluatedDefinition="033-0-246">砻קยด145ตว融</Variable>
+    <Variable Name="MCScap-51_name" Comment="" EvaluatedDefinition="MCScap&#8209;51">砻קยด146ตว融</Variable>
+    <Variable Name="MCScap-51_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;51">砻קยด147ตว融</Variable>
+    <Variable Name="MCScap-74_code" Comment="003-0-255" EvaluatedDefinition="033-0-255">砻קยด148ตว融</Variable>
+    <Variable Name="MCScap-74_name" Comment="" EvaluatedDefinition="MCScap&#8209;74">砻קยด149ตว融</Variable>
+    <Variable Name="MCScap-74_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами&#160;MCScap&#8209;74">砻קยด150ตว融</Variable>
+    <Variable Name="MCScap-black_code" Comment="003-0-234" EvaluatedDefinition="033-0-234">砻קยด151ตว融</Variable>
+    <Variable Name="MCScap-black_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;10 чёрный">砻קยด152ตว融</Variable>
+    <Variable Name="MCScap-black_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;10 чёрный">砻קยด153ตว融</Variable>
+    <Variable Name="MCScap-10-5_code" Comment="003-0-264" EvaluatedDefinition="033-0-264">砻קยด154ตว融</Variable>
+    <Variable Name="MCScap-10-5_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;5">砻קยด155ตว融</Variable>
+    <Variable Name="Chest-belt_code" Comment="003-0-266" EvaluatedDefinition="033-0-266">砻קยด156ตว融</Variable>
+    <Variable Name="Chest-belt_name" Comment="" EvaluatedDefinition="MCScap">砻קยด157ตว融</Variable>
+    <Variable Name="Chest-belt_firstname" Comment="" EvaluatedDefinition="Пояс нагрудный">砻קยด158ตว融</Variable>
+    <Variable Name="Chin-belt_code" Comment="003-0-269" EvaluatedDefinition="033-0-269">砻קยด159ตว融</Variable>
+    <Variable Name="Chin-belt_name" Comment="" EvaluatedDefinition="MCScap">砻קยด160ตว融</Variable>
+    <Variable Name="Chin-belt_firstname" Comment="" EvaluatedDefinition="Подбородник">砻קยด161ตว融</Variable>
+    <Variable Name="MCScap-cover_code" Comment="003-0-272" EvaluatedDefinition="033-0-272">砻קยด162ตว融</Variable>
+    <Variable Name="MCScap-cover_name" Comment="" EvaluatedDefinition="MCScap COVER">砻קยด163ตว融</Variable>
+    <Variable Name="MCScap-light_code" Comment="003-0-284" EvaluatedDefinition="033-0-284">砻קยด164ตว融</Variable>
+    <Variable Name="MCScap-light_name" Comment="" EvaluatedDefinition="MCScap LIGHT">砻קยด165ตว融</Variable>
+    <Variable Name="MCScap-light_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap LIGHT">砻קยด166ตว融</Variable>
+    <Variable Name="Disposable-cover_code" Comment="003-0-296" EvaluatedDefinition="033-0-296">砻קยด167ตว融</Variable>
+    <Variable Name="Tubular-cap_code" Comment="003-0-351" EvaluatedDefinition="033-0-501">砻קยด168ตว融</Variable>
+    <Variable Name="Tubular-cap_fullname" Comment="" EvaluatedDefinition="Шлем из&#160;трубок регулируемый">砻קยด169ตว融</Variable>
+    <Variable Name="_textile-cap_firstname" Comment="" EvaluatedDefinition="Шлем текстильный">砻קยด170ตว融</Variable>
+    <Variable Name="_textile-cap-rings_firstname" Comment="" EvaluatedDefinition="Шлем текстильный с фиксирующими кольцами">砻קยด171ตว融</Variable>
+    <Variable Name="MCScap-colorXL-L_code" Comment="003-0-214" EvaluatedDefinition="033-0-214">砻קยด172ตว融</Variable>
+    <Variable Name="MCScap-colorL_code" Comment="003-0-215" EvaluatedDefinition="033-0-215">砻קยด173ตว融</Variable>
+    <Variable Name="MCScap-colorL-M_code" Comment="003-0-216" EvaluatedDefinition="033-0-216">砻קยด174ตว融</Variable>
+    <Variable Name="MCScap-colorM_code" Comment="003-0-217" EvaluatedDefinition="033-0-217">砻קยด175ตว融</Variable>
+    <Variable Name="MCScap-colorM-S_code" Comment="003-0-218" EvaluatedDefinition="033-0-218">砻קยด176ตว融</Variable>
+    <Variable Name="MCScap-colorS_code" Comment="003-0-219" EvaluatedDefinition="033-0-219">砻קยด177ตว融</Variable>
+    <Variable Name="MCScap-colorS-XS_code" Comment="003-0-220" EvaluatedDefinition="033-0-220">砻קยด178ตว融</Variable>
+    <Variable Name="MCScap-colorXS_code" Comment="003-0-221" EvaluatedDefinition="033-0-221">砻קยด179ตว融</Variable>
+    <Variable Name="MCScap-colorInf1_code" Comment="003-0-222" EvaluatedDefinition="033-0-222">砻קยด180ตว融</Variable>
+    <Variable Name="MCScap-colorInf2_code" Comment="003-0-223" EvaluatedDefinition="033-0-223">砻קยด181ตว融</Variable>
+    <Variable Name="MCScap-colorInf3_code" Comment="003-0-224" EvaluatedDefinition="033-0-224">砻קยด182ตว融</Variable>
+    <Variable Name="MCScap-20XL-L_code" Comment="003-0-226" EvaluatedDefinition="033-0-226">砻קยด183ตว融</Variable>
+    <Variable Name="MCScap-20L_code" Comment="003-0-227" EvaluatedDefinition="033-0-227">砻קยด184ตว融</Variable>
+    <Variable Name="MCScap-20L-M_code" Comment="003-0-228" EvaluatedDefinition="033-0-228">砻קยด185ตว融</Variable>
+    <Variable Name="MCScap-20M_code" Comment="003-0-229" EvaluatedDefinition="033-0-229">砻קยด186ตว融</Variable>
+    <Variable Name="MCScap-20M-S_code" Comment="003-0-230" EvaluatedDefinition="033-0-230">砻קยด187ตว融</Variable>
+    <Variable Name="MCScap-20S_code" Comment="003-0-231" EvaluatedDefinition="033-0-231">砻קยด188ตว融</Variable>
+    <Variable Name="MCScap-20S-XS_code" Comment="003-0-232" EvaluatedDefinition="033-0-232">砻קยด189ตว融</Variable>
+    <Variable Name="MCScap-20XS_code" Comment="003-0-233" EvaluatedDefinition="033-0-233">砻קยด190ตว融</Variable>
+    <Variable Name="MCScap-20Inf1_code" Comment="003-0-234" EvaluatedDefinition="033-0-234">砻קยด191ตว融</Variable>
+    <Variable Name="MCScap-blackXL-L_code" Comment="003-0-235" EvaluatedDefinition="033-0-235">砻קยด192ตว融</Variable>
+    <Variable Name="MCScap-blackL_code" Comment="003-0-236" EvaluatedDefinition="033-0-236">砻קยด193ตว融</Variable>
+    <Variable Name="MCScap-blackL-M_code" Comment="003-0-237" EvaluatedDefinition="033-0-237">砻קยด194ตว融</Variable>
+    <Variable Name="MCScap-blackM_code" Comment="003-0-238" EvaluatedDefinition="033-0-238">砻קยด195ตว融</Variable>
+    <Variable Name="MCScap-blackM-S_code" Comment="003-0-239" EvaluatedDefinition="033-0-239">砻קยด196ตว融</Variable>
+    <Variable Name="MCScap-blackS_code" Comment="003-0-240" EvaluatedDefinition="033-0-240">砻קยด197ตว融</Variable>
+    <Variable Name="MCScap-blackS-XS_code" Comment="003-0-241" EvaluatedDefinition="033-0-241">砻קยด198ตว融</Variable>
+    <Variable Name="MCScap-blackXS_code" Comment="003-0-242" EvaluatedDefinition="033-0-242">砻קยด199ตว融</Variable>
+    <Variable Name="MCScap-blackInf1_code" Comment="003-0-243" EvaluatedDefinition="033-0-243">砻קยด200ตว融</Variable>
+    <Variable Name="MCScap-blackInf2_code" Comment="003-0-244" EvaluatedDefinition="033-0-244">砻קยด201ตว融</Variable>
+    <Variable Name="MCScap-blackInf3_code" Comment="003-0-245" EvaluatedDefinition="033-0-245">砻קยด202ตว融</Variable>
+    <Variable Name="MCScap-51XL-L_code" Comment="003-0-247" EvaluatedDefinition="033-0-247">砻קยด203ตว融</Variable>
+    <Variable Name="MCScap-51L_code" Comment="003-0-248" EvaluatedDefinition="033-0-248">砻קยด204ตว融</Variable>
+    <Variable Name="MCScap-51L-M_code" Comment="003-0-249" EvaluatedDefinition="033-0-249">砻קยด205ตว融</Variable>
+    <Variable Name="MCScap-51M_code" Comment="003-0-250" EvaluatedDefinition="033-0-250">砻קยด206ตว融</Variable>
+    <Variable Name="MCScap-51M-S_code" Comment="003-0-251" EvaluatedDefinition="033-0-251">砻קยด207ตว融</Variable>
+    <Variable Name="MCScap-51S_code" Comment="003-0-252" EvaluatedDefinition="033-0-252">砻קยด208ตว融</Variable>
+    <Variable Name="MCScap-51S-XS_code" Comment="003-0-253" EvaluatedDefinition="033-0-253">砻קยด209ตว融</Variable>
+    <Variable Name="MCScap-51XS_code" Comment="003-0-254" EvaluatedDefinition="033-0-254">砻קยด210ตว融</Variable>
+    <Variable Name="MCScap-74XL-L_code" Comment="003-0-256" EvaluatedDefinition="033-0-256">砻קยด211ตว融</Variable>
+    <Variable Name="MCScap-74L_code" Comment="003-0-257" EvaluatedDefinition="033-0-257">砻קยด212ตว融</Variable>
+    <Variable Name="MCScap-74L-M_code" Comment="003-0-258" EvaluatedDefinition="033-0-258">砻קยด213ตว融</Variable>
+    <Variable Name="MCScap-74M_code" Comment="003-0-259" EvaluatedDefinition="033-0-259">砻קยด214ตว融</Variable>
+    <Variable Name="MCScap-74M-S_code" Comment="003-0-260" EvaluatedDefinition="033-0-260">砻קยด215ตว融</Variable>
+    <Variable Name="MCScap-74S_code" Comment="003-0-261" EvaluatedDefinition="033-0-261">砻קยด216ตว融</Variable>
+    <Variable Name="MCScap-74S-XS_code" Comment="003-0-262" EvaluatedDefinition="033-0-262">砻קยด217ตว融</Variable>
+    <Variable Name="MCScap-74XS_code" Comment="003-0-263" EvaluatedDefinition="033-0-263">砻קยด218ตว融</Variable>
+    <Variable Name="MCScap-10-5L-M_code" Comment="003-0-265" EvaluatedDefinition="033-0-265">砻קยด219ตว融</Variable>
+    <Variable Name="Chest-beltchildren_code" Comment="003-0-267" EvaluatedDefinition="033-0-267">砻קยด220ตว融</Variable>
+    <Variable Name="Chest-beltinfant_code" Comment="003-0-268" EvaluatedDefinition="033-0-268">砻קยด221ตว融</Variable>
+    <Variable Name="Chin-beltchildren_code" Comment="003-0-270" EvaluatedDefinition="033-0-270">砻קยด222ตว融</Variable>
+    <Variable Name="Chin-beltinfant_code" Comment="003-0-271" EvaluatedDefinition="033-0-271">砻קยด223ตว融</Variable>
+    <Variable Name="MCScap-coverXL-L_code" Comment="003-0-273" EvaluatedDefinition="033-0-273">砻קยด224ตว融</Variable>
+    <Variable Name="MCScap-coverL_code" Comment="003-0-274" EvaluatedDefinition="033-0-274">砻קยด225ตว融</Variable>
+    <Variable Name="MCScap-coverL-M_code" Comment="003-0-275" EvaluatedDefinition="033-0-275">砻קยด226ตว融</Variable>
+    <Variable Name="MCScap-coverM_code" Comment="003-0-276" EvaluatedDefinition="033-0-276">砻קยด227ตว融</Variable>
+    <Variable Name="MCScap-coverM-S_code" Comment="003-0-277" EvaluatedDefinition="033-0-277">砻קยด228ตว融</Variable>
+    <Variable Name="MCScap-coverS_code" Comment="003-0-278" EvaluatedDefinition="033-0-278">砻קยด229ตว融</Variable>
+    <Variable Name="MCScap-coverS-XS_code" Comment="003-0-279" EvaluatedDefinition="033-0-279">砻קยด230ตว融</Variable>
+    <Variable Name="MCScap-coverXS_code" Comment="003-0-280" EvaluatedDefinition="033-0-280">砻קยด231ตว融</Variable>
+    <Variable Name="MCScap-coverInf1_code" Comment="003-0-281" EvaluatedDefinition="033-0-281">砻קยด232ตว融</Variable>
+    <Variable Name="MCScap-coverInf2_code" Comment="003-0-282" EvaluatedDefinition="033-0-282">砻קยด233ตว融</Variable>
+    <Variable Name="MCScap-coverInf3_code" Comment="003-0-283" EvaluatedDefinition="033-0-283">砻קยด234ตว融</Variable>
+    <Variable Name="MCScap-lightXL-L_code" Comment="003-0-285" EvaluatedDefinition="033-0-285">砻קยด235ตว融</Variable>
+    <Variable Name="MCScap-lightL_code" Comment="003-0-286" EvaluatedDefinition="033-0-286">砻קยด236ตว融</Variable>
+    <Variable Name="MCScap-lightL-M_code" Comment="003-0-287" EvaluatedDefinition="033-0-287">砻קยด237ตว融</Variable>
+    <Variable Name="MCScap-lightM_code" Comment="003-0-288" EvaluatedDefinition="033-0-288">砻קยด238ตว融</Variable>
+    <Variable Name="MCScap-lightM-S_code" Comment="003-0-289" EvaluatedDefinition="033-0-289">砻קยด239ตว融</Variable>
+    <Variable Name="MCScap-lightS_code" Comment="003-0-290" EvaluatedDefinition="033-0-290">砻קยด240ตว融</Variable>
+    <Variable Name="MCScap-lightS-XS_code" Comment="003-0-291" EvaluatedDefinition="033-0-291">砻קยด241ตว融</Variable>
+    <Variable Name="MCScap-lightXS_code" Comment="003-0-292" EvaluatedDefinition="033-0-292">砻קยด242ตว融</Variable>
+    <Variable Name="MCScap-lightInf1_code" Comment="003-0-293" EvaluatedDefinition="033-0-293">砻קยด243ตว融</Variable>
+    <Variable Name="MCScap-lightInf2_code" Comment="003-0-294" EvaluatedDefinition="033-0-294">砻קยด244ตว融</Variable>
+    <Variable Name="MCScap-lightInf3_code" Comment="003-0-295" EvaluatedDefinition="033-0-295">砻קยด245ตว融</Variable>
+    <Variable Name="Disposable-coverL-M_code" Comment="003-0-297" EvaluatedDefinition="033-0-297">砻קยด246ตว融</Variable>
+    <Variable Name="Disposable-coverS-XS_code" Comment="003-0-298" EvaluatedDefinition="033-0-298">砻קยด247ตว融</Variable>
+    <Variable Name="Tubular-capM_code" Comment="003-0-352" EvaluatedDefinition="033-0-502">砻קยด248ตว融</Variable>
+    <Variable Name="Tubular-capS_code" Comment="003-0-353" EvaluatedDefinition="033-0-503">砻קยด249ตว融</Variable>
+    <Variable Name="MCScap-CS22SS_name" Comment="" EvaluatedDefinition="MCScap-CS22SS">砻קยด250ตว融</Variable>
+    <Variable Name="MCScap-CS22_name" Comment="" EvaluatedDefinition="MCScap-CS22">砻קยด251ตว融</Variable>
+    <Variable Name="MCScap-10-5M_code" Comment="003-0-354" EvaluatedDefinition="033&#8209;0&#8209;506">砻קยด252ตว融</Variable>
+    <Variable Name="Unigel_code" Comment="003-7-002" EvaluatedDefinition="033&#8209;7&#8209;002">砻קยด253ตว融</Variable>
+    <Variable Name="Unigel_name" EvaluatedDefinition="Унигель">砻קยด254ตว融</Variable>
+    <Variable Name="_ELECTRODE_SET" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET">砻קยด255ตว融</Variable>
+    <Variable Name="_mainMCScap" Comment="" EvaluatedDefinition="MCScap®">砻קยด256ตว融</Variable>
+    <Variable Name="Disposable-cover_name" Comment="" EvaluatedDefinition="Disposable cover">砻קยด257ตว融</Variable>
     <Variable Name="ABSfixator_fullname" Comment="" EvaluatedDefinition="Кабельные фиксаторы">[%=ModuleAndDevicesNames.ABSfixator_name%]</Variable>
-    <Variable Name="DB25FM-extension_fullname" Comment="" EvaluatedDefinition="Удлинитель электродный&#160;DB25F&#8209;M">砻קยด234ตว融</Variable>
-    <Variable Name="Chest-belt_fullname" Comment="" EvaluatedDefinition="Пояс нагрудный&#160;MCScap">砻קยด235ตว融</Variable>
-    <Variable Name="Chin-belt_fullname" Comment="" EvaluatedDefinition="Подбородник&#160;MCScap">砻קยด236ตว融</Variable>
-    <Variable Name="DB25FM-adapter_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;DB25F&#8209;M">砻קยด237ตว融</Variable>
-    <Variable Name="Disposable-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный одноразовый Disposable cover">砻קยด238ตว融</Variable>
-    <Variable Name="MCScap-10-5_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;5">砻קยด239ตว融</Variable>
-    <Variable Name="MCScap-A_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;A">砻קยด240ตว融</Variable>
-    <Variable Name="MCScap-AT_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;AT">砻קยด241ตว融</Variable>
-    <Variable Name="MCScap-C_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;C">砻קยด242ตว融</Variable>
-    <Variable Name="MCScap-CS22_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap-CS22">砻קยด243ตว融</Variable>
-    <Variable Name="MCScap-CS22SS_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap-CS22SS">砻קยด244ตว融</Variable>
-    <Variable Name="MCScap-E_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;E">砻קยด245ตว融</Variable>
-    <Variable Name="MCScap-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный многоразовый&#160;MCScap COVER">砻קยด246ตว融</Variable>
-    <Variable Name="_mannequin_name" Comment="" EvaluatedDefinition="Манекен">砻קยด247ตว融</Variable>
-    <Variable Name="MCScap-mannequin_fullname" Comment="" EvaluatedDefinition="Манекен&#160;MCScap">砻קยด248ตว融</Variable>
-    <Variable Name="MCScap-NT_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NT">砻קยด249ตว融</Variable>
-    <Variable Name="MCScap-NTC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NTC">砻קยด250ตว融</Variable>
-    <Variable Name="MCScap-NTH_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NTH">砻קยด251ตว融</Variable>
-    <Variable Name="MCScap-StNT_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;StNT">砻קยด252ตว融</Variable>
-    <Variable Name="MCScap-StTC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;StTC">砻קยด253ตว融</Variable>
-    <Variable Name="MCScap-T_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;T">砻קยด254ตว融</Variable>
-    <Variable Name="MCScap-TC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;TC">砻קยด255ตว融</Variable>
-    <Variable Name="MCScap-plasters_fullname" Comment="" EvaluatedDefinition="Пластырь&#160;MCScap plasters">砻קยด256ตว融</Variable>
-    <Variable Name="TP2DB25_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB25">砻קยด257ตว融</Variable>
-    <Variable Name="TP2DB25F_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB25F">砻קยด258ตว融</Variable>
-    <Variable Name="Unigel_fullname" EvaluatedDefinition="ЭЭГ&#160;гель&#160;Унигель">砻קยด259ตว融</Variable>
-    <Variable Name="NVX2CAP_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;NVX2CAP">砻קยด260ตว融</Variable>
-    <Variable Name="NVX2CAP24_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;NVX2CAP&#8209;24">砻קยด261ตว融</Variable>
-    <Variable Name="fixing-ring_code" Comment="003-0-301" EvaluatedDefinition="033-0-301">砻קยด262ตว融</Variable>
-    <Variable Name="fixing-ring_name" Comment="" EvaluatedDefinition="Фиксирующее кольцо MCScap">砻קยด263ตว融</Variable>
+    <Variable Name="DB25FM-extension_fullname" Comment="" EvaluatedDefinition="Удлинитель электродный&#160;DB25F&#8209;M">砻קยด258ตว融</Variable>
+    <Variable Name="Chest-belt_fullname" Comment="" EvaluatedDefinition="Пояс нагрудный&#160;MCScap">砻קยด259ตว融</Variable>
+    <Variable Name="Chin-belt_fullname" Comment="" EvaluatedDefinition="Подбородник&#160;MCScap">砻קยด260ตว融</Variable>
+    <Variable Name="DB25FM-adapter_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;DB25F&#8209;M">砻קยด261ตว融</Variable>
+    <Variable Name="Disposable-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный одноразовый Disposable cover">砻קยด262ตว融</Variable>
+    <Variable Name="MCScap-10-5_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;5">砻קยด263ตว融</Variable>
+    <Variable Name="MCScap-A_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;A">砻קยด264ตว融</Variable>
+    <Variable Name="MCScap-AT_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;AT">砻קยด265ตว融</Variable>
+    <Variable Name="MCScap-C_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;C">砻קยด266ตว融</Variable>
+    <Variable Name="MCScap-CS22_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap-CS22">砻קยด267ตว融</Variable>
+    <Variable Name="MCScap-CS22SS_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap-CS22SS">砻קยด268ตว融</Variable>
+    <Variable Name="MCScap-E_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;E">砻קยด269ตว融</Variable>
+    <Variable Name="MCScap-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный многоразовый&#160;MCScap COVER">砻קยด270ตว融</Variable>
+    <Variable Name="_mannequin_name" Comment="" EvaluatedDefinition="Манекен">砻קยด271ตว融</Variable>
+    <Variable Name="MCScap-mannequin_fullname" Comment="" EvaluatedDefinition="Манекен&#160;MCScap">砻קยด272ตว融</Variable>
+    <Variable Name="MCScap-NT_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NT">砻קยด273ตว融</Variable>
+    <Variable Name="MCScap-NTC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NTC">砻קยด274ตว融</Variable>
+    <Variable Name="MCScap-NTH_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NTH">砻קยด275ตว融</Variable>
+    <Variable Name="MCScap-StNT_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;StNT">砻קยด276ตว融</Variable>
+    <Variable Name="MCScap-StTC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;StTC">砻קยด277ตว融</Variable>
+    <Variable Name="MCScap-T_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;T">砻קยด278ตว融</Variable>
+    <Variable Name="MCScap-TC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;TC">砻קยด279ตว融</Variable>
+    <Variable Name="MCScap-plasters_fullname" Comment="" EvaluatedDefinition="Пластырь&#160;MCScap plasters">砻קยด280ตว融</Variable>
+    <Variable Name="TP2DB25_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB25">砻קยด281ตว融</Variable>
+    <Variable Name="TP2DB25F_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB25F">砻קยด282ตว融</Variable>
+    <Variable Name="Unigel_fullname" EvaluatedDefinition="ЭЭГ&#160;гель&#160;Унигель">砻קยด283ตว融</Variable>
+    <Variable Name="NVX2CAP_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;NVX2CAP">砻קยด284ตว融</Variable>
+    <Variable Name="NVX2CAP24_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;NVX2CAP&#8209;24">砻קยด285ตว融</Variable>
+    <Variable Name="fixing-ring_code" Comment="003-0-301" EvaluatedDefinition="033-0-301">砻קยด286ตว融</Variable>
+    <Variable Name="fixing-ring_name" Comment="" EvaluatedDefinition="Фиксирующее кольцо MCScap">砻קยด287ตว融</Variable>
     <Variable Name="fixing-ring_fullname" Comment="" EvaluatedDefinition="Фиксирующее кольцо MCScap">[%=ModuleAndDevicesNames.fixing-ring_name%]</Variable>
-    <Variable Name="fixing-ring-10yellow_code" Comment="003-0-329" EvaluatedDefinition="033-0-301y10">砻קยด264ตว融</Variable>
-    <Variable Name="fixing-ring-10black_code" Comment="003-0-331" EvaluatedDefinition="033-0-301b10">砻קยด265ตว融</Variable>
-    <Variable Name="labelrings-1020_code" Comment="003-0-302" EvaluatedDefinition="033-0-302">砻קยด266ตว融</Variable>
-    <Variable Name="labelrings-1020_name" Comment="" EvaluatedDefinition="Ярлыки для колец, система 10-20">砻קยด267ตว融</Variable>
+    <Variable Name="fixing-ring-10yellow_code" Comment="003-0-329" EvaluatedDefinition="033-0-301y10">砻קยด288ตว融</Variable>
+    <Variable Name="fixing-ring-10black_code" Comment="003-0-331" EvaluatedDefinition="033-0-301b10">砻קยด289ตว融</Variable>
+    <Variable Name="labelrings-1020_code" Comment="003-0-302" EvaluatedDefinition="033-0-302">砻קยด290ตว融</Variable>
+    <Variable Name="labelrings-1020_name" Comment="" EvaluatedDefinition="Ярлыки для колец, система 10-20">砻קยด291ตว融</Variable>
     <Variable Name="labelrings-1020_fullname" Comment="" EvaluatedDefinition="Ярлыки для колец, система 10-20">[%=ModuleAndDevicesNames.labelrings-1020_name%]</Variable>
-    <Variable Name="labelrings-1010_code" Comment="003-0-303" EvaluatedDefinition="033-0-303">砻קยด268ตว融</Variable>
-    <Variable Name="labelrings-1010_name" Comment="" EvaluatedDefinition="Ярлыки для колец, система 10&#8209;10">砻קยด269ตว融</Variable>
+    <Variable Name="labelrings-1010_code" Comment="003-0-303" EvaluatedDefinition="033-0-303">砻קยด292ตว融</Variable>
+    <Variable Name="labelrings-1010_name" Comment="" EvaluatedDefinition="Ярлыки для колец, система 10&#8209;10">砻קยด293ตว融</Variable>
     <Variable Name="labelrings-1010_fullname" Comment="" EvaluatedDefinition="Ярлыки для колец, система 10-11">[%=ModuleAndDevicesNames.labelrings-1010_name%]</Variable>
-    <Variable Name="labelelectrodes-1020_code" Comment="003-0-304" EvaluatedDefinition="033-0-304">砻קยด270ตว融</Variable>
-    <Variable Name="labelelectrodes-1020_name" Comment="" EvaluatedDefinition="Ярлыки для электродов, система 10-20">砻קยด271ตว融</Variable>
+    <Variable Name="labelelectrodes-1020_code" Comment="003-0-304" EvaluatedDefinition="033-0-304">砻קยด294ตว融</Variable>
+    <Variable Name="labelelectrodes-1020_name" Comment="" EvaluatedDefinition="Ярлыки для электродов, система 10-20">砻קยด295ตว融</Variable>
     <Variable Name="labelelectrodes-1020_fullname" Comment="" EvaluatedDefinition="Ярлыки для электродов, система 10-20">[%=ModuleAndDevicesNames.labelelectrodes-1020_name%]</Variable>
-    <Variable Name="labelelectrodes-1010_code" Comment="003-0-305" EvaluatedDefinition="033-0-305">砻קยด272ตว融</Variable>
-    <Variable Name="labelelectrodes-1010_name" Comment="" EvaluatedDefinition="Ярлыки для электродов, система 10-10">砻קยด273ตว融</Variable>
+    <Variable Name="labelelectrodes-1010_code" Comment="003-0-305" EvaluatedDefinition="033-0-305">砻קยด296ตว融</Variable>
+    <Variable Name="labelelectrodes-1010_name" Comment="" EvaluatedDefinition="Ярлыки для электродов, система 10-10">砻קยด297ตว融</Variable>
     <Variable Name="labelelectrodes-1010_fullname" Comment="" EvaluatedDefinition="Ярлыки для электродов, система 10-10">[%=ModuleAndDevicesNames.labelelectrodes-1010_name%]</Variable>
-    <Variable Name="measuring-MCScap_code" Comment="003-0-306" EvaluatedDefinition="033-0-306">砻קยด274ตว融</Variable>
-    <Variable Name="measuring-MCScap_name" Comment="" EvaluatedDefinition="Лента измерительная SECA">砻קยด275ตว融</Variable>
+    <Variable Name="measuring-MCScap_code" Comment="003-0-306" EvaluatedDefinition="033-0-306">砻קยด298ตว融</Variable>
+    <Variable Name="measuring-MCScap_name" Comment="" EvaluatedDefinition="Лента измерительная SECA">砻קยด299ตว融</Variable>
     <Variable Name="measuring-MCScap_fullname" Comment="" EvaluatedDefinition="Лента измерительная SECA">[%=ModuleAndDevicesNames.measuring-MCScap_name%]</Variable>
-    <Variable Name="measuring-standard_code" Comment="003-0-307" EvaluatedDefinition="033-0-307">砻קยด276ตว融</Variable>
-    <Variable Name="measuring-standard_name" Comment="" EvaluatedDefinition="Лента измерительная сантиметровая, стандартная">砻קยด277ตว融</Variable>
+    <Variable Name="measuring-standard_code" Comment="003-0-307" EvaluatedDefinition="033-0-307">砻קยด300ตว融</Variable>
+    <Variable Name="measuring-standard_name" Comment="" EvaluatedDefinition="Лента измерительная сантиметровая, стандартная">砻קยด301ตว融</Variable>
     <Variable Name="measuring-standard_fullname" Comment="" EvaluatedDefinition="Лента измерительная сантиметровая, стандартная">[%=ModuleAndDevicesNames.measuring-standard_name%]</Variable>
-    <Variable Name="measuring-disposable_code" Comment="033-0-334" EvaluatedDefinition="033-0-334">砻קยด278ตว融</Variable>
-    <Variable Name="measuring-disposable_name" Comment="" EvaluatedDefinition="Лента мерная одноразовая MCScap">砻קยด279ตว融</Variable>
+    <Variable Name="measuring-disposable_code" Comment="033-0-334" EvaluatedDefinition="033-0-334">砻קยด302ตว融</Variable>
+    <Variable Name="measuring-disposable_name" Comment="" EvaluatedDefinition="Лента мерная одноразовая MCScap">砻קยด303ตว融</Variable>
     <Variable Name="measuring-disposable_fullname" Comment="" EvaluatedDefinition="Лента мерная одноразовая MCScap">[%=ModuleAndDevicesNames.measuring-disposable_name%]</Variable>
-    <Variable Name="syringe_code" Comment="003-0-308" EvaluatedDefinition="033-0-308">砻קยด280ตว融</Variable>
-    <Variable Name="syringe_name" Comment="" EvaluatedDefinition="Шприц для геля">砻קยด281ตว融</Variable>
+    <Variable Name="syringe_code" Comment="003-0-308" EvaluatedDefinition="033-0-308">砻קยด304ตว融</Variable>
+    <Variable Name="syringe_name" Comment="" EvaluatedDefinition="Шприц для геля">砻קยด305ตว融</Variable>
     <Variable Name="syringe_fullname" Comment="" EvaluatedDefinition="Шприц для геля">[%=ModuleAndDevicesNames.syringe_name%]</Variable>
-    <Variable Name="syringe5_code" Comment="003-0-309" EvaluatedDefinition="033-0-309">砻קยด282ตว融</Variable>
-    <Variable Name="needle-reusable_code" Comment="003-0-310" EvaluatedDefinition="033-0-310">砻קยด283ตว融</Variable>
-    <Variable Name="needle-reusable_name" Comment="" EvaluatedDefinition="Игла многоразовая">砻קยด284ตว融</Variable>
+    <Variable Name="syringe5_code" Comment="003-0-309" EvaluatedDefinition="033-0-309">砻קยด306ตว融</Variable>
+    <Variable Name="needle-reusable_code" Comment="003-0-310" EvaluatedDefinition="033-0-310">砻קยด307ตว融</Variable>
+    <Variable Name="needle-reusable_name" Comment="" EvaluatedDefinition="Игла многоразовая">砻קยด308ตว融</Variable>
     <Variable Name="needle-reusable_fullname" Comment="" EvaluatedDefinition="Игла многоразовая">[%=ModuleAndDevicesNames.needle-reusable_name%]</Variable>
-    <Variable Name="needle-reusable-inf_code" Comment="003-0-311" EvaluatedDefinition="033-0-311">砻קยด285ตว融</Variable>
-    <Variable Name="needle-reusable-inf_name" Comment="" EvaluatedDefinition="Игла многоразовая укороченная">砻קยด286ตว融</Variable>
+    <Variable Name="needle-reusable-inf_code" Comment="003-0-311" EvaluatedDefinition="033-0-311">砻קยด309ตว融</Variable>
+    <Variable Name="needle-reusable-inf_name" Comment="" EvaluatedDefinition="Игла многоразовая укороченная">砻קยด310ตว融</Variable>
     <Variable Name="needle-reusable-inf_fullname" Comment="" EvaluatedDefinition="Игла многоразовая укороченная">[%=ModuleAndDevicesNames.needle-reusable-inf_name%]</Variable>
-    <Variable Name="disposable-needle_code" Comment="003-0-312" EvaluatedDefinition="033-0-312">砻קยด287ตว融</Variable>
-    <Variable Name="disposable-needle_name" Comment="" EvaluatedDefinition="Одноразовые иглы">砻קยด288ตว融</Variable>
+    <Variable Name="disposable-needle_code" Comment="003-0-312" EvaluatedDefinition="033-0-312">砻קยด311ตว融</Variable>
+    <Variable Name="disposable-needle_name" Comment="" EvaluatedDefinition="Одноразовые иглы">砻קยด312ตว融</Variable>
     <Variable Name="disposable-needle_fullname" Comment="" EvaluatedDefinition="Одноразовые иглы">[%=ModuleAndDevicesNames.disposable-needle_name%]</Variable>
-    <Variable Name="disposable-needle100_code" Comment="003-0-313" EvaluatedDefinition="033-0-313">砻קยด289ตว融</Variable>
-    <Variable Name="brush_code" Comment="003-0-314" EvaluatedDefinition="033-0-314">砻קยด290ตว融</Variable>
-    <Variable Name="brush_name" Comment="" EvaluatedDefinition="Щеточка для чистки электродов">砻קยด291ตว融</Variable>
+    <Variable Name="disposable-needle100_code" Comment="003-0-313" EvaluatedDefinition="033-0-313">砻קยด313ตว融</Variable>
+    <Variable Name="brush_code" Comment="003-0-314" EvaluatedDefinition="033-0-314">砻קยด314ตว融</Variable>
+    <Variable Name="brush_name" Comment="" EvaluatedDefinition="Щеточка для чистки электродов">砻קยด315ตว融</Variable>
     <Variable Name="brush_fullname" Comment="" EvaluatedDefinition="Щеточка для чистки электродов">[%=ModuleAndDevicesNames.brush_name%]</Variable>
-    <Variable Name="brush5_code" Comment="003-0-314n5" EvaluatedDefinition="033-0-314n5">砻קยด292ตว融</Variable>
-    <Variable Name="bag_code" Comment="003-0-315" EvaluatedDefinition="033-0-315">砻קยด293ตว融</Variable>
-    <Variable Name="bag_name" Comment="" EvaluatedDefinition="Сумка для хранения">砻קยด294ตว融</Variable>
+    <Variable Name="brush5_code" Comment="003-0-314n5" EvaluatedDefinition="033-0-314n5">砻קยด316ตว融</Variable>
+    <Variable Name="bag_code" Comment="003-0-315" EvaluatedDefinition="033-0-315">砻קยด317ตว融</Variable>
+    <Variable Name="bag_name" Comment="" EvaluatedDefinition="Сумка для хранения">砻קยด318ตว融</Variable>
     <Variable Name="bag_fullname" Comment="" EvaluatedDefinition="Сумка для хранения">[%=ModuleAndDevicesNames.bag_name%]</Variable>
-    <Variable Name="mannequin-mb_code" Comment="003-7-008" EvaluatedDefinition="033-0-316">砻קยด295ตว融</Variable>
-    <Variable Name="mannequin-mb_name" Comment="" EvaluatedDefinition="Манекен">砻קยด296ตว融</Variable>
+    <Variable Name="mannequin-mb_code" Comment="003-7-008" EvaluatedDefinition="033-0-316">砻קยด319ตว融</Variable>
+    <Variable Name="mannequin-mb_name" Comment="" EvaluatedDefinition="Манекен">砻קยด320ตว融</Variable>
     <Variable Name="mannequin-mb_fullname" Comment="" EvaluatedDefinition="Манекен">[%=ModuleAndDevicesNames.mannequin-mb_name%]</Variable>
-    <Variable Name="mannequin-fb_code" Comment="003-7-009" EvaluatedDefinition="033-0-328">砻קยด297ตว融</Variable>
-    <Variable Name="mannequin-mh_code" Comment="003-7-010" EvaluatedDefinition="033-0-329">砻קยด298ตว融</Variable>
-    <Variable Name="mannequin-fh_code" Comment="003-7-011" EvaluatedDefinition="033-0-330">砻קยด299ตว融</Variable>
-    <Variable Name="Unipaste_code" Comment="003-7-004" EvaluatedDefinition="033-7-004">砻קยด300ตว融</Variable>
-    <Variable Name="Unipaste_name" Comment="" EvaluatedDefinition="Унипаста">砻קยด301ตว融</Variable>
-    <Variable Name="Unipaste_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;паста&#160;Унипаста">砻קยด302ตว融</Variable>
-    <Variable Name="disinfecting-wipes_code" Comment="003-7-005" EvaluatedDefinition="033-7-005">砻קยด303ตว融</Variable>
-    <Variable Name="disinfecting-wipes_name" Comment="" EvaluatedDefinition="Салфетки для дезинфекции">砻קยด304ตว融</Variable>
+    <Variable Name="mannequin-fb_code" Comment="003-7-009" EvaluatedDefinition="033-0-328">砻קยด321ตว融</Variable>
+    <Variable Name="mannequin-mh_code" Comment="003-7-010" EvaluatedDefinition="033-0-329">砻קยด322ตว融</Variable>
+    <Variable Name="mannequin-fh_code" Comment="003-7-011" EvaluatedDefinition="033-0-330">砻קยด323ตว融</Variable>
+    <Variable Name="Unipaste_code" Comment="003-7-004" EvaluatedDefinition="033-7-004">砻קยด324ตว融</Variable>
+    <Variable Name="Unipaste_name" Comment="" EvaluatedDefinition="Унипаста">砻קยด325ตว融</Variable>
+    <Variable Name="Unipaste_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;паста&#160;Унипаста">砻קยด326ตว融</Variable>
+    <Variable Name="disinfecting-wipes_code" Comment="003-7-005" EvaluatedDefinition="033-7-005">砻קยด327ตว融</Variable>
+    <Variable Name="disinfecting-wipes_name" Comment="" EvaluatedDefinition="Салфетки для дезинфекции">砻קยด328ตว融</Variable>
     <Variable Name="disinfecting-wipes_fullname" Comment="" EvaluatedDefinition="Салфетки для дезинфекции">[%=ModuleAndDevicesNames.disinfecting-wipes_name%]</Variable>
-    <Variable Name="disinfection-spay-small_code" Comment="003-7-006" EvaluatedDefinition="033-7-006">砻קยด305ตว融</Variable>
-    <Variable Name="disinfection-spay-small_name" Comment="" EvaluatedDefinition="Спрей для дезинфекции маленький">砻קยด306ตว融</Variable>
+    <Variable Name="disinfection-spay-small_code" Comment="003-7-006" EvaluatedDefinition="033-7-006">砻קยด329ตว融</Variable>
+    <Variable Name="disinfection-spay-small_name" Comment="" EvaluatedDefinition="Спрей для дезинфекции маленький">砻קยด330ตว融</Variable>
     <Variable Name="disinfection-spay-small_fullname" Comment="" EvaluatedDefinition="Спрей для дезинфекции">[%=ModuleAndDevicesNames.disinfection-spay-small_name%]</Variable>
-    <Variable Name="Uniscrub_code" Comment="003-7-015" EvaluatedDefinition="033-7-008">砻קยด307ตว融</Variable>
-    <Variable Name="Uniscrub_name" Comment="" EvaluatedDefinition="Унискраб">砻קยด308ตว融</Variable>
-    <Variable Name="Uniscrub_fullname" Comment="" EvaluatedDefinition="Гель абразивный Унискраб">砻קยด309ตว融</Variable>
-    <Variable Name="granulGEL_code" Comment="003-7-016" EvaluatedDefinition="033&#8209;7&#8209;012">砻קยด310ตว融</Variable>
-    <Variable Name="granulGEL_name" Comment="" EvaluatedDefinition="granulGEL">砻קยด311ตว融</Variable>
+    <Variable Name="Uniscrub_code" Comment="003-7-015" EvaluatedDefinition="033-7-008">砻קยด331ตว融</Variable>
+    <Variable Name="Uniscrub_name" Comment="" EvaluatedDefinition="Унискраб">砻קยด332ตว融</Variable>
+    <Variable Name="Uniscrub_fullname" Comment="" EvaluatedDefinition="Гель абразивный Унискраб">砻קยด333ตว融</Variable>
+    <Variable Name="granulGEL_code" Comment="003-7-016" EvaluatedDefinition="033&#8209;7&#8209;012">砻קยด334ตว融</Variable>
+    <Variable Name="granulGEL_name" Comment="" EvaluatedDefinition="granulGEL">砻קยด335ตว融</Variable>
     <Variable Name="granulGEL_fullname" Comment="" EvaluatedDefinition="granulGEL">[%=ModuleAndDevicesNames.granulGEL_name%]</Variable>
-    <Variable Name="EEG-starter-kit_code" Comment="003-7-001" EvaluatedDefinition="033-7-001">砻קยด312ตว融</Variable>
-    <Variable Name="EEG-starter-kit_name" Comment="" EvaluatedDefinition="Установочный комплект">砻קยด313ตว融</Variable>
+    <Variable Name="EEG-starter-kit_code" Comment="003-7-001" EvaluatedDefinition="033-7-001">砻קยด336ตว融</Variable>
+    <Variable Name="EEG-starter-kit_name" Comment="" EvaluatedDefinition="Установочный комплект">砻קยด337ตว融</Variable>
     <Variable Name="EEG-starter-kit_fullname" Comment="" EvaluatedDefinition="Установочный комплект">[%=ModuleAndDevicesNames.EEG-starter-kit_name%]</Variable>
-    <Variable Name="Uniscrub_firstname" Comment="" EvaluatedDefinition="Гель абразивный">砻קยด314ตว融</Variable>
-    <Variable Name="disinfection-spay-big_code" Comment="003-7-007" EvaluatedDefinition="033&#8209;7&#8209;007">砻קยด315ตว融</Variable>
-    <Variable Name="disinfection-spay-big_name" Comment="003-7-007" EvaluatedDefinition="Спрей для дезинфекции большой">砻קยด316ตว融</Variable>
+    <Variable Name="Uniscrub_firstname" Comment="" EvaluatedDefinition="Гель абразивный">砻קยด338ตว融</Variable>
+    <Variable Name="disinfection-spay-big_code" Comment="003-7-007" EvaluatedDefinition="033&#8209;7&#8209;007">砻קยด339ตว融</Variable>
+    <Variable Name="disinfection-spay-big_name" Comment="003-7-007" EvaluatedDefinition="Спрей для дезинфекции большой">砻קยด340ตว融</Variable>
     <Variable Name="disinfection-spay-big_fullname" Comment="" EvaluatedDefinition="Спрей для дезинфекции большой">[%=ModuleAndDevicesNames.disinfection-spay-big_name%]</Variable>
-    <Variable Name="_EEGgel_firstname" EvaluatedDefinition="ЭЭГ&#160;гель">砻קยด317ตว融</Variable>
-    <Variable Name="demonstration-model_name" Comment="" EvaluatedDefinition="Демонстрационная модель MCScap">砻קยด318ตว融</Variable>
+    <Variable Name="_EEGgel_firstname" EvaluatedDefinition="ЭЭГ&#160;гель">砻קยด341ตว融</Variable>
+    <Variable Name="demonstration-model_name" Comment="" EvaluatedDefinition="Демонстрационная модель MCScap">砻קยด342ตว融</Variable>
     <Variable Name="demonstration-model_fullname" Comment="" EvaluatedDefinition="Демонстрационная модель MCScap">[%=ModuleAndDevicesNames.demonstration-model_name%]</Variable>
-    <Variable Name="demonstration-model_code" Comment="" EvaluatedDefinition="003&#8209;7&#8209;012">砻קยด319ตว融</Variable>
-    <Variable Name="demonstration-model-3_code" Comment="" EvaluatedDefinition="003&#8209;7&#8209;013">砻קยด320ตว融</Variable>
-    <Variable Name="demonstration-model-4_code" Comment="" EvaluatedDefinition="003&#8209;7&#8209;014">砻קยด321ตว融</Variable>
-    <Variable Name="MCScap-CS22_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;107">砻קยด322ตว融</Variable>
-    <Variable Name="MCScap-CS22SS_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;119">砻קยด323ตว融</Variable>
-    <Variable Name="MCScap-CS22SSred_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;120">砻קยด324ตว融</Variable>
-    <Variable Name="MCScap-CS22-DIYJack_code" Comment="" EvaluatedDefinition="003&#8209;0&#8209;177">砻קยด325ตว融</Variable>
-    <Variable Name="MCScap-CS22-DIYJack_name" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;CS22, 2&#160;mm DIY&#160;Jack">砻קยด326ตว融</Variable>
+    <Variable Name="demonstration-model_code" Comment="" EvaluatedDefinition="003&#8209;7&#8209;012">砻קยด343ตว融</Variable>
+    <Variable Name="demonstration-model-3_code" Comment="" EvaluatedDefinition="003&#8209;7&#8209;013">砻קยด344ตว融</Variable>
+    <Variable Name="demonstration-model-4_code" Comment="" EvaluatedDefinition="003&#8209;7&#8209;014">砻קยด345ตว融</Variable>
+    <Variable Name="MCScap-CS22_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;107">砻קยด346ตว融</Variable>
+    <Variable Name="MCScap-CS22SS_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;119">砻קยด347ตว融</Variable>
+    <Variable Name="MCScap-CS22SSred_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;120">砻קยด348ตว融</Variable>
+    <Variable Name="MCScap-CS22-DIYJack_code" Comment="" EvaluatedDefinition="003&#8209;0&#8209;177">砻קยด349ตว融</Variable>
+    <Variable Name="MCScap-CS22-DIYJack_name" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;CS22, 2&#160;mm DIY&#160;Jack">砻קยด350ตว融</Variable>
     <Variable Name="MCScap-CS22-DIYJack_fullname" Comment="" EvaluatedDefinition="MCScap-CS22 electrode, 2 mm DIY Jack">[%=ModuleAndDevicesNames.MCScap-CS22-DIYJack_name%]</Variable>
-    <Variable Name="MCScap-CS22-DIYJack-red_code" Comment="" EvaluatedDefinition="003&#8209;0&#8209;192">砻קยด327ตว融</Variable>
-    <Variable Name="SpongeD22_code" Comment="003-0-316" EvaluatedDefinition="033-0-338">砻קยด328ตว融</Variable>
-    <Variable Name="SpongeD22_name" Comment="" EvaluatedDefinition="Спонж D22">砻קยด329ตว融</Variable>
+    <Variable Name="MCScap-CS22-DIYJack-red_code" Comment="" EvaluatedDefinition="003&#8209;0&#8209;192">砻קยด351ตว融</Variable>
+    <Variable Name="SpongeD22_code" Comment="003-0-316" EvaluatedDefinition="033-0-338">砻קยด352ตว融</Variable>
+    <Variable Name="SpongeD22_name" Comment="" EvaluatedDefinition="Спонж D22">砻קยด353ตว融</Variable>
     <Variable Name="SpongeD22_fullname" Comment="" EvaluatedDefinition="Спонж D22">[%=ModuleAndDevicesNames.SpongeD22_name%]</Variable>
-    <Variable Name="NeoRecCap_code" Comment="003-5-001" EvaluatedDefinition="033-5-001">砻קยด330ตว融</Variable>
-    <Variable Name="NeoRecCap_name" Comment="" EvaluatedDefinition="NeoRecCap">砻קยด331ตว融</Variable>
-    <Variable Name="NeoRecCap_fullname" Comment="" EvaluatedDefinition="Электродный шлем NeoRecCap">砻קยด332ตว融</Variable>
-    <Variable Name="NeoRecCap-system_code" Comment="003-5-101" EvaluatedDefinition="033-5-101">砻קยด333ตว融</Variable>
-    <Variable Name="NeoRecCap-system_name" Comment="" EvaluatedDefinition="NeoRecCap">砻קยด334ตว融</Variable>
-    <Variable Name="NeoRecCap-system_firstname" Comment="" EvaluatedDefinition="Система">砻קยด335ตว融</Variable>
-    <Variable Name="NeoRecCap-system_fullname" Comment="" EvaluatedDefinition="Система NeoRecCap">砻קยด336ตว融</Variable>
-    <Variable Name="NeoRecCap-lightgenerator_code" Comment="003-5-104" EvaluatedDefinition="033-5-104">砻קยด337ตว融</Variable>
-    <Variable Name="NeoRecCap-lightgenerator_name" Comment="" EvaluatedDefinition="Генератор световых меток">砻קยด338ตว融</Variable>
+    <Variable Name="NeoRecCap_code" Comment="003-5-001" EvaluatedDefinition="033-5-001">砻קยด354ตว融</Variable>
+    <Variable Name="NeoRecCap_name" Comment="" EvaluatedDefinition="NeoRecCap">砻קยด355ตว融</Variable>
+    <Variable Name="NeoRecCap_fullname" Comment="" EvaluatedDefinition="Электродный шлем NeoRecCap">砻קยด356ตว融</Variable>
+    <Variable Name="NeoRecCap-system_code" Comment="003-5-101" EvaluatedDefinition="033-5-101">砻קยด357ตว融</Variable>
+    <Variable Name="NeoRecCap-system_name" Comment="" EvaluatedDefinition="NeoRecCap">砻קยด358ตว融</Variable>
+    <Variable Name="NeoRecCap-system_firstname" Comment="" EvaluatedDefinition="Система">砻קยด359ตว融</Variable>
+    <Variable Name="NeoRecCap-system_fullname" Comment="" EvaluatedDefinition="Система NeoRecCap">砻קยด360ตว融</Variable>
+    <Variable Name="NeoRecCap-lightgenerator_code" Comment="003-5-104" EvaluatedDefinition="033-5-104">砻קยด361ตว融</Variable>
+    <Variable Name="NeoRecCap-lightgenerator_name" Comment="" EvaluatedDefinition="Генератор световых меток">砻קยด362ตว融</Variable>
     <Variable Name="NeoRecCap-lightgenerator_fullname" Comment="" EvaluatedDefinition="Генератор световых меток">[%=ModuleAndDevicesNames.NeoRecCap-lightgenerator_name%]</Variable>
-    <Variable Name="NeoRecCapXL-L_code" Comment="003-5-002" EvaluatedDefinition="033-5-002">砻קยด339ตว融</Variable>
-    <Variable Name="NeoRecCapL_code" Comment="003-5-003" EvaluatedDefinition="033-5-003">砻קยด340ตว融</Variable>
-    <Variable Name="NeoRecCapL-M_code" Comment="003-5-004" EvaluatedDefinition="033-5-004">砻קยด341ตว融</Variable>
-    <Variable Name="NeoRecCapM_code" Comment="003-5-005" EvaluatedDefinition="033-5-005">砻קยด342ตว融</Variable>
-    <Variable Name="NeoRecCapM-S_code" Comment="003-5-006" EvaluatedDefinition="033-5-006">砻קยด343ตว融</Variable>
-    <Variable Name="NeoRecCapS_code" Comment="003-5-007" EvaluatedDefinition="033-5-007">砻קยด344ตว融</Variable>
-    <Variable Name="NeoRecCapS-XS_code" Comment="003-5-008" EvaluatedDefinition="033-5-008">砻קยด345ตว融</Variable>
-    <Variable Name="NeoRecCap-systemXL-L_code" Comment="003-5-002" EvaluatedDefinition="033-5-111">砻קยด346ตว融</Variable>
-    <Variable Name="NeoRecCap-systemL_code" Comment="003-5-003" EvaluatedDefinition="033-5-121">砻קยด347ตว融</Variable>
-    <Variable Name="NeoRecCap-systemL-M_code" Comment="003-5-004" EvaluatedDefinition="033-5-131">砻קยด348ตว融</Variable>
-    <Variable Name="NeoRecCap-systemM_code" Comment="003-5-005" EvaluatedDefinition="033-5-141">砻קยด349ตว融</Variable>
-    <Variable Name="NeoRecCap-systemM-S_code" Comment="003-5-006" EvaluatedDefinition="033-5-151">砻קยด350ตว融</Variable>
-    <Variable Name="Clinic_code" Comment="003-1-001" EvaluatedDefinition="033-1-001">砻קยด351ตว融</Variable>
-    <Variable Name="Clinic_name" Comment="" EvaluatedDefinition="CLINIC">砻קยด352ตว融</Variable>
-    <Variable Name="Clinic_fullname" Comment="" EvaluatedDefinition="CLINIC">砻קยด353ตว融</Variable>
-    <Variable Name="Base_code" Comment="003-8-001" EvaluatedDefinition="033-8-001">砻קยด354ตว融</Variable>
-    <Variable Name="Base_name" Comment="" EvaluatedDefinition="BASE">砻קยด355ตว融</Variable>
-    <Variable Name="Base_fullname" Comment="" EvaluatedDefinition="BASE">砻קยด356ตว融</Variable>
-    <Variable Name="Professional-light_code" Comment="003-3-175" EvaluatedDefinition="033-3-081">砻קยด357ตว融</Variable>
-    <Variable Name="Professional-light_name" Comment="" EvaluatedDefinition="PROFESSIONAL light">砻קยด358ตว融</Variable>
-    <Variable Name="Professional-light_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL light">砻קยด359ตว融</Variable>
-    <Variable Name="Professional_code" Comment="003-3-001" EvaluatedDefinition="033-3-001">砻קยด360ตว融</Variable>
-    <Variable Name="Professional_name" Comment="" EvaluatedDefinition="PROFESSIONAL">砻קยด361ตว融</Variable>
-    <Variable Name="Professional_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL">砻קยด362ตว融</Variable>
-    <Variable Name="Sleep_code" Comment="003-2-001" EvaluatedDefinition="033-2-001">砻קยด363ตว融</Variable>
-    <Variable Name="Sleep_name" Comment="" EvaluatedDefinition="SLEEP">砻קยด364ตว融</Variable>
-    <Variable Name="Sleep_fullname" Comment="" EvaluatedDefinition="SLEEP">砻קยด365ตว融</Variable>
-    <Variable Name="Electrode-set-classic_code" Comment="003-4-001" EvaluatedDefinition="033-4-001">砻קยด366ตว融</Variable>
-    <Variable Name="Electrode-set-classic_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">砻קยด367ตว融</Variable>
-    <Variable Name="Electrode-set-classic_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">砻קยด368ตว融</Variable>
-    <Variable Name="Electrode-set-36_code" Comment="003-4-002" EvaluatedDefinition="033-4-002">砻קยด369ตว融</Variable>
-    <Variable Name="Electrode-set-36_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">砻קยด370ตว融</Variable>
-    <Variable Name="_Electrode-set_firstname" Comment="" EvaluatedDefinition="Комплект">砻קยด371ตว融</Variable>
-    <Variable Name="Electrode-set-36_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">砻קยด372ตว融</Variable>
-    <Variable Name="Electrode-set-52_code" Comment="003-4-003" EvaluatedDefinition="033-4-003">砻קยด373ตว融</Variable>
-    <Variable Name="Electrode-set-52_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">砻קยด374ตว融</Variable>
-    <Variable Name="Electrode-set-52_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">砻קยด375ตว融</Variable>
-    <Variable Name="Electrode-set-74_code" Comment="003-4-006" EvaluatedDefinition="033-4-006">砻קยด376ตว融</Variable>
-    <Variable Name="Electrode-set-74_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">砻קยด377ตว融</Variable>
-    <Variable Name="Electrode-set-74_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">砻קยด378ตว融</Variable>
-    <Variable Name="ClinicXL-L_code" Comment="003-1-002" EvaluatedDefinition="033-1-002">砻קยด379ตว融</Variable>
-    <Variable Name="ClinicL_code" Comment="003-1-003" EvaluatedDefinition="033-1-003">砻קยด380ตว融</Variable>
-    <Variable Name="ClinicL-M_code" Comment="003-1-004" EvaluatedDefinition="033-1-004">砻קยด381ตว融</Variable>
-    <Variable Name="ClinicM_code" Comment="003-1-005" EvaluatedDefinition="033-1-005">砻קยด382ตว融</Variable>
-    <Variable Name="ClinicM-S_code" Comment="003-1-006" EvaluatedDefinition="033-1-006">砻קยด383ตว融</Variable>
-    <Variable Name="ClinicS_code" Comment="003-1-007" EvaluatedDefinition="033-1-007">砻קยด384ตว融</Variable>
-    <Variable Name="ClinicS-XS_code" Comment="003-1-008" EvaluatedDefinition="033-1-008">砻קยด385ตว融</Variable>
-    <Variable Name="ClinicXS_code" Comment="003-1-009" EvaluatedDefinition="033-1-009">砻קยด386ตว融</Variable>
-    <Variable Name="SleepXL-L_code" Comment="003-2-002" EvaluatedDefinition="033-2-002">砻קยด387ตว融</Variable>
-    <Variable Name="SleepL_code" Comment="003-2-003" EvaluatedDefinition="033-2-003">砻קยด388ตว融</Variable>
-    <Variable Name="SleepL-M_code" Comment="003-2-004" EvaluatedDefinition="033-2-004">砻קยด389ตว融</Variable>
-    <Variable Name="SleepM_code" Comment="003-2-005" EvaluatedDefinition="033-2-005">砻קยด390ตว融</Variable>
-    <Variable Name="SleepM-S_code" Comment="003-2-006" EvaluatedDefinition="033-2-006">砻קยด391ตว融</Variable>
-    <Variable Name="SleepS_code" Comment="003-2-007" EvaluatedDefinition="033-2-007">砻קยด392ตว融</Variable>
-    <Variable Name="SleepS-XS_code" Comment="003-2-008" EvaluatedDefinition="033-2-008">砻קยด393ตว融</Variable>
-    <Variable Name="SleepXS_code" Comment="003-2-009" EvaluatedDefinition="033-2-009">砻קยด394ตว融</Variable>
-    <Variable Name="SleepInf1_code" Comment="003-2-010" EvaluatedDefinition="033-2-010">砻קยด395ตว融</Variable>
-    <Variable Name="SleepInf2_code" Comment="003-2-011" EvaluatedDefinition="033-2-011">砻קยด396ตว融</Variable>
-    <Variable Name="SleepInf3_code" Comment="003-2-012" EvaluatedDefinition="033-2-012">砻קยด397ตว融</Variable>
-    <Variable Name="ProfessionalXL-L_code" Comment="003-3-002" EvaluatedDefinition="033-3-002">砻קยด398ตว融</Variable>
-    <Variable Name="ProfessionalL_code" Comment="003-3-003" EvaluatedDefinition="033-3-003">砻קยด399ตว融</Variable>
-    <Variable Name="ProfessionalL-M_code" Comment="003-3-004" EvaluatedDefinition="033-3-004">砻קยด400ตว融</Variable>
-    <Variable Name="ProfessionalM_code" Comment="003-3-005" EvaluatedDefinition="033-3-005">砻קยด401ตว融</Variable>
-    <Variable Name="ProfessionalM-S_code" Comment="003-3-006" EvaluatedDefinition="033-3-006">砻קยด402ตว融</Variable>
-    <Variable Name="ProfessionalS_code" Comment="003-3-007" EvaluatedDefinition="033-3-007">砻קยด403ตว融</Variable>
-    <Variable Name="ProfessionalS-XS_code" Comment="003-3-008" EvaluatedDefinition="033-3-008">砻קยด404ตว融</Variable>
-    <Variable Name="BaseXL-L_code" Comment="003-8-002" EvaluatedDefinition="033-8-002">砻קยด405ตว融</Variable>
-    <Variable Name="BaseL_code" Comment="003-8-003" EvaluatedDefinition="033-8-003">砻קยด406ตว融</Variable>
-    <Variable Name="BaseL-M_code" Comment="003-8-004" EvaluatedDefinition="033-8-004">砻קยด407ตว融</Variable>
-    <Variable Name="BaseM_code" Comment="003-8-005" EvaluatedDefinition="033-8-005">砻קยด408ตว融</Variable>
-    <Variable Name="BaseM-S_code" Comment="003-8-006" EvaluatedDefinition="033-8-006">砻קยด409ตว融</Variable>
-    <Variable Name="BaseS_code" Comment="003-8-007" EvaluatedDefinition="033-8-007">砻קยด410ตว融</Variable>
-    <Variable Name="BaseS-XS_code" Comment="003-8-008" EvaluatedDefinition="033-8-008">砻קยด411ตว融</Variable>
-    <Variable Name="BaseXS_code" Comment="003-8-009" EvaluatedDefinition="033-8-009">砻קยด412ตว融</Variable>
-    <Variable Name="BaseInf1_code" Comment="003-8-010" EvaluatedDefinition="033-8-010">砻קยด413ตว融</Variable>
-    <Variable Name="BaseInf2_code" Comment="003-8-011" EvaluatedDefinition="033-8-011">砻קยด414ตว融</Variable>
-    <Variable Name="BaseInf3_code" Comment="003-8-012" EvaluatedDefinition="033-8-012">砻קยด415ตว融</Variable>
-    <Variable Name="Professional-lightXL-L_code" Comment="003-3-176" EvaluatedDefinition="033-3-082">砻קยด416ตว融</Variable>
-    <Variable Name="Professional-lightL_code" Comment="003-3-177" EvaluatedDefinition="033-3-083">砻קยด417ตว融</Variable>
-    <Variable Name="Professional-lightL-M_code" Comment="003-3-178" EvaluatedDefinition="033-3-084">砻קยด418ตว融</Variable>
-    <Variable Name="Professional-lightM_code" Comment="003-3-179" EvaluatedDefinition="033-3-085">砻קยด419ตว融</Variable>
-    <Variable Name="Professional-lightM-S_code" Comment="003-3-180" EvaluatedDefinition="033-3-086">砻קยด420ตว融</Variable>
-    <Variable Name="Professional-lightS_code" Comment="003-3-181" EvaluatedDefinition="033-3-087">砻קยด421ตว融</Variable>
-    <Variable Name="_CLINIC" Comment="" EvaluatedDefinition="CLINIC">砻קยด422ตว融</Variable>
-    <Variable Name="granulGel_firstname" Comment="" EvaluatedDefinition="Твердый гель для регистрации ЭЭГ">砻קยด423ตว融</Variable>
-    <Variable Name="MCScap-T-HD_code" Comment="003-0-702" EvaluatedDefinition="003-0-702">砻קยด424ตว融</Variable>
-    <Variable Name="MCScap-T-HD_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;HD">砻קยด425ตว融</Variable>
-    <Variable Name="MCScap-T-HD_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;HD">砻קยด426ตว融</Variable>
-    <Variable Name="MCScap-T-MR_code" Comment="003-0-703" EvaluatedDefinition="003-0-703">砻קยด427ตว融</Variable>
-    <Variable Name="MCScap-T-MR_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;MR">砻קยด428ตว融</Variable>
-    <Variable Name="MCScap-T-MR_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;MR">砻קยด429ตว融</Variable>
+    <Variable Name="NeoRecCapXL-L_code" Comment="003-5-002" EvaluatedDefinition="033-5-002">砻קยด363ตว融</Variable>
+    <Variable Name="NeoRecCapL_code" Comment="003-5-003" EvaluatedDefinition="033-5-003">砻קยด364ตว融</Variable>
+    <Variable Name="NeoRecCapL-M_code" Comment="003-5-004" EvaluatedDefinition="033-5-004">砻קยด365ตว融</Variable>
+    <Variable Name="NeoRecCapM_code" Comment="003-5-005" EvaluatedDefinition="033-5-005">砻קยด366ตว融</Variable>
+    <Variable Name="NeoRecCapM-S_code" Comment="003-5-006" EvaluatedDefinition="033-5-006">砻קยด367ตว融</Variable>
+    <Variable Name="NeoRecCapS_code" Comment="003-5-007" EvaluatedDefinition="033-5-007">砻קยด368ตว融</Variable>
+    <Variable Name="NeoRecCapS-XS_code" Comment="003-5-008" EvaluatedDefinition="033-5-008">砻קยด369ตว融</Variable>
+    <Variable Name="NeoRecCap-systemXL-L_code" Comment="003-5-002" EvaluatedDefinition="033-5-111">砻קยด370ตว融</Variable>
+    <Variable Name="NeoRecCap-systemL_code" Comment="003-5-003" EvaluatedDefinition="033-5-121">砻קยด371ตว融</Variable>
+    <Variable Name="NeoRecCap-systemL-M_code" Comment="003-5-004" EvaluatedDefinition="033-5-131">砻קยด372ตว融</Variable>
+    <Variable Name="NeoRecCap-systemM_code" Comment="003-5-005" EvaluatedDefinition="033-5-141">砻קยด373ตว融</Variable>
+    <Variable Name="NeoRecCap-systemM-S_code" Comment="003-5-006" EvaluatedDefinition="033-5-151">砻קยด374ตว融</Variable>
+    <Variable Name="Clinic_code" Comment="003-1-001" EvaluatedDefinition="033-1-001">砻קยด375ตว融</Variable>
+    <Variable Name="ClinicXL-L_code" Comment="003-1-002" EvaluatedDefinition="033-1-002">砻קยด376ตว融</Variable>
+    <Variable Name="ClinicL_code" Comment="003-1-003" EvaluatedDefinition="033-1-003">砻קยด377ตว融</Variable>
+    <Variable Name="ClinicL-M_code" Comment="003-1-004" EvaluatedDefinition="033-1-004">砻קยด378ตว融</Variable>
+    <Variable Name="ClinicM_code" Comment="003-1-005" EvaluatedDefinition="033-1-005">砻קยด379ตว融</Variable>
+    <Variable Name="ClinicM-S_code" Comment="003-1-006" EvaluatedDefinition="033-1-006">砻קยด380ตว融</Variable>
+    <Variable Name="ClinicS_code" Comment="003-1-007" EvaluatedDefinition="033-1-007">砻קยด381ตว融</Variable>
+    <Variable Name="ClinicS-XS_code" Comment="003-1-008" EvaluatedDefinition="033-1-008">砻קยด382ตว融</Variable>
+    <Variable Name="ClinicXS_code" Comment="003-1-009" EvaluatedDefinition="033-1-009">砻קยด383ตว融</Variable>
+    <Variable Name="SleepXL-L_code" Comment="003-2-002" EvaluatedDefinition="033-2-002">砻קยด384ตว融</Variable>
+    <Variable Name="SleepL_code" Comment="003-2-003" EvaluatedDefinition="033-2-003">砻קยด385ตว融</Variable>
+    <Variable Name="SleepL-M_code" Comment="003-2-004" EvaluatedDefinition="033-2-004">砻קยด386ตว融</Variable>
+    <Variable Name="SleepM_code" Comment="003-2-005" EvaluatedDefinition="033-2-005">砻קยด387ตว融</Variable>
+    <Variable Name="SleepM-S_code" Comment="003-2-006" EvaluatedDefinition="033-2-006">砻קยด388ตว融</Variable>
+    <Variable Name="SleepS_code" Comment="003-2-007" EvaluatedDefinition="033-2-007">砻קยด389ตว融</Variable>
+    <Variable Name="SleepS-XS_code" Comment="003-2-008" EvaluatedDefinition="033-2-008">砻קยด390ตว融</Variable>
+    <Variable Name="SleepXS_code" Comment="003-2-009" EvaluatedDefinition="033-2-009">砻קยด391ตว融</Variable>
+    <Variable Name="SleepInf1_code" Comment="003-2-010" EvaluatedDefinition="033-2-010">砻קยด392ตว融</Variable>
+    <Variable Name="SleepInf2_code" Comment="003-2-011" EvaluatedDefinition="033-2-011">砻קยด393ตว融</Variable>
+    <Variable Name="SleepInf3_code" Comment="003-2-012" EvaluatedDefinition="033-2-012">砻קยด394ตว融</Variable>
+    <Variable Name="ProfessionalXL-L_code" Comment="003-3-002" EvaluatedDefinition="033-3-002">砻קยด395ตว融</Variable>
+    <Variable Name="ProfessionalL_code" Comment="003-3-003" EvaluatedDefinition="033-3-003">砻קยด396ตว融</Variable>
+    <Variable Name="ProfessionalL-M_code" Comment="003-3-004" EvaluatedDefinition="033-3-004">砻קยด397ตว融</Variable>
+    <Variable Name="ProfessionalM_code" Comment="003-3-005" EvaluatedDefinition="033-3-005">砻קยด398ตว融</Variable>
+    <Variable Name="ProfessionalM-S_code" Comment="003-3-006" EvaluatedDefinition="033-3-006">砻קยด399ตว融</Variable>
+    <Variable Name="ProfessionalS_code" Comment="003-3-007" EvaluatedDefinition="033-3-007">砻קยด400ตว融</Variable>
+    <Variable Name="ProfessionalS-XS_code" Comment="003-3-008" EvaluatedDefinition="033-3-008">砻קยด401ตว融</Variable>
+    <Variable Name="BaseXL-L_code" Comment="003-8-002" EvaluatedDefinition="033-8-002">砻קยด402ตว融</Variable>
+    <Variable Name="BaseL_code" Comment="003-8-003" EvaluatedDefinition="033-8-003">砻קยด403ตว融</Variable>
+    <Variable Name="BaseL-M_code" Comment="003-8-004" EvaluatedDefinition="033-8-004">砻קยด404ตว融</Variable>
+    <Variable Name="BaseM_code" Comment="003-8-005" EvaluatedDefinition="033-8-005">砻קยด405ตว融</Variable>
+    <Variable Name="BaseM-S_code" Comment="003-8-006" EvaluatedDefinition="033-8-006">砻קยด406ตว融</Variable>
+    <Variable Name="BaseS_code" Comment="003-8-007" EvaluatedDefinition="033-8-007">砻קยด407ตว融</Variable>
+    <Variable Name="BaseS-XS_code" Comment="003-8-008" EvaluatedDefinition="033-8-008">砻קยด408ตว融</Variable>
+    <Variable Name="BaseXS_code" Comment="003-8-009" EvaluatedDefinition="033-8-009">砻קยด409ตว融</Variable>
+    <Variable Name="BaseInf1_code" Comment="003-8-010" EvaluatedDefinition="033-8-010">砻קยด410ตว融</Variable>
+    <Variable Name="BaseInf2_code" Comment="003-8-011" EvaluatedDefinition="033-8-011">砻קยด411ตว融</Variable>
+    <Variable Name="BaseInf3_code" Comment="003-8-012" EvaluatedDefinition="033-8-012">砻קยด412ตว融</Variable>
+    <Variable Name="Professional-lightXL-L_code" Comment="003-3-176" EvaluatedDefinition="033-3-082">砻קยด413ตว融</Variable>
+    <Variable Name="Professional-lightL_code" Comment="003-3-177" EvaluatedDefinition="033-3-083">砻קยด414ตว融</Variable>
+    <Variable Name="Professional-lightL-M_code" Comment="003-3-178" EvaluatedDefinition="033-3-084">砻קยด415ตว融</Variable>
+    <Variable Name="Professional-lightM_code" Comment="003-3-179" EvaluatedDefinition="033-3-085">砻קยด416ตว融</Variable>
+    <Variable Name="Professional-lightM-S_code" Comment="003-3-180" EvaluatedDefinition="033-3-086">砻קยด417ตว融</Variable>
+    <Variable Name="Professional-lightS_code" Comment="003-3-181" EvaluatedDefinition="033-3-087">砻קยด418ตว融</Variable>
+    <Variable Name="MCScap-S190_code" Comment="" EvaluatedDefinition="081&#8209;0&#8209;121">砻קยด419ตว融</Variable>
+    <Variable Name="MCScap-mannequinS_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;342">砻קยด420ตว融</Variable>
+    <Variable Name="MCScap-plasters100_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;340">砻קยด421ตว融</Variable>
+    <Variable Name="Unimax5kg_code" Comment="" EvaluatedDefinition="033&#8209;7&#8209;011">砻קยด422ตว融</Variable>
 </CatapultVariableSet>
