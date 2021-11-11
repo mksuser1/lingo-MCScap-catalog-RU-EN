@@ -10,5 +10,9 @@
             <a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-t/" MadCap:conditions="Default.ScreenOnly">
                 <MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" />
             </a>
-        </span> <MadCap:conditionalText MadCap:conditions="Default.PrintOnly"><MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" /></MadCap:conditionalText></body>
+        </span>
+        <MadCap:conditionalText MadCap:conditions="Default.PrintOnly">
+            <MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" />
+        </MadCap:conditionalText>
+    </body>
 </html>

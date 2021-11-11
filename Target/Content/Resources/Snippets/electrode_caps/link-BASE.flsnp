@@ -10,5 +10,9 @@
             <a href="https://mcscap.com/catalog/elektrodnye-shlemy-mcscap/base/" MadCap:conditions="Default.ScreenOnly">
                 <MadCap:variable name="ModuleAndDevicesNames._BASE" />
             </a>
-        </span> <MadCap:conditionalText MadCap:conditions="Default.PrintOnly"><MadCap:variable name="ModuleAndDevicesNames._BASE" /></MadCap:conditionalText></body>
+        </span>
+        <MadCap:conditionalText MadCap:conditions="Default.PrintOnly">
+            <MadCap:variable name="ModuleAndDevicesNames._BASE" />
+        </MadCap:conditionalText>
+    </body>
 </html>
