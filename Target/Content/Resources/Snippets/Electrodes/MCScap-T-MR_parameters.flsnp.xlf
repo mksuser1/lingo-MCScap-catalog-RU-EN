@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">1</count>
+          unit="segment">3</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -44,6 +44,28 @@
     </header>
     <body><trans-unit
         id="1"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>индукция постоянного магнитного поля не более 3 Тл,</source><seg-source><mrk
+            mtype="seg"
+            mid="1">индукция постоянного магнитного поля не более 3 Тл,</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">Nominal value(s) of permitted static magnetic field strength –no more then 3 T,</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>максимальное значение градиента магнитного поля не более 346 Тл/м.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">максимальное значение градиента магнитного поля не более 346 Тл/м.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">Maximum spatial field gradient – not more than 346 T/m.</mrk></target></trans-unit><trans-unit
+        id="3"
         restype="x-xml-td"
         phase-name="pretrans"><source>10 кОм</source><seg-source><mrk
             mtype="seg"

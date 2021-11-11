@@ -45,17 +45,23 @@
     <body><trans-unit
         id="1"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Тонкий Ag/AgCl sintered электрод для регистрации ЭЭГ c разъёмом <ph
+        phase-name="pretrans"><source>Тонкий Ag/AgCl sintered МР‑совместимый электрод для регистрации ЭЭГ c разъёмом <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, длина провода 1,2 м.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Тонкий Ag/AgCl sintered электрод для регистрации ЭЭГ c разъёмом <ph
+            mid="1">Тонкий Ag/AgCl sintered МР‑совместимый электрод для регистрации ЭЭГ c разъёмом <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, длина провода 1,2 м.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Thin cup Ag/AgCl sintered electrode for EEG recording with <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector, cable length 1.2 m.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="86"
+            MadCap:diff="ContentChanged">Thin cup Ag/AgCl sintered MR‑conditional electrode for EEG recording with <ph
+              id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector, cable length 1.2 m.</mrk></target><alt-trans
+          match-quality="85"
+          origin="previous-version"><seg-source>Тонкий Ag/AgCl sintered электрод для регистрации ЭЭГ c разъёмом <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, длина провода 1,2 м.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Thin cup Ag/AgCl sintered electrode for EEG recording with <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector, cable length 1.2 m.</target></alt-trans></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Назначение</source><seg-source><mrk
@@ -68,14 +74,18 @@
             MadCap:matchPercent="100">Intended use</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Рутинная ЭЭГ, ЭЭГ сна, научно-исследовательская ЭЭГ, ЭЭГ высокого разрешения, ТМС-ЭЭГ.</source><seg-source><mrk
+        phase-name="pretrans"><source>Рутинная ЭЭГ, ЭЭГ сна, ЭЭГ высокого разрешения.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Рутинная ЭЭГ, ЭЭГ сна, научно-исследовательская ЭЭГ, ЭЭГ высокого разрешения, ТМС-ЭЭГ.</mrk></seg-source><target
+            mid="1">Рутинная ЭЭГ, ЭЭГ сна, ЭЭГ высокого разрешения.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Routine EEG, sleep EEG, research EEG, high resolution EEG, TMS-EEG.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="84"
+            MadCap:diff="ContentChanged">Routine EEG, high resolution EEG.</mrk></target><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>Рутинная ЭЭГ, ЭЭГ сна, научно-исследовательская ЭЭГ, ЭЭГ высокого разрешения, ТМС-ЭЭГ.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Routine EEG, sleep EEG, research EEG, high resolution EEG, TMS-EEG.</target></alt-trans></trans-unit><trans-unit
         id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
@@ -157,7 +167,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">&lt; 4 g</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">&lt; 4 g</mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 4 г</source><seg-source><mrk

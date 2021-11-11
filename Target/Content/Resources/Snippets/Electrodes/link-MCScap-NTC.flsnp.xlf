@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="link-MCScap-NTC.flsnp"
@@ -96,20 +96,20 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="New"><bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="1">&lt;span MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
               id="2"
-              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.ru/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly"&gt;</bpt><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph><ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept><ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              ctype="link">&lt;a href="https://mcscap.ru/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly"&gt;</bpt><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph><ept
+              id="2">&lt;/a&gt;</ept><ept
+              id="1">&lt;/span&gt;</ept><bpt
+              id="3">&lt;span MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
               id="4"
-              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly"&gt;</bpt><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph><ept
-              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept><ept
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
-              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph><ept
-              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept></mrk></target></trans-unit></body>
+              ctype="link">&lt;a href="https://mcscap.com/catalog/eeg-elektrody-mcscap/mcscap-ntc/" MadCap:conditions="Default.ScreenOnly"&gt;</bpt><ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph><ept
+              id="4">&lt;/a&gt;</ept><ept
+              id="3">&lt;/span&gt;</ept><bpt
+              id="5">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><ph
+              id="3">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-NTC_name" /&gt;</ph><ept
+              id="5">&lt;/MadCap:conditionalText&gt;</ept></mrk></target></trans-unit></body>
   </file>
 </xliff>
