@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="033-5-101.htm"
@@ -163,7 +163,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-p"
         phase-name="pretrans"><source>Усилитель ЭЭГ NB1‑EEG8,</source><seg-source><mrk
@@ -307,7 +307,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  is a set of NeoRecCap electrode cap with 10 preinstaled Ag/AgCl EEG electrodes and 8 channel wireless amplifier NB1‑EEG8.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  is a set of NeoRecCap electrode cap with 10 preinstaled Ag/AgCl EEG electrodes and 8 channel wireless amplifier NB1‑EEG8.</mrk></target><alt-trans
           match-quality="81"
           origin="previous-version"><seg-source>ЭЭГ шлем с десятью предустановленными Ag/AgCl электродами и беспроводной 8‑канальный усилитель ЭЭГ.</seg-source><target
             MadCap:segmentStatus="Untranslated">Printed textile cap with 10 preinstalled Ag/AgCl electrodes with common connector to connect with amplifier NB1-EEG8.</target></alt-trans></trans-unit><trans-unit
@@ -324,7 +324,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  is intended to record EEG, IR trigger events, 3D acceleration events to files of different formats (EDF+ 16 bit, BDF+ 24 bit, GDF 32 bit) or transmit it on-line via stream LSL (Lab Streaming Layer) for analyze by third-party software as MATLAB / EEGLAB, OpenViBE etc.</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  is intended to record EEG, IR trigger events, 3D acceleration events to files of different formats (EDF+ 16 bit, BDF+ 24 bit, GDF 32 bit) or transmit it on-line via stream LSL (Lab Streaming Layer) for analyze by third-party software as MATLAB / EEGLAB, OpenViBE etc.</mrk></target></trans-unit><trans-unit
         id="28"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
@@ -338,7 +338,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> can be used for education, research and development in EEG, neuro-computer interfaces (brain-computer interface, direct neural interface, brain interface), bio-feedback (BCI), neuromarketing, neurogaming, brain fitness.</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> can be used for education, research and development in EEG, neuro-computer interfaces (brain-computer interface, direct neural interface, brain interface), bio-feedback (BCI), neuromarketing, neurogaming, brain fitness.</mrk></target></trans-unit><trans-unit
         id="29"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk

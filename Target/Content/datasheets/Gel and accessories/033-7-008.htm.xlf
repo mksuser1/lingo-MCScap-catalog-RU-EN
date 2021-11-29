@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="033-7-008.htm"
@@ -62,7 +62,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
@@ -85,7 +85,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a conductive abrasive gel for pretreatment of the skin during the following electrophysiological studies: EEG, EP, EMG recordings, ECG stress tests.</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a conductive abrasive gel for pretreatment of the skin during the following electrophysiological studies: EEG, EP, EMG recordings, ECG stress tests.</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source>Обработка кожи гелем <ph
@@ -98,7 +98,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">Treatment of the skin with <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> gel before installing electrodes of various types makes it possible to improve the signal quality by degreasing the skin and reducing its electrical resistance.</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Uniscrub_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> gel before installing electrodes of various types makes it possible to improve the signal quality by degreasing the skin and reducing its electrical resistance.</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
@@ -176,8 +176,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">shear rate 7.5 ± 0.1 s<bpt
               id="1"
-              ctype="x-superscript">&lt;sup&gt;</bpt>-1<ept
-              id="1">&lt;/sup&gt;</ept>, at 23 °C).</mrk></target></trans-unit><trans-unit
+              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>-1<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept>, at 23 °C).</mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>pH геля</source><seg-source><mrk

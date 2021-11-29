@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="033-5-001.htm"
@@ -56,7 +56,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Printed textile cap with 10 preinstalled Ag/AgCl electrodes <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-C_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> with common connector to connect with amplifier NB1-EEG8.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-C_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> with common connector to connect with amplifier NB1-EEG8.</mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source>Текстильный шлем с 10 предустановленными Ag/AgCl электродами <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-C_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>и общим разъемом для подключения к усилителю ЭЭГ NB1‑EEG8.</seg-source><target
@@ -192,7 +192,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
         id="15"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk

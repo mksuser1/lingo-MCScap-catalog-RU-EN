@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="033-5-104.htm"
@@ -56,7 +56,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Generator of light events for <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> system.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> system.</mrk></target><alt-trans
           match-quality="84"
           origin="previous-version"><seg-source>Генератор световых меток для мобильной системы NeoRecCap.</seg-source><target
             MadCap:segmentStatus="Untranslated">Generator of light events for NeoRec system.</target></alt-trans></trans-unit><trans-unit
@@ -69,7 +69,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">SET</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">Set</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
@@ -93,7 +93,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Generator of light events for <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> system.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.NeoRecCap-system_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> system.</mrk></target><alt-trans
           match-quality="84"
           origin="previous-version"><seg-source>Генератор световых меток для мобильной системы NeoRecCap.</seg-source><target
             MadCap:segmentStatus="Untranslated">Generator of light events for NeoRec system.</target></alt-trans></trans-unit><trans-unit

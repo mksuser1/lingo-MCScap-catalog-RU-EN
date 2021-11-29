@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="033-0-255.htm"
@@ -164,7 +164,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-li"
         phase-name="pretrans"><source>подбородник,</source><seg-source><mrk
@@ -222,7 +222,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="97"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</mrk><mrk
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -231,7 +231,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Rings in the cap are designed to install point <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes.</mrk><mrk
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -241,58 +241,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="3">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="4">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
-          match-quality="97"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 74 fixing rings, placed according to the international 10‑10 system.</target></alt-trans><alt-trans
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans
           match-quality="97"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-74_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это маркированный текстильный шлем с фиксирующими кольцами количеством до 51 штуки, размещенными согласно международной системе 10‑10.</seg-source><target
@@ -362,8 +312,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">74 <bpt
-              id="1">&lt;span MadCap:conditions="Default.NoOutput" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>22 yellow, 1 черное, 28 white, 23 red<ept
-              id="1">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span MadCap:conditions="Default.NoOutput" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>22 yellow, 1 черное, 28 white, 23 red<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
         id="21"
         restype="x-xml-td"
         phase-name="pretrans"><source>10-10</source><seg-source><mrk

@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="033-0-326.htm"
@@ -214,7 +214,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-li"
         phase-name="pretrans"><source>Маркеры символьные - 39 шт.,</source><seg-source><mrk
@@ -288,40 +288,6 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">Blank labels are intended for self-application of the symbol.</mrk></target><alt-trans
-          match-quality="79"
-          origin="previous-version"><seg-source>Комплект пластиковых маркеров с символами наиболее распространенных позиций ЭЭГ электродов предназначен для обозначения ЭЭГ проводов.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of plastic markers with symbols the most common positions EEG electrodes designed for marking EEG wires.</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="96"
-          origin="previous-version"><seg-source>Символы на маркерах соответствуют международной системе 10-10.</seg-source><target
-            MadCap:segmentStatus="Untranslated">The symbols on the markers correspond to the international system 10-10</target></alt-trans><alt-trans
-          match-quality="79"
-          origin="previous-version"><seg-source>Комплект пластиковых маркеров с символами наиболее распространенных позиций ЭЭГ электродов предназначен для обозначения ЭЭГ проводов.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of plastic markers with symbols the most common positions EEG electrodes designed for marking EEG wires.</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="96"
-          origin="previous-version"><seg-source>Символы на маркерах соответствуют международной системе 10-10.</seg-source><target
-            MadCap:segmentStatus="Untranslated">The symbols on the markers correspond to the international system 10-10</target></alt-trans><alt-trans
-          match-quality="79"
-          origin="previous-version"><seg-source>Комплект пластиковых маркеров с символами наиболее распространенных позиций ЭЭГ электродов предназначен для обозначения ЭЭГ проводов.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of plastic markers with symbols the most common positions EEG electrodes designed for marking EEG wires.</target></alt-trans><alt-trans
-          match-quality="79"
-          origin="previous-version"><seg-source>Комплект пластиковых маркеров с символами наиболее распространенных позиций ЭЭГ электродов предназначен для обозначения ЭЭГ проводов.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of plastic markers with symbols the most common positions EEG electrodes designed for marking EEG wires.</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="96"
-          origin="previous-version"><seg-source>Символы на маркерах соответствуют международной системе 10-10.</seg-source><target
-            MadCap:segmentStatus="Untranslated">The symbols on the markers correspond to the international system 10-10</target></alt-trans><alt-trans
-          match-quality="79"
-          origin="previous-version"><seg-source>Комплект пластиковых маркеров с символами наиболее распространенных позиций ЭЭГ электродов предназначен для обозначения ЭЭГ проводов.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of plastic markers with symbols the most common positions EEG electrodes designed for marking EEG wires.</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="96"
-          origin="previous-version"><seg-source>Символы на маркерах соответствуют международной системе 10-10.</seg-source><target
-            MadCap:segmentStatus="Untranslated">The symbols on the markers correspond to the international system 10-10</target></alt-trans><alt-trans
-          match-quality="79"
-          origin="previous-version"><seg-source>Комплект пластиковых маркеров с символами наиболее распространенных позиций ЭЭГ электродов предназначен для обозначения ЭЭГ проводов.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of plastic markers with symbols the most common positions EEG electrodes designed for marking EEG wires.</target></alt-trans><alt-trans
           match-quality="79"
           origin="previous-version"><seg-source>Комплект пластиковых маркеров с символами наиболее распространенных позиций ЭЭГ электродов предназначен для обозначения ЭЭГ проводов.</seg-source><target
             MadCap:segmentStatus="Untranslated">A set of plastic markers with symbols the most common positions EEG electrodes designed for marking EEG wires.</target></alt-trans><alt-trans
@@ -430,67 +396,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,3 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="74"
-          origin="previous-version"><seg-source>1,0 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,3 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="74"
-          origin="previous-version"><seg-source>1,0 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,3 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           mid="2"
           match-quality="80"
           origin="previous-version"><seg-source>1,3 мм (REF <bpt
@@ -576,67 +482,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers10_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,0 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="74"
-          origin="previous-version"><seg-source>1,3 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,0 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="74"
-          origin="previous-version"><seg-source>1,3 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,0 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers10_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           mid="2"
           match-quality="80"
           origin="previous-version"><seg-source>1,0 мм (REF <bpt
@@ -726,27 +572,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers15_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
-          match-quality="83"
-          origin="previous-version"><seg-source>1,3 мм</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm</target></alt-trans><alt-trans
-          match-quality="83"
-          origin="previous-version"><seg-source>1,0 мм</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm</target></alt-trans><alt-trans
-          match-quality="83"
-          origin="previous-version"><seg-source>1,5 мм</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.5 mm</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="70"
-          origin="previous-version"><seg-source>1,5 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-363<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.5 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-363<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          match-quality="83"
-          origin="previous-version"><seg-source>1,3 мм</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm</target></alt-trans><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers15_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           match-quality="83"
           origin="previous-version"><seg-source>1,3 мм</seg-source><target
             MadCap:segmentStatus="Untranslated">1.3 mm</target></alt-trans><alt-trans
@@ -871,22 +697,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="ContentChanged">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
-          match-quality="80"
-          origin="previous-version"><seg-source>Серый</seg-source><target
-            MadCap:segmentStatus="Untranslated">grey</target></alt-trans><alt-trans
-          match-quality="80"
-          origin="previous-version"><seg-source>Серый</seg-source><target
-            MadCap:segmentStatus="Untranslated">grey</target></alt-trans><alt-trans
-          match-quality="80"
-          origin="previous-version"><seg-source>Серый</seg-source><target
-            MadCap:segmentStatus="Untranslated">grey</target></alt-trans><alt-trans
-          match-quality="80"
-          origin="previous-version"><seg-source>Серый</seg-source><target
-            MadCap:segmentStatus="Untranslated">grey</target></alt-trans><alt-trans
-          match-quality="80"
-          origin="previous-version"><seg-source>Серый</seg-source><target
-            MadCap:segmentStatus="Untranslated">grey</target></alt-trans><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           match-quality="80"
           origin="previous-version"><seg-source>Серый</seg-source><target
             MadCap:segmentStatus="Untranslated">grey</target></alt-trans><alt-trans
@@ -928,67 +739,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers10_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,0 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="74"
-          origin="previous-version"><seg-source>1,3 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,0 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="74"
-          origin="previous-version"><seg-source>1,3 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.3 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-326<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-326<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="80"
-          origin="previous-version"><seg-source>1,0 мм (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.0 mm (REF <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.RU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>033-0-327<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept><bpt
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.EU,market.All" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>003-0-327<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>)</target></alt-trans><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Removable-markers10_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           mid="2"
           match-quality="80"
           origin="previous-version"><seg-source>1,0 мм (REF <bpt

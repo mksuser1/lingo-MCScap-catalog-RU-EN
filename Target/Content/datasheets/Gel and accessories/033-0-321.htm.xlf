@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="033-0-321.htm"
@@ -77,7 +77,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 2 провода - 1 шт,</source><seg-source><mrk
@@ -234,7 +234,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">The fixators are designed to hold and position the electrode wires on the <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode caps.</mrk><mrk
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode caps.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -253,60 +253,6 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">To connect the parts, insert the projections of the retaining part from the side into the grooves of the separating part.</mrk></target><alt-trans
-          match-quality="95"
-          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
-          mid="2"
-          match-quality="99"
-          origin="previous-version"><seg-source>Фиксаторы предназначены для удержания и позиционирования проводов электродов на электродных шлемах MCScap.</seg-source><target
-            MadCap:segmentStatus="Untranslated">The fixators are designed to hold and position the electrode wires on the MCScap electrode helmets. </target></alt-trans><alt-trans
-          mid="4"
-          match-quality="97"
-          origin="previous-version"><seg-source>Каждый фиксатор состоит из двух частей, разделительной и удерживающей, которые соединяются между собой за счет пазов в конструкции.</seg-source><target
-            MadCap:segmentStatus="Untranslated">Each fixator consists of two parts, separating and retaining, which are interconnected by means of grooves in the structure.</target></alt-trans><alt-trans
-          mid="6"
-          match-quality="98"
-          origin="previous-version"><seg-source>Для соединения частей следует вложить выступы удерживающей части сбоку в пазы разделительной части.</seg-source><target
-            MadCap:segmentStatus="Untranslated">To connect the parts, insert the projections of the retaining part from the side into the grooves of the separating part.</target></alt-trans><alt-trans
-          match-quality="95"
-          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
-          match-quality="95"
-          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
-          mid="2"
-          match-quality="99"
-          origin="previous-version"><seg-source>Фиксаторы предназначены для удержания и позиционирования проводов электродов на электродных шлемах MCScap.</seg-source><target
-            MadCap:segmentStatus="Untranslated">The fixators are designed to hold and position the electrode wires on the MCScap electrode helmets. </target></alt-trans><alt-trans
-          mid="4"
-          match-quality="97"
-          origin="previous-version"><seg-source>Каждый фиксатор состоит из двух частей, разделительной и удерживающей, которые соединяются между собой за счет пазов в конструкции.</seg-source><target
-            MadCap:segmentStatus="Untranslated">Each fixator consists of two parts, separating and retaining, which are interconnected by means of grooves in the structure.</target></alt-trans><alt-trans
-          mid="6"
-          match-quality="98"
-          origin="previous-version"><seg-source>Для соединения частей следует вложить выступы удерживающей части сбоку в пазы разделительной части.</seg-source><target
-            MadCap:segmentStatus="Untranslated">To connect the parts, insert the projections of the retaining part from the side into the grooves of the separating part.</target></alt-trans><alt-trans
-          match-quality="95"
-          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
-          match-quality="95"
-          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
-          mid="2"
-          match-quality="99"
-          origin="previous-version"><seg-source>Фиксаторы предназначены для удержания и позиционирования проводов электродов на электродных шлемах MCScap.</seg-source><target
-            MadCap:segmentStatus="Untranslated">The fixators are designed to hold and position the electrode wires on the MCScap electrode helmets. </target></alt-trans><alt-trans
-          mid="4"
-          match-quality="97"
-          origin="previous-version"><seg-source>Каждый фиксатор состоит из двух частей, разделительной и удерживающей, которые соединяются между собой за счет пазов в конструкции.</seg-source><target
-            MadCap:segmentStatus="Untranslated">Each fixator consists of two parts, separating and retaining, which are interconnected by means of grooves in the structure.</target></alt-trans><alt-trans
-          mid="6"
-          match-quality="98"
-          origin="previous-version"><seg-source>Для соединения частей следует вложить выступы удерживающей части сбоку в пазы разделительной части.</seg-source><target
-            MadCap:segmentStatus="Untranslated">To connect the parts, insert the projections of the retaining part from the side into the grooves of the separating part.</target></alt-trans><alt-trans
-          match-quality="95"
-          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
           match-quality="95"
           origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
             MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans

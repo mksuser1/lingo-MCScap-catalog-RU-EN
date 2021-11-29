@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="033-6-001.htm"
@@ -60,9 +60,9 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Adapter for connecting up to 49 electrodes, including GND with a <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to an amplifier with a <ph
-              id="2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> or <ph
-              id="3">&lt;MadCap:variable name="Global(External)Variables.KEL50" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to an amplifier with a <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> or <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.KEL50" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source>Адаптер для подключения до 49 электродов, включая GND с разъемом <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> к усилителю с разъемом <ph
@@ -81,7 +81,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">SET</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-li"
         phase-name="pretrans"><source>кабель 1,8 м для подключения к усилителям с разъёмом <ph
@@ -95,7 +95,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">1.8 m cable for connecting to amplifiers with a <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector,</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector,</mrk></target><alt-trans
           match-quality="96"
           origin="previous-version"><seg-source>кабель 1,8 м для подключения к усилителям с разъёмом <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>,</seg-source><target
@@ -119,7 +119,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">0.3 m flat cable for connection to amplifiers with a <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.KEL50" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector,</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.KEL50" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector,</mrk></target><alt-trans
           match-quality="96"
           origin="previous-version"><seg-source>кабель 0,3 м плоский для подключения к усилителям с разъёмом <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.KEL50" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>,</seg-source><target
@@ -167,9 +167,9 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.NVX2CAP_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a passive adapter (switch) for connecting EEG electrodes with a <ph
-              id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
-              id="3">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) connector to EEG amplifiers.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.NVX2CAP_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a passive adapter (switch) for connecting EEG electrodes with a <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) connector to EEG amplifiers.</mrk></target><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -194,7 +194,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.NVX2CAP_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> can be used in cases when it is necessary to quickly disconnect or connect patient-mounted electrodes to an EEG amplifier, for example, when registering a somnogram, or when it is necessary to increase the distance from the patient to the amplifier.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.NVX2CAP_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> can be used in cases when it is necessary to quickly disconnect or connect patient-mounted electrodes to an EEG amplifier, for example, when registering a somnogram, or when it is necessary to increase the distance from the patient to the amplifier.</mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -280,23 +280,6 @@
             MadCap:segmentStatus="Untranslated">For example, with an interelectrode resistance of 10 kΩ, the signal will additionally be attenuated by no more than 0.2% at a frequency of 150 Hz, but at a frequency of 80 kHz the attenuation will be already 30%.</target></alt-trans><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source>Соединительный кабель длиной 1,8 м, применяемый в NVX2CAP, имеет собственную межпроводную емкость до 200 пФ.</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.8 m connecting cables used in NVX2CAP have their own inter-wire capacitance up to 200 pF.</target></alt-trans><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source>Соединительный кабель длиной 1,8 м, применяемый в NVX2CAP, имеет собственную межпроводную емкость до 200 пФ.</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.8 m connecting cables used in NVX2CAP have their own inter-wire capacitance up to 200 pF.</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="98"
-          origin="previous-version"><seg-source>К примеру, при межэлектродном сопротивлении 10 кОм, сигнал дополнительно будет ослаблен не более, чем на 0,2% на частоте 150 Гц, но на частоте 80 кГц ослабление будет уже 30%.</seg-source><target
-            MadCap:segmentStatus="Untranslated">For example, with an interelectrode resistance of 10 kΩ, the signal will additionally be attenuated by no more than 0.2% at a frequency of 150 Hz, but at a frequency of 80 kHz the attenuation will be already 30%.</target></alt-trans><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source>Соединительный кабель длиной 1,8 м, применяемый в NVX2CAP, имеет собственную межпроводную емкость до 200 пФ.</seg-source><target
-            MadCap:segmentStatus="Untranslated">1.8 m connecting cables used in NVX2CAP have their own inter-wire capacitance up to 200 pF.</target></alt-trans><alt-trans
-          mid="2"
-          match-quality="98"
-          origin="previous-version"><seg-source>К примеру, при межэлектродном сопротивлении 10 кОм, сигнал дополнительно будет ослаблен не более, чем на 0,2% на частоте 150 Гц, но на частоте 80 кГц ослабление будет уже 30%.</seg-source><target
-            MadCap:segmentStatus="Untranslated">For example, with an interelectrode resistance of 10 kΩ, the signal will additionally be attenuated by no more than 0.2% at a frequency of 150 Hz, but at a frequency of 80 kHz the attenuation will be already 30%.</target></alt-trans><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source>Соединительный кабель длиной 1,8 м, применяемый в NVX2CAP, имеет собственную межпроводную емкость до 200 пФ.</seg-source><target
             MadCap:segmentStatus="Untranslated">1.8 m connecting cables used in NVX2CAP have their own inter-wire capacitance up to 200 pF.</target></alt-trans></trans-unit><trans-unit
         id="13"
         restype="x-xml-h2"
@@ -323,8 +306,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">49 <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
-              id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="15"
         restype="x-xml-td"
         phase-name="pretrans"><source><ph
@@ -340,8 +323,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> or <ph
-              id="2">&lt;MadCap:variable name="Global(External)Variables.KEL50F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (8830E‑050‑170, KEL Corp.)</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> or <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.KEL50F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (8830E‑050‑170, KEL Corp.)</mrk></target><alt-trans
           match-quality="76"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> или <ph
@@ -377,7 +360,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Length of cable with <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector</mrk></target><alt-trans
           match-quality="96"
           origin="previous-version"><seg-source>Длина кабеля с разъемом <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target
@@ -418,7 +401,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Length of cable with <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.KEL50F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.KEL50F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector</mrk></target><alt-trans
           match-quality="96"
           origin="previous-version"><seg-source>Длина кабеля с разъемом <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target
@@ -494,7 +477,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Connector <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.KEL50F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (8830E‑050‑170, KEL Corp.):</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.KEL50F" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (8830E‑050‑170, KEL Corp.):</mrk></target><alt-trans
           match-quality="80"
           origin="previous-version"><seg-source>Разъем 8830E-050-170 (KEL Corp.):</seg-source><target
             MadCap:segmentStatus="Untranslated">Connector 8830E-050-170 (KEL Corp.):</target></alt-trans><alt-trans
@@ -518,7 +501,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Connector <ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.DB-25" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (see model number on a back side):</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (see model number on a back side):</mrk></target><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source>Разъем <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (исполнение указано на задней стороне изделия):</seg-source><target
@@ -548,7 +531,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">(<ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.term Код схемы производителя" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 11E-01M25)</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.term Код схемы производителя" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 11E-01M25)</mrk></target></trans-unit><trans-unit
         id="29"
         restype="x-xml-p"
         phase-name="pretrans"><source>Исполнение 2</source><seg-source><mrk
@@ -573,7 +556,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">(<ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.term Код схемы производителя" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 15E-03M25)</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.term Код схемы производителя" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 15E-03M25)</mrk></target></trans-unit><trans-unit
         id="31"
         restype="x-xml-p"
         phase-name="pretrans"><source>Исполнение 3</source><seg-source><mrk
@@ -598,6 +581,6 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">(<ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.term Код схемы производителя" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 15E-02M25)</mrk></target></trans-unit></body>
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.term Код схемы производителя" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 15E-02M25)</mrk></target></trans-unit></body>
   </file>
 </xliff>
