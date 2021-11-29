@@ -138,7 +138,7 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="99"
             MadCap:diff="ContentChanged">The <ph
               id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.granulGEL_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is placed in the fixing ring before the electrode is inserted.</mrk><mrk
             mtype="protected"
