@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">434</count>
+          unit="segment">435</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -2183,7 +2183,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑702</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑103</seg-source><target
@@ -2209,7 +2209,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">MCScap‑T‑HD</mrk></target><alt-trans
           match-quality="58"
           origin="previous-version"><seg-source>MCScap LIGHT</seg-source><target
@@ -2233,7 +2233,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
               id="2">[%=ModuleAndDevicesNames.MCScap-T-HD_name%]</ph> <ph
               id="1">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target><alt-trans
@@ -2281,7 +2281,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑703</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑101</seg-source><target
@@ -2307,7 +2307,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">MCScap‑T‑MR</mrk></target><alt-trans
           match-quality="58"
           origin="previous-version"><seg-source>MCScap COVER</seg-source><target
@@ -3008,31 +3008,46 @@
             MadCap:segmentStatus="Untranslated">003‑0‑320</target></alt-trans></trans-unit><trans-unit
         id="140"
         restype="x-xml-variable"
-        phase-name="pretrans"><source>MCScap 10‑20 с кольцами</source><seg-source><mrk
+        phase-name="pretrans"><source>MCScap 10‑20</source><seg-source><mrk
             mtype="seg"
-            mid="1">MCScap 10‑20 с кольцами</mrk></seg-source><target
+            mid="1">MCScap 10‑20</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="86"
-            MadCap:diff="New">MCScap 10-20 with fixing rings</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">MCScap 10‑20</mrk></target><alt-trans
+          match-quality="75"
+          origin="previous-version"><seg-source>MCScap 10‑5</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap 10‑5</target></alt-trans><alt-trans
+          match-quality="58"
+          origin="previous-version"><seg-source>MCScap-CS22</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑CS22</target></alt-trans><alt-trans
+          match-quality="53"
+          origin="previous-version"><seg-source>MCScap-CS22SS</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑CS22SS</target></alt-trans><alt-trans
+          match-quality="52"
+          origin="previous-version"><seg-source>MCScap 10‑20 с кольцами</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap 10-20 with fixing rings</target></alt-trans><alt-trans
+          match-quality="52"
+          origin="previous-version"><seg-source>MCScap 10‑10 чёрный</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap 10‑10 black</target></alt-trans></trans-unit><trans-unit
         id="141"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
             id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-20_name%]</ph></source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-20_name%]</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+              id="1">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
               id="2">[%=ModuleAndDevicesNames.MCScap-20_name%]</ph></mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
@@ -3078,7 +3093,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="77"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑513</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑113</seg-source><target
@@ -3097,23 +3112,32 @@
             MadCap:segmentStatus="Untranslated">003‑0‑348</target></alt-trans></trans-unit><trans-unit
         id="143"
         restype="x-xml-variable"
-        phase-name="pretrans"><source>MCScap‑32 с кольцами</source><seg-source><mrk
+        phase-name="pretrans"><source>MCScap‑32</source><seg-source><mrk
             mtype="seg"
-            mid="1">MCScap‑32 с кольцами</mrk></seg-source><target
+            mid="1">MCScap‑32</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0"
-            MadCap:diff="New">MCScap‑32 with fixing rings</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">MCScap‑32</mrk></target><alt-trans
+          match-quality="63"
+          origin="previous-version"><seg-source>MCScap-CS22</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑CS22</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>MCScap 10‑5</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap 10‑5</target></alt-trans><alt-trans
+          match-quality="53"
+          origin="previous-version"><seg-source>MCScap-CS22SS</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑CS22SS</target></alt-trans></trans-unit><trans-unit
         id="144"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
             id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-32_name%]</ph></source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-32_name%]</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -3121,8 +3145,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
-              id="2">[%=ModuleAndDevicesNames.MCScap-32_name%]</ph></mrk></target><alt-trans
+              id="2">[%=ModuleAndDevicesNames.MCScap-32_name%]</ph> <ph
+              id="1">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph></mrk></target><alt-trans
           match-quality="66"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-electrode_firstname%]</ph> <ph
@@ -3186,23 +3210,29 @@
             MadCap:segmentStatus="Untranslated">003‑7‑018</target></alt-trans></trans-unit><trans-unit
         id="146"
         restype="x-xml-variable"
-        phase-name="pretrans"><source>MCScap‑51 с кольцами</source><seg-source><mrk
+        phase-name="pretrans"><source>MCScap‑51</source><seg-source><mrk
             mtype="seg"
-            mid="1">MCScap‑51 с кольцами</mrk></seg-source><target
+            mid="1">MCScap‑51</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0"
-            MadCap:diff="New">MCScap‑51 with fixing rings</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">MCScap‑51</mrk></target><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>MCScap 10‑5</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap 10‑5</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>MCScap-CS22</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑CS22</target></alt-trans></trans-unit><trans-unit
         id="147"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
             id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-51_name%]</ph></source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-51_name%]</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -3210,8 +3240,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
-              id="2">[%=ModuleAndDevicesNames.MCScap-51_name%]</ph></mrk></target><alt-trans
+              id="2">[%=ModuleAndDevicesNames.MCScap-51_name%]</ph> <ph
+              id="1">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph></mrk></target><alt-trans
           match-quality="66"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-electrode_firstname%]</ph> <ph
@@ -3275,23 +3305,29 @@
             MadCap:segmentStatus="Untranslated">003‑0‑342</target></alt-trans></trans-unit><trans-unit
         id="149"
         restype="x-xml-variable"
-        phase-name="pretrans"><source>MCScap‑74 с кольцами</source><seg-source><mrk
+        phase-name="pretrans"><source>MCScap‑74</source><seg-source><mrk
             mtype="seg"
-            mid="1">MCScap‑74 с кольцами</mrk></seg-source><target
+            mid="1">MCScap‑74</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0"
-            MadCap:diff="New">MCScap‑74 with fixing rings</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">MCScap‑74</mrk></target><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>MCScap 10‑5</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap 10‑5</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>MCScap-CS22</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑CS22</target></alt-trans></trans-unit><trans-unit
         id="150"
         restype="x-xml-variable"
         phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
             id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-74_name%]</ph></source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-74_name%]</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -3299,8 +3335,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
-              id="2">[%=ModuleAndDevicesNames.MCScap-74_name%]</ph></mrk></target><alt-trans
+              id="2">[%=ModuleAndDevicesNames.MCScap-74_name%]</ph> <ph
+              id="1">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]</ph></mrk></target><alt-trans
           match-quality="66"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._ear-electrode_firstname%]</ph> <ph
@@ -5074,7 +5110,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑7‑011</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑337</seg-source><target
@@ -5111,7 +5147,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑7‑019</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑343</seg-source><target
@@ -5137,7 +5173,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑7‑004</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑6‑004</seg-source><target
@@ -9490,7 +9526,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑353</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑103</seg-source><target
@@ -9646,7 +9682,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑519</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑319</seg-source><target
@@ -9672,7 +9708,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑520</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑320</seg-source><target
@@ -9698,7 +9734,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑521</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑321</seg-source><target
@@ -9724,7 +9760,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑522</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑122</seg-source><target
@@ -9750,7 +9786,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑523</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑123</seg-source><target
@@ -9776,7 +9812,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="88"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">003‑0‑524</mrk></target><alt-trans
           match-quality="88"
           origin="previous-version"><seg-source>033‑0‑124</seg-source><target
@@ -9792,6 +9828,29 @@
             MadCap:segmentStatus="Untranslated">003‑0‑254</target></alt-trans><alt-trans
           match-quality="77"
           origin="previous-version"><seg-source>033‑0‑321</seg-source><target
-            MadCap:segmentStatus="Untranslated">003‑0‑321</target></alt-trans></trans-unit></body>
+            MadCap:segmentStatus="Untranslated">003‑0‑321</target></alt-trans></trans-unit><trans-unit
+        id="435"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> с кольцами</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> с кольцами</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged"><ph
+              id="1">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> with fixing rings</mrk></target><alt-trans
+          match-quality="55"
+          origin="previous-version"><seg-source>MCScap‑32 с кольцами</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑32 with fixing rings</target></alt-trans><alt-trans
+          match-quality="55"
+          origin="previous-version"><seg-source>MCScap‑51 с кольцами</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑51 with fixing rings</target></alt-trans><alt-trans
+          match-quality="55"
+          origin="previous-version"><seg-source>MCScap‑74 с кольцами</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap‑74 with fixing rings</target></alt-trans></trans-unit></body>
   </file>
 </xliff>

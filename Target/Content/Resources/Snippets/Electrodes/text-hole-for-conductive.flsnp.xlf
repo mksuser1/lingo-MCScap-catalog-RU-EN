@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="text-hole-for-conductive.flsnp"
@@ -89,6 +89,54 @@
           mid="4"
           match-quality="74"
           origin="previous-version"><seg-source>Для подготовки кожи скрабом и добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
-            MadCap:segmentStatus="Untranslated">A hole in the electrodes is designed to prepare the skin with a scrub and add an electrically conductive gel.</target></alt-trans></trans-unit></body>
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is designed to prepare the skin with a scrub and add an electrically conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для подготовки кожи скрабом и добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is designed to prepare the skin with a scrub and add an electrically conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для подготовки кожи скрабом и добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is designed to prepare the skin with a scrub and add an electrically conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="74"
+          origin="previous-version"><seg-source>Для добавления электропроводящего геля в электродах предусмотрено отверстие.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A hole in the electrodes is provided to add a conductive gel.</target></alt-trans></trans-unit></body>
   </file>
 </xliff>

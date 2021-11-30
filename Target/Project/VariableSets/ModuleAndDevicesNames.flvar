@@ -148,17 +148,17 @@
     <Variable Name="MCScap-color_name" Comment="" EvaluatedDefinition="MCScap">MCScap</Variable>
     <Variable Name="MCScap-color_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-color_name%]</Variable>
     <Variable Name="MCScap-20_code" Comment="003-0-225" EvaluatedDefinition="033-0-225">033&#8209;0&#8209;225</Variable>
-    <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap&#160;10&#8209;20 с&#160;кольцами">MCScap&#160;10&#8209;20 с&#160;кольцами</Variable>
-    <Variable Name="MCScap-20_fullname" Comment="" EvaluatedDefinition="Шлем текстильный MCScap&#160;10&#8209;20 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_firstname%] [%=ModuleAndDevicesNames.MCScap-20_name%]</Variable>
+    <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap&#160;10&#8209;20">MCScap&#160;10&#8209;20</Variable>
+    <Variable Name="MCScap-20_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами MCScap&#160;10&#8209;20 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%] [%=ModuleAndDevicesNames.MCScap-20_name%]</Variable>
     <Variable Name="MCScap-32_code" Comment="003-0-513" EvaluatedDefinition="033&#8209;0&#8209;513">033&#8209;0&#8209;513</Variable>
-    <Variable Name="MCScap-32_name" Comment="" EvaluatedDefinition="MCScap&#8209;32 с&#160;кольцами">MCScap&#8209;32 с&#160;кольцами</Variable>
-    <Variable Name="MCScap-32_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap&#8209;32 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-32_name%]</Variable>
+    <Variable Name="MCScap-32_name" Comment="" EvaluatedDefinition="MCScap&#8209;32">MCScap&#8209;32</Variable>
+    <Variable Name="MCScap-32_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;кольцами&#160;MCScap&#8209;32">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-32_name%]</Variable>
     <Variable Name="MCScap-51_code" Comment="003-0-246" EvaluatedDefinition="033-0-246">033&#8209;0&#8209;246</Variable>
-    <Variable Name="MCScap-51_name" Comment="" EvaluatedDefinition="MCScap&#8209;51 с&#160;кольцами">MCScap&#8209;51 с&#160;кольцами</Variable>
-    <Variable Name="MCScap-51_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap&#8209;51 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-51_name%]</Variable>
+    <Variable Name="MCScap-51_name" Comment="" EvaluatedDefinition="MCScap&#8209;51">MCScap&#8209;51</Variable>
+    <Variable Name="MCScap-51_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами&#160;MCScap&#8209;51 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-51_name%]</Variable>
     <Variable Name="MCScap-74_code" Comment="003-0-255" EvaluatedDefinition="033-0-255">033&#8209;0&#8209;255</Variable>
-    <Variable Name="MCScap-74_name" Comment="" EvaluatedDefinition="MCScap&#8209;74 с&#160;кольцами">MCScap&#8209;74 с&#160;кольцами</Variable>
-    <Variable Name="MCScap-74_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap&#8209;74 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-74_name%]</Variable>
+    <Variable Name="MCScap-74_name" Comment="" EvaluatedDefinition="MCScap&#8209;74">MCScap&#8209;74</Variable>
+    <Variable Name="MCScap-74_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами&#160;MCScap&#8209;74 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-74_name%]</Variable>
     <Variable Name="MCScap-black_code" Comment="003-0-234" EvaluatedDefinition="033-0-234">033&#8209;0&#8209;234</Variable>
     <Variable Name="MCScap-black_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;10 чёрный">MCScap 10&#8209;10 чёрный</Variable>
     <Variable Name="MCScap-black_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;10 чёрный">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-black_name%]</Variable>
@@ -469,4 +469,5 @@
     <Variable Name="MCScap-32Inf1_code" Comment="003-0-522" EvaluatedDefinition="033-0-522">033&#8209;0&#8209;522</Variable>
     <Variable Name="MCScap-32Inf2_code" Comment="003-0-523" EvaluatedDefinition="033-0-523">033&#8209;0&#8209;523</Variable>
     <Variable Name="MCScap-32Inf3_code" Comment="003-0-524" EvaluatedDefinition="033-0-524">033&#8209;0&#8209;524</Variable>
+    <Variable Name="_textile-cap_rings_firstname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_firstname%] с&#160;кольцами</Variable>
 </CatapultVariableSet>

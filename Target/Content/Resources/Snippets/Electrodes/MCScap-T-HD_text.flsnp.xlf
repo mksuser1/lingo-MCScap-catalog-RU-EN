@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="MCScap-T-HD_text.flsnp"
@@ -75,8 +75,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-T-HD_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a thin Ag/\AgCl sintered EEG electrode based on a <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode. </mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-T-HD_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a thin Ag/\AgCl sintered EEG electrode based on a <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode. </mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -85,7 +85,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">The <ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-T-HD_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> has a reduced body diameter for high-resolution EEG recording. </mrk><mrk
+              id="3">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-T-HD_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> has a reduced body diameter for high-resolution EEG recording. </mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -103,8 +103,160 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
+              id="4">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5">&lt;MadCap:snippetText src="text-big-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</mrk></target><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
               id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-big-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</mrk></target><alt-trans
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Возможно использование с электропроводящей пастой.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="text-hole-for-conductive.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Use with conductive paste is possible.</target></alt-trans><alt-trans
           mid="6"
           match-quality="99"
           origin="previous-version"><seg-source><ph
