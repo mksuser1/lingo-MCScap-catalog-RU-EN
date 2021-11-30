@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-7-004.htm"
@@ -85,7 +85,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="97">Highly conducting, adhesive paste <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is used as a fixing and electrically conductive contact medium when installing electrodes on the surface of the head and body when performing the following electrophysiological studies: electroencephalography (EEG), evoked potentials (EP) of the brain, transcranial magnetic stimulation (TMS), electromyography (EMG) and determining the speed of the nerves, polysomnography, conducting biofeedback (BF) EEG and EMG, etc.</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is used as a fixing and electrically conductive contact medium when installing electrodes on the surface of the head and body when performing the following electrophysiological studies: electroencephalography (EEG), evoked potentials (EP) of the brain, transcranial magnetic stimulation (TMS), electromyography (EMG) and determining the speed of the nerves, polysomnography, conducting biofeedback (BF) EEG and EMG, etc.</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
@@ -98,7 +98,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is used both for normal EEG and EP studies (up to one hour), and for long-term monitoring studies and polysomnography (up to a day).</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is used both for normal EEG and EP studies (up to one hour), and for long-term monitoring studies and polysomnography (up to a day).</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
@@ -111,7 +111,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> provides a reliable fixation of the electrodes, has high conductive properties, reduces the electrical resistance of the skin, does not damage the electrodes, and is easily washed off with warm water.</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> provides a reliable fixation of the electrodes, has high conductive properties, reduces the electrical resistance of the skin, does not damage the electrodes, and is easily washed off with warm water.</mrk></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
@@ -185,11 +185,11 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">not less than 4.5 N/ cm2 (at density application paste 0.16 g/cm<bpt
               id="1"
-              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>2<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept>)<bpt
+              ctype="x-superscript">&lt;sup&gt;</bpt>2<ept
+              id="1">&lt;/sup&gt;</ept>)<bpt
               id="2"
-              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt><ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept></mrk></target></trans-unit><trans-unit
+              ctype="x-superscript">&lt;sup&gt;</bpt><ept
+              id="2">&lt;/sup&gt;</ept></mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>ООО «Гельтек-Медика», Россия</source><seg-source><mrk

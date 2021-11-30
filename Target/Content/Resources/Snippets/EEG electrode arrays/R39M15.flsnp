@@ -2,7 +2,7 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <body>
         <div class="figure">
-            <img src="../../Images/Схемы отведений/R39M15.eps" class="electrodeArray" />
+            <img src="../../Images/Album_ElectrodeArrays/39M15.eps" class="electrodeArray" />
             <p class="schemeName">
                 <MadCap:variable name="Global(External)Variables.term Код схемы производителя" />: 39M15 (15 электродов)</p>
         </div>

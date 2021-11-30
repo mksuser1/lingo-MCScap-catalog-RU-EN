@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-0-272.htm"
@@ -55,7 +55,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Protective cap for <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> EEG caps.</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> EEG caps.</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-th"
         phase-name="pretrans"><source>Размер</source><seg-source><mrk
@@ -198,7 +198,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="72"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed for:</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed for:</mrk></target></trans-unit><trans-unit
         id="16"
         restype="x-xml-p"
         phase-name="pretrans"><source>дополнительной фиксации ЭЭГ шлема,</source><seg-source><mrk
@@ -249,11 +249,11 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is suitable for both caps with location of the output of the electrode cable from cap on the back of the head (<ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._CLINIC" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, <ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._PROFESSIONAL" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, <ph
-              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ELECTRODE_SET" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>), and at the top (<ph
-              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is suitable for both caps with location of the output of the electrode cable from cap on the back of the head (<ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._CLINIC" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, <ph
+              id="3">&lt;MadCap:variable name="ModuleAndDevicesNames._PROFESSIONAL" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, <ph
+              id="4">&lt;MadCap:variable name="ModuleAndDevicesNames._ELECTRODE_SET" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>), and at the top (<ph
+              id="5">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk></target></trans-unit><trans-unit
         id="20"
         restype="x-xml-p"
         phase-name="pretrans"><source>Размерный ряд <ph
@@ -280,8 +280,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="77">The size range of the <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is identical to the size range of <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile caps.</mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is identical to the size range of <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile caps.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -290,7 +290,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="82"><ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is recommended to use the same size as the cap.</mrk><mrk
+              id="3">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is recommended to use the same size as the cap.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -299,7 +299,7 @@
             mid="5"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="82">For <ph
-              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ELECTRODE_SET" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> kits it is recommended to use a half-size larger cap.</mrk></target></trans-unit><trans-unit
+              id="4">&lt;MadCap:variable name="ModuleAndDevicesNames._ELECTRODE_SET" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> kits it is recommended to use a half-size larger cap.</mrk></target></trans-unit><trans-unit
         id="21"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
@@ -318,7 +318,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="85">The <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is worn over the top of the electrode cap, attached to the cap velcro and secured with chin or chest belt.</mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is worn over the top of the electrode cap, attached to the cap velcro and secured with chin or chest belt.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -327,7 +327,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">The chin belt is not included in the <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></target></trans-unit><trans-unit
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></target></trans-unit><trans-unit
         id="22"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk

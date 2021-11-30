@@ -261,7 +261,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">Comfort for operator and for patient</mrk></target></trans-unit><trans-unit
         id="12"
-        restype="x-xml-h2"
+        restype="x-xml-p"
         phase-name="pretrans"><source>Подготовка к использованию</source><seg-source><mrk
             mtype="seg"
             mid="1">Подготовка к использованию</mrk></seg-source><target

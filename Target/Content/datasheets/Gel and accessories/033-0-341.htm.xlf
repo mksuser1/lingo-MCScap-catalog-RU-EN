@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-0-341.htm"
@@ -56,7 +56,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Mannequin for storage, drying, demonstration and transportation of <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</mrk></target><alt-trans
           match-quality="92"
           origin="previous-version"><seg-source>Манекен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
             MadCap:segmentStatus="Untranslated">Mannequin for storage, drying, demonstration and transportation of MCScap electrode cap.</target></alt-trans></trans-unit><trans-unit
@@ -148,8 +148,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">The <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> cap.</mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> cap.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -176,6 +176,51 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">The mannequin stand is removable for easy transportation.</mrk></target><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>Манекен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Mannequin for storage, drying, demonstration and transportation of MCScap electrode cap.</target></alt-trans><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>Манекен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Mannequin for storage, drying, demonstration and transportation of MCScap electrode cap.</target></alt-trans><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>Манекен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Mannequin for storage, drying, demonstration and transportation of MCScap electrode cap.</target></alt-trans><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>Манекен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Mannequin for storage, drying, demonstration and transportation of MCScap electrode cap.</target></alt-trans><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>Манекен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Mannequin for storage, drying, demonstration and transportation of MCScap electrode cap.</target></alt-trans><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
+          match-quality="54"
+          origin="previous-version"><seg-source>Манекен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Mannequin for storage, drying, demonstration and transportation of MCScap electrode cap.</target></alt-trans><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
           match-quality="90"
           origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
             MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans><alt-trans
@@ -237,7 +282,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="12"
         restype="x-xml-p"
         phase-name="pretrans"><source>18x15x23 ±0,5 см (REF <ph
@@ -264,7 +309,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-p"
         phase-name="pretrans"><source>125 ±5 г (REF <ph
@@ -291,7 +336,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="14"
         restype="x-xml-p"
         phase-name="pretrans"><source>70 ±5 г (REF <ph
@@ -318,6 +363,6 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit></body>
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit></body>
   </file>
 </xliff>

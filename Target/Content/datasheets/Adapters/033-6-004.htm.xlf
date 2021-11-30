@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-6-004.htm"
@@ -58,8 +58,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="76"
             MadCap:diff="ContentChanged">Adapter for connecting up to 25 electrodes, including GND with a <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to an amplifier with a <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to an amplifier with a <ph
+              id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
           match-quality="67"
           origin="previous-version"><seg-source>Адаптер для подключения шлема с общим разъёмом <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -108,10 +108,10 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="96"
             MadCap:diff="ContentChanged"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25F_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  electrode adapter is a passive adapter (switch) for connecting an EEG cap with a common <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to the connectors of  <ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
-              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) of EEG amplifier.</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25F_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  electrode adapter is a passive adapter (switch) for connecting an EEG cap with a common <ph
+              id="2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to the connectors of  <ph
+              id="3">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="4">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) of EEG amplifier.</mrk></target><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ElectroAdapter_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -162,6 +162,21 @@
             MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source>20 разъёмов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъёмов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъёмов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъёмов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъёмов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source>20 разъёмов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
             MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans></trans-unit><trans-unit
         id="6"
         restype="x-xml-h2"
@@ -187,8 +202,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">up to 25 <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="8"
         restype="x-xml-td"
         phase-name="pretrans"><source>25</source><seg-source><mrk

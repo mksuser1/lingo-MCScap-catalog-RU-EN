@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-0-312.htm"
@@ -109,7 +109,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="93">Disposable blunt needle for the introduction of an electrically conductive gel through a special hole in the <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes.</mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -220,7 +220,22 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
           match-quality="77"
           origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
@@ -264,7 +279,22 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle100_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle100_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
           match-quality="70"
           origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
@@ -315,11 +345,11 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">В технических характеристиках исправлена ошибка <bpt
               id="1"
-              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>10 шт<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept> исправлено на <bpt
+              ctype="bold">&lt;b&gt;</bpt>10 шт<ept
+              id="1">&lt;/b&gt;</ept> исправлено на <bpt
               id="2"
-              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>5 шт<ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept></mrk></target></trans-unit><trans-unit
+              ctype="bold">&lt;b&gt;</bpt>5 шт<ept
+              id="2">&lt;/b&gt;</ept></mrk></target></trans-unit><trans-unit
         id="18"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-03-12</source><seg-source><mrk

@@ -74,7 +74,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Data sheet</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">Data sheet</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-p"
         phase-name="pretrans"><source>2021 год. Россия</source><seg-source><mrk

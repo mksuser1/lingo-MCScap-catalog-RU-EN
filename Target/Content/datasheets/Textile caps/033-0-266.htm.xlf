@@ -55,7 +55,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Chest belt for <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> caps fixing.</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> caps fixing.</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-th"
         phase-name="pretrans"><source>Размер</source><seg-source><mrk
@@ -138,7 +138,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="92">Elastic chest belt for fixing <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> caps with a buckle on the chest and velcro for attaching to the cap.</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> caps with a buckle on the chest and velcro for attaching to the cap.</mrk></target></trans-unit><trans-unit
         id="10"
         restype="x-xml-th"
         phase-name="pretrans"><source>Размер нагрудного ремня</source><seg-source><mrk
@@ -171,7 +171,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">Recommended for use with <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> sizes</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> sizes</mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>Взрослый</source><seg-source><mrk
@@ -316,7 +316,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-belt_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>),</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-belt_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>),</mrk></target></trans-unit><trans-unit
         id="26"
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 55 г (REF <ph
@@ -341,7 +341,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-beltchildren_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>),</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-beltchildren_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>),</mrk></target></trans-unit><trans-unit
         id="27"
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 15 г (REF <ph
@@ -366,7 +366,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-beltinfant_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-beltinfant_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="28"
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 90 г (REF <ph
@@ -394,7 +394,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-belt_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>),</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-belt_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>),</mrk></target></trans-unit><trans-unit
         id="29"
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 55 г (REF <ph
@@ -422,7 +422,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-beltchildren_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>),</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-beltchildren_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>),</mrk></target></trans-unit><trans-unit
         id="30"
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 15 г (REF <ph
@@ -450,7 +450,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-beltinfant_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Chest-beltinfant_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="31"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk

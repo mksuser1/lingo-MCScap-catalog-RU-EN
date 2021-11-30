@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-0-320.htm"
@@ -96,7 +96,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 5 pcs.</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 5 pcs.</mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 5 шт.</seg-source><target
@@ -135,7 +135,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">The <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of soft polyurethane and is designed to reduce the discomfort of skin contact with the hard electrode surface.</mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of soft polyurethane and is designed to reduce the discomfort of skin contact with the hard electrode surface.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -154,7 +154,53 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed for use with flat EEG electrodes MCScap‑TC/T/NT/StTC/StNT.</mrk></target><alt-trans
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed for use with flat EEG electrodes MCScap‑TC/T/NT/StTC/StNT.</mrk></target><alt-trans
+          match-quality="97"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> сделана из мягкого полиуретана и предназначена для уменьшения дискомфорта от контакта кожи с твердой поверхностью электрода.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of soft polyurethane and is designed to reduce the discomfort of skin contact with the hard electrode surface.</target></alt-trans><alt-trans
+          match-quality="59"
+          origin="previous-version"><seg-source>Мягкая юбка для удержания электропроводящего геля и уменьшения дискомфорта от контакта кожи с твердой поверхностью электрода.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Soft skirt to hold the electrically conductive gel and reduce the discomfort of skin contact with the hard electrode surface.</target></alt-trans><alt-trans
+          mid="2"
+          match-quality="98"
+          origin="previous-version"><seg-source>За счет дополнительного объёма геля юбка позволяет обеспечить электрический контакт при неплотном прилегании ЭЭГ электрода к коже головы.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Due to the additional volume of the gel, the skirt allows for electrical contact with a loose fit of the EEG electrode to the scalp.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="98"
+          origin="previous-version"><seg-source><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначена для использования с плоскими ЭЭГ электродами MCScap‑TC/T/NT/StTC/StNT.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed for use with flat EEG electrodes MCScap‑TC/T/NT/StTC/StNT. </target></alt-trans><alt-trans
+          match-quality="97"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> сделана из мягкого полиуретана и предназначена для уменьшения дискомфорта от контакта кожи с твердой поверхностью электрода.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of soft polyurethane and is designed to reduce the discomfort of skin contact with the hard electrode surface.</target></alt-trans><alt-trans
+          match-quality="97"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> сделана из мягкого полиуретана и предназначена для уменьшения дискомфорта от контакта кожи с твердой поверхностью электрода.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of soft polyurethane and is designed to reduce the discomfort of skin contact with the hard electrode surface.</target></alt-trans><alt-trans
+          match-quality="59"
+          origin="previous-version"><seg-source>Мягкая юбка для удержания электропроводящего геля и уменьшения дискомфорта от контакта кожи с твердой поверхностью электрода.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Soft skirt to hold the electrically conductive gel and reduce the discomfort of skin contact with the hard electrode surface.</target></alt-trans><alt-trans
+          mid="2"
+          match-quality="98"
+          origin="previous-version"><seg-source>За счет дополнительного объёма геля юбка позволяет обеспечить электрический контакт при неплотном прилегании ЭЭГ электрода к коже головы.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Due to the additional volume of the gel, the skirt allows for electrical contact with a loose fit of the EEG electrode to the scalp.</target></alt-trans><alt-trans
+          mid="4"
+          match-quality="98"
+          origin="previous-version"><seg-source><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначена для использования с плоскими ЭЭГ электродами MCScap‑TC/T/NT/StTC/StNT.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed for use with flat EEG electrodes MCScap‑TC/T/NT/StTC/StNT. </target></alt-trans><alt-trans
+          match-quality="97"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> сделана из мягкого полиуретана и предназначена для уменьшения дискомфорта от контакта кожи с твердой поверхностью электрода.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of soft polyurethane and is designed to reduce the discomfort of skin contact with the hard electrode surface.</target></alt-trans><alt-trans
           match-quality="97"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> сделана из мягкого полиуретана и предназначена для уменьшения дискомфорта от контакта кожи с твердой поверхностью электрода.</seg-source><target

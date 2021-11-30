@@ -38,8 +38,8 @@
                             </tr>
                         </table>
                     </td>
-                    <td>
-                        <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-336/ABS fixator.jpg" style="width:76mm; float: right;" />
+                    <td class="figure">
+                        <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-336/ABS fixator.jpg" />
                     </td>
                 </tr>
             </table>
