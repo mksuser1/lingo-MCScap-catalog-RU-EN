@@ -13,8 +13,12 @@
                     <p>
                         <MadCap:variable name="Global(External)Variables.value MR-conditional" />:</p>
                     <ul>
-                        <li>砻קยด1ตว融</li>
-                        <li>砻קยด2ตว融</li>
+                        <li>
+                            <p>砻קยด1ตว融</p>
+                        </li>
+                        <li>
+                            <p>砻קยด2ตว融</p>
+                        </li>
                     </ul>
                 </td>
             </tr>

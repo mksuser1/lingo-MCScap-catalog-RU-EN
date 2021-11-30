@@ -2,6 +2,6 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <body>
         <p>
-            <MadCap:variable name="ModuleAndDevicesNames.MCScap-T-HD_name" /> – это тонкий Ag/AgCl sintered электрод для регистрации ЭЭГ на основе электрода <MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" />. <MadCap:variable name="ModuleAndDevicesNames.MCScap-T-HD_name" /> обладает уменьшенным диаметром корпуса для регистрации ЭЭГ высокого разрешения. Тонкий корпус обеспечивает комфорт пациента при обследовании в положении лёжа. <MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" /> <MadCap:snippetText src="text-hole-for-conductive.flsnp" /> Возможно использование с электропроводящей пастой.</p>
+            <MadCap:variable name="ModuleAndDevicesNames.MCScap-T-HD_name" /> – это тонкий Ag/AgCl sintered электрод для регистрации ЭЭГ на основе электрода <MadCap:variable name="ModuleAndDevicesNames.MCScap-T_name" />. <MadCap:variable name="ModuleAndDevicesNames.MCScap-T-HD_name" /> обладает уменьшенным диаметром корпуса для регистрации ЭЭГ высокого разрешения. Тонкий корпус обеспечивает комфорт пациента при обследовании в положении лёжа. <MadCap:snippetText src="2-text-material-sintered-Ag-AgCl.flsnp" /> <MadCap:snippetText src="text-big-hole-for-conductive.flsnp" /> Возможно использование с электропроводящей пастой.</p>
     </body>
 </html>

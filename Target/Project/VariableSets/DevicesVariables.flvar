@@ -197,4 +197,6 @@
     <Variable Name="DeviceName" Comment="" EvaluatedDefinition="MCScap-T-HD">[%=ModuleAndDevicesNames.MCScap-T-HD_fullname%]</Variable>
     <Variable Name="DeviceCode" Comment="" EvaluatedDefinition="003-0-703">[%=ModuleAndDevicesNames.MCScap-T-MR_code%]</Variable>
     <Variable Name="DeviceName" Comment="" EvaluatedDefinition="MCScap-T-MR">[%=ModuleAndDevicesNames.MCScap-T-MR_fullname%]</Variable>
+    <Variable Name="DeviceCode" Comment="" EvaluatedDefinition="033&#8209;0&#8209;345">[%=ModuleAndDevicesNames.FoldingMannequin_code%]</Variable>
+    <Variable Name="DeviceName" Comment="" EvaluatedDefinition="Манекен складной">[%=ModuleAndDevicesNames.FoldingMannequin_fullname%]</Variable>
 </CatapultVariableSet>

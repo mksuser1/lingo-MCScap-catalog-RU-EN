@@ -110,10 +110,10 @@
     <Variable Name="MCScap-RT30_code" Comment="" EvaluatedDefinition="033&#8209;0&#8209;114">033&#8209;0&#8209;114</Variable>
     <Variable Name="MCScap-RT30_fullname" Comment="" EvaluatedDefinition="Комплект крепежный&#160;MCScap&#8209;RT&#8209;30">Комплект крепежный&#160;[%=ModuleAndDevicesNames.MCScap-RT30_name%]</Variable>
     <Variable Name="granulGel_firstname" Comment="" EvaluatedDefinition="Твердый гель для регистрации ЭЭГ">Твердый гель для регистрации ЭЭГ</Variable>
-    <Variable Name="MCScap-T-HD_code" Comment="003-0-702" EvaluatedDefinition="003-0-702">003&#8209;0&#8209;702</Variable>
+    <Variable Name="MCScap-T-HD_code" Comment="003-0-702" EvaluatedDefinition="033&#8209;0&#8209;130">033&#8209;0&#8209;130</Variable>
     <Variable Name="MCScap-T-HD_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;HD">MCScap&#8209;T&#8209;HD</Variable>
     <Variable Name="MCScap-T-HD_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;HD">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-HD_name%]</Variable>
-    <Variable Name="MCScap-T-MR_code" Comment="003-0-703" EvaluatedDefinition="003-0-703">003&#8209;0&#8209;703</Variable>
+    <Variable Name="MCScap-T-MR_code" Comment="003-0-703" EvaluatedDefinition="033&#8209;0&#8209;131">033&#8209;0&#8209;131</Variable>
     <Variable Name="MCScap-T-MR_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;MR">MCScap&#8209;T&#8209;MR</Variable>
     <Variable Name="MCScap-T-MR_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;MR">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-MR_name%]</Variable>
     <Variable Name="Clinic_name" Comment="" EvaluatedDefinition="CLINIC">[%=ModuleAndDevicesNames._CLINIC%]</Variable>
@@ -150,7 +150,7 @@
     <Variable Name="MCScap-20_code" Comment="003-0-225" EvaluatedDefinition="033-0-225">033&#8209;0&#8209;225</Variable>
     <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap&#160;10&#8209;20 с&#160;кольцами">MCScap&#160;10&#8209;20 с&#160;кольцами</Variable>
     <Variable Name="MCScap-20_fullname" Comment="" EvaluatedDefinition="Шлем текстильный MCScap&#160;10&#8209;20 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_firstname%] [%=ModuleAndDevicesNames.MCScap-20_name%]</Variable>
-    <Variable Name="MCScap-32_code" Comment="" EvaluatedDefinition="MCScap-32">MCScap-32</Variable>
+    <Variable Name="MCScap-32_code" Comment="003-0-513" EvaluatedDefinition="033&#8209;0&#8209;513">033&#8209;0&#8209;513</Variable>
     <Variable Name="MCScap-32_name" Comment="" EvaluatedDefinition="MCScap&#8209;32 с&#160;кольцами">MCScap&#8209;32 с&#160;кольцами</Variable>
     <Variable Name="MCScap-32_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap&#8209;32 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-32_name%]</Variable>
     <Variable Name="MCScap-51_code" Comment="003-0-246" EvaluatedDefinition="033-0-246">033&#8209;0&#8209;246</Variable>
@@ -269,6 +269,9 @@
     <Variable Name="mannequin-fb_code" Comment="003-7-009" EvaluatedDefinition="033-0-328">033&#8209;0&#8209;328</Variable>
     <Variable Name="mannequin-mh_code" Comment="003-7-010" EvaluatedDefinition="033-0-329">033&#8209;0&#8209;329</Variable>
     <Variable Name="mannequin-fh_code" Comment="003-7-011" EvaluatedDefinition="033-0-330">033&#8209;0&#8209;330</Variable>
+    <Variable Name="FoldingMannequin_name" Comment="" EvaluatedDefinition="Манекен складной">Манекен складной</Variable>
+    <Variable Name="FoldingMannequin_code" Comment="003&#8209;7&#8209;019" EvaluatedDefinition="033&#8209;0&#8209;345">033&#8209;0&#8209;345</Variable>
+    <Variable Name="FoldingMannequin_fullname" Comment="" EvaluatedDefinition="Манекен складной">[%=ModuleAndDevicesNames.FoldingMannequin_name%]</Variable>
     <Variable Name="Unipaste_code" Comment="003-7-004" EvaluatedDefinition="033-7-004">033&#8209;7&#8209;004</Variable>
     <Variable Name="Unipaste_name" Comment="" EvaluatedDefinition="Унипаста">Унипаста</Variable>
     <Variable Name="Unipaste_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;паста&#160;Унипаста">ЭЭГ&#160;паста&#160;[%=ModuleAndDevicesNames.Unipaste_name%]</Variable>
@@ -455,4 +458,15 @@
     <Variable Name="Disposable-coverS-XS_code" Comment="003-0-298" EvaluatedDefinition="033-0-298">033&#8209;0&#8209;298</Variable>
     <Variable Name="Tubular-capM_code" Comment="003-0-352" EvaluatedDefinition="033-0-502">033&#8209;0&#8209;502</Variable>
     <Variable Name="Tubular-capS_code" Comment="003-0-353" EvaluatedDefinition="033-0-503">033&#8209;0&#8209;503</Variable>
+    <Variable Name="MCScap-32XL-L_code" Comment="003-0-514" EvaluatedDefinition="033-0-514">033&#8209;0&#8209;514</Variable>
+    <Variable Name="MCScap-32L_code" Comment="003-0-515" EvaluatedDefinition="033-0-515">033&#8209;0&#8209;515</Variable>
+    <Variable Name="MCScap-32L-M_code" Comment="003-0-516" EvaluatedDefinition="033-0-516">033&#8209;0&#8209;516</Variable>
+    <Variable Name="MCScap-32M_code" Comment="003-0-517" EvaluatedDefinition="033-0-517">033&#8209;0&#8209;517</Variable>
+    <Variable Name="MCScap-32M-S_code" Comment="003-0-518" EvaluatedDefinition="033-0-518">033&#8209;0&#8209;518</Variable>
+    <Variable Name="MCScap-32S_code" Comment="003-0-519" EvaluatedDefinition="033-0-519">033&#8209;0&#8209;519</Variable>
+    <Variable Name="MCScap-32S-XS_code" Comment="003-0-520" EvaluatedDefinition="033-0-520">033&#8209;0&#8209;520</Variable>
+    <Variable Name="MCScap-32XS_code" Comment="003-0-521" EvaluatedDefinition="033-0-521">033&#8209;0&#8209;521</Variable>
+    <Variable Name="MCScap-32Inf1_code" Comment="003-0-522" EvaluatedDefinition="033-0-522">033&#8209;0&#8209;522</Variable>
+    <Variable Name="MCScap-32Inf2_code" Comment="003-0-523" EvaluatedDefinition="033-0-523">033&#8209;0&#8209;523</Variable>
+    <Variable Name="MCScap-32Inf3_code" Comment="003-0-524" EvaluatedDefinition="033-0-524">033&#8209;0&#8209;524</Variable>
 </CatapultVariableSet>
