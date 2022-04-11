@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:onlyLocalStylesheets="False" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1 class="deviceName">
+            <MadCap:variable name="ModuleAndDevicesNames.Professional-nt_fullname" />
+        </h1>
+        <p class="shortDescription">砻קยด1ตว融</p>
+        <section class="withimg">
+            <table>
+                <col class="width50" />
+                <col class="width50" />
+                <tr>
+                    <td>
+                        <table class="refs_table">
+                            <col style="width:30%" />
+                            <col style="width:30%" />
+                            <col style="width:40%" />
+                            <tr>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.REFname" />
+                                </th>
+                                <th>砻קยด2ตว融</th>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.parameter Head circumference" />
+                                </th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-nt_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL" /> </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntXL-L_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XLL-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XLL" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntL_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntL-M_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.LM-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.LM" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntM_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntM-S_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.MS-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.MS" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntS_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntS-XS_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.SXS-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.SXS" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntXS_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XS-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XS" />
+                                </td>
+                            </tr>
+                            <tr MadCap:conditions="market.All,market.RU">
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntInf1_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfI-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfI" />
+                                </td>
+                            </tr>
+                            <tr MadCap:conditions="market.All,market.RU">
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntInf2_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfII-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfII" />
+                                </td>
+                            </tr>
+                            <tr MadCap:conditions="market.All,market.RU">
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesNames.Professional-ntInf3_code" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfIII-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfIII" />
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="figure">
+                        <img src="../../../Resources/Images/Catalog/Electrode caps/033-3-001/PROFESSIONAL.jpg" />
+                    </td>
+                </tr>
+            </table>
+        </section>
+        <section class="target-section">
+            <h2>砻קยด3ตว融</h2>
+            <p>砻קยด4ตว融</p>
+            <p class="footnote">砻קยด5ตว融</p>
+        </section>
+        <section class="set-section">
+            <h2>砻קยด6ตว融</h2>
+            <ul>
+                <li>
+                    <p>
+                        <MadCap:variable name="ModuleAndDevicesNames.Professional-nt_fullname" />,</p>
+                </li>
+                <li>
+                    <p>砻קยด7ตว融</p>
+                </li>
+                <li>
+                    <p>砻קยด8ตว融</p>
+                </li>
+                <li>
+                    <p>砻קยด9ตว融</p>
+                </li>
+                <li>
+                    <p>砻קยด10ตว融</p>
+                </li>
+            </ul>
+        </section>
+        <section class="fullDescription">
+            <h2>砻קยด11ตว融</h2>
+            <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/PROFESSIONAL-NT-description.flsnp" />
+        </section>
+        <section class="technicalData-section">
+            <h2>砻קยด12ตว融</h2>
+            <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/PROFESSIONAL-NT-datasheet.flsnp" />
+        </section>
+        <section class="noBreakInside" MadCap:conditions="documents.GroupDatasheet">
+            <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/Standard_EEG_scheme_toDatasheet.flsnp" />
+        </section>
+        <section MadCap:conditions="documents.InternalDocument">
+            <table>
+                <tr>
+                    <td>砻קยด13ตว融</td>
+                    <td>砻קยด14ตว融</td>
+                    <td>砻קยด15ตว融</td>
+                </tr>
+            </table>
+        </section>
+    </body>
+</html>

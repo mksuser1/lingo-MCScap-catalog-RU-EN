@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="completed">
+  <file
+    xml:space="preserve"
+    original="CLINIC-TC-datasheet.flsnp"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="x-flsnp"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="CLINIC-TC-datasheet.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">10</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>1,5 м</source><seg-source><mrk
+            mtype="seg"
+            mid="1">1,5 м</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">1.5 m</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>нет</source><seg-source><mrk
+            mtype="seg"
+            mid="1">нет</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">no</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>да</source><seg-source><mrk
+            mtype="seg"
+            mid="1">да</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">yes</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>да</source><seg-source><mrk
+            mtype="seg"
+            mid="1">да</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">yes</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Запасной электрод с разъемом <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>(<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> )</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.NoOutput">Запасной электрод с разъемом <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>(<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> )</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Spare electrode with <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) connector</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>нет</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.NoOutput">нет</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">no</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>1</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.NoOutput">1</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">1</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>&lt; 250 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="documents.GroupDatasheet">&lt; 250 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">&lt; 250 g</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>&lt; 750 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="documents.GroupDatasheet">&lt; 750 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">&lt; 750 g</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>&lt; 800 г</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.PrintOnly,documents.GroupDatasheet">&lt; 800 г</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">&lt; 800 g</mrk></target></trans-unit></body>
+  </file>
+</xliff>
