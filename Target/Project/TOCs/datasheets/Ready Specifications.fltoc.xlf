@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Ready Specifications.fltoc"
@@ -48,7 +48,7 @@
         phase-name="pretrans"><source>Catalog Title</source><seg-source><mrk
             mtype="seg"
             mid="1"
-            MadCap:conditions="Default.PrintOnly"
+            MadCap:conditions="Default.PrintOnly,documents.InternalDocument"
             comment="Title">Catalog Title</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -71,6 +71,7 @@
         phase-name="pretrans"><source>_2-electrodes</source><seg-source><mrk
             mtype="seg"
             mid="1"
+            MadCap:conditions="documents.InternalDocument"
             comment="Title">_2-electrodes</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -82,6 +83,7 @@
         phase-name="pretrans"><source>_3-textile cap</source><seg-source><mrk
             mtype="seg"
             mid="1"
+            MadCap:conditions="documents.InternalDocument"
             comment="Title">_3-textile cap</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -93,6 +95,7 @@
         phase-name="pretrans"><source>_5-adapters</source><seg-source><mrk
             mtype="seg"
             mid="1"
+            MadCap:conditions="documents.InternalDocument"
             comment="Title">_5-adapters</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -104,6 +107,7 @@
         phase-name="pretrans"><source>_4-accessories</source><seg-source><mrk
             mtype="seg"
             mid="1"
+            MadCap:conditions="documents.InternalDocument"
             comment="Title">_4-accessories</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -115,6 +119,7 @@
         phase-name="pretrans"><source>_6-gel and spray</source><seg-source><mrk
             mtype="seg"
             mid="1"
+            MadCap:conditions="documents.InternalDocument"
             comment="Title">_6-gel and spray</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
@@ -137,6 +142,7 @@
         phase-name="pretrans"><source>11_TES</source><seg-source><mrk
             mtype="seg"
             mid="1"
+            MadCap:conditions="documents.InternalDocument"
             comment="Title">11_TES</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"

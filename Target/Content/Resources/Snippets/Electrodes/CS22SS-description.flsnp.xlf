@@ -107,6 +107,11 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это многоразовый электрод диаметром 22 мм из низкокоррозионной нержавеющей стали, предназначенный для проведения транскраниальной электрической стимуляции.</seg-source><target
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a reusable electrode with a diameter of 22 mm of low-corrosion stainless steel, designed to conduct transcranial electrical stimulation.</target></alt-trans><alt-trans
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это многоразовый электрод диаметром 22 мм из низкокоррозионной нержавеющей стали, предназначенный для проведения транскраниальной электрической стимуляции.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a reusable electrode with a diameter of 22 mm of low-corrosion stainless steel, designed to conduct transcranial electrical stimulation.</target></alt-trans><alt-trans
           mid="2"
           match-quality="99"
           origin="previous-version"><seg-source>Электрод <ph
@@ -127,7 +132,12 @@
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> гораздо менее склонен к деградации (коррозии) при использовании в режимах стимуляции постоянным током (tDCS – transcranial dirrect current stimulation), переменным током с постоянной составляющей (monopolar tACS) и микрополяризации, однако не обеспечивает качественную регистрацию ЭЭГ.</seg-source><target
             MadCap:segmentStatus="Untranslated">The <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode, compared to <ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, is much less prone to degradation (corrosion) when used in direct current (tDCS - transcranial dirrect current stimulation), alternating current with a constant component (monopolar tACS) and micropolarization modes, but does not provide high-quality EEG recording.</target></alt-trans></trans-unit><trans-unit
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, is much less prone to degradation (corrosion) when used in direct current (tDCS - transcranial dirrect current stimulation), alternating current with a constant component (monopolar tACS) and micropolarization modes, but does not provide high-quality EEG recording.</target></alt-trans><alt-trans
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это многоразовый электрод диаметром 22 мм из низкокоррозионной нержавеющей стали, предназначенный для проведения транскраниальной электрической стимуляции.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a reusable electrode with a diameter of 22 mm of low-corrosion stainless steel, designed to conduct transcranial electrical stimulation.</target></alt-trans></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Электрод состоит из электропроводящего диска с отверстием в центре, окруженного литым корпусом с упругим кольцом-юбкой, обеспечивающим комфортное прилегание к коже и увеличенную площадь контакта. Электроды <ph

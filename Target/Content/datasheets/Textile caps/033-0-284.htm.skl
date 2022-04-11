@@ -41,7 +41,7 @@
                                 </td>
                                 <td>砻קยด4ตว融</td>
                                 <td>
-                                    <MadCap:variable name="LocalVariables-Sizes.XL-L" />
+                                    <MadCap:variable name="LocalVariables-Sizes.XLL" />
                                 </td>
                             </tr>
                             <tr>
@@ -59,7 +59,7 @@
                                 </td>
                                 <td>砻קยด6ตว融</td>
                                 <td>
-                                    <MadCap:variable name="LocalVariables-Sizes.L-M" />
+                                    <MadCap:variable name="LocalVariables-Sizes.LM" />
                                 </td>
                             </tr>
                             <tr>
@@ -77,7 +77,7 @@
                                 </td>
                                 <td>砻קยด8ตว融</td>
                                 <td>
-                                    <MadCap:variable name="LocalVariables-Sizes.M-S" />
+                                    <MadCap:variable name="LocalVariables-Sizes.MS" />
                                 </td>
                             </tr>
                             <tr>
@@ -95,7 +95,7 @@
                                 </td>
                                 <td>砻קยด10ตว融</td>
                                 <td>
-                                    <MadCap:variable name="LocalVariables-Sizes.S-XS" />
+                                    <MadCap:variable name="LocalVariables-Sizes.SXS" />
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
@@ -113,7 +113,7 @@
                                 </td>
                                 <td>砻קยด12ตว融</td>
                                 <td>
-                                    <MadCap:variable name="LocalVariables-Sizes.Inf I" />
+                                    <MadCap:variable name="LocalVariables-Sizes.InfI" />
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
@@ -122,7 +122,7 @@
                                 </td>
                                 <td>砻קยด13ตว融</td>
                                 <td>
-                                    <MadCap:variable name="LocalVariables-Sizes.Inf II" />
+                                    <MadCap:variable name="LocalVariables-Sizes.InfII" />
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
@@ -131,7 +131,7 @@
                                 </td>
                                 <td>砻קยด14ตว融</td>
                                 <td>
-                                    <MadCap:variable name="LocalVariables-Sizes.Inf III" />
+                                    <MadCap:variable name="LocalVariables-Sizes.InfIII" />
                                 </td>
                             </tr>
                         </table>

@@ -89,5 +89,7 @@
     </GeneratedFiles>
     <Synchronize>
         <Mapping ProjectPath="Content/Resources/Images/UserManuals/Tes4me/" ExternalPath="file:///C:/Users/felena/Documents/FlareProjects/MCScap/MCScap-EU/MCScap-EU-EN/Content/Resources/Images/UserManuals/Tes4me/" />
+        <Mapping ProjectPath="Project/ConditionTagSets/Modules.flcts" ExternalPath="file:///C:/Users/felena/Documents/FlareProjects/MCScap/MCScap-EU/MCScap-EU-EN/Project/ConditionTagSets/Modules.flcts" />
+        <Mapping ProjectPath="Project/ConditionTagSets/Devices.flcts" ExternalPath="file:///C:/Users/felena/Documents/FlareProjects/MCScap/MCScap-EU/MCScap-EU-EN/Project/ConditionTagSets/Devices.flcts" />
     </Synchronize>
 </CatapultProject>

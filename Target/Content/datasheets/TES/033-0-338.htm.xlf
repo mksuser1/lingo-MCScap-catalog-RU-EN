@@ -250,6 +250,9 @@
           match-quality="77"
           origin="previous-version"><seg-source>&lt; 3 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 3 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 3 g</target></alt-trans><alt-trans
           match-quality="70"
           origin="previous-version"><seg-source>&lt; 0,3 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 0.3 g</target></alt-trans><alt-trans
@@ -258,6 +261,9 @@
             MadCap:segmentStatus="Untranslated">&lt; 3 g</target></alt-trans><alt-trans
           match-quality="70"
           origin="previous-version"><seg-source>&lt; 0,3 г</seg-source><target
-            MadCap:segmentStatus="Untranslated">&lt; 0.3 g</target></alt-trans></trans-unit></body>
+            MadCap:segmentStatus="Untranslated">&lt; 0.3 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 3 g</target></alt-trans></trans-unit></body>
   </file>
 </xliff>
