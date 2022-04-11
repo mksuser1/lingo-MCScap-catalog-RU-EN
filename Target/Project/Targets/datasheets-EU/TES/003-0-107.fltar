@@ -6,9 +6,9 @@
         <Variable Name="DocsVariables/DocCode"> MCS.[%=ProductVariables.ProductCode%]-[%=DocsVariables.DocSubCode%]-[%=DocsVariables.Market%]-[%=DocsVariables.Language%] </Variable>
         <Variable Name="DocsVariables/DocSubCode">DS</Variable>
         <Variable Name="DocsVariables/Market">EU</Variable>
-        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.MCScap-CS22_code%]</Variable>
-        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</Variable>
-        <Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceName%]</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=TM-ModuleAndDevicesNames.MCScap-CS22_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceFullName%]</Variable>
         <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
         <Variable Name="ProductVariables/ProductName">[%=DevicesVariables.DeviceName%]</Variable>
     </Variables>

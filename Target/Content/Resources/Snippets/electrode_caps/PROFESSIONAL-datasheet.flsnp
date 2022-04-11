@@ -73,7 +73,7 @@
                 </td>
                 <td>1</td>
             </tr>
-            <tr MadCap:conditions="documents.GroupDatasheet">
+            <tr MadCap:conditions="documents.GroupDatasheet,documents.UserManual,documents.ExploitationManual">
                 <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter Electrodecap weight" />
                 </td>

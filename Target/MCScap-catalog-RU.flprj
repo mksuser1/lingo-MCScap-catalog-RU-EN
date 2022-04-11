@@ -87,4 +87,7 @@
         <Url Source="Content/Resources/Images/маркировочные символы/Температурный-диапазон.png" TimeStamp="02.11.2018 13:07:29" />
         <Url Source="Content/Resources/Images/маркировочные символы/Тип-сенсора-ЭЭГ-электрода.png" TimeStamp="02.11.2018 13:07:29" />
     </GeneratedFiles>
+    <Synchronize>
+        <Mapping ProjectPath="Content/Resources/Images/UserManuals/Tes4me/" ExternalPath="file:///C:/Users/felena/Documents/FlareProjects/MCScap/MCScap-EU/MCScap-EU-EN/Content/Resources/Images/UserManuals/Tes4me/" />
+    </Synchronize>
 </CatapultProject>

@@ -54,7 +54,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Stainless steel electrode for transcranial electrostimulation (tDCs / tACs) and EEG recording 22 mm diameter, with <ph
+            MadCap:matchPercent="101">Stainless steel electrode for transcranial electrostimulation (tDCs / tACs) and EEG recording 22 mm diameter, with <ph
               id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector, wire length 1.2 m.</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-th"

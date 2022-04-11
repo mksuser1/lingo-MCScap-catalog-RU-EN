@@ -11,7 +11,7 @@
         <Variable Name="ProductVariables/ProductFirstName">Мобильная система</Variable>
         <Variable Name="ProductVariables/ProductFullName">[%=ProductVariables.ProductFirstName%]&#160;[%=ProductVariables.ProductLastName%]</Variable>
         <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
-        <Variable Name="ProductVariables/ProductLastName">NeoRecCap</Variable>
+        <Variable Name="ProductVariables/ProductLastName">[%=Reg-Prod-Variables.NeoRecCap-name%]</Variable>
         <Variable Name="ProductVariables/ProductName">[%=ProductVariables.ProductLastName%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />

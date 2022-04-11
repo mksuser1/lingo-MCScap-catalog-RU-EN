@@ -46,16 +46,16 @@
         id="1"
         restype="x-xml-p"
         phase-name="pretrans"><source>При применении электродов в режиме стимуляции следует учитывать рекомендованные научным или клиническим сообществом максимально допустимые значения плотности тока, которые зависят от величины и формы тока. Примеры расчета плотности тока для <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> электродов для ряда значений тока стимуляции приведены в таблице.</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> электродов для ряда значений тока стимуляции приведены в таблице.</source><seg-source><mrk
             mtype="seg"
             mid="1">При применении электродов в режиме стимуляции следует учитывать рекомендованные научным или клиническим сообществом максимально допустимые значения плотности тока, которые зависят от величины и формы тока.</mrk><mrk
             mtype="protected"
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">Примеры расчета плотности тока для <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> электродов для ряда значений тока стимуляции приведены в таблице.</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> электродов для ряда значений тока стимуляции приведены в таблице.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -68,26 +68,67 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="91">Examples of calculating the current density for <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes for a number of stimulation current values are given in the table.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">Examples of calculating the current density for <ph
+              id="1">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
+              id="2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes for a number of stimulation current values are given in the table.</mrk></target><alt-trans
+          mid="2"
+          match-quality="99"
+          origin="previous-version"><seg-source>Примеры расчета плотности тока для <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> электродов для ряда значений тока стимуляции приведены в таблице.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Examples of calculating the current density for <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes for a number of stimulation current values are given in the table.</target></alt-trans><alt-trans
+          mid="2"
+          match-quality="99"
+          origin="previous-version"><seg-source>Примеры расчета плотности тока для <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> электродов для ряда значений тока стимуляции приведены в таблице.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Examples of calculating the current density for <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes for a number of stimulation current values are given in the table.</target></alt-trans><alt-trans
+          mid="2"
+          match-quality="99"
+          origin="previous-version"><seg-source>Примеры расчета плотности тока для <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> электродов для ряда значений тока стимуляции приведены в таблице.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Examples of calculating the current density for <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes for a number of stimulation current values are given in the table.</target></alt-trans><alt-trans
+          mid="2"
+          match-quality="99"
+          origin="previous-version"><seg-source>Примеры расчета плотности тока для <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> электродов для ряда значений тока стимуляции приведены в таблице.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Examples of calculating the current density for <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes for a number of stimulation current values are given in the table.</target></alt-trans></trans-unit><trans-unit
         id="2"
         restype="x-xml-caption"
         phase-name="pretrans"><source>Примеры плотности тока для электродов <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Default.NoOutput">Примеры плотности тока для электродов <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="63">Examples of calculating the current density for <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">Examples of calculating the current density for <ph
+              id="1">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
+              id="2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes</mrk></target><alt-trans
+          match-quality="99"
+          origin="previous-version"><seg-source>Примеры плотности тока для электродов <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target
+            MadCap:segmentStatus="Untranslated">Examples of calculating the current density for <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes</target></alt-trans></trans-unit><trans-unit
         id="3"
         restype="x-xml-th"
         phase-name="pretrans"><source>Ток стимуляции</source><seg-source><mrk

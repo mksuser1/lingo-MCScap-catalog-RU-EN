@@ -52,7 +52,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="68">Ag/AgCl electrode for transcranial electrostimulation (tDCs / tACs) and EEG recording, 22 mm in diameter, with 2 mm DIY Jack connector, wire length 1.2 m.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">Ag/AgCl electrode for transcranial electrostimulation (tDCs / tACs) and EEG recording, 22 mm in diameter, with 2 mm DIY Jack connector, wire length 1.2 m.</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-th"
         phase-name="pretrans"><source>Цвет разъема</source><seg-source><mrk

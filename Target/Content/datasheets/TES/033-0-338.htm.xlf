@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">9</count>
+          unit="segment">16</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -45,21 +45,51 @@
     <body><trans-unit
         id="1"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Спонж для электродов <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 10 штук.</source><seg-source><mrk
+        phase-name="pretrans"><source>Спонжи для электродов <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Спонж для электродов <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 10 штук.</mrk></seg-source><target
+            mid="1">Спонжи для электродов <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="58">Sponge for <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>/<ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes - 5 pcs.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="67"
+            MadCap:diff="ContentChanged">Sponge for <ph
+              id="1">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>/<ph
+              id="2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes.</mrk></target><alt-trans
+          match-quality="69"
+          origin="previous-version"><seg-source>Спонж для электродов <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> 10 штук.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Sponge for <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>/<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22SS_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes - 5 pcs.</target></alt-trans></trans-unit><trans-unit
         id="2"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>10 шт.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">10 шт.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">10 pcs.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>50 шт.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">50 шт.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">50 pcs.</mrk></target></trans-unit><trans-unit
+        id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -69,20 +99,26 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="3"
+        id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 10 шт.</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 10 / 50 шт.</source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 10 шт.</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 10 / 50 шт.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 10 pcs.</mrk></target></trans-unit><trans-unit
-        id="4"
+            MadCap:matchPercent="0"
+            MadCap:diff="ContentChanged"><ph
+              id="1">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 10 / 50 pcs.</mrk></target><alt-trans
+          match-quality="66"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 10 шт.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 10 pcs.</target></alt-trans></trans-unit><trans-unit
+        id="6"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -92,20 +128,25 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="5"
+        id="7"
         restype="x-xml-p"
         phase-name="pretrans"><source>Спонжи для удерживания проводящих растворов внутри электродов <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="MCScap-Glossary-and-therms.value электроды TES-d22" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, 10 шт.</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="MCScap-Glossary-and-therms.value электроды TES-d22" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</source><seg-source><mrk
             mtype="seg"
             mid="1">Спонжи для удерживания проводящих растворов внутри электродов <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="MCScap-Glossary-and-therms.value электроды TES-d22" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, 10 шт.</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="MCScap-Glossary-and-therms.value электроды TES-d22" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Sponges for holding conductive solutions inside the electrode <ph
-              id="1">&lt;MadCap:variable name="MCScap-Glossary-and-therms.value электроды TES-d22" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, 10 pcs.</mrk></target></trans-unit><trans-unit
-        id="6"
+            MadCap:matchPercent="90"
+            MadCap:diff="ContentChanged" /></target><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>Спонжи для удерживания проводящих растворов внутри электродов <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="MCScap-Glossary-and-therms.value электроды TES-d22" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, 10 шт.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Sponges for holding conductive solutions inside the electrode <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="MCScap-Glossary-and-therms.value электроды TES-d22" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, 10 pcs.</target></alt-trans></trans-unit><trans-unit
+        id="8"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -115,7 +156,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="7"
+        id="9"
         restype="x-xml-td"
         phase-name="pretrans"><source>Хлопок</source><seg-source><mrk
             mtype="seg"
@@ -125,8 +166,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">Cotton</mrk></target></trans-unit><trans-unit
-        id="8"
-        restype="x-xml-td"
+        id="10"
+        restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 0,3 г</source><seg-source><mrk
             mtype="seg"
             mid="1">&lt; 0,3 г</mrk></seg-source><target
@@ -135,16 +176,88 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">&lt; 0.3 g</mrk></target></trans-unit><trans-unit
-        id="9"
-        restype="x-xml-td"
-        phase-name="pretrans"><source>&lt; 3 г</source><seg-source><mrk
+        id="11"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>&lt; 3 г (REF <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1"
-            MadCap:parentConditions="Default.PrintOnly">&lt; 3 г</mrk></seg-source><target
+            MadCap:parentConditions="|Default.PrintOnly">&lt; 3 г</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="|Default.PrintOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="|Default.PrintOnly">(REF <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">&lt; 3 g</mrk></target></trans-unit></body>
+            MadCap:matchPercent="100">&lt; 3 g</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">(REF <ph
+              id="1">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>&lt; 15 г (REF <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD2250_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|Default.PrintOnly">&lt; 15 г</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:parentConditions="|Default.PrintOnly"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:parentConditions="|Default.PrintOnly">(REF <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD2250_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="ContentChanged">&lt; 15 g</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">(REF <ph
+              id="1">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD2250_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 3 g</target></alt-trans><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 0,3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 0.3 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 3 g</target></alt-trans><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 0,3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 0.3 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 3 g</target></alt-trans><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 0,3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 0.3 g</target></alt-trans><alt-trans
+          match-quality="77"
+          origin="previous-version"><seg-source>&lt; 3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 3 g</target></alt-trans><alt-trans
+          match-quality="70"
+          origin="previous-version"><seg-source>&lt; 0,3 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 0.3 g</target></alt-trans></trans-unit></body>
   </file>
 </xliff>

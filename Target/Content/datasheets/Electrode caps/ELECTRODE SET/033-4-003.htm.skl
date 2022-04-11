@@ -53,7 +53,7 @@
                 </li>
                 <li>
                     <p>
-                        <MadCap:variable name="ModuleAndDevicesNames.labelelectrodes-1010_name" />,</p>
+                        <MadCap:variable name="ModuleAndDevicesNames.labelelectrodes-1020_name" />,</p>
                 </li>
                 <li>
                     <p>砻קยด7ตว融</p>
@@ -139,35 +139,41 @@
                     </td>
                     <td>砻קยด18ตว融</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="market.All,market.RU">
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter кол-во текстильных шлемов" />
                     </td>
                     <td>砻קยด19ตว融</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="market.All,market.EU">
                     <td>
-                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Доступные размеры шлемов" />
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter кол-во текстильных шлемов" />
                     </td>
                     <td>砻קยด20ตว融</td>
                 </tr>
                 <tr>
                     <td>
-                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Electrodecap weight" />
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Доступные размеры шлемов" />
                     </td>
                     <td>砻קยด21ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.parameter Electrodecap weight" />
+                    </td>
+                    <td>砻קยด22ตว融</td>
                 </tr>
                 <tr MadCap:conditions="">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
-                    <td>砻קยด22ตว融</td>
+                    <td>砻קยด23ตว融</td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
-                    <td>砻קยด23ตว融</td>
+                    <td>砻קยด24ตว融</td>
                 </tr>
             </table>
         </section>
@@ -176,7 +182,7 @@
                 <col style="width:50%" />
                 <tr>
                     <th>
-                        <h2>砻קยด24ตว融</h2>
+                        <h2>砻קยด25ตว融</h2>
                     </th>
                 </tr>
                 <tr>
@@ -185,13 +191,13 @@
                     </td>
                 </tr>
             </table>
-            <p>砻קยด25ตว融</p>
+            <p>砻קยด26ตว融</p>
         </section>
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
-                    <td>砻קยด26ตว融</td>
                     <td>砻קยด27ตว融</td>
+                    <td>砻קยด28ตว融</td>
                     <td> </td>
                 </tr>
             </table>

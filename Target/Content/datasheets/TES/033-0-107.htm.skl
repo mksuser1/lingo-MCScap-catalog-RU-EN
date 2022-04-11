@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1 class="deviceName">
-            <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_fullname" />
+            <MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
         <section class="withimg">
@@ -25,7 +25,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_code" />
+                                    <MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_code" />
                                 </td>
                                 <td> </td>
                             </tr>
@@ -41,7 +41,7 @@
             <h2>砻קยด2ตว融</h2>
             <ul>
                 <li>
-                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_fullname" />,</li>
+                    <MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_fullname" />,</li>
                 <li>砻קยด3ตว融</li>
             </ul>
         </section>

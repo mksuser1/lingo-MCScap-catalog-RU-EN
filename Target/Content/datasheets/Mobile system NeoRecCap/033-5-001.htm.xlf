@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">29</count>
+          unit="segment">28</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -235,16 +235,6 @@
             MadCap:matchPercent="100">10-10</mrk></target></trans-unit><trans-unit
         id="19"
         restype="x-xml-td"
-        phase-name="pretrans"><source>ST40X‑18S‑CV(30)</source><seg-source><mrk
-            mtype="seg"
-            mid="1">ST40X‑18S‑CV(30)</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">ST40X‑18S‑CV(30)</mrk></target></trans-unit><trans-unit
-        id="20"
-        restype="x-xml-td"
         phase-name="pretrans"><source>5 см</source><seg-source><mrk
             mtype="seg"
             mid="1">5 см</mrk></seg-source><target
@@ -253,7 +243,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="75">5 cm</mrk></target></trans-unit><trans-unit
-        id="21"
+        id="20"
         restype="x-xml-td"
         phase-name="pretrans"><source>10</source><seg-source><mrk
             mtype="seg"
@@ -263,6 +253,16 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">10</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>наличие</source><seg-source><mrk
+            mtype="seg"
+            mid="1">наличие</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">yes</mrk></target></trans-unit><trans-unit
         id="22"
         restype="x-xml-td"
         phase-name="pretrans"><source>наличие</source><seg-source><mrk
@@ -275,16 +275,6 @@
             MadCap:matchPercent="100">yes</mrk></target></trans-unit><trans-unit
         id="23"
         restype="x-xml-td"
-        phase-name="pretrans"><source>наличие</source><seg-source><mrk
-            mtype="seg"
-            mid="1">наличие</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">yes</mrk></target></trans-unit><trans-unit
-        id="24"
-        restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 800 г</source><seg-source><mrk
             mtype="seg"
             mid="1">&lt; 800 г</mrk></seg-source><target
@@ -292,8 +282,8 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="85">&lt; 800 g</mrk></target></trans-unit><trans-unit
-        id="25"
+            MadCap:matchPercent="100">&lt; 800 g</mrk></target></trans-unit><trans-unit
+        id="24"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 800 г</source><seg-source><mrk
             mtype="seg"
@@ -304,7 +294,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 800 g</mrk></target></trans-unit><trans-unit
-        id="26"
+        id="25"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Схема подключения контактов общего разъема</source><seg-source><mrk
             mtype="seg"
@@ -315,7 +305,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Pin layouts of common connector</mrk></target></trans-unit><trans-unit
-        id="27"
+        id="26"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Схема расположения электродов</source><seg-source><mrk
             mtype="seg"
@@ -326,7 +316,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Scheme of electrode arrangement</mrk></target></trans-unit><trans-unit
-        id="28"
+        id="27"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -337,7 +327,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="29"
+        id="28"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"

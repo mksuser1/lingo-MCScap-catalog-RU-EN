@@ -52,7 +52,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">1.5 m</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">1.5 m</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-td"
         phase-name="pretrans"><source>нет</source><seg-source><mrk
@@ -127,7 +127,7 @@
         phase-name="pretrans"><source>&lt; 250 г</source><seg-source><mrk
             mtype="seg"
             mid="1"
-            MadCap:parentConditions="documents.GroupDatasheet">&lt; 250 г</mrk></seg-source><target
+            MadCap:parentConditions="documents.GroupDatasheet,documents.UserManual,documents.ExploitationManual">&lt; 250 г</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"

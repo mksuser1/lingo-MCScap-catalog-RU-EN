@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName" MadCap:autonum="">
+        <h1 class="deviceName">
             <MadCap:variable name="ModuleAndDevicesNames.NeoRecCap_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
@@ -105,11 +105,11 @@
             </table>
         </section>
         <section class="target-section">
-            <h2 MadCap:autonum="">砻קยด12ตว融</h2>
+            <h2>砻קยด12ตว融</h2>
             <p>砻קยด13ตว融</p>
         </section>
         <section class="set-section">
-            <h2 MadCap:autonum="">砻קยด14ตว融</h2>
+            <h2>砻קยด14ตว融</h2>
             <ul>
                 <li>
                     <p>
@@ -118,11 +118,11 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2 MadCap:autonum="">砻קยด15ตว融</h2>
+            <h2>砻קยด15ตว融</h2>
             <p>砻קยด16ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2 MadCap:autonum="">砻קยด17ตว融</h2>
+            <h2>砻קยด17ตว融</h2>
             <table class="datasheet" style="caption-side: bottom;">
                 <col class="width50" />
                 <col class="width50" />
@@ -152,13 +152,15 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter тип разъема" />
                     </td>
-                    <td>砻קยด19ตว融</td>
+                    <td>
+                        <MadCap:variable name="Global(External)Variables.ST40X-18S-CV" />
+                    </td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Длина шлейфа" />
                     </td>
-                    <td>砻קยด20ตว融</td>
+                    <td>砻קยด19ตว融</td>
                 </tr>
                 <tr>
                     <td>
@@ -172,7 +174,7 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Кол-во эл-дов" />
                     </td>
-                    <td>砻קยด21ตว融</td>
+                    <td>砻קยด20ตว融</td>
                 </tr>
                 <tr>
                     <td>
@@ -186,25 +188,25 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Маркировка посадочных мест" />
                     </td>
-                    <td>砻קยด22ตว融</td>
+                    <td>砻קยด21ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Маркировка электродов" />
                     </td>
-                    <td>砻קยด23ตว融</td>
+                    <td>砻קยด22ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
-                    <td>砻קยด24ตว融</td>
+                    <td>砻קยด23ตว融</td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
-                    <td>砻קยด25ตว融</td>
+                    <td>砻קยด24ตว融</td>
                 </tr>
             </table>
         </section>
@@ -214,10 +216,10 @@
                 <col style="width:50%" />
                 <tr>
                     <th>
-                        <h2 MadCap:autonum="">砻קยด26ตว融</h2>
+                        <h2>砻קยด25ตว融</h2>
                     </th>
                     <th>
-                        <h2 MadCap:autonum="">砻קยด27ตว融</h2>
+                        <h2>砻קยด26ตว融</h2>
                     </th>
                 </tr>
                 <tr>
@@ -233,8 +235,8 @@
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
+                    <td>砻קยด27ตว融</td>
                     <td>砻קยด28ตว融</td>
-                    <td>砻קยด29ตว融</td>
                     <td> </td>
                 </tr>
             </table>

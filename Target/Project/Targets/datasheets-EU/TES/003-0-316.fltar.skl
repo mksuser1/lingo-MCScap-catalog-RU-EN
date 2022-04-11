@@ -6,9 +6,9 @@
         <Variable Name="DocsVariables/DocCode">砻קยด3ตว融</Variable>
         <Variable Name="DocsVariables/DocSubCode">砻קยด4ตว融</Variable>
         <Variable Name="DocsVariables/Market">砻קยด5ตว融</Variable>
-        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.SpongeD22_code%]</Variable>
-        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.SpongeD22_fullname%]</Variable>
-        <Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceName%]</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=TM-ModuleAndDevicesNames.SpongeD22_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=TM-ModuleAndDevicesNames.SpongeD22_fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceFullName%]</Variable>
         <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
         <Variable Name="ProductVariables/ProductName">[%=DevicesVariables.DeviceName%]</Variable>
     </Variables>

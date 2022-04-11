@@ -2,9 +2,9 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <body>
         <p>
-            <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" /> – многоразовый электрод диаметром 22 мм из композита Ag/AgCl, предназначенный для проведения транскраниальной электрической стимуляции (ТЭС), преимущественно переменным током (tACS – transcranial alternating current stimulation), и регистрации электроэнцефалограммы (ЭЭГ).</p>
+            <MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" /> – многоразовый электрод диаметром 22 мм из композита Ag/AgCl, предназначенный для проведения транскраниальной электрической стимуляции (ТЭС), преимущественно переменным током (tACS – transcranial alternating current stimulation), и регистрации электроэнцефалограммы (ЭЭГ).</p>
         <MadCap:snippetBlock src="stimulation-current-table.flsnp" />
         <p>Электрод состоит из электропроводящего диска с отверстием в центре, окруженного литым корпусом с упругим кольцом-юбкой, обеспечивающим комфортное прилегание к коже и увеличенную площадь контакта.</p>
-        <p>Электроды <MadCap:variable name="ModuleAndDevicesNames.MCScap-CS22_name" /> предназначены для установки в текстильные шлемы <MadCap:variable name="ModuleAndDevicesNames._mainMCScap" />. Электроды закрепляются с внутренней стороны шлема, а провода выпускаются через вентиляционные отверстия.</p>
+        <p>Электроды <MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_name" /> предназначены для установки в текстильные шлемы <MadCap:variable name="ModuleAndDevicesNames._mainMCScap" />. Электроды закрепляются с внутренней стороны шлема, а провода выпускаются через вентиляционные отверстия.</p>
     </body>
 </html>

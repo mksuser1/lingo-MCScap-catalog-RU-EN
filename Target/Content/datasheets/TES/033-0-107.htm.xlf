@@ -69,16 +69,22 @@
         id="3"
         restype="x-xml-li"
         phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 2 шт.</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 2 шт.</source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 2 шт.</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 2 шт.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="75"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 pcs.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged"><ph
+              id="1">&lt;MadCap:variable name="TM-ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 pcs.</mrk></target><alt-trans
+          match-quality="99"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – 2 шт.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.SpongeD22_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 pcs.</target></alt-trans></trans-unit><trans-unit
         id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Назначение</source><seg-source><mrk
@@ -144,7 +150,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">&lt; 8 g</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">&lt; 8 g</mrk></target></trans-unit><trans-unit
         id="10"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 8 г</source><seg-source><mrk

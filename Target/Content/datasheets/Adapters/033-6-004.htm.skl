@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName" MadCap:autonum="">
+        <h1 class="deviceName">
             <MadCap:variable name="ModuleAndDevicesNames.TP2DB25F_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
@@ -31,14 +31,14 @@
                             </tr>
                         </table>
                     </td>
-                    <td>
-                        <img src="../../Resources/Images/Catalog/Accessories/Adapters/033-6-004/TP2DB25F-adapter.jpg" style="float:right;width:76mm;" />
+                    <td class="figure">
+                        <img src="../../Resources/Images/Catalog/Accessories/Adapters/033-6-004/TP2DB25F-adapter.jpg" />
                     </td>
                 </tr>
             </table>
         </section>
         <section class="set-section">
-            <h2 MadCap:autonum="">砻קยด2ตว融</h2>
+            <h2>砻קยด2ตว融</h2>
             <ul>
                 <li>
                     <p>
@@ -47,12 +47,12 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2 MadCap:autonum="">砻קยด3ตว融</h2>
+            <h2>砻קยด3ตว融</h2>
             <p>砻קยด4ตว融</p>
             <p>砻קยด5ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2 MadCap:autonum="">砻קยด6ตว融</h2>
+            <h2>砻קยด6ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />

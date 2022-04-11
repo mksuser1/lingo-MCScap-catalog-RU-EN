@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">8</count>
+          unit="segment">7</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -130,16 +130,6 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"><ph
               id="1">[%=ProductVariables.ProductFirstName%]</ph> <ph
-              id="2">[%=ProductVariables.ProductLastName%]</ph></mrk></target></trans-unit><trans-unit
-        id="8"
-        restype="x-xml-variable"
-        phase-name="pretrans"><source>NeoRecCap</source><seg-source><mrk
-            mtype="seg"
-            mid="1">NeoRecCap</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">NeoRecCap</mrk></target></trans-unit></body>
+              id="2">[%=ProductVariables.ProductLastName%]</ph></mrk></target></trans-unit></body>
   </file>
 </xliff>

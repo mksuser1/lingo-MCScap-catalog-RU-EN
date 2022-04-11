@@ -5,14 +5,14 @@
   MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
-    original="_2-electrodes.fltoc"
+    original="Fixing-rings-text.flsnp"
     source-language="ru"
     MadCap:file-filter=""
-    datatype="x-fltoc"
+    datatype="x-flsnp"
     target-language="en">
     <header>
       <skl><external-file
-          href="_2-electrodes.fltoc.skl" /></skl>
+          href="Fixing-rings-text.flsnp.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
@@ -44,15 +44,17 @@
     </header>
     <body><trans-unit
         id="1"
-        restype="x-toc-entry-title"
-        phase-name="pretrans"><source>Электроды</source><seg-source><mrk
+        restype="x-xml-body"
+        phase-name="pretrans"><source>Кольца в шлеме предназначены для установки точечных электродов типа <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            comment="Title">Электроды</mrk></seg-source><target
+            mid="1">Кольца в шлеме предназначены для установки точечных электродов типа <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Electrodes</mrk></target></trans-unit></body>
+            MadCap:matchPercent="101">Rings in the cap are designed to install point <ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes.</mrk></target></trans-unit></body>
   </file>
 </xliff>

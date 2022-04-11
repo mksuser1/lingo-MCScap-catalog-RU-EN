@@ -200,22 +200,23 @@
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
             id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
             id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Accessories/Fixing-rings-test.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../Accessories/Fixing-rings-text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Accessories/Fixing-rings-test.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../Accessories/Fixing-rings-text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"><ph
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
               id="1">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
               id="2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
               id="3">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="4">&lt;MadCap:snippetText src="../../../Resources/Snippets/Accessories/Fixing-rings-test.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+              id="4">&lt;MadCap:snippetText src="../Accessories/Fixing-rings-text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-p"
         phase-name="pretrans"><source>Комплект электродов с разъемами <ph
