@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-0-513.htm"
@@ -254,7 +254,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="98"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-32_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 32 fixing rings, placed according to the international 10‑10 modified system.</mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-32_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a marked textile cap with up to 32 fixing rings, placed according to the international 10‑10 modified system.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -263,7 +263,7 @@
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Rings in the cap are designed to install point <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes.</mrk><mrk
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -272,8 +272,8 @@
             mid="5"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+              id="3">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="4">&lt;MadCap:snippetText src="../../Resources/Snippets/textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="20"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
@@ -318,8 +318,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">32 <bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span MadCap:conditions="Default.NoOutput" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>19 yellow, 1 black, 12 white<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
+              id="1">&lt;span MadCap:conditions="Default.NoOutput" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>19 yellow, 1 black, 12 white<ept
+              id="1">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
         id="24"
         restype="x-xml-td"
         phase-name="pretrans"><source>10-10 неполная</source><seg-source><mrk
