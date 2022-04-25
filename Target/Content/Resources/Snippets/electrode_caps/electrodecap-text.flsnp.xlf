@@ -45,9 +45,9 @@
     <body><trans-unit
         id="1"
         restype="x-xml-body"
-        phase-name="pretrans"><source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов. Электродный шлем является многоразовым медицинским изделием.</source><seg-source><mrk
+        phase-name="pretrans"><source>Электродный шлем предназначен для использования совместно с электроэнцефалографами и усилителями биологических сигналов. Электродный шлем является многоразовым медицинским изделием.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</mrk><mrk
+            mid="1">Электродный шлем предназначен для использования совместно с электроэнцефалографами и усилителями биологических сигналов.</mrk><mrk
             mtype="protected"
             mid="2"> </mrk><mrk
             mtype="seg"
@@ -56,7 +56,8 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="99">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</mrk><mrk
+            MadCap:matchPercent="56"
+            MadCap:diff="ContentChanged">The electrode cap is designed for use with electroencephalographs and biological signal amplifiers.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -64,6 +65,36 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">The electrode cap is a reusable medical device.</mrk></target></trans-unit></body>
+            MadCap:matchPercent="100">The electrode cap is a reusable medical device.</mrk></target><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Шлем предназначен для неинвазивной регистрации электрической активности головного мозга, используется совместно с электроэнцефалографами и усилителями биологических сигналов.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The electrode cap is designed for non-invasive registration EEG and use of electroencephalographs and other amplifiers biological signals.</target></alt-trans></trans-unit></body>
   </file>
 </xliff>

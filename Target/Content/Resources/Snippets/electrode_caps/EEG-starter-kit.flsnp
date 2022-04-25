@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <p MadCap:conditions="market.All,market.RU">
+            <MadCap:variable name="ModuleAndDevicesNames.EEG-starter-kit_name" /> (ЭЭГ гель, спрей для дезинфекции, шприц, иглы одноразовые - 5 шт., щеточки - 2 шт.),</p>
+        <p MadCap:conditions="market.All,market.EU">
+            <MadCap:variable name="ModuleAndDevicesNames.EEG-starter-kit_name" />
+            <MadCap:conditionalText MadCap:conditions="documents.InternalDocument"> (ЭЭГ гель, спрей для дезинфекции, шприц, игла многоразовая, щеточки - 2 шт.)</MadCap:conditionalText>,</p>
+    </body>
+</html>
