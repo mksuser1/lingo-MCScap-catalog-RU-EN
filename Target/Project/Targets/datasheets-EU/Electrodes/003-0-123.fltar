@@ -6,7 +6,7 @@
         <Variable Name="DocsVariables/DocCode"> MCS.[%=ProductVariables.ProductCode%]-[%=DocsVariables.DocSubCode%]-[%=DocsVariables.Market%]-[%=DocsVariables.Language%] </Variable>
         <Variable Name="DocsVariables/DocSubCode">DS</Variable>
         <Variable Name="DocsVariables/Market">EU</Variable>
-        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.Repair-MCScap-ТC_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode.Repair-MCScap-ТC_code%]</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.Repair-MCScap-ТC_fullname%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />

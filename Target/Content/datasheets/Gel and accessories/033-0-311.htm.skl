@@ -25,7 +25,7 @@
                             </tr>
                             <tr>
                                 <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.needle-reusable-inf_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.needle-reusable-inf_code" />
                                 </td>
                                 <td class="name_td">
                                 </td>

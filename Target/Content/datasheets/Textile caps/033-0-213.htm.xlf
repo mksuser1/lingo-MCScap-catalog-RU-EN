@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">32</count>
+          unit="segment">34</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -65,124 +65,220 @@
             MadCap:matchPercent="100">Size</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-td"
-        phase-name="pretrans"><source>XL</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">XL</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">XL</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-td"
-        phase-name="pretrans"><source>XL/L</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-XLL_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-XLL_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">XL/L</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-XLL_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-XLL_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">XL/L</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-XLL_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-XLL_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-td"
-        phase-name="pretrans"><source>L</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-L_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-L_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">L</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-L_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-L_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">L</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-L_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-L_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-td"
-        phase-name="pretrans"><source>L/M</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-LM_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-LM_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">L/M</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-LM_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-LM_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">L/M</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-LM_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-LM_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-td"
-        phase-name="pretrans"><source>M</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-M_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-M_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">M</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-M_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-M_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">M</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-M_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-M_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="8"
         restype="x-xml-td"
-        phase-name="pretrans"><source>M/S</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-MS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-MS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">M/S</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-MS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-MS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">M/S</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-MS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-MS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="9"
         restype="x-xml-td"
-        phase-name="pretrans"><source>S</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-S_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-S_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">S</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-S_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-S_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">S</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-S_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-S_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="10"
         restype="x-xml-td"
-        phase-name="pretrans"><source>S/XS</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-SXS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-SXS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">S/XS</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-SXS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-SXS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">S/XS</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-SXS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-SXS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-td"
-        phase-name="pretrans"><source>XS</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-XS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-XS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">XS</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-XS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-XS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">XS</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-XS_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-XS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="12"
         restype="x-xml-td"
-        phase-name="pretrans"><source>Inf I</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfI_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfI_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">Inf I</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfI_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfI_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Inf I</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfI_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfI_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-td"
-        phase-name="pretrans"><source>Inf II</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfII_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfII_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">Inf II</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfII_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfII_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Inf II</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfII_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfII_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="14"
         restype="x-xml-td"
-        phase-name="pretrans"><source>Inf III</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfIII_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfIII_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">Inf III</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfIII_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfIII_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Inf III</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-color-InfIII_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-color-InfIII_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="15"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
@@ -288,7 +384,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">neoprene</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">neoprene</mrk></target></trans-unit><trans-unit
         id="22"
         restype="x-xml-td"
         phase-name="pretrans"><source>10‑20/10‑10</source><seg-source><mrk
@@ -363,6 +459,30 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Обновление описания, изменение "система 10-20" на "система 10-20/10-10"</mrk></target></trans-unit></body>
+            MadCap:matchPercent="0">Обновление описания, изменение "система 10-20" на "система 10-20/10-10"</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2022-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2022-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">2022-04-22</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Назначение</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">Назначение</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">Intended use</mrk></target></trans-unit></body>
   </file>
 </xliff>

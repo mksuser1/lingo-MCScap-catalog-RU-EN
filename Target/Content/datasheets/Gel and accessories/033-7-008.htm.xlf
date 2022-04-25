@@ -118,7 +118,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Gel conductivity</mrk></target><alt-trans
           match-quality="84"
           origin="previous-version"><seg-source>Удельная электропроводность</seg-source><target
@@ -142,7 +142,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Gel viscosity</mrk></target><alt-trans
           match-quality="61"
           origin="previous-version"><seg-source>Вязкость</seg-source><target

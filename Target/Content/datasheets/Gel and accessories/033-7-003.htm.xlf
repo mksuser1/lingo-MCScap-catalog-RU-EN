@@ -190,7 +190,7 @@
         restype="x-xml-p"
         phase-name="pretrans"><source>250 г<bpt
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax_code" /&gt;</ph>)<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax_code" /&gt;</ph>)<ept
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept></source><seg-source><mrk
             mtype="seg"
             mid="1">250 г<bpt
@@ -199,13 +199,13 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax_code" /&gt;</ph>)<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax_code" /&gt;</ph>)<ept
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="66"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">250 г<bpt
               id="1">&lt;MadCap:conditionalText MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt></mrk><mrk
             mtype="protected"
@@ -215,9 +215,9 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="New">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax_code" /&gt;</ph>)<ept
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax_code" /&gt;</ph>)<ept
               id="1">&lt;/MadCap:conditionalText&gt;</ept></mrk></target><alt-trans
           match-quality="83"
           origin="previous-version"><seg-source>250 г</seg-source><target
@@ -252,7 +252,7 @@
         id="11"
         restype="x-xml-p"
         phase-name="pretrans"><source>5 кг (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="market.All,market.RU">5 кг</mrk><mrk
@@ -262,7 +262,7 @@
             mtype="seg"
             mid="3"
             MadCap:conditions="market.All,market.RU">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -276,9 +276,9 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           match-quality="75"
           origin="previous-version"><seg-source>5 кг</seg-source><target
             MadCap:segmentStatus="Untranslated">5 kg</target></alt-trans><alt-trans
@@ -343,7 +343,7 @@
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 280 г<bpt
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax_code" /&gt;</ph>)<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax_code" /&gt;</ph>)<ept
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept></source><seg-source><mrk
             mtype="seg"
             mid="1">&lt; 280 г<bpt
@@ -352,13 +352,13 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax_code" /&gt;</ph>)<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax_code" /&gt;</ph>)<ept
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="71"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">&lt; 280 g<bpt
               id="1">&lt;MadCap:conditionalText MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt></mrk><mrk
             mtype="protected"
@@ -370,7 +370,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax_code" /&gt;</ph>)<ept
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax_code" /&gt;</ph>)<ept
               id="1">&lt;/MadCap:conditionalText&gt;</ept></mrk></target><alt-trans
           match-quality="83"
           origin="previous-version"><seg-source>280 г</seg-source><target
@@ -405,7 +405,7 @@
         id="13"
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 5,1 кг (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="market.All,market.RU">&lt; 5,1 кг</mrk><mrk
@@ -415,12 +415,12 @@
             mtype="seg"
             mid="3"
             MadCap:conditions="market.All,market.RU">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">&lt; 5.1 kg</mrk><mrk
             mtype="protected"
             mid="2"
@@ -429,9 +429,9 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unimax5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           match-quality="66"
           origin="previous-version"><seg-source>5 кг</seg-source><target
             MadCap:segmentStatus="Untranslated">5 kg</target></alt-trans><alt-trans

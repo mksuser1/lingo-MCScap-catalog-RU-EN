@@ -27,81 +27,81 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20_code" />
-                                </td>
                                 <td>砻קยด3ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XL" /> </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20XL-L_code" />
-                                </td>
                                 <td>砻קยด4ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XLL-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XLL" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20L_code" />
-                                </td>
                                 <td>砻קยด5ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.L" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20L-M_code" />
-                                </td>
                                 <td>砻קยด6ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.LM-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.LM" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20M_code" />
-                                </td>
                                 <td>砻קยด7ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.M" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20M-S_code" />
-                                </td>
                                 <td>砻קยด8ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.MS-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.MS" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20S_code" />
-                                </td>
                                 <td>砻קยด9ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.S" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20S-XS_code" />
-                                </td>
                                 <td>砻קยด10ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.SXS-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.SXS" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-20XS_code" />
-                                </td>
                                 <td>砻קยด11ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XS-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XS" />
                                 </td>
@@ -114,6 +114,7 @@
                 </tr>
             </table>
         </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/textile_caps/textile-cap-intention.flsnp" />
         <section class="set-section">
             <h2>砻קยด12ตว融</h2>
             <ul>
@@ -218,6 +219,11 @@
                 <tr>
                     <td>砻קยด29ตว融</td>
                     <td>砻קยด30ตว融</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด31ตว融</td>
+                    <td>砻קยด32ตว融</td>
                     <td> </td>
                 </tr>
             </table>

@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName">
+        <h1 class="deviceName" MadCap:autonum="">
             <MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
@@ -24,9 +24,7 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-U_code" />
-                                </td>
+                                <td>砻קยด2ตว融</td>
                                 <td> </td>
                             </tr>
                         </table>
@@ -37,11 +35,7 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section" MadCap:conditions="Default.NoOutput">
-            <h2 MadCap:autonum="">砻קยด2ตว融</h2>
-            <p>
-            </p>
-        </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Accessories/adapter-TP-intention.flsnp" />
         <section class="set-section">
             <h2 MadCap:autonum="">砻קยด3ตว融</h2>
             <ul>
@@ -104,6 +98,15 @@
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
                     <td>砻קยด15ตว融</td>
+                </tr>
+            </table>
+        </section>
+        <section MadCap:conditions="documents.InternalDocument">
+            <table>
+                <tr>
+                    <td>砻קยด16ตว融</td>
+                    <td>砻קยด17ตว融</td>
+                    <td> </td>
                 </tr>
             </table>
         </section>

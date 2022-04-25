@@ -23,19 +23,19 @@
                             </tr>
                             <tr>
                                 <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.Removable-markers_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Removable-markers_code" />
                                 </td>
                                 <td class="name_td">砻קยด2ตว融</td>
                             </tr>
                             <tr>
                                 <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.Removable-markers10_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Removable-markers-d10_code" />
                                 </td>
                                 <td class="name_td">砻קยด3ตว融</td>
                             </tr>
                             <tr MadCap:conditions="market.EU,market.All">
                                 <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.Removable-markers15_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Removable-markers-d15_code" />
                                 </td>
                                 <td class="name_td">砻קยด4ตว融</td>
                             </tr>

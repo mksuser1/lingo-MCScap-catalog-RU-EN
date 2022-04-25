@@ -25,7 +25,7 @@
                             </tr>
                             <tr>
                                 <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.measuring-MCScap_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.measuring-MCScap_code" />
                                 </td>
                                 <td class="name_td">
                                 </td>

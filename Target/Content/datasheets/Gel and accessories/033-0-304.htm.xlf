@@ -82,7 +82,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="96"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">labels for electrodes, numeric.</mrk></target><alt-trans
           match-quality="96"
           origin="previous-version"><seg-source>ярлыки для электродов, с цифрами,</seg-source><target
@@ -153,7 +153,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">100 pcs.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">100 pcs.</mrk></target></trans-unit><trans-unit
         id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>Числа:1-24,</source><seg-source><mrk

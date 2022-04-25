@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">15</count>
+          unit="segment">19</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -68,16 +68,23 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> with two <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> BU/ST connectors for combining two EEG electrodes.</target></alt-trans></trans-unit><trans-unit
         id="2"
-        restype="x-xml-h2"
-        phase-name="pretrans"><source>Назначение</source><seg-source><mrk
+        restype="x-xml-td"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-U_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-U_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:parentConditions="Default.NoOutput">Назначение</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-U_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-U_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Intended use</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-U_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-U_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
@@ -101,17 +108,51 @@
         id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя.</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя. Либо для подключения двух электродов, например ЭЭГ и ЭКГ, к одному разъёму усилителя (обычно, GND).</source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя.</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Либо для подключения двух электродов, например ЭЭГ и ЭКГ, к одному разъёму усилителя (обычно, GND).</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
+            MadCap:matchPercent="100"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed to connect one EEG electrode, usually GND (ground), simultaneously to two EEG amplifier connectors, for example, GND and REF, if the amplifier design requires it.</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed to connect one EEG electrode, usually GND (ground), simultaneously to two EEG amplifier connectors, for example, GND and REF, if the amplifier design requires it.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="New">Or to connect two electrodes, such as EEG and ECG, to one amplifier connector (usually GND).</mrk></target><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed to connect one EEG electrode, usually GND (ground), simultaneously to two EEG amplifier connectors, for example, GND and REF, if the amplifier design requires it.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed to connect one EEG electrode, usually GND (ground), simultaneously to two EEG amplifier connectors, for example, GND and REF, if the amplifier design requires it.</target></alt-trans><alt-trans
+          match-quality="98"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is designed to connect one EEG electrode, usually GND (ground), simultaneously to two EEG amplifier connectors, for example, GND and REF, if the amplifier design requires it.</target></alt-trans><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-U_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -261,6 +302,30 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">&lt; 6 g</mrk></target></trans-unit></body>
+            MadCap:matchPercent="0">&lt; 6 g</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2022-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2022-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">2022-04-22</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Добавлено назначение</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">Добавлено назначение</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"
+            MadCap:diff="New">add intention</mrk></target></trans-unit></body>
   </file>
 </xliff>

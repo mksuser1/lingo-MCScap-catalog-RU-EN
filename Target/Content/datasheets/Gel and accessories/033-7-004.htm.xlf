@@ -62,7 +62,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">Set</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk

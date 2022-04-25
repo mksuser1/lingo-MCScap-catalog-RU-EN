@@ -25,7 +25,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.Soft-skirt_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Soft-skirt_code" />
                                 </td>
                                 <td> </td>
                             </tr>

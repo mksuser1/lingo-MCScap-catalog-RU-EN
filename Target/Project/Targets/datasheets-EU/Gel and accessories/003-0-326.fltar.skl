@@ -9,7 +9,7 @@
         <Variable Name="DocsVariables/DocSubCode">砻קยด3ตว融</Variable>
         <Variable Name="DocsVariables/Market">砻קยด4ตว融</Variable>
         <Variable Name="DocsVariables/DocRevision">砻קยด5ตว融</Variable>
-        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.Removable-markers_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode.Removable-markers_code%]</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.Removable-markers_fullname%]</Variable>
     </Variables>
     <PDF ShowUsedBookmarks="false" PageMode="UseNone" />

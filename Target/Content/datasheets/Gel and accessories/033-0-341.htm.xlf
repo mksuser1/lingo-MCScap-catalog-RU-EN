@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">28</count>
+          unit="segment">26</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -71,26 +71,6 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Size</mrk></target></trans-unit><trans-unit
         id="3"
-        restype="x-xml-td"
-        phase-name="pretrans"><source>L</source><seg-source><mrk
-            mtype="seg"
-            mid="1">L</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">L</mrk></target></trans-unit><trans-unit
-        id="4"
-        restype="x-xml-td"
-        phase-name="pretrans"><source>S</source><seg-source><mrk
-            mtype="seg"
-            mid="1">S</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">S</mrk></target></trans-unit><trans-unit
-        id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Назначение</source><seg-source><mrk
             mtype="seg"
@@ -101,7 +81,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Intended use</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -111,7 +91,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="7"
+        id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -121,7 +101,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="8"
+        id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов <ph
@@ -146,7 +126,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
+            MadCap:matchPercent="90"
             MadCap:diff="ContentChanged">The <ph
               id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of <ph
               id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> cap.</mrk><mrk
@@ -236,7 +216,7 @@
           match-quality="90"
           origin="previous-version"><seg-source>MCScap манекен изготовлен из легкого и мягкого упругого материала и предназначен для сушки, хранения, транспортирования и демонстрации шлемов MCScap.</seg-source><target
             MadCap:segmentStatus="Untranslated">MCScap mannequin is made of light and soft elastic material and is intended for drying, storage, transportation and demonstration of MCScap cap.</target></alt-trans></trans-unit><trans-unit
-        id="9"
+        id="7"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -246,7 +226,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="10"
+        id="8"
         restype="x-xml-td"
         phase-name="pretrans"><source>EVA</source><seg-source><mrk
             mtype="seg"
@@ -256,17 +236,17 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">EVA</mrk></target></trans-unit><trans-unit
-        id="11"
+        id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>24x18x28,5 ±0,5 см (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1">24x18x28,5 ±0,5 см</mrk><mrk
             mtype="protected"
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -280,20 +260,20 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="New">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
-        id="12"
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+        id="10"
         restype="x-xml-p"
         phase-name="pretrans"><source>18x15x23 ±0,5 см (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin-S_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1">18x15x23 ±0,5 см</mrk><mrk
             mtype="protected"
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin-S_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -307,20 +287,20 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="New">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
-        id="13"
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin-S_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+        id="11"
         restype="x-xml-p"
         phase-name="pretrans"><source>125 ±5 г (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1">125 ±5 г</mrk><mrk
             mtype="protected"
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -334,20 +314,20 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="New">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
-        id="14"
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+        id="12"
         restype="x-xml-p"
         phase-name="pretrans"><source>70 ±5 г (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin-S_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1">70 ±5 г</mrk><mrk
             mtype="protected"
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin-S_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -361,8 +341,8 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="New">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-mannequinS_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit></body>
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-mannequin-S_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit></body>
   </file>
 </xliff>

@@ -26,19 +26,19 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.demonstration-model_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.demonstration-model_code" />
                                 </td>
                                 <td>砻קยด2ตว融</td>
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.demonstration-model-3_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.demonstration-model-3_code" />
                                 </td>
                                 <td>砻קยด3ตว融</td>
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.demonstration-model-4_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.demonstration-model-4_code" />
                                 </td>
                                 <td>砻קยด4ตว融</td>
                             </tr>

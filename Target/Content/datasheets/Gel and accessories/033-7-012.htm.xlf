@@ -428,7 +428,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Attention!</mrk></target><alt-trans
           match-quality="55"
           origin="previous-version"><seg-source>Описание</seg-source><target

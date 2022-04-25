@@ -135,7 +135,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="85"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">65 ±2 g</mrk></target><alt-trans
           match-quality="77"
           origin="previous-version"><seg-source>65 г ±2 г</seg-source><target

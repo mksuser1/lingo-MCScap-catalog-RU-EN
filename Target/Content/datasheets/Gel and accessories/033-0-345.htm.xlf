@@ -54,7 +54,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Folding mannequin for drying and storing <ph
+            MadCap:matchPercent="101">Folding mannequin for drying and storing <ph
               id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> caps.</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"

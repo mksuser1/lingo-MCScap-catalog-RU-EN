@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">20</count>
+          unit="segment">21</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -63,6 +63,24 @@
             MadCap:segmentStatus="Untranslated">Kit for electrode replacement in MCScap <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._CLINIC-TC" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</target></alt-trans></trans-unit><trans-unit
         id="2"
+        restype="x-xml-td"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Repairkit-CLINIC-TC_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Repairkit-CLINIC-TC_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Repairkit-CLINIC-TC_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Repairkit-CLINIC-TC_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Repairkit-CLINIC-TC_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Repairkit-CLINIC-TC_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -72,7 +90,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Set</mrk></target></trans-unit><trans-unit
-        id="3"
+        id="4"
         restype="x-xml-li"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-ТC_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 шт.,</source><seg-source><mrk
@@ -91,7 +109,7 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-ТC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 шт.,</seg-source><target
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-ТC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 pcs.,</target></alt-trans></trans-unit><trans-unit
-        id="4"
+        id="5"
         restype="x-xml-li"
         phase-name="pretrans"><source>экстрактор,</source><seg-source><mrk
             mtype="seg"
@@ -101,7 +119,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">extractor,</mrk></target></trans-unit><trans-unit
-        id="5"
+        id="6"
         restype="x-xml-li"
         phase-name="pretrans"><source>кабельные стяжки для электродов,</source><seg-source><mrk
             mtype="seg"
@@ -111,7 +129,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">cable ties for electrodes,</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="7"
         restype="x-xml-li"
         phase-name="pretrans"><source>кабельные фиксаторы,</source><seg-source><mrk
             mtype="seg"
@@ -121,7 +139,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">removable cable fixators,</mrk></target></trans-unit><trans-unit
-        id="7"
+        id="8"
         restype="x-xml-li"
         phase-name="pretrans"><source>нить 2 м,</source><seg-source><mrk
             mtype="seg"
@@ -131,7 +149,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">thread 2 m,</mrk></target></trans-unit><trans-unit
-        id="8"
+        id="9"
         restype="x-xml-li"
         phase-name="pretrans"><source>эксплуатационная документация.</source><seg-source><mrk
             mtype="seg"
@@ -141,7 +159,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">operational documentation.</mrk></target></trans-unit><trans-unit
-        id="9"
+        id="10"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -151,7 +169,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Description</mrk></target></trans-unit><trans-unit
-        id="10"
+        id="11"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repairkit-CLINIC-TC_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  предназначен для самостоятельной замены неисправного электрода в электродном шлеме MCScap <ph
@@ -190,7 +208,7 @@
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector or other <ph
               id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.D-SUB" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
               id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.D-sub DIN" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) Male connectors.</target></alt-trans></trans-unit><trans-unit
-        id="11"
+        id="12"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -200,7 +218,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Specification</mrk></target></trans-unit><trans-unit
-        id="12"
+        id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>кримп</source><seg-source><mrk
             mtype="seg"
@@ -210,7 +228,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">crimped end</mrk></target></trans-unit><trans-unit
-        id="13"
+        id="14"
         restype="x-xml-td"
         phase-name="pretrans"><source>2,0 ±0,05 м</source><seg-source><mrk
             mtype="seg"
@@ -221,7 +239,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="New">2.0 ±0.05 m</mrk></target></trans-unit><trans-unit
-        id="14"
+        id="15"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 40 г</source><seg-source><mrk
             mtype="seg"
@@ -231,7 +249,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 40 g</mrk></target></trans-unit><trans-unit
-        id="15"
+        id="16"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 40 г</source><seg-source><mrk
             mtype="seg"
@@ -242,7 +260,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 40 g</mrk></target></trans-unit><trans-unit
-        id="16"
+        id="17"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-05-05</source><seg-source><mrk
             mtype="seg"
@@ -253,7 +271,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-05-05</mrk></target></trans-unit><trans-unit
-        id="17"
+        id="18"
         restype="x-xml-td"
         phase-name="pretrans"><source>Создание файла</source><seg-source><mrk
             mtype="seg"
@@ -264,7 +282,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Создание файла</mrk></target></trans-unit><trans-unit
-        id="18"
+        id="19"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-10-11</source><seg-source><mrk
             mtype="seg"
@@ -275,7 +293,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">2021-10-11</mrk></target></trans-unit><trans-unit
-        id="19"
+        id="20"
         restype="x-xml-p"
         phase-name="pretrans"><source>Обновление описания</source><seg-source><mrk
             mtype="seg"
@@ -287,7 +305,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="New">Обновление описания</mrk></target></trans-unit><trans-unit
-        id="20"
+        id="21"
         restype="x-xml-p"
         phase-name="pretrans"><source>длина провода - 2м</source><seg-source><mrk
             mtype="seg"

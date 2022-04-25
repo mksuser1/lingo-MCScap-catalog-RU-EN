@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">31</count>
+          unit="segment">29</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -62,7 +62,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">5 pcs.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">5 pcs.</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-td"
         phase-name="pretrans"><source>100 шт.</source><seg-source><mrk
@@ -195,7 +195,7 @@
         id="14"
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 25 г (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.disposable-needle_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:parentConditions="|Default.PrintOnly">&lt; 25 г</mrk><mrk
@@ -205,12 +205,12 @@
             mtype="seg"
             mid="3"
             MadCap:parentConditions="|Default.PrintOnly">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.disposable-needle_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="83"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">&lt; 25 g</mrk><mrk
             mtype="protected"
             mid="2"
@@ -219,8 +219,9 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">(REF <ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.disposable-needle_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           match-quality="77"
           origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
@@ -254,7 +255,7 @@
         id="15"
         restype="x-xml-p"
         phase-name="pretrans"><source>&lt; 500 г (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle100_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.disposable-needle-100_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:parentConditions="|Default.PrintOnly">&lt; 500 г</mrk><mrk
@@ -264,12 +265,12 @@
             mtype="seg"
             mid="3"
             MadCap:parentConditions="|Default.PrintOnly">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle100_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.disposable-needle-100_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">&lt; 500 g</mrk><mrk
             mtype="protected"
             mid="2"
@@ -278,8 +279,9 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.disposable-needle100_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">(REF <ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.disposable-needle-100_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target><alt-trans
           match-quality="70"
           origin="previous-version"><seg-source>&lt; 5 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 5 g</target></alt-trans><alt-trans
@@ -410,25 +412,12 @@
         phase-name="pretrans"><source>Добавлена масса нетто и исправлена масса 5 шт. - 50 исправлено на 25</source><seg-source><mrk
             mtype="seg"
             mid="1"
-            MadCap:parentConditions="||documents.InternalDocument">Добавлена масса нетто и исправлена масса 5 шт.</mrk><mrk
-            mtype="protected"
-            mid="2"
-            MadCap:parentConditions="||documents.InternalDocument"> </mrk><mrk
-            mtype="seg"
-            mid="3"
-            MadCap:parentConditions="||documents.InternalDocument">- 50 исправлено на 25</mrk></seg-source><target
+            MadCap:parentConditions="||documents.InternalDocument">Добавлена масса нетто и исправлена масса 5 шт. - 50 исправлено на 25</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Добавлена масса нетто и исправлена масса 5 шт.</mrk><mrk
-            mtype="protected"
-            mid="2"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
-            mtype="seg"
-            mid="3"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">- 50 исправлено на 25</mrk></target></trans-unit></body>
+            MadCap:matchPercent="0"
+            MadCap:diff="New">Добавлена масса нетто и исправлена масса 5 шт. - 50 исправлено на 25</mrk></target></trans-unit></body>
   </file>
 </xliff>

@@ -24,19 +24,24 @@
                             </tr>
                             <tr MadCap:conditions="">
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.Disposable-cover_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Disposable-cover_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Disposable-cover_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
-                                <td>XL</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL-name" />
+                                </td>
                             </tr>
                             <tr MadCap:conditions="">
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.Disposable-coverL-M_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Disposable-cover-LM_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Disposable-cover-LM_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td>L-M</td>
                             </tr>
                             <tr MadCap:conditions="">
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.Disposable-coverS-XS_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Disposable-cover-SXS_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Disposable-cover-SXS_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td>S-XS</td>
                             </tr>
@@ -48,10 +53,9 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section" MadCap:conditions="Default.NoOutput">
+        <section class="target-section">
             <h2>Назначение</h2>
-            <p>
-            </p>
+            <p>Для фиксации ЭЭГ шлема.</p>
         </section>
         <section class="set-section">
             <h2>Состав комплекта</h2>
@@ -89,16 +93,21 @@
                     <th>Рекомедован для использования со шлемами <MadCap:variable name="ModuleAndDevicesNames._mainMCScap" /> размеров</th>
                 </tr>
                 <tr>
-                    <td>XL</td>
-                    <td>XL, XL/L</td>
+                    <td>
+                        <MadCap:variable name="LocalVariables-Sizes.XL-name" />
+                    </td>
+                    <td>
+                        <MadCap:variable name="LocalVariables-Sizes.XL-name" />, <MadCap:variable name="LocalVariables-Sizes.XLL-name" /></td>
                 </tr>
                 <tr>
-                    <td>L-M</td>
-                    <td>L, L/M, M</td>
+                    <td>L‑M</td>
+                    <td>
+                        <MadCap:variable name="LocalVariables-Sizes.L-name" />, <MadCap:variable name="LocalVariables-Sizes.LM-name" />, <MadCap:variable name="LocalVariables-Sizes.M-name" /></td>
                 </tr>
                 <tr>
-                    <td>S-XS</td>
-                    <td>M/S, S, S/XS, XS</td>
+                    <td>S‑XS</td>
+                    <td>
+                        <MadCap:variable name="LocalVariables-Sizes.MS-name" />, <MadCap:variable name="LocalVariables-Sizes.S-name" />, <MadCap:variable name="LocalVariables-Sizes.SXS-name" />, <MadCap:variable name="LocalVariables-Sizes.XS-name" /></td>
                 </tr>
             </table>
         </section>
@@ -139,6 +148,11 @@
                     <td>
                         <p>Добавление переменных, расширение названия</p>
                     </td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>2022-04-22</td>
+                    <td>добавлено Назначение</td>
                     <td> </td>
                 </tr>
             </table>

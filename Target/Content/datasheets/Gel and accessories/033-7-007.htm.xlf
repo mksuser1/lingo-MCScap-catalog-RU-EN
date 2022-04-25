@@ -52,7 +52,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Disinfection spray, 750 ml.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Disinfection spray, 750 ml.</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk

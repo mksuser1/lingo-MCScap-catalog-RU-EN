@@ -48,11 +48,11 @@
         phase-name="pretrans"><source>Сумка для ЭЭГ принадлежностей.</source><seg-source><mrk
             mtype="seg"
             mid="1">Сумка для ЭЭГ принадлежностей.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="100">Bag for EEG accessories.</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Bag for EEG accessories</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk

@@ -72,7 +72,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">labels for electrodes, with symbols,</mrk></target><alt-trans
           match-quality="56"
           origin="previous-version"><seg-source>Ярлыки для электродов, цветные, с цифрами</seg-source><target
@@ -86,7 +86,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="95"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">labels for electrodes, colored, numeric.</mrk></target><alt-trans
           match-quality="95"
           origin="previous-version"><seg-source>Ярлыки для электродов, цветные, с цифрами</seg-source><target

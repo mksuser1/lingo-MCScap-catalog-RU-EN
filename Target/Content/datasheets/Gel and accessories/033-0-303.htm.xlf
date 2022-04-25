@@ -92,8 +92,8 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="55"
-            MadCap:diff="ContentChanged">Labels for marking the collapsible fixing rings for electrodes according to the 10-10 system. </mrk></target><alt-trans
+            MadCap:matchPercent="101"
+            MadCap:diff="ContentChanged">Labels for marking the collapsible fixing rings for electrodes according to the 10‑10 system.</mrk></target><alt-trans
           match-quality="55"
           origin="previous-version"><seg-source>Комплект ярлыков для фиксирующих колец, система 10-10.</seg-source><target
             MadCap:segmentStatus="Untranslated">Set of labels for fixing rings, system 10-10.</target></alt-trans></trans-unit><trans-unit

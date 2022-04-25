@@ -26,13 +26,13 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.ABSfixator13_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.ABSfixator13_code" />
                                 </td>
                                 <td>砻קยด2ตว融</td>
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.ABSfixator10_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.ABSfixator10_code" />
                                 </td>
                                 <td>砻קยด3ตว融</td>
                             </tr>

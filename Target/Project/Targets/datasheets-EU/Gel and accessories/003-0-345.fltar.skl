@@ -6,7 +6,7 @@
         <Variable Name="DocsVariables/DocCode">砻קยด3ตว融</Variable>
         <Variable Name="DocsVariables/DocSubCode">砻קยด4ตว融</Variable>
         <Variable Name="DocsVariables/Market">砻קยด5ตว融</Variable>
-        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesNames.MCScap-plasters_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode.MCScap-plasters_code%]</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.MCScap-plasters_fullname%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />

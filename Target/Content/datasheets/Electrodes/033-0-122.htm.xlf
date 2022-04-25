@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">18</count>
+          unit="segment">19</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -55,7 +55,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
-            MadCap:diff="ContentChanged">Cup Ag/AgCl electrode for EEG recording, compatible with silicone tubular cap,  <ph
+            MadCap:diff="ContentChanged">Cup Ag/AgCl electrode for EEG recording, compatible with silicone tubular cap, <ph
               id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector, cable length 1.0 м.</mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source>Чашечный Ag/AgCl электрод для регистрации ЭЭГ, совместимый с регулируемыми шлемами из силиконовых трубок, разъём <ph
@@ -68,6 +68,24 @@
             MadCap:segmentStatus="Untranslated"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-StTC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a cup Ag/AgCl electrode for EEG recording, compatible with silicone tubular cap.</target></alt-trans></trans-unit><trans-unit
         id="2"
+        restype="x-xml-td"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-StTC_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-StTC_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-StTC_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-StTC_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-StTC_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-StTC_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Назначение</source><seg-source><mrk
             mtype="seg"
@@ -77,7 +95,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Intended use</mrk></target></trans-unit><trans-unit
-        id="3"
+        id="4"
         restype="x-xml-p"
         phase-name="pretrans"><source>Рутинная ЭЭГ.</source><seg-source><mrk
             mtype="seg"
@@ -87,7 +105,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Routine EEG.</mrk></target></trans-unit><trans-unit
-        id="4"
+        id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -97,7 +115,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="5"
+        id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._electrode_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -114,7 +132,7 @@
             MadCap:diff="New"><ph
               id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._electrode_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
               id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-StTC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="7"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -124,7 +142,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="7"
+        id="8"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../Resources/Snippets/Electrodes/MCScap-StTC_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -141,7 +159,7 @@
             MadCap:diff="New"><ph
               id="1">&lt;MadCap:snippetText src="../../Resources/Snippets/Electrodes/MCScap-StTC_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
               id="2">&lt;MadCap:snippetText src="../../Resources/Snippets/Electrodes/text-touchproof-connector.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
-        id="8"
+        id="9"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -151,7 +169,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="9"
+        id="10"
         restype="x-xml-td"
         phase-name="pretrans"><source>1,0 ±0,05 м</source><seg-source><mrk
             mtype="seg"
@@ -165,7 +183,7 @@
           match-quality="90"
           origin="previous-version"><seg-source>1,0 ±0,05м</seg-source><target
             MadCap:segmentStatus="Untranslated">1.0 ±0,05 m</target></alt-trans></trans-unit><trans-unit
-        id="10"
+        id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
@@ -181,7 +199,7 @@
             MadCap:matchPercent="100"><ph
               id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
               id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
-        id="11"
+        id="12"
         restype="x-xml-td"
         phase-name="pretrans"><source>да</source><seg-source><mrk
             mtype="seg"
@@ -191,7 +209,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">yes</mrk></target></trans-unit><trans-unit
-        id="12"
+        id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 4 г</source><seg-source><mrk
             mtype="seg"
@@ -201,7 +219,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 4 g</mrk></target></trans-unit><trans-unit
-        id="13"
+        id="14"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 4 г</source><seg-source><mrk
             mtype="seg"
@@ -212,7 +230,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 4 g</mrk></target></trans-unit><trans-unit
-        id="14"
+        id="15"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -223,7 +241,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="15"
+        id="16"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"
@@ -235,7 +253,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="New">Унификация параметров в таблице ТТХ</mrk></target></trans-unit><trans-unit
-        id="16"
+        id="17"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-10-11</source><seg-source><mrk
             mtype="seg"
@@ -246,7 +264,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">2021-10-11</mrk></target></trans-unit><trans-unit
-        id="17"
+        id="18"
         restype="x-xml-p"
         phase-name="pretrans"><source>Обновление описания,</source><seg-source><mrk
             mtype="seg"
@@ -257,7 +275,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Обновление описания,</mrk></target></trans-unit><trans-unit
-        id="18"
+        id="19"
         restype="x-xml-p"
         phase-name="pretrans"><source>добавился параметр "<ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="MCScap-Glossary-and-therms.parameter Use with MCScap caps" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>"</source><seg-source><mrk

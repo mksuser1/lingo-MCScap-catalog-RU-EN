@@ -23,58 +23,58 @@
                                 <th>砻קยด2ตว融</th>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_code" />
-                                </td>
                                 <td>砻קยด3ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XL-name" />
+                                </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-coverXL-L_code" />
-                                </td>
                                 <td>砻קยด4ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XLL-name" />
+                                </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-coverL_code" />
-                                </td>
                                 <td>砻קยด5ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L-name" />
+                                </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-coverL-M_code" />
-                                </td>
                                 <td>砻קยด6ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.LM-name" />
+                                </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-coverM_code" />
-                                </td>
                                 <td>砻קยด7ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M-name" />
+                                </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-coverM-S_code" />
-                                </td>
                                 <td>砻קยด8ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.MS-name" />
+                                </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-coverS_code" />
-                                </td>
                                 <td>砻קยด9ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S-name" />
+                                </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-coverS-XS_code" />
-                                </td>
                                 <td>砻קยด10ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.SXS-name" />
+                                </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-coverXS_code" />
-                                </td>
                                 <td>砻קยด11ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.XS-name" />
+                                </td>
                             </tr>
                         </table>
                     </td>
@@ -84,38 +84,42 @@
                 </tr>
             </table>
         </section>
-        <section class="set-section">
+        <section class="target-section">
             <h2>砻קยด12ตว融</h2>
+            <p>砻קยด13ตว融</p>
+        </section>
+        <section class="set-section">
+            <h2>砻קยด14ตว融</h2>
             <ul>
                 <li>
                     <p>
                         <MadCap:variable name="ModuleAndDevicesNames.MCScap-cover_name" />,</p>
                 </li>
                 <li>
-                    <p>砻קยด13ตว融</p>
+                    <p>砻קยด15ตว融</p>
                 </li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด14ตว融</h2>
-            <p>砻קยด15ตว融</p>
+            <h2>砻קยด16ตว融</h2>
+            <p>砻קยด17ตว融</p>
             <ul>
-                <li>
-                    <p>砻קยด16ตว融</p>
-                </li>
-                <li>
-                    <p>砻קยด17ตว融</p>
-                </li>
                 <li>
                     <p>砻קยด18ตว融</p>
                 </li>
+                <li>
+                    <p>砻קยด19ตว融</p>
+                </li>
+                <li>
+                    <p>砻קยด20ตว融</p>
+                </li>
             </ul>
-            <p>砻קยด19ตว融</p>
-            <p>砻קยด20ตว融</p>
             <p>砻קยด21ตว融</p>
+            <p>砻קยด22ตว融</p>
+            <p>砻קยด23ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด22ตว融</h2>
+            <h2>砻קยด24ตว融</h2>
             <table class="datasheet noBreakInside">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -123,7 +127,7 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал шлема" />
                     </td>
-                    <td>砻קยด23ตว融</td>
+                    <td>砻קยด25ตว融</td>
                 </tr>
                 <tr>
                     <td>
@@ -139,23 +143,18 @@
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
-                    <td>砻קยด24ตว融</td>
+                    <td>砻קยด26ตว融</td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
-                    <td>砻קยด25ตว融</td>
+                    <td>砻קยด27ตว融</td>
                 </tr>
             </table>
         </section>
         <section MadCap:conditions="documents.InternalDocument">
             <table>
-                <tr>
-                    <td>砻קยด26ตว融</td>
-                    <td>砻קยด27ตว融</td>
-                    <td> </td>
-                </tr>
                 <tr>
                     <td>砻קยด28ตว融</td>
                     <td>砻קยด29ตว融</td>
@@ -164,6 +163,16 @@
                 <tr>
                     <td>砻קยด30ตว融</td>
                     <td>砻קยด31ตว融</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด32ตว融</td>
+                    <td>砻קยด33ตว融</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด34ตว融</td>
+                    <td>砻קยด35ตว融</td>
                     <td> </td>
                 </tr>
             </table>

@@ -130,7 +130,7 @@
         restype="x-xml-p"
         phase-name="pretrans"><source>20 мл<bpt
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.syringe_code" /&gt;</ph>)<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe_code" /&gt;</ph>)<ept
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept></source><seg-source><mrk
             mtype="seg"
             mid="1">20 мл<bpt
@@ -139,13 +139,13 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.syringe_code" /&gt;</ph>)<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe_code" /&gt;</ph>)<ept
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="81"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">20 ml<bpt
               id="1">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt></mrk><mrk
             mtype="protected"
@@ -155,9 +155,9 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="New">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.syringe_code" /&gt;</ph>)<ept
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe_code" /&gt;</ph>)<ept
               id="1">&lt;/MadCap:conditionalText&gt;</ept></mrk></target><alt-trans
           match-quality="83"
           origin="previous-version"><seg-source>20 мл</seg-source><target
@@ -192,7 +192,7 @@
         id="10"
         restype="x-xml-p"
         phase-name="pretrans"><source>5 мл (REF <ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.syringe5_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Default.PrintOnly">5 мл</mrk><mrk
@@ -202,7 +202,7 @@
             mtype="seg"
             mid="3"
             MadCap:conditions="Default.PrintOnly">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.syringe5_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -215,8 +215,9 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">(REF <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.syringe5_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101"
+            MadCap:diff="New">(REF <ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 15 г</source><seg-source><mrk

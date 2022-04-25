@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName">
+        <h1 class="deviceName" MadCap:autonum="">
             <MadCap:variable name="ModuleAndDevicesNames.MCScap-E_fullname" />
         </h1>
         <p class="shortDescription">Точечный Ag/AgCl sintered электрод для регистрации ЭЭГ c разъёмом <MadCap:variable name="Global(External)Variables.Touch Proof Name" />, длина провода 1,2 м.</p>
@@ -25,7 +25,8 @@
                             </tr>
                             <tr>
                                 <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-E_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.MCScap-E_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-E_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td class="name_td">
                                 </td>
@@ -38,12 +39,9 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section">
-            <h2>Назначение</h2>
-            <p>Рутинная ЭЭГ, научно-исследовательская ЭЭГ.</p>
-        </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>Состав комплекта</h2>
+            <h2 MadCap:autonum="">Состав комплекта</h2>
             <ul>
                 <li>
                     <p>
@@ -52,12 +50,12 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>Описание</h2>
+            <h2 MadCap:autonum="">Описание</h2>
             <p>
                 <MadCap:snippetText src="../../Resources/Snippets/Electrodes/MCScap-E_text.flsnp" /> <MadCap:snippetText src="../../Resources/Snippets/Electrodes/text-touchproof-connector.flsnp" /></p>
         </section>
         <section class="technicalData-section">
-            <h2>Технические характеристики</h2>
+            <h2 MadCap:autonum="">Технические характеристики</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/MCScap-E_parameters.flsnp" />
             <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/electrodes-GOST.flsnp" />
             <table class="datasheet">

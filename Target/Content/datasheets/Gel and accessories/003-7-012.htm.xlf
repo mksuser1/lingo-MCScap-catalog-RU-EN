@@ -62,7 +62,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="80">2 pcs.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="80">2 pcs.</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-td"
         phase-name="pretrans"><source>3 шт.</source><seg-source><mrk
@@ -72,7 +72,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="80">3 pcs.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="80">3 pcs.</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-td"
         phase-name="pretrans"><source>4 шт.</source><seg-source><mrk
@@ -82,7 +82,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="60">3 pcs.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="60">3 pcs.</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
@@ -121,7 +121,7 @@
             MadCap:matchPercent="0"><ph
               id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.demonstration-model_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a part of a <ph
               id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-black_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap of the size Inf I with samples of <ph
-              id="3">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes with a cable length of 0.2 m. </mrk></target></trans-unit><trans-unit
+              id="3">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes with a cable length of 0.2 m. </mrk></target></trans-unit><trans-unit
         id="8"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk

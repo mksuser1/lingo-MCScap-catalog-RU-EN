@@ -24,13 +24,13 @@
                             </tr>
                             <tr>
                                 <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.Unimax_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Unimax_code" />
                                 </td>
                                 <td class="name_td">砻קยด3ตว融</td>
                             </tr>
                             <tr MadCap:conditions="market.RU,market.All">
                                 <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.Unimax5kg_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" />
                                 </td>
                                 <td class="name_td">砻קยด4ตว融</td>
                             </tr>

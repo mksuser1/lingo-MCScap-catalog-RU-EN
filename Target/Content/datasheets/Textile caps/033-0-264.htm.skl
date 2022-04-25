@@ -27,28 +27,28 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-10-5_code" />
-                                </td>
                                 <td>砻קยด3ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.L" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-10-5L-M_code" />
-                                </td>
                                 <td>砻קยด4ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.LM-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.LM" />
                                 </td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-10-5M_code" />
-                                </td>
                                 <td>砻קยด5ตว融</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M-name" />
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.M" />
                                 </td>
@@ -61,8 +61,9 @@
                 </tr>
             </table>
         </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/textile_caps/textile-cap-intention.flsnp" />
         <section class="set-section">
-            <h2 MadCap:autonum="">砻קยด6ตว融</h2>
+            <h2>砻קยด6ตว融</h2>
             <ul>
                 <li>
                     <p>
@@ -77,11 +78,11 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2 MadCap:autonum="">砻קยด9ตว融</h2>
+            <h2>砻קยด9ตว融</h2>
             <p>砻קยด10ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2 MadCap:autonum="">砻קยด11ตว融</h2>
+            <h2>砻קยด11ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -137,6 +138,11 @@
                 <tr>
                     <td>砻קยด18ตว融</td>
                     <td>砻קยด19ตว融</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด20ตว融</td>
+                    <td>砻קยด21ตว融</td>
                     <td> </td>
                 </tr>
             </table>

@@ -29,23 +29,32 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.Tubular-cap_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Tubular-cap_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
-                                <td>L</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.L-name" />
+                                </td>
                                 <td>54‑62 см</td>
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.Tubular-capM_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Tubular-cap-M_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap-M_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
-                                <td>M</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.M-name" />
+                                </td>
                                 <td>48‑54 см</td>
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.Tubular-capS_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.Tubular-cap-S_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap-S_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
-                                <td>S</td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.S-name" />
+                                </td>
                                 <td>42‑48 см</td>
                             </tr>
                         </table>
@@ -56,8 +65,9 @@
                 </tr>
             </table>
         </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/textile_caps/textile-cap-intention.flsnp" />
         <section class="set-section">
-            <h2 MadCap:autonum="">Состав комплекта</h2>
+            <h2>Состав комплекта</h2>
             <ul>
                 <li>
                     <p>Шлем для крепления электродов ЭЭГ - 1 шт.</p>
@@ -79,7 +89,7 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2 MadCap:autonum="">Описание</h2>
+            <h2>Описание</h2>
             <p>Шлем для крепления электродов ЭЭГ изготовлен из силиконовых трубок, соединенных подвижными фиксаторами в каркас по форме головы.  Шлем предназначен для использования с чашечными электродами <MadCap:variable name="MCScap-Glossary-and-therms.value St-электроды" />, которые имеют специальную выемку для крепления непосредственно к трубке шлема. Конструкция шлема обеспечивает возможность бесступенчатого изменения расстояния между каждой парой электродов, а также свободный доступ к электроду, в том числе со стороны контактной поверхности. Трубки каркаса шлема могут быть заменены при необходимости.</p>
             <table class="common_table" style="width: 60%; margin-left: auto; margin-right: auto;">
                 <col style="width:30%" />
@@ -92,24 +102,30 @@
                     </th>
                 </tr>
                 <tr>
-                    <td>L</td>
+                    <td>
+                        <MadCap:variable name="LocalVariables-Sizes.L-name" />
+                    </td>
                     <td>синий</td>
                     <td>54‑62 см</td>
                 </tr>
                 <tr>
-                    <td>M</td>
+                    <td>
+                        <MadCap:variable name="LocalVariables-Sizes.M-name" />
+                    </td>
                     <td>зелёный</td>
                     <td>48‑54 см</td>
                 </tr>
                 <tr>
-                    <td>S</td>
+                    <td>
+                        <MadCap:variable name="LocalVariables-Sizes.S-name" />
+                    </td>
                     <td>жёлтый</td>
                     <td>42‑48 см</td>
                 </tr>
             </table>
         </section>
         <section class="technicalData-section">
-            <h2 MadCap:autonum="">Технические характеристики</h2>
+            <h2>Технические характеристики</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -184,6 +200,11 @@
                         <p>Унификация параметров в таблице ТТХ:</p>
                         <p>вместо "материал трубок - силикон" -&gt; "материал шлема - силиконовые трубки"</p>
                     </td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>2022-04-22</td>
+                    <td>добавлено Назначение</td>
                     <td> </td>
                 </tr>
             </table>

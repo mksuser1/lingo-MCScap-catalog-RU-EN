@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName">
+        <h1 class="deviceName" MadCap:autonum="">
             <MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" />
         </h1>
         <p class="shortDescription">
@@ -26,7 +26,8 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesNames.MCScap-U_code" />
+                                    <MadCap:variable name="ModuleAndDevicesCode.MCScap-U_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-U_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td> </td>
                             </tr>
@@ -38,11 +39,7 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section" MadCap:conditions="Default.NoOutput">
-            <h2 MadCap:autonum="">Назначение</h2>
-            <p>
-            </p>
-        </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Accessories/adapter-TP-intention.flsnp" />
         <section class="set-section">
             <h2 MadCap:autonum="">Состав комплекта</h2>
             <ul>
@@ -53,7 +50,7 @@
         <section class="fullDescription">
             <h2 MadCap:autonum="">Описание</h2>
             <p>
-                <MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" /> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя.</p>
+                <MadCap:variable name="ModuleAndDevicesNames.MCScap-U_fullname" /> предназначен для подключения одного ЭЭГ электрода, обычно, GND (земля), одновременно к двум разъёмам усилителя ЭЭГ, например, GND и REF, если этого требует конструкция усилителя. Либо для подключения двух электродов, например ЭЭГ и ЭКГ, к одному разъёму усилителя (обычно, GND).</p>
         </section>
         <section class="using-section">
             <h2 MadCap:autonum="">Подготовка к использованию</h2>
@@ -108,6 +105,15 @@
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
                     <td>&lt; 6 г</td>
+                </tr>
+            </table>
+        </section>
+        <section MadCap:conditions="documents.InternalDocument">
+            <table>
+                <tr>
+                    <td>2022-04-22</td>
+                    <td>Добавлено назначение</td>
+                    <td> </td>
                 </tr>
             </table>
         </section>

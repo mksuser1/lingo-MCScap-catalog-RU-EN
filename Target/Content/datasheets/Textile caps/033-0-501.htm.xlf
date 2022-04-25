@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">45</count>
+          unit="segment">44</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -65,14 +65,22 @@
             MadCap:matchPercent="100">Size</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-td"
-        phase-name="pretrans"><source>L</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">L</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">L</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-td"
         phase-name="pretrans"><source>54‑62 см</source><seg-source><mrk
@@ -85,14 +93,22 @@
             MadCap:matchPercent="100">54-62 cm</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-td"
-        phase-name="pretrans"><source>M</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap-M_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap-M_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">M</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap-M_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap-M_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">M</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap-M_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap-M_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-td"
         phase-name="pretrans"><source>48‑54 см</source><seg-source><mrk
@@ -105,14 +121,22 @@
             MadCap:matchPercent="100">48-54 cm</mrk></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-td"
-        phase-name="pretrans"><source>S</source><seg-source><mrk
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap-S_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap-S_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">S</mrk></seg-source><target
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap-S_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap-S_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">S</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Tubular-cap-S_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Tubular-cap-S_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="8"
         restype="x-xml-td"
         phase-name="pretrans"><source>42‑48 см</source><seg-source><mrk
@@ -278,16 +302,6 @@
             MadCap:matchPercent="100">Head circumference</mrk></target></trans-unit><trans-unit
         id="20"
         restype="x-xml-td"
-        phase-name="pretrans"><source>L</source><seg-source><mrk
-            mtype="seg"
-            mid="1">L</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">L</mrk></target></trans-unit><trans-unit
-        id="21"
-        restype="x-xml-td"
         phase-name="pretrans"><source>синий</source><seg-source><mrk
             mtype="seg"
             mid="1">синий</mrk></seg-source><target
@@ -296,7 +310,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">blue</mrk></target></trans-unit><trans-unit
-        id="22"
+        id="21"
         restype="x-xml-td"
         phase-name="pretrans"><source>54‑62 см</source><seg-source><mrk
             mtype="seg"
@@ -306,17 +320,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">54-62 cm</mrk></target></trans-unit><trans-unit
-        id="23"
-        restype="x-xml-td"
-        phase-name="pretrans"><source>M</source><seg-source><mrk
-            mtype="seg"
-            mid="1">M</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">M</mrk></target></trans-unit><trans-unit
-        id="24"
+        id="22"
         restype="x-xml-td"
         phase-name="pretrans"><source>зелёный</source><seg-source><mrk
             mtype="seg"
@@ -326,7 +330,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="85">green</mrk></target></trans-unit><trans-unit
-        id="25"
+        id="23"
         restype="x-xml-td"
         phase-name="pretrans"><source>48‑54 см</source><seg-source><mrk
             mtype="seg"
@@ -336,17 +340,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">48-54 cm</mrk></target></trans-unit><trans-unit
-        id="26"
-        restype="x-xml-td"
-        phase-name="pretrans"><source>S</source><seg-source><mrk
-            mtype="seg"
-            mid="1">S</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">S</mrk></target></trans-unit><trans-unit
-        id="27"
+        id="24"
         restype="x-xml-td"
         phase-name="pretrans"><source>жёлтый</source><seg-source><mrk
             mtype="seg"
@@ -356,7 +350,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">yellow</mrk></target></trans-unit><trans-unit
-        id="28"
+        id="25"
         restype="x-xml-td"
         phase-name="pretrans"><source>42‑48 см</source><seg-source><mrk
             mtype="seg"
@@ -366,7 +360,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">42-48 cm</mrk></target></trans-unit><trans-unit
-        id="29"
+        id="26"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -376,7 +370,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="30"
+        id="27"
         restype="x-xml-td"
         phase-name="pretrans"><source>ООО «Нейрософт», Россия</source><seg-source><mrk
             mtype="seg"
@@ -386,7 +380,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Neurosoft, Russia</mrk></target></trans-unit><trans-unit
-        id="31"
+        id="28"
         restype="x-xml-td"
         phase-name="pretrans"><source>силиконовые трубки</source><seg-source><mrk
             mtype="seg"
@@ -396,7 +390,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="66">solid silicone tubes</mrk></target></trans-unit><trans-unit
-        id="32"
+        id="29"
         restype="x-xml-td"
         phase-name="pretrans"><source>4 мм</source><seg-source><mrk
             mtype="seg"
@@ -406,7 +400,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">4 mm</mrk></target></trans-unit><trans-unit
-        id="33"
+        id="30"
         restype="x-xml-td"
         phase-name="pretrans"><source>лента из полиамида с липучкой</source><seg-source><mrk
             mtype="seg"
@@ -416,7 +410,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="93">polyamide tape with Velcro</mrk></target></trans-unit><trans-unit
-        id="34"
+        id="31"
         restype="x-xml-td"
         phase-name="pretrans"><source>произвольная установка</source><seg-source><mrk
             mtype="seg"
@@ -426,7 +420,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">arbitrary installation</mrk></target></trans-unit><trans-unit
-        id="35"
+        id="32"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 75 г</source><seg-source><mrk
             mtype="seg"
@@ -436,7 +430,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 75 g</mrk></target></trans-unit><trans-unit
-        id="36"
+        id="33"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 75 г</source><seg-source><mrk
             mtype="seg"
@@ -447,7 +441,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 75 g</mrk></target></trans-unit><trans-unit
-        id="37"
+        id="34"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -458,7 +452,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="38"
+        id="35"
         restype="x-xml-p"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ:</source><seg-source><mrk
             mtype="seg"
@@ -469,7 +463,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">Унификация параметров в таблице ТТХ:</mrk></target></trans-unit><trans-unit
-        id="39"
+        id="36"
         restype="x-xml-p"
         phase-name="pretrans"><source>вместо "материал трубок - силикон" -&gt; "материал шлема - силиконовые трубки"</source><seg-source><mrk
             mtype="seg"
@@ -479,6 +473,30 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">вместо "материал трубок - силикон" -&gt; "материал шлема - силиконовые трубки"</mrk></target></trans-unit></body>
+            MadCap:matchPercent="0">вместо "материал трубок - силикон" -&gt; "материал шлема - силиконовые трубки"</mrk></target></trans-unit><trans-unit
+        id="37"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2022-04-22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2022-04-22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">2022-04-22</mrk></target></trans-unit><trans-unit
+        id="38"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>добавлено Назначение</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">добавлено Назначение</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"
+            MadCap:diff="New">add Intention</mrk></target></trans-unit></body>
   </file>
 </xliff>

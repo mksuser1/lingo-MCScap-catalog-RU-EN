@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName">
+        <h1 class="deviceName" MadCap:autonum="">
             <MadCap:variable name="ModuleAndDevicesNames.Chest-belt_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
@@ -23,22 +23,16 @@
                                 <th>砻קยด2ตว融</th>
                             </tr>
                             <tr>
-                                <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.Chest-belt_code" />
-                                </td>
-                                <td class="name_td">砻קยด3ตว融</td>
-                            </tr>
-                            <tr>
-                                <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.Chest-beltchildren_code" />
-                                </td>
+                                <td class="ref_td">砻קยด3ตว融</td>
                                 <td class="name_td">砻קยด4ตว融</td>
                             </tr>
                             <tr>
-                                <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesNames.Chest-beltinfant_code" />
-                                </td>
-                                <td class="name_td">砻קยด5ตว融</td>
+                                <td class="ref_td">砻קยด5ตว融</td>
+                                <td class="name_td">砻קยด6ตว融</td>
+                            </tr>
+                            <tr>
+                                <td class="ref_td">砻קยด7ตว融</td>
+                                <td class="name_td">砻קยด8ตว融</td>
                             </tr>
                         </table>
                     </td>
@@ -48,44 +42,48 @@
                 </tr>
             </table>
         </section>
+        <section class="target-section">
+            <h2>砻קยด9ตว融</h2>
+            <p>砻קยด10ตว融</p>
+        </section>
         <section class="set-section">
-            <h2>砻קยด6ตว融</h2>
+            <h2 MadCap:autonum="">砻קยด11ตว融</h2>
             <ul>
                 <li>
                     <MadCap:variable name="ModuleAndDevicesNames.Chest-belt_fullname" />,</li>
-                <li>砻קยด7ตว融</li>
+                <li>砻קยด12ตว融</li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด8ตว融</h2>
-            <p>砻קยด9ตว融</p>
+            <h2 MadCap:autonum="">砻קยด13ตว融</h2>
+            <p>砻קยด14ตว融</p>
             <table class="common_table">
                 <caption>
                 </caption>
                 <tr>
-                    <th>砻קยด10ตว融</th>
-                    <th>砻קยด11ตว融</th>
-                    <th>砻קยด12ตว融</th>
+                    <th>砻קยด15ตว融</th>
+                    <th>砻קยด16ตว融</th>
+                    <th>砻קยด17ตว融</th>
                 </tr>
                 <tr>
-                    <td>砻קยด13ตว融</td>
-                    <td>砻קยด14ตว融</td>
-                    <td>砻קยด15ตว融</td>
-                </tr>
-                <tr>
-                    <td>砻קยด16ตว融</td>
-                    <td>砻קยด17ตว融</td>
                     <td>砻קยด18ตว融</td>
-                </tr>
-                <tr>
                     <td>砻קยด19ตว融</td>
                     <td>砻קยด20ตว融</td>
+                </tr>
+                <tr>
                     <td>砻קยด21ตว融</td>
+                    <td>砻קยด22ตว融</td>
+                    <td>砻קยด23ตว融</td>
+                </tr>
+                <tr>
+                    <td>砻קยด24ตว融</td>
+                    <td>砻קยด25ตว融</td>
+                    <td>砻קยด26ตว融</td>
                 </tr>
             </table>
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด22ตว融</h2>
+            <h2 MadCap:autonum="">砻קยด27ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -93,22 +91,22 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Крепление к шлему" />
                     </td>
-                    <td>砻קยด23ตว融</td>
+                    <td>砻קยด28ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Регулировка" />
                     </td>
-                    <td>砻קยด24ตว融</td>
+                    <td>砻קยด29ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
                     <td>
-                        <p>砻קยด25ตว融</p>
-                        <p>砻קยด26ตว融</p>
-                        <p>砻קยด27ตว融</p>
+                        <p>砻קยด30ตว融</p>
+                        <p>砻קยด31ตว融</p>
+                        <p>砻קยด32ตว融</p>
                     </td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
@@ -116,9 +114,9 @@
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
                     <td>
-                        <p>砻קยด28ตว融</p>
-                        <p>砻קยด29ตว融</p>
-                        <p>砻קยด30ตว融</p>
+                        <p>砻קยด33ตว融</p>
+                        <p>砻קยด34ตว融</p>
+                        <p>砻קยด35ตว融</p>
                     </td>
                 </tr>
             </table>
@@ -126,13 +124,13 @@
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
-                    <td>砻קยด31ตว融</td>
-                    <td>砻קยด32ตว融</td>
+                    <td>砻קยด36ตว融</td>
+                    <td>砻קยด37ตว融</td>
                     <td> </td>
                 </tr>
                 <tr>
-                    <td>砻קยด33ตว融</td>
-                    <td>砻קยด34ตว融</td>
+                    <td>砻קยด38ตว融</td>
+                    <td>砻קยด39ตว融</td>
                     <td> </td>
                 </tr>
             </table>
