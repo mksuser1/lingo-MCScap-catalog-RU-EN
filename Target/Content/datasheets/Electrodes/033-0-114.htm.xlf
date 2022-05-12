@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="033-0-114.htm"
@@ -50,13 +50,13 @@
             mtype="seg"
             mid="1">Кольцо-адаптер для крепления чашечных электродов <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на коже пациента.</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Textile ring for fixing <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> cup electrodes to the skin.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> cup electrodes to the skin.</mrk></target><alt-trans
           match-quality="91"
           origin="previous-version"><seg-source>Кольцо-адаптер для крепления чашечных электродов MCScap на коже пациента.</seg-source><target
             MadCap:segmentStatus="Untranslated">Textile ring for fixing cup electrodes to the skin.</target></alt-trans><alt-trans
@@ -83,8 +83,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-RT30_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-RT30_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.MCScap-RT30_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-RT30_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
@@ -124,14 +124,14 @@
             mid="1"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-RT30_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для крепления чашечных ЭЭГ электродов <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на коже пациента.</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
+            MadCap:segmentStatus="ContextMatch"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-RT30_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a fixator for mounting the <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> thin electrodes on the patient's skin.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-RT30_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a fixator for mounting the <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> thin electrodes on the patient's skin.</mrk></target><alt-trans
           match-quality="89"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-RT30_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph

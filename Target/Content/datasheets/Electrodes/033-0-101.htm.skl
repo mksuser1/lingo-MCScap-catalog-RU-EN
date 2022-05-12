@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName" MadCap:autonum="">
+        <h1 class="deviceName">
             <MadCap:variable name="ModuleAndDevicesNames.MCScap-E_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
@@ -38,7 +38,7 @@
         </section>
         <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2 MadCap:autonum="">砻קยด3ตว融</h2>
+            <h2>砻קยด3ตว融</h2>
             <ul>
                 <li>
                     <p>
@@ -47,11 +47,12 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2 MadCap:autonum="">砻קยด4ตว融</h2>
+            <h2>砻קยด4ตว融</h2>
             <p>砻קยด5ตว融</p>
+            <p>砻קยด6ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2 MadCap:autonum="">砻קยด6ตว融</h2>
+            <h2>砻קยด7ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/MCScap-E_parameters.flsnp" />
             <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/electrodes-GOST.flsnp" />
             <table class="datasheet">
@@ -61,19 +62,21 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Длина провода электрода" />
                     </td>
-                    <td>砻קยด7ตว融</td>
+                    <td>砻קยด8ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter тип разъема" />
                     </td>
-                    <td>砻קยด8ตว融</td>
+                    <td>砻קยด9ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Use with MCScap caps" />
                     </td>
-                    <td>砻קยด9ตว融</td>
+                    <td>
+                        <MadCap:variable name="MCScap-Glossary-and-therms.value фиксация в кольца" />
+                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -101,6 +104,13 @@
                     <td>
                         <p>砻קยด15ตว融</p>
                         <p>砻קยด16ตว融</p>
+                    </td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด17ตว融</td>
+                    <td>
+                        <p>砻קยด18ตว融</p>
                     </td>
                     <td> </td>
                 </tr>

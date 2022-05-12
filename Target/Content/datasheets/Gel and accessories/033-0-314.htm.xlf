@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="033-0-314.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">10</count>
+          unit="segment">13</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -54,6 +54,46 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Brush for electrodes cleaning.</mrk></target></trans-unit><trans-unit
         id="2"
+        restype="x-xml-td"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.brush_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.brush_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.brush_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.brush_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.brush_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.brush_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Назначение</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Назначение</mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">Intended use</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Для очистки ЭЭГ электродов.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Для очистки ЭЭГ электродов.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit><trans-unit
+        id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -63,7 +103,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="3"
+        id="6"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -73,7 +113,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="4"
+        id="7"
         restype="x-xml-p"
         phase-name="pretrans"><source>Щеточка предназначена для бережной очистки электродов <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> от геля.</source><seg-source><mrk
@@ -85,8 +125,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="90">The brush is designed for gently cleaning of the <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes from the gel.</mrk></target></trans-unit><trans-unit
-        id="5"
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes from the gel.</mrk></target></trans-unit><trans-unit
+        id="8"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -96,7 +136,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="9"
         restype="x-xml-td"
         phase-name="pretrans"><source>1 шт.</source><seg-source><mrk
             mtype="seg"
@@ -106,7 +146,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">1 pc.</mrk></target></trans-unit><trans-unit
-        id="7"
+        id="10"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 5 г</source><seg-source><mrk
             mtype="seg"
@@ -116,7 +156,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 5 g</mrk></target></trans-unit><trans-unit
-        id="8"
+        id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 5 г</source><seg-source><mrk
             mtype="seg"
@@ -127,7 +167,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 5 g</mrk></target></trans-unit><trans-unit
-        id="9"
+        id="12"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -138,7 +178,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="10"
+        id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"

@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="033-0-301.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">18</count>
+          unit="segment">21</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -52,14 +52,14 @@
             mid="1">Кольцо для крепления электродов <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на текстильном шлеме <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101"
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100"
             MadCap:diff="ContentChanged">Fixing ring for mounting <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode on <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode on <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</mrk></target><alt-trans
           match-quality="77"
           origin="previous-version"><seg-source>Кольцо для крепления электродов <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на текстильном шлеме <ph
@@ -68,6 +68,46 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode on <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</target></alt-trans></trans-unit><trans-unit
         id="2"
+        restype="x-xml-td"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.fixing-ring_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.fixing-ring_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.fixing-ring_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.fixing-ring_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.fixing-ring_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.fixing-ring_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Назначение</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Назначение</mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">Intended use</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Для крепления ЭЭГ электродов.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Для крепления ЭЭГ электродов.</mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">For fixing the EEG electrodes.</mrk></target></trans-unit><trans-unit
+        id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -77,7 +117,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="3"
+        id="6"
         restype="x-xml-li"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.fixing-ring_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 5 шт.,</source><seg-source><mrk
@@ -89,8 +129,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="88"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.fixing-ring_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 5 pcs.</mrk></target></trans-unit><trans-unit
-        id="4"
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.fixing-ring_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 5 pcs.</mrk></target></trans-unit><trans-unit
+        id="7"
         restype="x-xml-li"
         phase-name="pretrans"><source>эксплуатационная документация.</source><seg-source><mrk
             mtype="seg"
@@ -100,7 +140,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">operational documentation.</mrk></target></trans-unit><trans-unit
-        id="5"
+        id="8"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -110,7 +150,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>Фиксирующее кольцо используется для крепления электродов <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на текстильном шлеме <ph
@@ -129,11 +169,11 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="98"
             MadCap:diff="ContentChanged">The fixing ring is used to mounting the <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes to the <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</mrk><mrk
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes to the <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</mrk><mrk
             mtype="protected"
             mid="2"
-            MadCap:segmentStatus="Untranslated"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
@@ -174,43 +214,8 @@
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target
             MadCap:segmentStatus="Untranslated">The fixing ring is used to attach the <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes to the <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</target></alt-trans><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source>Фиксирующее кольцо используется для крепления электродов <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на текстильном шлеме <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target
-            MadCap:segmentStatus="Untranslated">The fixing ring is used to attach the <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes to the <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</target></alt-trans><alt-trans
-          match-quality="68"
-          origin="previous-version"><seg-source>Кольцо для крепления электродов <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на текстильном шлеме <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
-            MadCap:segmentStatus="Untranslated">Ring for attachment of <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode on <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</target></alt-trans><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source>Фиксирующее кольцо используется для крепления электродов <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на текстильном шлеме <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target
-            MadCap:segmentStatus="Untranslated">The fixing ring is used to attach the <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes to the <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</target></alt-trans><alt-trans
-          match-quality="68"
-          origin="previous-version"><seg-source>Кольцо для крепления электродов <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на текстильном шлеме <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
-            MadCap:segmentStatus="Untranslated">Ring for attachment of <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode on <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</target></alt-trans><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source>Фиксирующее кольцо используется для крепления электродов <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> на текстильном шлеме <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target
-            MadCap:segmentStatus="Untranslated">The fixing ring is used to attach the <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes to the <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> textile cap.</target></alt-trans></trans-unit><trans-unit
-        id="7"
+        id="10"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -220,7 +225,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="8"
+        id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>5 шт.</source><seg-source><mrk
             mtype="seg"
@@ -230,7 +235,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">5 pcs.</mrk></target></trans-unit><trans-unit
-        id="9"
+        id="12"
         restype="x-xml-td"
         phase-name="pretrans"><source>желтый</source><seg-source><mrk
             mtype="seg"
@@ -240,7 +245,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">yellow</mrk></target></trans-unit><trans-unit
-        id="10"
+        id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>полиуретан</source><seg-source><mrk
             mtype="seg"
@@ -250,7 +255,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">polyurethane</mrk></target></trans-unit><trans-unit
-        id="11"
+        id="14"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 6 г</source><seg-source><mrk
             mtype="seg"
@@ -260,22 +265,22 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 6 g</mrk></target></trans-unit><trans-unit
-        id="12"
+        id="15"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 30  ±2 г</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:parentConditions="Default.PrintOnly">&lt; 30 ±2 г</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
+            MadCap:segmentStatus="ContextMatch"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">&lt; 30 ±2 g</mrk></target><alt-trans
           match-quality="58"
           origin="previous-version"><seg-source>&lt; 6 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 6 g</target></alt-trans></trans-unit><trans-unit
-        id="13"
+        id="16"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -286,7 +291,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="14"
+        id="17"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"
@@ -297,7 +302,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Унификация параметров в таблице ТТХ</mrk></target></trans-unit><trans-unit
-        id="15"
+        id="18"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-10-21</source><seg-source><mrk
             mtype="seg"
@@ -309,7 +314,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">2021-10-21</mrk></target></trans-unit><trans-unit
-        id="16"
+        id="19"
         restype="x-xml-td"
         phase-name="pretrans"><source>Заменено: "Кольцо имеет разборную конструкцию" -&gt; съемную конструкцию</source><seg-source><mrk
             mtype="seg"

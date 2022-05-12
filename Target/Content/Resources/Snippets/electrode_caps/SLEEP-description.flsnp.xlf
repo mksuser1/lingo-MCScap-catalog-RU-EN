@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="SLEEP-description.flsnp"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">7</count>
+          unit="segment">6</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -48,9 +48,8 @@
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это текстильный шлем с предустановленными Ag/AgCl sintered электродами <ph
             id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-T.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и общим разъемом <ph
-            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>. <ph
-            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> рекомендован для проведения рутинного ЭЭГ обследования, ЭЭГ сна, ТМС-ЭЭГ. <ph
-            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/electrode_caps/electrodecap-text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.  <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/electrode_caps/electrodecap-text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
             mtype="seg"
             mid="1"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это текстильный шлем с предустановленными Ag/AgCl sintered электродами <ph
@@ -60,40 +59,39 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3"><ph
-              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> рекомендован для проведения рутинного ЭЭГ обследования, ЭЭГ сна, ТМС-ЭЭГ.</mrk><mrk
-            mtype="protected"
-            mid="4"> </mrk><mrk
-            mtype="seg"
-            mid="5"><ph
-              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/electrode_caps/electrodecap-text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/electrode_caps/electrodecap-text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is the textile cap with pre-installed Ag/AgCl sintered <ph
-              id="2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-T.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes and with <ph
-              id="3">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector.</mrk><mrk
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is the textile cap with pre-installed Ag/AgCl sintered <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-T.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes and with <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="75"
-            MadCap:diff="New"><ph
-              id="4">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is recommended for routine EEG, high-resolution EEG, TMS-EEG.</mrk><mrk
-            mtype="protected"
-            mid="4"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
-            mtype="seg"
-            mid="5"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0"
             MadCap:diff="New" /></target></trans-unit><trans-unit
         id="2"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> может применяться для проведения рутинного ЭЭГ обследования, ЭЭГ-мониторинга, полисомнографии, ЭЭГ с транскраниальной магнитной стимуляцией (тмсЭЭГ).</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> может применяться для проведения рутинного ЭЭГ обследования, ЭЭГ-мониторинга, полисомнографии, ЭЭГ с транскраниальной магнитной стимуляцией (тмсЭЭГ).</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"
+            MadCap:diff="New"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Sleep_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> can be used for general EEG practice, EEG monitoring, PSG, tmsEEG.</mrk></target></trans-unit><trans-unit
+        id="3"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -109,10 +107,10 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="3">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/both-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
-        id="3"
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/both-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="4"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/MCScap-T_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -126,7 +124,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/MCScap-T_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/electrode-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit></body>
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/MCScap-T_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/electrode-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit></body>
   </file>
 </xliff>

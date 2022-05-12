@@ -36,6 +36,7 @@
                 </tr>
             </table>
         </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/ear-fixator-intention.flsnp" />
         <section class="set-section">
             <h2>砻קยด3ตว融</h2>
             <ul>
@@ -85,6 +86,13 @@
                     <td>
                         <p>砻קยด13ตว融</p>
                         <p>砻קยด14ตว融</p>
+                    </td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด15ตว融</td>
+                    <td>
+                        <p>砻קยด16ตว融</p>
                     </td>
                     <td> </td>
                 </tr>

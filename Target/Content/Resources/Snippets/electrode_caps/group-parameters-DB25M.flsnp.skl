@@ -4,19 +4,19 @@
         <table class="datasheet">
             <col class="col_param" />
             <col class="col_value" />
-            <tr>
+            <tr MadCap:conditions="">
                 <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter Кол-во эл-дов - отведений" />
                 </td>
                 <td>砻קยด1ตว融</td>
             </tr>
-            <tr>
+            <tr MadCap:conditions="">
                 <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter Позиция электродов" />
                 </td>
                 <td>砻קยด2ตว融</td>
             </tr>
-            <tr>
+            <tr MadCap:conditions="">
                 <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter тип разъема" />
                 </td>

@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="033-0-111.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">18</count>
+          unit="segment">20</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -50,13 +50,13 @@
             mtype="seg"
             mid="1">Комплект электродов <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> с фиксаторами для крепления на мочках ушей.</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Set of <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes and ear fixators for placing electrodes on the earlobes.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes and ear fixators for placing electrodes on the earlobes.</mrk></target><alt-trans
           match-quality="96"
           origin="previous-version"><seg-source>Комплект электродов <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> с фиксаторами для крепления на мочках ушей.</seg-source><target
@@ -78,8 +78,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Ear-CLINIC_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Ear-CLINIC_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Ear-CLINIC_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Ear-CLINIC_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
@@ -97,13 +97,13 @@
             mtype="seg"
             mid="1"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 шт.,</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
+            MadCap:segmentStatus="ContextMatch"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 pcs.,</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 pcs.,</mrk></target><alt-trans
           match-quality="83"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._electrode_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -125,13 +125,13 @@
             mtype="seg"
             mid="1"><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-AT_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 шт.</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
+            MadCap:segmentStatus="ContextMatch"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-AT_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 pcs.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-AT_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> - 2 pcs.</mrk></target><alt-trans
           match-quality="81"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._ear-fixators_firstname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
@@ -167,15 +167,15 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Ear-CLINIC_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это комплект электродов <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и ушных фиксаторов <ph
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-AT_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
+            MadCap:segmentStatus="ContextMatch"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Ear-CLINIC_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a set of <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes and <ph
-              id="3">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-AT_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> ear fixators.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Ear-CLINIC_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is a set of <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-TC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes and <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-AT_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> ear fixators.</mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Ear-CLINIC_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это комплект электродов <ph
@@ -199,8 +199,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1">&lt;MadCap:snippetText src="../../Resources/Snippets/Electrodes/MCScap-TC_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2">&lt;MadCap:snippetText src="../../Resources/Snippets/Electrodes/text-touchproof-connector.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../Resources/Snippets/Electrodes/MCScap-TC_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../Resources/Snippets/Electrodes/text-touchproof-connector.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="9"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
@@ -225,8 +225,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
-              id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>1,5 ±0,05 м</source><seg-source><mrk
@@ -317,6 +317,30 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">добавился параметр "<ph
-              id="1">&lt;MadCap:variable name="MCScap-Glossary-and-therms.parameter Use with MCScap caps" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>"</mrk></target></trans-unit></body>
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="MCScap-Glossary-and-therms.parameter Use with MCScap caps" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>"</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2022-04-26</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2022-04-26</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Формализация назначения</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||documents.InternalDocument">Формализация назначения</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit></body>
   </file>
 </xliff>

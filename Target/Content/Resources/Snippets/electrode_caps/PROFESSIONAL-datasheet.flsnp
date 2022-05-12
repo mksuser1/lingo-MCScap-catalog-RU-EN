@@ -6,6 +6,18 @@
             <col class="col_value" />
             <tr>
                 <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Type_of_EEG" />
+                </td>
+                <td>рутинная ЭЭГ, ЭЭГ в научных исследованиях</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Body_position" />
+                </td>
+                <td>сидя</td>
+            </tr>
+            <tr>
+                <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter Модель электродов" />
                 </td>
                 <td>

@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="033-0-117.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">16</count>
+          unit="segment">18</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -50,13 +50,13 @@
             mtype="seg"
             mid="1">Электрод для замены электрода в электродном шлеме MCScap <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Replacement electrode for MCScap <ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</mrk></target><alt-trans
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</mrk></target><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source>Электрод для замены электрода в электродном шлеме MCScap <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
@@ -85,8 +85,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.Repair-MCScap-T_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Repair-MCScap-T_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Repair-MCScap-T_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Repair-MCScap-T_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
@@ -115,11 +115,11 @@
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
+            MadCap:segmentStatus="ContextMatch"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> designed for replacing electrode at MCScap <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</mrk><mrk
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> designed for replacing electrode at MCScap <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -128,37 +128,6 @@
             mid="3"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /></target><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для замены неисправного электрода в электродном шлеме MCScap <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  designed for replacing electrode at MCScap <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</target></alt-trans><alt-trans
-          match-quality="65"
-          origin="previous-version"><seg-source>Электрод для замены электрода в электродном шлеме MCScap <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
-            MadCap:segmentStatus="Untranslated">Replacement electrode for MCScap <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</target></alt-trans><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для замены неисправного электрода в электродном шлеме MCScap <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  designed for replacing electrode at MCScap <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</target></alt-trans><alt-trans
-          match-quality="65"
-          origin="previous-version"><seg-source>Электрод для замены электрода в электродном шлеме MCScap <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
-            MadCap:segmentStatus="Untranslated">Replacement electrode for MCScap <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</target></alt-trans><alt-trans
-          match-quality="98"
-          origin="previous-version"><seg-source><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для замены неисправного электрода в электродном шлеме MCScap <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</seg-source><target
-            MadCap:segmentStatus="Untranslated"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  designed for replacing electrode at MCScap <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._SLEEP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode cap.</target></alt-trans><alt-trans
           match-quality="98"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Repair-MCScap-T_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для замены неисправного электрода в электродном шлеме MCScap <ph
@@ -299,6 +268,30 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
-            MadCap:diff="New">длина провода - 2м</mrk></target></trans-unit></body>
+            MadCap:diff="New">длина провода - 2м</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>2022-04-26</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="||documents.InternalDocument">2022-04-26</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Формализация назначения</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="|||documents.InternalDocument">Формализация назначения</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit></body>
   </file>
 </xliff>

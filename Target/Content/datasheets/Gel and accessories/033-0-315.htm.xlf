@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="033-0-315.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">12</count>
+          unit="segment">15</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -54,6 +54,49 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Bag for EEG accessories</mrk></target></trans-unit><trans-unit
         id="2"
+        restype="x-xml-td"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.bag_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
+                                    <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.bag_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.bag_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.bag_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100"
+            MadCap:diff="New"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.bag_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.bag_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Назначение</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Назначение</mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100"
+            MadCap:diff="New">Intended use</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Для хранения и транспортировки электродного шлема и аксессуаров.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Для хранения и транспортировки электродного шлема и аксессуаров.</mrk></seg-source><target
+          state="needs-review-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="90"
+            MadCap:diff="ContentChanged" /></target><alt-trans
+          match-quality="90"
+          origin="previous-version"><seg-source>Сумка для хранения и транспортировки электродного шлема и аксессуаров.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Bag for storage and transportation of the EEG cap and accessories.</target></alt-trans></trans-unit><trans-unit
+        id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -63,7 +106,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="3"
+        id="6"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -73,7 +116,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="4"
+        id="7"
         restype="x-xml-p"
         phase-name="pretrans"><source>Сумка для хранения и транспортировки электродного шлема и аксессуаров.</source><seg-source><mrk
             mtype="seg"
@@ -83,7 +126,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Bag for storage and transportation of the EEG cap and accessories.</mrk></target></trans-unit><trans-unit
-        id="5"
+        id="8"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -93,7 +136,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="9"
         restype="x-xml-td"
         phase-name="pretrans"><source>2 л</source><seg-source><mrk
             mtype="seg"
@@ -103,7 +146,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="50">2 l</mrk></target></trans-unit><trans-unit
-        id="7"
+        id="10"
         restype="x-xml-td"
         phase-name="pretrans"><source>24 х 15 х 8  ±1 см</source><seg-source><mrk
             mtype="seg"
@@ -113,7 +156,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="82">24 x 15 x 8 ±1 cm</mrk></target></trans-unit><trans-unit
-        id="8"
+        id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>110 ±10 г</source><seg-source><mrk
             mtype="seg"
@@ -123,7 +166,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">110 ±10 g</mrk></target></trans-unit><trans-unit
-        id="9"
+        id="12"
         restype="x-xml-td"
         phase-name="pretrans"><source>115 ±10 г</source><seg-source><mrk
             mtype="seg"
@@ -134,7 +177,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">115 ±10 g</mrk></target></trans-unit><trans-unit
-        id="10"
+        id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>24 х 15 х 2,5  см</source><seg-source><mrk
             mtype="seg"
@@ -145,7 +188,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">24 х 15 х 2.5  cm</mrk></target></trans-unit><trans-unit
-        id="11"
+        id="14"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -156,7 +199,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="12"
+        id="15"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"

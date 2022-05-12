@@ -25,7 +25,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22_code" />
+                                    <MadCap:variable name="TM-ModuleAndDevicesCode.MCScap-CS22_code" />
                                 </td>
                                 <td> </td>
                             </tr>

@@ -11,6 +11,9 @@
         <Variable Name="DocsVariables/DocRevision">砻קยด5ตว融</Variable>
         <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode-EU.Removable-markers_code%]</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.Removable-markers_fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullName">[%=Reg-Prod-Variables.MCScap-EN-fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
+        <Variable Name="ProductVariables/ProductLastName">[%=Reg-Prod-Variables.MCScap-EN-name%]</Variable>
     </Variables>
     <PDF ShowUsedBookmarks="false" PageMode="UseNone" />
 </CatapultTarget>

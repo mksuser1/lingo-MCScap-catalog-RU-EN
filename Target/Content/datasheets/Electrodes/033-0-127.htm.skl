@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName">
+        <h1 class="deviceName" MadCap:autonum="">
             <MadCap:variable name="ModuleAndDevicesNames.MCScap-StNT_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
@@ -35,16 +35,23 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section">
-            <h2>砻קยด3ตว融</h2>
-            <p>砻קยด4ตว融</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
+        <section class="set-section">
+            <h2 MadCap:autonum="">砻קยด3ตว融</h2>
+            <ul>
+                <li>
+                    <p>
+                        <MadCap:variable name="ModuleAndDevicesNames.MCScap-StNT_fullname" />.</p>
+                </li>
+            </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด5ตว融</h2>
+            <h2 MadCap:autonum="">砻קยด4ตว融</h2>
+            <p>砻קยด5ตว融</p>
             <p>砻קยด6ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด7ตว融</h2>
+            <h2 MadCap:autonum="">砻קยด7ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/MCScap-NT_parameters.flsnp" />
             <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/electrodes-GOST.flsnp" />
             <table class="datasheet">
@@ -104,6 +111,13 @@
                     <td>
                         <p>砻קยด16ตว融</p>
                         <p>砻קยด17ตว融</p>
+                    </td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด18ตว融</td>
+                    <td>
+                        <p>砻קยด19ตว融</p>
                     </td>
                     <td> </td>
                 </tr>

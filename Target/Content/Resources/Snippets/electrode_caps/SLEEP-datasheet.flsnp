@@ -6,6 +6,18 @@
             <col class="col_value" />
             <tr>
                 <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Type_of_EEG" />
+                </td>
+                <td>рутинная ЭЭГ, ЭЭГ-мониторинг, полисомнография, тмсЭЭГ</td>
+            </tr>
+            <tr>
+                <td>
+                    <MadCap:variable name="MCScap-Glossary-and-therms.parameter Body_position" />
+                </td>
+                <td>сидя, лёжа</td>
+            </tr>
+            <tr>
+                <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter Модель электродов" />
                 </td>
                 <td>
@@ -19,7 +31,7 @@
         <MadCap:snippetBlock src="../../../Resources/Snippets/Electrodes/MCScap-T_parameters.flsnp" />
         <!-- Параметры по&#160;ГОСТ -->
         <MadCap:snippetBlock src="../../../Resources/Snippets/Electrodes/electrodes-GOST.flsnp" />
-        <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/group-parameters-DB25M.flsnp" MadCap:conditions="documents.GroupDatasheet" />
+        <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/group-parameters-DB25M.flsnp" MadCap:conditions="documents.GroupDatasheet,documents._All" />
         <table class="datasheet">
             <col class="col_param" />
             <col class="col_value" />
@@ -73,19 +85,19 @@
                 </td>
                 <td>1</td>
             </tr>
-            <tr MadCap:conditions="documents.GroupDatasheet">
+            <tr MadCap:conditions="documents.GroupDatasheet,documents._All">
                 <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter Electrodecap weight" />
                 </td>
                 <td>&lt; 250 г</td>
             </tr>
-            <tr MadCap:conditions="documents.GroupDatasheet">
+            <tr MadCap:conditions="documents.GroupDatasheet,documents._All">
                 <td>
                     <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                 </td>
                 <td>&lt; 750 г</td>
             </tr>
-            <tr MadCap:conditions="Default.PrintOnly,documents.GroupDatasheet">
+            <tr MadCap:conditions="Default.PrintOnly,documents.GroupDatasheet,documents._All">
                 <td>
                     <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                 </td>

@@ -11,6 +11,9 @@
         <Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceFullName%]</Variable>
         <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
         <Variable Name="ProductVariables/ProductName">[%=DevicesVariables.DeviceName%]</Variable>
+        <Variable Name="ProductVariables/ProductFullName">[%=Reg-Prod-Variables.MCScap-EN-fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
+        <Variable Name="ProductVariables/ProductLastName">[%=Reg-Prod-Variables.MCScap-EN-name%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />
 </CatapultTarget>

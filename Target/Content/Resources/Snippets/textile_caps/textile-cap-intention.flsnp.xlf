@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="textile-cap-intention.flsnp"
@@ -55,13 +55,14 @@
             MadCap:matchPercent="100">Intended use</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Для крепления ЭЭГ электродов.</source><seg-source><mrk
+        phase-name="pretrans"><source>Для фиксации ЭЭГ электродов на голове.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Для крепления ЭЭГ электродов.</mrk></seg-source><target
+            mid="1">Для фиксации ЭЭГ электродов на голове.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="68">For fixing the EEG electrodes.</mrk></target></trans-unit></body>
+            MadCap:matchPercent="0"
+            MadCap:diff="New">For fixing EEG electrodes on the head.</mrk></target></trans-unit></body>
   </file>
 </xliff>

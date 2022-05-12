@@ -25,16 +25,12 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesCode.ABSfixator13_code" />
-                                </td>
                                 <td>砻קยด2ตว融</td>
+                                <td>砻קยด3ตว融</td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesCode.ABSfixator10_code" />
-                                </td>
-                                <td>砻קยด3ตว融</td>
+                                <td>砻קยด4ตว融</td>
+                                <td>砻קยด5ตว融</td>
                             </tr>
                         </table>
                     </td>
@@ -44,23 +40,13 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section" MadCap:conditions="Default.NoOutput">
-            <h2>砻קยด4ตว融</h2>
-            <p>
-            </p>
+        <section class="target-section">
+            <h2>砻קยด6ตว融</h2>
+            <p>砻קยด7ตว融</p>
         </section>
         <section class="set-section">
-            <h2>砻קยด5ตว融</h2>
+            <h2>砻קยด8ตว融</h2>
             <ul>
-                <li>
-                    <p>砻קยด6ตว融</p>
-                </li>
-                <li>
-                    <p>砻קยด7ตว融</p>
-                </li>
-                <li>
-                    <p>砻קยด8ตว融</p>
-                </li>
                 <li>
                     <p>砻קยด9ตว融</p>
                 </li>
@@ -70,11 +56,20 @@
                 <li>
                     <p>砻קยด11ตว融</p>
                 </li>
+                <li>
+                    <p>砻קยด12ตว融</p>
+                </li>
+                <li>
+                    <p>砻קยด13ตว融</p>
+                </li>
+                <li>
+                    <p>砻קยด14ตว融</p>
+                </li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด12ตว融</h2>
-            <p>砻קยด13ตว融</p>
+            <h2>砻קยด15ตว融</h2>
+            <p>砻קยด16ตว融</p>
         </section>
         <section class="using-section">
             <ul class="ul-warning">
@@ -86,7 +81,7 @@
             </ul>
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด14ตว融</h2>
+            <h2>砻קยด17ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -94,28 +89,28 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал фиксатора" />
                     </td>
-                    <td>砻קยด15ตว融</td>
+                    <td>砻קยด18ตว融</td>
                 </tr>
                 <tr MadCap:conditions="">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Габариты изделия" />
                     </td>
                     <td>
-                        <p>砻קยด16ตว融</p>
-                        <p>砻קยด17ตว融</p>
+                        <p>砻קยด19ตว融</p>
+                        <p>砻קยด20ตว融</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
-                    <td>砻קยด18ตว融</td>
+                    <td>砻קยด21ตว融</td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
-                    <td>砻קยด19ตว融</td>
+                    <td>砻קยด22ตว融</td>
                 </tr>
             </table>
         </section>

@@ -21,13 +21,15 @@
                                 <th>
                                     <MadCap:variable name="Global(External)Variables.REFname" />
                                 </th>
-                                <th>砻קยด2ตว融</th>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.parameter Size" />
+                                </th>
                                 <th>
                                     <MadCap:variable name="Global(External)Variables.parameter Head circumference" />
                                 </th>
                             </tr>
                             <tr>
-                                <td>砻קยด3ตว融</td>
+                                <td>砻קยด2ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XL-name" />
                                 </td>
@@ -36,7 +38,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด4ตว融</td>
+                                <td>砻קยด3ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XLL-name" />
                                 </td>
@@ -45,7 +47,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด5ตว融</td>
+                                <td>砻קยด4ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.L-name" />
                                 </td>
@@ -54,7 +56,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด6ตว融</td>
+                                <td>砻קยด5ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.LM-name" />
                                 </td>
@@ -63,7 +65,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด7ตว融</td>
+                                <td>砻קยด6ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.M-name" />
                                 </td>
@@ -72,7 +74,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด8ตว融</td>
+                                <td>砻קยด7ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.MS-name" />
                                 </td>
@@ -81,7 +83,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด9ตว融</td>
+                                <td>砻קยด8ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.S-name" />
                                 </td>
@@ -90,7 +92,7 @@
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
-                                <td>砻קยด10ตว融</td>
+                                <td>砻קยด9ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.SXS-name" />
                                 </td>
@@ -99,12 +101,34 @@
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
-                                <td>砻קยด11ตว融</td>
+                                <td>砻קยด10ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XS-name" />
                                 </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XS" />
+                                </td>
+                            </tr>
+                            <tr MadCap:conditions="">
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic21-InfI_code" MadCap:conditions="market.All,market.EU" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfI-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfI" />
+                                </td>
+                            </tr>
+                            <tr MadCap:conditions="">
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic21-InfII_code" MadCap:conditions="market.All,market.EU" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfII-name" />
+                                </td>
+                                <td>
+                                    <MadCap:variable name="LocalVariables-Sizes.InfII" />
                                 </td>
                             </tr>
                         </table>
@@ -117,7 +141,7 @@
         </section>
         <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>砻קยด12ตว融</h2>
+            <h2>砻קยด11ตว融</h2>
             <ul>
                 <li>
                     <p>
@@ -127,19 +151,24 @@
                     <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/EEG-starter-kit.flsnp" />
                 </li>
                 <li>
-                    <p>砻קยด13ตว融</p>
+                    <p>砻קยด12ตว融</p>
                 </li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด14ตว融</h2>
+            <h2>砻קยด13ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/CLINIC-description.flsnp" />
+            <ul class="ul-note">
+                <li>
+                    <p>砻קยด14ตว融</p>
+                </li>
+            </ul>
         </section>
         <section class="technicalData-section">
             <h2>砻קยด15ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/CLINIC-datasheet.flsnp" />
         </section>
-        <section class="noBreakInside" MadCap:conditions="documents.GroupDatasheet">
+        <section class="noBreakInside" MadCap:conditions="documents.GroupDatasheet,documents._All">
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/Standard_EEG_scheme_toDatasheet.flsnp" />
         </section>
         <section MadCap:conditions="documents.InternalDocument">

@@ -24,8 +24,9 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesCode.Unipaste_code" />
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesCode.Unipaste_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Unipaste_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td class="name_td">
                                 </td>
@@ -37,6 +38,11 @@
                     </td>
                 </tr>
             </table>
+        </section>
+        <section class="target-section" MadCap:conditions="Default.NoOutput">
+            <h2>Назначение</h2>
+            <p>
+            </p>
         </section>
         <section class="set-section">
             <h2>Состав комплекта</h2>
@@ -58,17 +64,17 @@
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Удельная электропроводность" />
                     </td>
                     <td>0,3 - 1,5 См/м</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>Импеданс</td>
                     <td>1–2 кОм</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>Адгезия (показатель усилия отрыва)</td>
                     <td>не менее 4,5 Н/см<sup>2</sup> (при плотности нанесения пасты 0,16 г/см<sup>2</sup>)</td>
                 </tr>
@@ -95,6 +101,11 @@
                 <tr>
                     <td>2021-04-22</td>
                     <td>Унификация параметров в таблице ТТХ</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>2022-04-26</td>
+                    <td>Скрыты характеристики, оставлена только ссылка на производителя</td>
                     <td> </td>
                 </tr>
             </table>

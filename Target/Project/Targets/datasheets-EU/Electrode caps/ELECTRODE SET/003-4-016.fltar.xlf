@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="003-4-016.fltar"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">6</count>
+          unit="segment">5</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -81,10 +81,10 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">MCS.<ph
-              id="1">[%=ProductVariables.ProductCode%]</ph>-<ph
-              id="2">[%=DocsVariables.DocSubCode%]</ph>-<ph
-              id="3">[%=DocsVariables.Market%]</ph>-<ph
-              id="4">[%=DocsVariables.Language%]</ph></mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ProductVariables.ProductCode%]</ph>-<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.DocSubCode%]</ph>-<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.Market%]</ph>-<ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.Language%]</ph></mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-variable"
         phase-name="pretrans"><source>DS</source><seg-source><mrk
@@ -104,16 +104,6 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">EU</mrk></target></trans-unit><trans-unit
-        id="6"
-        restype="x-xml-variable"
-        phase-name="pretrans"><source>mks.ru</source><seg-source><mrk
-            mtype="seg"
-            mid="1">mks.ru</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">mks.ru</mrk></target></trans-unit></body>
+            MadCap:matchPercent="101">EU</mrk></target></trans-unit></body>
   </file>
 </xliff>

@@ -51,18 +51,18 @@
             </section>
         </p>
         <section class="set-section">
-            <h2 MadCap:autonum="">砻קยด10ตว融</h2>
+            <h2>砻קยด10ตว融</h2>
             <ul>
                 <li>
                     <MadCap:variable name="ModuleAndDevicesNames.MCScap-S_fullname" />.</li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2 MadCap:autonum="">砻קยด11ตว融</h2>
+            <h2>砻קยด11ตว融</h2>
             <p>砻קยด12ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2 MadCap:autonum="">砻קยด13ตว融</h2>
+            <h2>砻קยด13ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />

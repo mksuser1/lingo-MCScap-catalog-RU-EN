@@ -2,12 +2,9 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <body>
         <p>
-            <MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" /> выполнен в максимально лёгком варианте в линейке других электродных шлемов <MadCap:variable name="ModuleAndDevicesNames._mainMCScap" />. В нём используется текстильный шлем без подбородника <MadCap:variable name="ModuleAndDevicesNames.MCScap-light_name" /> и самые тонкие  Ag/AgCl sintered электроды <MadCap:snippetText src="../Electrodes/link-MCScap-NT.flsnp" />. Провода отведений электродов собраны в тонкий кабель пациента с помощью разветвителя, который крепится на текстильном шлеме. Шлем имеет общий разъемом <MadCap:variable name="Global(External)Variables.DB-25M" /> для подключения к ЭЭГ усилителю. </p>
+            <MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" /> выполнен в максимально лёгком варианте в линейке других электродных шлемов <MadCap:variable name="ModuleAndDevicesNames._mainMCScap" />. В нём используется текстильный шлем без подбородника <MadCap:variable name="ModuleAndDevicesNames.MCScap-light_name" /> и самые тонкие  Ag/AgCl sintered электроды <MadCap:snippetText src="../Electrodes/link-MCScap-NT.flsnp" />. Провода отведений электродов собраны в тонкий кабель пациента с помощью разветвителя, который крепится на текстильном шлеме. Шлем имеет общий разъёмом <MadCap:variable name="Global(External)Variables.DB-25M" /> для подключения к ЭЭГ усилителю. <MadCap:snippetText src="electrodecap-text.flsnp" /></p>
         <p>
-            <MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" /> рекомендован для проведения рутинного ЭЭГ обследования, научно-исследовательской ЭЭГ, ЭЭГ высокого разрешения.</p>
-        <p>
-            <MadCap:snippetText src="electrodecap-text.flsnp" />
-        </p>
+            <MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" /> может применяться для проведения рутинного ЭЭГ обследования, ЭЭГ в научных исследованиях, ЭЭГ высокой плотности.</p>
         <ul class="ul-note">
             <li>
                 <p>Электродный шлем не подходит для самостоятельного ремонта.</p>

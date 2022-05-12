@@ -8,6 +8,9 @@
         <Variable Name="DocsVariables/Market">砻קยด5ตว融</Variable>
         <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode-EU.Repairkit-SLEEP_code%]</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.Repairkit-SLEEP_fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullName">[%=Reg-Prod-Variables.MCScap-EN-fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
+        <Variable Name="ProductVariables/ProductLastName">[%=Reg-Prod-Variables.MCScap-EN-name%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />
 </CatapultTarget>

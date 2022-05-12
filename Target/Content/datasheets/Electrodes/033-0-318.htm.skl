@@ -36,6 +36,7 @@
                 </tr>
             </table>
         </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Electrodes/repair-kit-intention.flsnp" />
         <section class="set-section">
             <h2>砻קยด3ตว融</h2>
             <ul>
@@ -105,6 +106,13 @@
                     <td>
                         <p>砻קยด18ตว融</p>
                         <p>砻קยด19ตว融</p>
+                    </td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>砻קยด20ตว融</td>
+                    <td>
+                        <p>砻קยด21ตว融</p>
                     </td>
                     <td> </td>
                 </tr>

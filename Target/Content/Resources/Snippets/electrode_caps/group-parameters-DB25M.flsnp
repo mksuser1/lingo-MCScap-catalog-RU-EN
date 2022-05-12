@@ -4,7 +4,7 @@
         <table class="datasheet">
             <col class="col_param" />
             <col class="col_value" />
-            <tr>
+            <tr MadCap:conditions="">
                 <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter Кол-во эл-дов - отведений" />
                 </td>
@@ -13,7 +13,7 @@
                     <MadCap:conditionalText MadCap:conditions="market.All,market.EU">21 / 20</MadCap:conditionalText>
                 </td>
             </tr>
-            <tr>
+            <tr MadCap:conditions="">
                 <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter Позиция электродов" />
                 </td>
@@ -22,7 +22,7 @@
                     <MadCap:snippetText src="../EEG electrode arrays/electrode position/EP_23M21.flsnp" MadCap:conditions="market.EU,market.All" />
                 </td>
             </tr>
-            <tr>
+            <tr MadCap:conditions="">
                 <td>
                     <MadCap:variable name="MCScap-Glossary-and-therms.parameter тип разъема" />
                 </td>

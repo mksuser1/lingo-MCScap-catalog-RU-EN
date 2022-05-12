@@ -24,8 +24,9 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesCode.Uniscrub_code" />
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesCode.Uniscrub_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Uniscrub_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td class="name_td">
                                 </td>
@@ -37,6 +38,11 @@
                     </td>
                 </tr>
             </table>
+        </section>
+        <section class="target-section" MadCap:conditions="Default.NoOutput">
+            <h2>Назначение</h2>
+            <p>
+            </p>
         </section>
         <section class="set-section">
             <h2>Состав комплекта</h2>
@@ -56,19 +62,19 @@
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>Удельная электропроводность геля</td>
                     <td>0,10 – 0,4 См/м</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>Вязкость геля</td>
                     <td>15,0 – 31,0 Па × с (Брукфильд RVD VII + Pro/SC4-29/30 об/мин. скорость сдвига 7,5±0,1 с<sup>-1</sup>, при 23 °С).</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>pH геля</td>
                     <td>5,0 – 7,0</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>Цвет</td>
                     <td>голубовато-серый</td>
                 </tr>
@@ -95,6 +101,11 @@
                 <tr>
                     <td>2021-04-22</td>
                     <td>Унификация параметров в таблице ТТХ</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>2022-04-26</td>
+                    <td>Скрыты характеристики, оставлена только ссылка на производителя</td>
                     <td> </td>
                 </tr>
             </table>

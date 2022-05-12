@@ -24,13 +24,13 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22-DIYJack_code" />
+                                    <MadCap:variable name="TM-ModuleAndDevicesCode-EU.MCScap-CS22-DIYJack_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td>砻קยด3ตว融</td>
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="TM-ModuleAndDevicesNames.MCScap-CS22-DIYJack-red_code" />
+                                    <MadCap:variable name="TM-ModuleAndDevicesCode-EU.MCScap-CS22-DIYJack-red_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td>砻קยด4ตว融</td>
                             </tr>

@@ -23,14 +23,16 @@
                                 <th>Номинальная масса геля</th>
                             </tr>
                             <tr>
-                                <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesCode.Unimax_code" />
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesCode.Unimax_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Unimax_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td class="name_td">250 г</td>
                             </tr>
                             <tr MadCap:conditions="market.RU,market.All">
-                                <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" />
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesCode.Unimax-5kg_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Unimax-5kg_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td class="name_td">5 кг</td>
                             </tr>
@@ -48,7 +50,7 @@
         </section>
         <section class="technicalData-section">
             <h2>Технические характеристики</h2>
-            <MadCap:snippetBlock src="../../Resources/Snippets/Accessories/gel-datasheet.flsnp" />
+            <MadCap:snippetBlock src="../../Resources/Snippets/Accessories/gel-datasheet.flsnp" MadCap:conditions="documents.InternalDocument" />
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -86,6 +88,11 @@
                 <tr>
                     <td>2021-09-24</td>
                     <td>Добавлен REF 033-7-011 и обновлено фото</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td>2022-04-26</td>
+                    <td>Скрыты характеристики, оставлена только ссылка на производителя</td>
                     <td> </td>
                 </tr>
             </table>

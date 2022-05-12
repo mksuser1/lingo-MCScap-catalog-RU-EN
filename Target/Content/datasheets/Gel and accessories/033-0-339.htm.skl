@@ -23,16 +23,12 @@
                                 <th>砻קยด2ตว融</th>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesCode.MCScap-plasters_code" />
-                                </td>
                                 <td>砻קยด3ตว融</td>
+                                <td>砻קยด4ตว融</td>
                             </tr>
                             <tr>
-                                <td>
-                                    <MadCap:variable name="ModuleAndDevicesCode.MCScap-plasters-100_code" />
-                                </td>
-                                <td>砻קยด4ตว融</td>
+                                <td>砻קยด5ตว融</td>
+                                <td>砻קยด6ตว融</td>
                             </tr>
                         </table>
                     </td>
@@ -42,13 +38,12 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section" MadCap:conditions="Default.NoOutput">
-            <h2>砻קยด5ตว融</h2>
-            <p>
-            </p>
+        <section class="target-section">
+            <h2>砻קยด7ตว融</h2>
+            <p>砻קยด8ตว融</p>
         </section>
         <section class="set-section">
-            <h2>砻קยด6ตว融</h2>
+            <h2>砻קยด9ตว融</h2>
             <ul>
                 <li>
                     <p>
@@ -57,11 +52,11 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด7ตว融</h2>
-            <p>砻קยด8ตว融</p>
+            <h2>砻קยด10ตว融</h2>
+            <p>砻קยด11ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด9ตว融</h2>
+            <h2>砻קยด12ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -69,42 +64,42 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал фиксатора" />
                     </td>
-                    <td>砻קยด10ตว融</td>
+                    <td>砻קยด13ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Габариты изделия" />
                     </td>
-                    <td>砻קยด11ตว融</td>
+                    <td>砻קยด14ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Диаметр отверстия в электроде" />
                     </td>
-                    <td>砻קยด12ตว融</td>
+                    <td>砻קยด15ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Количество в упаковке" />
                     </td>
                     <td>
-                        <p>砻קยด13ตว融</p>
-                        <p>砻קยด14ตว融</p>
+                        <p>砻קยด16ตว融</p>
+                        <p>砻קยด17ตว融</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
-                    <td>砻קยด15ตว融</td>
+                    <td>砻קยด18ตว融</td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
                     <td>
-                        <p>砻קยด16ตว融</p>
-                        <p>砻קยด17ตว融</p>
+                        <p>砻קยด19ตว融</p>
+                        <p>砻קยด20ตว融</p>
                     </td>
                 </tr>
                 <tr MadCap:conditions="Default.NoOutput">
@@ -116,7 +111,7 @@
             </table>
         </section>
         <section class="using-section">
-            <h2>砻קยด18ตว融</h2>
+            <h2>砻קยด21ตว融</h2>
             <table class="table_of_figures">
                 <col style="width: 33%" />
                 <col style="width: 33%" />
@@ -125,19 +120,19 @@
                     <td>
                         <div class="figure">
                             <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-339/step1.jpg" class="" style="width:30mm;" />
-                            <p>砻קยด19ตว融</p>
+                            <p>砻קยด22ตว融</p>
                         </div>
                     </td>
                     <td>
                         <div class="figure">
                             <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-339/step2.jpg" class="" style="width:30mm;" />
-                            <p>砻קยด20ตว融</p>
+                            <p>砻קยด23ตว融</p>
                         </div>
                     </td>
                     <td>
                         <div class="figure">
                             <img src="../../Resources/Images/Catalog/Accessories/Gel and accessories/033-0-339/step3.jpg" class="" style="width:30mm;" />
-                            <p>砻קยด21ตว融</p>
+                            <p>砻קยด24ตว融</p>
                         </div>
                     </td>
                 </tr>

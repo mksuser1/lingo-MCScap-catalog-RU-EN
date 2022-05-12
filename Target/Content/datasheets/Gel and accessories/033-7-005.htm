@@ -24,8 +24,9 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td class="ref_td">
-                                    <MadCap:variable name="ModuleAndDevicesCode.disinfecting-wipes_code" />
+                                <td>
+                                    <MadCap:variable name="ModuleAndDevicesCode.disinfecting-wipes_code" MadCap:conditions="market.All,market.RU" />
+                                    <MadCap:variable name="ModuleAndDevicesCode-EU.disinfecting-wipes_code" MadCap:conditions="market.All,market.EU" />
                                 </td>
                                 <td class="name_td">
                                 </td>
@@ -37,6 +38,11 @@
                     </td>
                 </tr>
             </table>
+        </section>
+        <section class="target-section" MadCap:conditions="Default.NoOutput">
+            <h2>Назначение</h2>
+            <p>
+            </p>
         </section>
         <section class="set-section">
             <h2>Состав комплекта</h2>
@@ -54,13 +60,13 @@
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Действующие вещества" />
                     </td>
                     <td>Алкилдиметилбензиламмоний хлорид (АДБАХ), Дидецилдиметиламмоний хлорид, Диоктилдиметиламмоний хлорид, Октилдецилдиметиламмоний хлорид, Смесь ЧАС 0.65 %, Вспомогательные компоненты, ПАВы</td>
                 </tr>
-                <tr>
+                <tr MadCap:conditions="documents.InternalDocument">
                     <td>pH</td>
                     <td>7,0</td>
                 </tr>
@@ -83,6 +89,15 @@
                     <td>&lt; 270 г</td>
                 </tr>
             </table>
+            <section MadCap:conditions="documents.InternalDocument">
+                <table>
+                    <tr>
+                        <td>2022-04-26</td>
+                        <td>Скрыты характеристики, оставлена только ссылка на производителя</td>
+                        <td> </td>
+                    </tr>
+                </table>
+            </section>
         </section>
     </body>
 </html>

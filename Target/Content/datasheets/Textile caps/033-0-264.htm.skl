@@ -21,13 +21,15 @@
                                 <th>
                                     <MadCap:variable name="Global(External)Variables.REFname" />
                                 </th>
-                                <th>砻קยด2ตว融</th>
+                                <th>
+                                    <MadCap:variable name="Global(External)Variables.parameter Size" />
+                                </th>
                                 <th>
                                     <MadCap:variable name="Global(External)Variables.parameter Head circumference" />
                                 </th>
                             </tr>
                             <tr>
-                                <td>砻קยด3ตว融</td>
+                                <td>砻קยด2ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.L-name" />
                                 </td>
@@ -36,7 +38,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด4ตว融</td>
+                                <td>砻קยด3ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.LM-name" />
                                 </td>
@@ -45,7 +47,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด5ตว融</td>
+                                <td>砻קยด4ตว融</td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.M-name" />
                                 </td>
@@ -63,26 +65,26 @@
         </section>
         <MadCap:snippetBlock src="../../Resources/Snippets/textile_caps/textile-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>砻קยด6ตว融</h2>
+            <h2>砻קยด5ตว融</h2>
             <ul>
                 <li>
                     <p>
                         <MadCap:variable name="ModuleAndDevicesNames.MCScap-10-5_fullname" />,</p>
                 </li>
                 <li>
-                    <p>砻קยด7ตว融</p>
+                    <p>砻קยด6ตว融</p>
                 </li>
                 <li>
-                    <p>砻קยด8ตว融</p>
+                    <p>砻קยด7ตว融</p>
                 </li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด9ตว融</h2>
-            <p>砻קยด10ตว融</p>
+            <h2>砻קยด8ตว融</h2>
+            <p>砻קยด9ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด11ตว融</h2>
+            <h2>砻קยด10ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -90,13 +92,13 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал шлема" />
                     </td>
-                    <td>砻קยด12ตว融</td>
+                    <td>砻קยด11ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Система расположения электродов" />
                     </td>
-                    <td>砻קยด13ตว融</td>
+                    <td>砻קยด12ตว融</td>
                 </tr>
                 <tr>
                     <td>
@@ -118,31 +120,31 @@
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
-                    <td>砻קยด14ตว融</td>
+                    <td>砻קยด13ตว融</td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
-                    <td>砻קยด15ตว融</td>
+                    <td>砻קยด14ตว融</td>
                 </tr>
             </table>
         </section>
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
+                    <td>砻קยด15ตว融</td>
                     <td>砻קยด16ตว融</td>
+                    <td> </td>
+                </tr>
+                <tr>
                     <td>砻קยด17ตว融</td>
-                    <td> </td>
-                </tr>
-                <tr>
                     <td>砻קยด18ตว融</td>
-                    <td>砻קยด19ตว融</td>
                     <td> </td>
                 </tr>
                 <tr>
+                    <td>砻קยด19ตว融</td>
                     <td>砻קยด20ตว融</td>
-                    <td>砻קยด21ตว融</td>
                     <td> </td>
                 </tr>
             </table>
