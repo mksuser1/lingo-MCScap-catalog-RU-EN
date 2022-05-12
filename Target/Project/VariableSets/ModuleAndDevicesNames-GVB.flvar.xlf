@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="ModuleAndDevicesNames-GVB.flvar"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="x-flvar"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="ModuleAndDevicesNames-GVB.flvar.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">33</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._BASE%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._BASE%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="2">[%=ModuleAndDevicesNames._BASE%]</ph> <ph
+              id="1">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph> </mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Электродный кабель</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Электродный кабель</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">electrode cable</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._SLEEP%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._SLEEP%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="2">[%=ModuleAndDevicesNames._SLEEP%]</ph> <ph
+              id="1">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph></mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._CLINIC%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._CLINIC%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="2">[%=ModuleAndDevicesNames._CLINIC%]</ph> <ph
+              id="1">[%=ModuleAndDevicesNames-GVB._electrode-cable_firstname%]</ph></mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 14</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 14</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 14</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 15</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 15</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 15</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 20</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 20</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.Clinic_name%]</ph> 20</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Clinic-tc_name%]</ph> 20</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Clinic-tc_name%]</ph> 20</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.Clinic-tc_name%]</ph> 20</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 14</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 14</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 14</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 20</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 20</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 20</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 22</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.Sleep_name%]</ph> 22</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Professional-nt-DB37_name%]</ph> 27 180</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Professional-nt-DB37_name%]</ph> 27 180</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><ph
+              id="1">[%=ModuleAndDevicesNames.Professional-nt-DB37_name%]</ph> 27 180</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> without connector</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> without connector</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> without connector</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> without connector</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> without connector</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> without connector</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> 150</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> 150</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> 150</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> 180</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> 180</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph> 180</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph>-mods</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph>-mods</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-T_name%]</ph>-mods</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> 150</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> 150</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph> 150</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph>-mods</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph>-mods</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-E_name%]</ph>-mods</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> 150</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> 150</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> 150</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> 180</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> 180</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph> 180</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph>-mods</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph>-mods</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-NT_name%]</ph>-mods</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph> 150</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph> 150</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph> 150</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph>-mods</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph>-mods</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.MCScap-C_name%]</ph>-mods</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>27TP‑DB37F</source><seg-source><mrk
+            mtype="seg"
+            mid="1">27TP‑DB37F</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">27TP‑DB37F</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>33TP‑DB37F</source><seg-source><mrk
+            mtype="seg"
+            mid="1">33TP‑DB37F</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">33TP‑DB37F</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.TP2DB37F_name%]</ph>-mods</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.TP2DB37F_name%]</ph>-mods</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.TP2DB37F_name%]</ph>-mods</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>MCScap 10‑5 color</source><seg-source><mrk
+            mtype="seg"
+            mid="1">MCScap 10‑5 color</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">MCScap 10‑5 color</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames-GVB.MCScap-10-5-color_name%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames-GVB.MCScap-10-5-color_name%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="2">[%=ModuleAndDevicesNames-GVB.MCScap-10-5-color_name%]</ph> <ph
+              id="1">[%=ModuleAndDevicesNames._textile-cap_firstname%]</ph></mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Держатель кабеля с липучкой и стяжкой</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Держатель кабеля с липучкой и стяжкой</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Cable holder with velcro and buckle</mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph>-mods</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph>-mods</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph>-mods</mrk></target></trans-unit><trans-unit
+        id="32"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph> 150</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph> 150</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph> 150</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph> 220</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph> 220</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><ph
+              id="1">[%=ModuleAndDevicesNames.Repair-MCScap-C_fullname%]</ph> 220</mrk></target></trans-unit></body>
+  </file>
+</xliff>

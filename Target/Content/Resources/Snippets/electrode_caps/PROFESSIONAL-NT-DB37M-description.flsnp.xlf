@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="PROFESSIONAL-NT-DB37M-description.flsnp"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="x-flsnp"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="PROFESSIONAL-NT-DB37M-description.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">6</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-nt-DB37_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это текстильный шлем с предустановленными Ag/AgCl sintered электродами <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-NT.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и общим разъемом <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-37M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>. <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-nt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> рекомендован для рекомендован для регистрации научно-исследовательской ЭЭГ, ЭЭГ высокого разрешения*<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>, МРТ‑совместимой ЭЭГ*<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-nt-DB37_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это текстильный шлем с предустановленными Ag/AgCl sintered электродами <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-NT.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> и общим разъемом <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-37M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3"><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-nt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> рекомендован для рекомендован для регистрации научно-исследовательской ЭЭГ, ЭЭГ высокого разрешения*<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>, МРТ‑совместимой ЭЭГ*<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-nt-DB37_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is the textile cap with pre-installed Ag/AgCl sintered <ph
+              id="3">&lt;MadCap:variable name="Global(External)Variables.DB-37M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrodes with <ph
+              id="2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-NT.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="4">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-nt_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  is recommended for routine EEG, research EEG, hight-resolution EEG*<bpt
+              id="1">&lt;MadCap:conditionalText MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>, MRI conditional EEG*<ept
+              id="1">&lt;/MadCap:conditionalText&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>(* доступен по заказу.)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">(* доступен по заказу.)</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">(*optional)</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/both-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/both-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="3">&lt;MadCap:snippetText src="../../../Resources/Snippets/textile_caps/both-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/MCScap-NT_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/electrode-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/MCScap-NT_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/electrode-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/MCScap-NT_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:snippetText src="../../../Resources/Snippets/Electrodes/electrode-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit></body>
+  </file>
+</xliff>

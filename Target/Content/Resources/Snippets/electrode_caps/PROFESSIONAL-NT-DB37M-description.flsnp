@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <p>
+            <MadCap:variable name="ModuleAndDevicesNames.Professional-nt-DB37_fullname" /> – это текстильный шлем с предустановленными Ag/AgCl sintered электродами <MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-NT.flsnp" /> и общим разъемом <MadCap:variable name="Global(External)Variables.DB-37M" />. <MadCap:variable name="ModuleAndDevicesNames.Professional-nt_fullname" /> рекомендован для рекомендован для регистрации научно-исследовательской ЭЭГ, ЭЭГ высокого разрешения*<MadCap:conditionalText MadCap:conditions="market.All,market.RU">, МРТ‑совместимой ЭЭГ*</MadCap:conditionalText>. </p>
+        <p class="footnote">(* доступен по заказу.)</p>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/electrode_caps/electrodecap-text.flsnp" />
+        </p>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/both-color-identification.flsnp" /></p>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Electrodes/MCScap-NT_text.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/Electrodes/electrode-marks.flsnp" /></p>
+        <p>
+            <MadCap:snippetText src="electrode-cable-top-text.flsnp" />
+        </p>
+    </body>
+</html>

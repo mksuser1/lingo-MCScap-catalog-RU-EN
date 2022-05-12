@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="completed">
+  <file
+    xml:space="preserve"
+    original="TM-ModuleAndDevicesNames.flvar"
+    source-language="ru"
+    MadCap:file-filter=""
+    datatype="x-flvar"
+    target-language="en">
+    <header>
+      <skl><external-file
+          href="TM-ModuleAndDevicesNames.flvar.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">28</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2"
+        tool-name="Lingo"
+        tool-version="10.2.6786.30644"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Ленточный фиксатор для электродов</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Ленточный фиксатор для электродов</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">TETOS</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Электронный блок</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Электронный блок</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">The electronic unit</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Кабель пациента</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Кабель пациента</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Patient cable</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable%]</ph> с электродами</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable%]</ph> с электродами</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable_firstname%]</ph> with 8 electrodes</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Пластиковый кейс</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Пластиковый кейс</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">box</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>TS31002</source><seg-source><mrk
+            mtype="seg"
+            mid="1">TS31002</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">TS31002</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Кабель для зарядки</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Кабель для зарядки</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">USB cable for charging</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-box_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-box%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-box_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-box%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-box_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-box%]</ph></mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-chargingcable_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-chargingcable%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-chargingcable_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-chargingcable%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-chargingcable_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-chargingcable%]</ph></mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-block_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-block%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-block_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-block%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-block_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-block%]</ph></mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-tape_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-tape%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-tape_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-tape%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-tape_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.tes4me-tape%]</ph></mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-cable%]</ph></mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-leadset_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-leadset%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-leadset_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-leadset%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-leadset_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-leadset%]</ph></mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Спонжи D22</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Спонжи D22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Sponges D22</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>MCScap‑CS22SS</source><seg-source><mrk
+            mtype="seg"
+            mid="1">MCScap‑CS22SS</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">MCScap‑CS22SS</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_name%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_name%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_name%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_fullname%]</ph> 2 mm DIY Jack</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_fullname%]</ph> 2 mm DIY Jack</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            MadCap:diff="ContentChanged"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_fullname%]</ph> 2 mm DIY Jack</mrk></target><alt-trans
+          match-quality="93"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_fullname%]</ph>2 mm DIY Jack</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_fullname%]</ph> 2 mm DIY Jack</target></alt-trans><alt-trans
+          match-quality="93"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</ph>2 mm DIY Jack</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</ph> 2 mm DIY Jack</target></alt-trans></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>MCScap‑CS22</source><seg-source><mrk
+            mtype="seg"
+            mid="1">MCScap‑CS22</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">MCScap‑CS22</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_name%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_name%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_name%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>TS42</source><seg-source><mrk
+            mtype="seg"
+            mid="1">TS42</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">TS42</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>ТЭС-8</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ТЭС-8</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">TES‑8</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Шлем электродный</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Шлем электродный</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Electrode cap</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES8_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES8%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES8_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES8%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES8%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES8_firstname%]</ph></mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>CS22SS‑330</source><seg-source><mrk
+            mtype="seg"
+            mid="1">CS22SS‑330</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">CS22SS‑330</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>CS22SS‑180</source><seg-source><mrk
+            mtype="seg"
+            mid="1">CS22SS‑180</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">CS22SS‑180</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-CS22SS33%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-CS22SS33%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-CS22SS33%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-CS22SS18%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph> <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-CS22SS18%]</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.TES-CS22SS18%]</ph> <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ModuleAndDevicesNames._electrode_firstname%]</ph></mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</ph> 2 mm DIY Jack</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</ph> 2 mm DIY Jack</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100"
+            MadCap:diff="ContentChanged"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</ph> 2 mm DIY Jack</mrk></target><alt-trans
+          match-quality="93"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_fullname%]</ph>2 mm DIY Jack</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22_fullname%]</ph> 2 mm DIY Jack</target></alt-trans><alt-trans
+          match-quality="93"
+          origin="previous-version"><seg-source><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</ph>2 mm DIY Jack</seg-source><target
+            MadCap:segmentStatus="Untranslated"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=TM-ModuleAndDevicesNames.MCScap-CS22SS_fullname%]</ph> 2 mm DIY Jack</target></alt-trans></trans-unit></body>
+  </file>
+</xliff>

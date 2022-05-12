@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Name="Base-cable_fullname" Comment="" EvaluatedDefinition="Электродный кабель BASE">砻קยด1ตว融</Variable>
+    <Variable Name="_electrode-cable_firstname" Comment="" EvaluatedDefinition="Электродный кабель">砻קยด2ตว融</Variable>
+    <Variable Name="Sleep-cable_fullname" Comment="" EvaluatedDefinition="Электродный кабель SLEEP">砻קยด3ตว融</Variable>
+    <Variable Name="Clinic-cable_fullname" Comment="" EvaluatedDefinition="Электродный кабель CLINIC">砻קยด4ตว融</Variable>
+    <Variable Name="Clinic14_name" Comment="" EvaluatedDefinition="CLINIC&#160;14">砻קยด5ตว融</Variable>
+    <Variable Name="Clinic15_name" Comment="" EvaluatedDefinition="CLINIC&#160;15">砻קยด6ตว融</Variable>
+    <Variable Name="Clinic20_name" Comment="" EvaluatedDefinition="CLINIC&#160;20">砻קยด7ตว融</Variable>
+    <Variable Name="Clinic-tc_20_name" Comment="" EvaluatedDefinition="CLINIC TC&#160;20">砻קยด8ตว融</Variable>
+    <Variable Name="Sleep14_name" Comment="" EvaluatedDefinition="SLEEP&#160;14">砻קยด9ตว融</Variable>
+    <Variable Name="Sleep20_name" Comment="" EvaluatedDefinition="SLEEP&#160;15">砻קยด10ตว融</Variable>
+    <Variable Name="Sleep22_name" Comment="" EvaluatedDefinition="SLEEP&#160;20">砻קยด11ตว融</Variable>
+    <Variable Name="Professional-nt-DB37_27-180_name" Comment="" EvaluatedDefinition="PROFESSIONAL&#8209;NT&#160;DB37M&#160;27&#160;180">砻קยด12ตว融</Variable>
+    <Variable Name="MCScap-E-without-connector_name" Comment="" EvaluatedDefinition="MCScap&#8209;E without connector">砻קยด13ตว融</Variable>
+    <Variable Name="MCScap-T-without-connector_name" Comment="" EvaluatedDefinition="MCScap&#8209;T without connector">砻קยด14ตว融</Variable>
+    <Variable Name="MCScap-T-150_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#160;150">砻קยด15ตว融</Variable>
+    <Variable Name="MCScap-T-180_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#160;180">砻קยด16ตว融</Variable>
+    <Variable Name="MCScap-T-mods_name" Comment="" EvaluatedDefinition="MCScap&#8209;T 150">砻קยด17ตว融</Variable>
+    <Variable Name="MCScap-E-150_name" Comment="" EvaluatedDefinition="MCScap&#8209;E&#160;150">砻קยด18ตว融</Variable>
+    <Variable Name="MCScap-E-mods_name" Comment="" EvaluatedDefinition="MCScap-E 150">砻קยด19ตว融</Variable>
+    <Variable Name="MCScap-NT-150_name" Comment="" EvaluatedDefinition="MCScap&#8209;NT&#160;150">砻קยด20ตว融</Variable>
+    <Variable Name="MCScap-NT-180_name" Comment="" EvaluatedDefinition="MCScap&#8209;NT&#160;180">砻קยด21ตว融</Variable>
+    <Variable Name="MCScap-NT-mods_name" Comment="" EvaluatedDefinition="MCScap&#8209;T 150">砻קยด22ตว融</Variable>
+    <Variable Name="MCScap-C-150_name" Comment="" EvaluatedDefinition="MCScap&#8209;C&#160;150">砻קยด23ตว融</Variable>
+    <Variable Name="MCScap-C-mods_name" Comment="" EvaluatedDefinition="MCScap-C 150">砻קยด24ตว融</Variable>
+    <Variable Name="TP2DB37F-adapter-27tp_name" Comment="" EvaluatedDefinition="27TP&#8209;DB37F">砻קยด25ตว融</Variable>
+    <Variable Name="TP2DB37F-adapter-33tp_name" Comment="" EvaluatedDefinition="33TP&#8209;DB37F">砻קยด26ตว融</Variable>
+    <Variable Name="TP2DB37-mods_name" Comment="" EvaluatedDefinition="TP2DB37F-mods">砻קยด27ตว融</Variable>
+    <Variable Name="MCScap-10-5-color_name" Comment="" EvaluatedDefinition="MCScap&#160;10&#8209;5&#160;color">砻קยด28ตว融</Variable>
+    <Variable Name="MCScap-10-5-color_fullname" Comment="" EvaluatedDefinition="Шлем текстильный MCScap&#160;10&#8209;5&#160;color">砻קยด29ตว融</Variable>
+    <Variable Name="CableHolder_name" Comment="" EvaluatedDefinition="Держатель кабеля с липучкой и стяжкой">砻קยด30ตว融</Variable>
+    <Variable Name="Repair-MCScap-C-mods_name" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;C-mods">砻קยด31ตว融</Variable>
+    <Variable Name="Repair-MCScap-C-150_name" Comment="" EvaluatedDefinition="MCScap&#8209;NT&#160;150">砻קยด32ตว融</Variable>
+    <Variable Name="Repair-MCScap-C-220_name" Comment="" EvaluatedDefinition="Repair-MCScap C&#160;220">砻קยด33ตว融</Variable>
+</CatapultVariableSet>

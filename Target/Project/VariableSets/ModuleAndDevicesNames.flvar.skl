@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="__NoName_fullname" EvaluatedDefinition="NoName">-------</Variable>
+    <Variable Name="_Repairkit_firstname" Comment="" EvaluatedDefinition="Комплект ремонтный">砻קยด1ตว融</Variable>
+    <Variable Name="_Repair-electrode_firstname" Comment="" EvaluatedDefinition="Электрод ремонтный">砻קยด2ตว融</Variable>
+    <Variable Name="_ear-electrode_firstname" Comment="" EvaluatedDefinition="Ушные электроды">砻קยด3ตว融</Variable>
+    <Variable Name="_electrode_firstname" Comment="Электрод электроэнцефалографический" EvaluatedDefinition="Электрод электроэнцефалографический">砻קยด4ตว融</Variable>
+    <Variable Name="_EEGcap_firstname" Comment="" EvaluatedDefinition="Электродный шлем">砻קยด5ตว融</Variable>
+    <Variable Name="_ElectroAdapter_firstname" Comment="" EvaluatedDefinition="Адаптер электродный">砻קยด6ตว融</Variable>
+    <Variable Name="_ExtendedLead_firstname" Comment="" EvaluatedDefinition="Удлинитель электродный">砻קยด7ตว融</Variable>
+    <Variable Name="NVX2CAP_name" Comment="" EvaluatedDefinition="NVX2CAP">砻קยด8ตว融</Variable>
+    <Variable Name="NVX2CAP24_name" Comment="" EvaluatedDefinition="NVX2CAP&#8209;24">砻קยด9ตว融</Variable>
+    <Variable Name="TP2DB25_name" Comment="" EvaluatedDefinition="TP2DB25">砻קยด10ตว融</Variable>
+    <Variable Name="TP2DB25F_name" Comment="" EvaluatedDefinition="TP2DB25F">砻קยด11ตว融</Variable>
+    <Variable Name="DB25FM-adapter_name" Comment="" EvaluatedDefinition="DB25F&#8209;M">砻קยด12ตว融</Variable>
+    <Variable Name="DB25FM-extension_name" Comment="" EvaluatedDefinition="DB25F&#8209;M">砻קยด13ตว融</Variable>
+    <Variable Name="VelcroTie_fullname" Comment="" EvaluatedDefinition="Кабельная стяжка с&#160;липучкой">砻קยด14ตว融</Variable>
+    <Variable Name="ABSfixator_name" Comment="" EvaluatedDefinition="ABSfixator">砻קยด15ตว融</Variable>
+    <Variable Name="Removable-markers_fullname" Comment="" EvaluatedDefinition="Ярлыки для электродов съёмные">砻קยด16ตว融</Variable>
+    <Variable Name="Soft-skirt_fullname" Comment="" EvaluatedDefinition="Soft-skirt">砻קยด17ตว融</Variable>
+    <Variable Name="MCScap-plasters_name" Comment="" EvaluatedDefinition="MCScap-plasters">砻קยด18ตว融</Variable>
+    <Variable Name="MCScap-mannequin_name" Comment="" EvaluatedDefinition="MCScap">砻קยด19ตว融</Variable>
+    <Variable Name="MCScap-S_name" Comment="" EvaluatedDefinition="MCScap&#8209;S">砻קยด20ตว融</Variable>
+    <Variable Name="MCScap-S_fullname" Comment="" EvaluatedDefinition="Кабель соединительный&#160;MCScap&#8209;S">砻קยด21ตว融</Variable>
+    <Variable Name="MCScap-U_name" Comment="" EvaluatedDefinition="MCScap&#8209;U">砻קยด22ตว融</Variable>
+    <Variable Name="MCScap-U_fullname" Comment="" EvaluatedDefinition="Кабель соединительный&#160;MCScap&#8209;U">砻קยด23ตว融</Variable>
+    <Variable Name="Unimax_name" Comment="" EvaluatedDefinition="Unimax">砻קยด24ตว融</Variable>
+    <Variable Name="Unimax_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;гель&#160;Унимакс">砻קยด25ตว融</Variable>
+    <Variable Name="MCScap-E_name" Comment="" EvaluatedDefinition="MCScap-E">砻קยด26ตว融</Variable>
+    <Variable Name="MCScap-T_name" Comment="" EvaluatedDefinition="MCScap-T">砻קยด27ตว融</Variable>
+    <Variable Name="MCScap-NT_name" Comment="" EvaluatedDefinition="MCScap-NT">砻קยด28ตว融</Variable>
+    <Variable Name="MCScap-NTC_name" Comment="" EvaluatedDefinition="MCScap-NTC">砻קยด29ตว融</Variable>
+    <Variable Name="MCScap-NTH_name" Comment="" EvaluatedDefinition="MCScap-NTH">砻קยด30ตว融</Variable>
+    <Variable Name="MCScap-C_name" Comment="" EvaluatedDefinition="MCScap-C">砻קยด31ตว融</Variable>
+    <Variable Name="MCScap-TC_name" Comment="" EvaluatedDefinition="MCScap-TC">砻קยด32ตว融</Variable>
+    <Variable Name="MCScap-StTC_name" Comment="" EvaluatedDefinition="MCScap-StTC">砻קยด33ตว融</Variable>
+    <Variable Name="MCScap-StNT_name" Comment="" EvaluatedDefinition="MCScap-StNT">砻קยด34ตว融</Variable>
+    <Variable Name="Ear-BASE_fullname" Comment="" EvaluatedDefinition="Ушные электроды">砻קยด35ตว融</Variable>
+    <Variable Name="Ear-SLEEP_fullname" Comment="" EvaluatedDefinition="Ушные электроды SLEEP">砻קยด36ตว融</Variable>
+    <Variable Name="Ear-PROFESSIONAL_fullname" Comment="" EvaluatedDefinition="Ушные электроды PROFESSIONAL">砻קยด37ตว融</Variable>
+    <Variable Name="Ear-CLINIC_fullname" Comment="" EvaluatedDefinition="Ушные электроды CLINIC">砻קยด38ตว融</Variable>
+    <Variable Name="MCScap-A_name" Comment="" EvaluatedDefinition="MCScap-A">砻קยด39ตว融</Variable>
+    <Variable Name="MCScap-AT_name" Comment="" EvaluatedDefinition="MCScap-AT">砻קยด40ตว融</Variable>
+    <Variable Name="Repair-MCScap-Е_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;E">砻קยด41ตว融</Variable>
+    <Variable Name="Repair-MCScap-C_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;C">砻קยด42ตว融</Variable>
+    <Variable Name="Repair-MCScap-T_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;T">砻קยด43ตว融</Variable>
+    <Variable Name="Repair-MCScap-NTC_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;NTC">砻קยด44ตว融</Variable>
+    <Variable Name="Repair-MCScap-ТC_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;TC">砻קยด45ตว融</Variable>
+    <Variable Name="Repair-MCScap-NT_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;NT">砻קยด46ตว融</Variable>
+    <Variable Name="Repairkit-CLINIC _fullname" Comment="" EvaluatedDefinition="Комплект ремонтный CLINIC">砻קยด47ตว融</Variable>
+    <Variable Name="Repairkit-SLEEP_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный SLEEP">砻קยด48ตว融</Variable>
+    <Variable Name="Repairkit-PROFESSIONAL_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный PROFESSIONAL">砻קยด49ตว融</Variable>
+    <Variable Name="Repairkit-CLINIC-TC_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный CLINIC-TC">砻קยด50ตว融</Variable>
+    <Variable Name="Repairkit-PROFESSIONAL-NT_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный PROFESSIONAL-NT">砻קยด51ตว融</Variable>
+    <Variable Name="Repairkit-BASE_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный BASE">砻קยด52ตว融</Variable>
+    <Variable Name="_SLEEP" Comment="" EvaluatedDefinition="SLEEP">砻קยด53ตว融</Variable>
+    <Variable Name="_PROFESSIONAL" Comment="" EvaluatedDefinition="PROFESSIONAL">砻קยด54ตว融</Variable>
+    <Variable Name="_BASE" Comment="" EvaluatedDefinition="BASE">砻קยด55ตว融</Variable>
+    <Variable Name="_CLINIC-TC" Comment="" EvaluatedDefinition="CLINIC-TC">砻קยด56ตว融</Variable>
+    <Variable Name="_PROFESSIONAL-NT" Comment="" EvaluatedDefinition="PROFESSIONAL-NT">砻קยด57ตว融</Variable>
+    <Variable Name="_ear-fixators_firstname" Comment="" EvaluatedDefinition="Фиксаторы ушные">砻קยด58ตว融</Variable>
+    <Variable Name="MCScap-RT30_name" Comment="" EvaluatedDefinition="MCScap&#8209;RT&#8209;30">砻קยด59ตว融</Variable>
+    <Variable Name="MCScap-RT30_fullname" Comment="" EvaluatedDefinition="Комплект крепежный&#160;MCScap&#8209;RT&#8209;30">砻קยด60ตว融</Variable>
+    <Variable Name="granulGel_firstname" Comment="" EvaluatedDefinition="Твердый гель для регистрации ЭЭГ">砻קยด61ตว融</Variable>
+    <Variable Name="MCScap-T-HD_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;HD">砻קยด62ตว融</Variable>
+    <Variable Name="MCScap-T-HD_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;HD">砻קยด63ตว融</Variable>
+    <Variable Name="MCScap-T-MR_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;MR">砻קยด64ตว融</Variable>
+    <Variable Name="MCScap-T-MR_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;MR">砻קยด65ตว融</Variable>
+    <Variable Name="Clinic_name" Comment="" EvaluatedDefinition="CLINIC">[%=ModuleAndDevicesNames._CLINIC%]</Variable>
+    <Variable Name="Clinic_fullname" Comment="" EvaluatedDefinition="CLINIC">砻קยด66ตว融</Variable>
+    <Variable Name="Base_name" Comment="" EvaluatedDefinition="BASE">[%=ModuleAndDevicesNames._BASE%]</Variable>
+    <Variable Name="Base_fullname" Comment="" EvaluatedDefinition="BASE">砻קยด67ตว融</Variable>
+    <Variable Name="Professional-light_name" Comment="" EvaluatedDefinition="PROFESSIONAL light">砻קยด68ตว融</Variable>
+    <Variable Name="Professional-light_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL light">砻קยด69ตว融</Variable>
+    <Variable Name="Professional_name" Comment="" EvaluatedDefinition="PROFESSIONAL">[%=ModuleAndDevicesNames._PROFESSIONAL%]</Variable>
+    <Variable Name="Professional_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL">砻קยด70ตว融</Variable>
+    <Variable Name="Sleep_name" Comment="" EvaluatedDefinition="SLEEP">[%=ModuleAndDevicesNames._SLEEP%]</Variable>
+    <Variable Name="Sleep_fullname" Comment="" EvaluatedDefinition="SLEEP">砻קยด71ตว融</Variable>
+    <Variable Name="Electrode-set-classic_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">砻קยด72ตว融</Variable>
+    <Variable Name="Electrode-set-classic_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames.Electrode-set-classic_name%]</Variable>
+    <Variable Name="_Electrode-set_firstname" Comment="" EvaluatedDefinition="Комплект">砻קยด73ตว融</Variable>
+    <Variable Name="Electrode-set-36_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">砻קยด74ตว融</Variable>
+    <Variable Name="Electrode-set-52_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">砻קยด75ตว融</Variable>
+    <Variable Name="Electrode-set-74_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">砻קยด76ตว融</Variable>
+    <Variable Name="_CLINIC" Comment="" EvaluatedDefinition="CLINIC">砻קยด77ตว融</Variable>
+    <Variable Name="Professional-nt_name" Comment="" EvaluatedDefinition="PROFESSIONAL&#8209;NT">[%=ModuleAndDevicesNames._PROFESSIONAL-NT%]</Variable>
+    <Variable Name="Professional-nt_fullname" Comment="" EvaluatedDefinition="">砻קยด78ตว融</Variable>
+    <Variable Name="Clinic-tc_name" Comment="" EvaluatedDefinition="CLINIC&#8209;TC">[%=ModuleAndDevicesNames._CLINIC-TC%]</Variable>
+    <Variable Name="Clinic-tc_fullname" Comment="" EvaluatedDefinition="Электродный шлем [[[Undefined variable ModuleAndDevicesNames._CLINIC-TC_name]]]">砻קยด79ตว融</Variable>
+    <Variable Name="MCScap-color_name" Comment="" EvaluatedDefinition="MCScap">砻קยด80ตว融</Variable>
+    <Variable Name="MCScap-color_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap">砻קยด81ตว融</Variable>
+    <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap&#160;10&#8209;20">砻קยด82ตว融</Variable>
+    <Variable Name="MCScap-20_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами MCScap&#160;10&#8209;20 с&#160;кольцами">砻קยด83ตว融</Variable>
+    <Variable Name="MCScap-32_name" Comment="" EvaluatedDefinition="MCScap&#8209;32">砻קยด84ตว融</Variable>
+    <Variable Name="MCScap-32_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;кольцами&#160;MCScap&#8209;32">砻קยด85ตว融</Variable>
+    <Variable Name="MCScap-51_name" Comment="" EvaluatedDefinition="MCScap&#8209;51">砻קยด86ตว融</Variable>
+    <Variable Name="MCScap-51_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами&#160;MCScap&#8209;51 с&#160;кольцами">砻קยด87ตว融</Variable>
+    <Variable Name="MCScap-74_name" Comment="" EvaluatedDefinition="MCScap&#8209;74">砻קยด88ตว融</Variable>
+    <Variable Name="MCScap-74_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами&#160;MCScap&#8209;74 с&#160;кольцами">砻קยด89ตว融</Variable>
+    <Variable Name="MCScap-black_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;10 чёрный">砻קยด90ตว融</Variable>
+    <Variable Name="MCScap-black_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;10 чёрный">砻קยด91ตว融</Variable>
+    <Variable Name="MCScap-10-5_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;5">砻קยด92ตว融</Variable>
+    <Variable Name="MCScap-cover_name" Comment="" EvaluatedDefinition="MCScap COVER">砻קยด93ตว融</Variable>
+    <Variable Name="MCScap-light_name" Comment="" EvaluatedDefinition="MCScap LIGHT">砻קยด94ตว融</Variable>
+    <Variable Name="MCScap-light_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap LIGHT">砻קยด95ตว融</Variable>
+    <Variable Name="Tubular-cap_fullname" Comment="" EvaluatedDefinition="Шлем из&#160;трубок регулируемый">砻קยด96ตว融</Variable>
+    <Variable Name="_textile-cap_firstname" Comment="" EvaluatedDefinition="Шлем текстильный">砻קยด97ตว融</Variable>
+    <Variable Name="Unigel_name" EvaluatedDefinition="Унигель">砻קยด98ตว融</Variable>
+    <Variable Name="_ELECTRODE_SET" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET">砻קยด99ตว融</Variable>
+    <Variable Name="_mainMCScap" Comment="" EvaluatedDefinition="MCScap®">砻קยด100ตว融</Variable>
+    <Variable Name="ABSfixator_fullname" Comment="" EvaluatedDefinition="Кабельные фиксаторы">[%=ModuleAndDevicesNames.ABSfixator_name%]</Variable>
+    <Variable Name="DB25FM-extension_fullname" Comment="" EvaluatedDefinition="Удлинитель электродный&#160;DB25F&#8209;M">砻קยด101ตว融</Variable>
+    <Variable Name="Chest-belt_fullname" Comment="" EvaluatedDefinition="Пояс нагрудный&#160;MCScap">砻קยด102ตว融</Variable>
+    <Variable Name="Chin-belt_fullname" Comment="" EvaluatedDefinition="Подбородник MCScap">砻קยด103ตว融</Variable>
+    <Variable Name="DB25FM-adapter_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;DB25F&#8209;M">砻קยด104ตว融</Variable>
+    <Variable Name="Disposable-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный одноразовый">砻קยด105ตว融</Variable>
+    <Variable Name="MCScap-10-5_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;5">砻קยด106ตว融</Variable>
+    <Variable Name="MCScap-A_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;A">砻קยด107ตว融</Variable>
+    <Variable Name="MCScap-AT_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;AT">砻קยด108ตว融</Variable>
+    <Variable Name="MCScap-C_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;C">砻קยด109ตว融</Variable>
+    <Variable Name="MCScap-E_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;E">砻קยด110ตว融</Variable>
+    <Variable Name="MCScap-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный многоразовый&#160;MCScap COVER">砻קยด111ตว融</Variable>
+    <Variable Name="_mannequin_name" Comment="" EvaluatedDefinition="Манекен">砻קยด112ตว融</Variable>
+    <Variable Name="MCScap-mannequin_fullname" Comment="" EvaluatedDefinition="Манекен&#160;MCScap">砻קยด113ตว融</Variable>
+    <Variable Name="MCScap-NT_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NT">砻קยด114ตว融</Variable>
+    <Variable Name="MCScap-NTC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NTC">砻קยด115ตว融</Variable>
+    <Variable Name="MCScap-NTH_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NTH">砻קยด116ตว融</Variable>
+    <Variable Name="MCScap-StNT_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;StNT">砻קยด117ตว融</Variable>
+    <Variable Name="MCScap-StTC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;StTC">砻קยด118ตว融</Variable>
+    <Variable Name="MCScap-T_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;T">砻קยด119ตว融</Variable>
+    <Variable Name="MCScap-TC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;TC">砻קยด120ตว融</Variable>
+    <Variable Name="MCScap-plasters_fullname" Comment="" EvaluatedDefinition="Пластырь&#160;MCScap plasters">砻קยด121ตว融</Variable>
+    <Variable Name="TP2DB25_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB25">砻קยด122ตว融</Variable>
+    <Variable Name="TP2DB25F_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB25F">砻קยด123ตว融</Variable>
+    <Variable Name="Unigel_fullname" EvaluatedDefinition="ЭЭГ&#160;гель&#160;Унигель">砻קยด124ตว融</Variable>
+    <Variable Name="NVX2CAP_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;NVX2CAP">砻קยด125ตว融</Variable>
+    <Variable Name="NVX2CAP24_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;NVX2CAP&#8209;24">砻קยด126ตว融</Variable>
+    <Variable Name="fixing-ring_fullname" Comment="" EvaluatedDefinition="Фиксирующее кольцо MCScap">砻קยด127ตว融</Variable>
+    <Variable Name="labelrings-1020_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.labelrings_name]]], система 10-20">砻קยด128ตว融</Variable>
+    <Variable Name="labelrings_name" Comment="" EvaluatedDefinition="Ярлыки для колец">砻קยด129ตว融</Variable>
+    <Variable Name="labelrings-1010_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.labelrings_name]]], система 10&#8209;10">砻קยด130ตว融</Variable>
+    <Variable Name="labelelectrodes_name" Comment="" EvaluatedDefinition="Ярлыки для электродов">砻קยด131ตว融</Variable>
+    <Variable Name="labelelectrodes-1020_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.labelelectrodes_name]]], система 10-20">砻קยด132ตว融</Variable>
+    <Variable Name="labelelectrodes-1010_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.labelelectrodes_name]]], система 10-10">砻קยด133ตว融</Variable>
+    <Variable Name="measuring-MCScap_fullname" Comment="" EvaluatedDefinition="Лента измерительная SECA">砻קยด134ตว融</Variable>
+    <Variable Name="measuring-standard_fullname" Comment="" EvaluatedDefinition="Лента измерительная сантиметровая, стандартная">砻קยด135ตว融</Variable>
+    <Variable Name="measuring-disposable_fullname" Comment="" EvaluatedDefinition="Лента мерная одноразовая MCScap">砻קยด136ตว融</Variable>
+    <Variable Name="syringe_fullname" Comment="" EvaluatedDefinition="Шприц для геля">砻קยด137ตว融</Variable>
+    <Variable Name="needle-reusable_fullname" Comment="" EvaluatedDefinition="Игла многоразовая">砻קยด138ตว融</Variable>
+    <Variable Name="needle-reusable-inf_fullname" Comment="" EvaluatedDefinition="Игла многоразовая укороченная">砻קยด139ตว融</Variable>
+    <Variable Name="disposable-needle_fullname" Comment="" EvaluatedDefinition="Одноразовые иглы">砻קยด140ตว融</Variable>
+    <Variable Name="brush_fullname" Comment="" EvaluatedDefinition="Щеточка для чистки электродов">砻קยด141ตว融</Variable>
+    <Variable Name="bag_fullname" Comment="" EvaluatedDefinition="Сумка для хранения">砻קยด142ตว融</Variable>
+    <Variable Name="mannequin-mb_fullname" Comment="" EvaluatedDefinition="Манекен">砻קยด143ตว融</Variable>
+    <Variable Name="FoldingMannequin_fullname" Comment="" EvaluatedDefinition="Манекен складной">砻קยด144ตว融</Variable>
+    <Variable Name="Unipaste_name" Comment="" EvaluatedDefinition="Унипаста">砻קยด145ตว融</Variable>
+    <Variable Name="Unipaste_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;паста&#160;Унипаста">砻קยด146ตว融</Variable>
+    <Variable Name="disinfecting-wipes_fullname" Comment="" EvaluatedDefinition="Салфетки для дезинфекции">砻קยด147ตว融</Variable>
+    <Variable Name="disinfection-spay-small_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.disinfection-spay_name]]] маленький">砻קยด148ตว融</Variable>
+    <Variable Name="Uniscrub_name" Comment="" EvaluatedDefinition="Унискраб">砻קยด149ตว融</Variable>
+    <Variable Name="Uniscrub_fullname" Comment="" EvaluatedDefinition="Гель абразивный Унискраб">砻קยด150ตว融</Variable>
+    <Variable Name="granulGEL_name" Comment="" EvaluatedDefinition="granulGEL">砻קยด151ตว融</Variable>
+    <Variable Name="granulGEL_fullname" Comment="" EvaluatedDefinition="granulGEL">[%=ModuleAndDevicesNames.granulGEL_name%]</Variable>
+    <Variable Name="EEG-starter-kit_fullname" Comment="" EvaluatedDefinition="Установочный комплект">砻קยด152ตว融</Variable>
+    <Variable Name="Uniscrub_firstname" Comment="" EvaluatedDefinition="Гель абразивный">砻קยด153ตว融</Variable>
+    <Variable Name="disinfection-spay_name" Comment="003-7-007" EvaluatedDefinition="Спрей для дезинфекции">砻קยด154ตว融</Variable>
+    <Variable Name="disinfection-spay-big_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.disinfection-spay_name]]] большой">砻קยด155ตว融</Variable>
+    <Variable Name="_EEGgel_firstname" EvaluatedDefinition="ЭЭГ&#160;гель">砻קยด156ตว融</Variable>
+    <Variable Name="demonstration-model_fullname" Comment="" EvaluatedDefinition="Демонстрационная модель MCScap">砻קยด157ตว融</Variable>
+    <Variable Name="_textile-cap_rings_firstname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;кольцами">砻קยด158ตว融</Variable>
+    <Variable Name="Base-1020_fullname" Comment="" EvaluatedDefinition="Электродный шлем BASE&#160;10&#8209;20">砻קยด159ตว融</Variable>
+    <Variable Name="Electrode-set-classic-EG_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET classic с комплектом аксессуаров (L, M, S, XS)">砻קยด160ตว融</Variable>
+    <Variable Name="Professional-nt-DB37_name" Comment="" EvaluatedDefinition="PROFESSIONAL&#8209;NT&#160;DB37M">砻קยด161ตว融</Variable>
+    <Variable Name="Professional-nt-DB37_fullname" Comment="" EvaluatedDefinition="Электродный шлем PROFESSIONAL&#8209;NT&#160;DB37M">砻קยด162ตว融</Variable>
+    <Variable Name="TP2DB37F_name" Comment="" EvaluatedDefinition="TP2DB37F">砻קยด163ตว融</Variable>
+    <Variable Name="TP2DB37F_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB37F">砻קยด164ตว融</Variable>
+</CatapultVariableSet>

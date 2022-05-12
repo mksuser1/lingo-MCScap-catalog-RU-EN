@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Name="tes4me-tape" Comment="tes4me tape" EvaluatedDefinition="Ленточный фиксатор для электродов">砻קยด1ตว融</Variable>
+    <Variable Name="tes4me-tape_firstname" Comment="tes4me tape" EvaluatedDefinition="">
+    </Variable>
+    <Variable Name="tes4me-block_firstname" Comment="tes4me block" EvaluatedDefinition="Электронный блок">砻קยด2ตว融</Variable>
+    <Variable Name="tes4me-block" Comment="tes4me block" EvaluatedDefinition="tes4me">[%=Reg-Prod-Variables.tes4me-name%]</Variable>
+    <Variable Name="TES-cable_firstname" Comment="tes4me cable" EvaluatedDefinition="Кабель пациента">砻קยด3ตว融</Variable>
+    <Variable Name="TES-leadset_firstname" Comment="tes4me leadset" EvaluatedDefinition="">
+    </Variable>
+    <Variable Name="TES-leadset" Comment="tes4me leadset" EvaluatedDefinition="Кабель пациента TS420020 с электродами">砻קยด4ตว融</Variable>
+    <Variable Name="tes4me-box" Comment="tes4me box" EvaluatedDefinition="tes4me">[%=Reg-Prod-Variables.tes4me-name%]</Variable>
+    <Variable Name="tes4me-box_firstname" Comment="tes4me box" EvaluatedDefinition="Пластиковый кейс">砻קยด5ตว融</Variable>
+    <Variable Name="tes4me-chargingcable" Comment="chargingcable" EvaluatedDefinition="TS31002">砻קยด6ตว融</Variable>
+    <Variable Name="tes4me-chargingcable_firstname" Comment="chargingcable" EvaluatedDefinition="Кабель для зарядки">砻קยด7ตว融</Variable>
+    <Variable Name="tes4me-box_fullname" Comment="tes4me box" EvaluatedDefinition="tes4me-box_fullname">砻קยด8ตว融</Variable>
+    <Variable Name="tes4me-chargingcable_fullname" Comment="chargingcable" EvaluatedDefinition="tes4me-chargingcable_fullname">砻קยด9ตว融</Variable>
+    <Variable Name="tes4me-block_fullname" Comment="tes4me box" EvaluatedDefinition="tes4me-block_fullname">砻קยด10ตว融</Variable>
+    <Variable Name="tes4me-tape_fullname" Comment="tes4me box" EvaluatedDefinition="tes4me-tape_fullname">砻קยด11ตว融</Variable>
+    <Variable Name="TES-cable_fullname" Comment="tes4me box" EvaluatedDefinition="Кабель пациента TS420020">砻קยด12ตว融</Variable>
+    <Variable Name="TES-leadset_fullname" Comment="tes4me box" EvaluatedDefinition="TES-leadset_fullname">砻קยด13ตว融</Variable>
+    <Variable Name="SpongeD22_name" Comment="" EvaluatedDefinition="Спонжи D22">砻קยด14ตว融</Variable>
+    <Variable Name="SpongeD22_fullname" Comment="" EvaluatedDefinition="SpongeD22_fullname">[%=TM-ModuleAndDevicesNames.SpongeD22_name%]</Variable>
+    <Variable Name="MCScap-CS22SS_name" Comment="" EvaluatedDefinition="MCScap-CS22SS">砻קยด15ตว融</Variable>
+    <Variable Name="MCScap-CS22SS_fullname" Comment="" EvaluatedDefinition="MCScap-CS22SS_fullname">砻קยด16ตว融</Variable>
+    <Variable Name="MCScap-CS22-DIYJack_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;CS22 2&#160;mm DIY&#160;Jack">砻קยด17ตว融</Variable>
+    <Variable Name="MCScap-CS22_name" Comment="" EvaluatedDefinition="MCScap-CS22">砻קยด18ตว融</Variable>
+    <Variable Name="MCScap-CS22_fullname" Comment="" EvaluatedDefinition="MCScap-CS22_fullname">砻קยด19ตว融</Variable>
+    <Variable Name="TES-cable" Comment="TS420020 - tes4me cable" EvaluatedDefinition="TS42">砻קยด20ตว融</Variable>
+    <Variable Name="TES8" Comment="" EvaluatedDefinition="ТЭС-8">砻קยด21ตว融</Variable>
+    <Variable Name="TES8_firstname" Comment="" EvaluatedDefinition="Шлем электродный">砻קยด22ตว融</Variable>
+    <Variable Name="TES8_fullname" Comment="" EvaluatedDefinition="Шлем электродный ТЭС-8">砻קยด23ตว融</Variable>
+    <Variable Name="TES-CS22SS33" Comment="CS22SS-330mm" EvaluatedDefinition="CS22SS-330">砻קยด24ตว融</Variable>
+    <Variable Name="TES-CS22SS18" Comment="CS22SS-180mm" EvaluatedDefinition="CS22SS-180">砻קยด25ตว融</Variable>
+    <Variable Name="TES-CS22SS33_fullname" Comment="CS22SS-330mm" EvaluatedDefinition="Электрод CS22SS-330">砻קยด26ตว融</Variable>
+    <Variable Name="TES-CS22SS18_fullname" Comment="CS22SS-180mm" EvaluatedDefinition="Электрод CS22SS-180">砻קยด27ตว融</Variable>
+    <Variable Name="MCScap-CS22SS-DIYJack_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;CS22SS 2&#160;mm DIY&#160;Jack">砻קยด28ตว融</Variable>
+</CatapultVariableSet>

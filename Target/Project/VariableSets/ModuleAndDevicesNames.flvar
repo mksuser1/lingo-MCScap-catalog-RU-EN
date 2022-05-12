@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="__NoName_fullname" EvaluatedDefinition="NoName">-------</Variable>
+    <Variable Name="_Repairkit_firstname" Comment="" EvaluatedDefinition="Комплект ремонтный">Комплект ремонтный</Variable>
+    <Variable Name="_Repair-electrode_firstname" Comment="" EvaluatedDefinition="Электрод ремонтный">Электрод ремонтный</Variable>
+    <Variable Name="_ear-electrode_firstname" Comment="" EvaluatedDefinition="Ушные электроды">Ушные электроды</Variable>
+    <Variable Name="_electrode_firstname" Comment="Электрод электроэнцефалографический" EvaluatedDefinition="Электрод электроэнцефалографический">Электрод</Variable>
+    <Variable Name="_EEGcap_firstname" Comment="" EvaluatedDefinition="Электродный шлем">Электродный шлем</Variable>
+    <Variable Name="_ElectroAdapter_firstname" Comment="" EvaluatedDefinition="Адаптер электродный">Адаптер электродный</Variable>
+    <Variable Name="_ExtendedLead_firstname" Comment="" EvaluatedDefinition="Удлинитель электродный">Удлинитель электродный</Variable>
+    <Variable Name="NVX2CAP_name" Comment="" EvaluatedDefinition="NVX2CAP">NVX2CAP</Variable>
+    <Variable Name="NVX2CAP24_name" Comment="" EvaluatedDefinition="NVX2CAP&#8209;24">NVX2CAP&#8209;24</Variable>
+    <Variable Name="TP2DB25_name" Comment="" EvaluatedDefinition="TP2DB25">TP2DB25</Variable>
+    <Variable Name="TP2DB25F_name" Comment="" EvaluatedDefinition="TP2DB25F">TP2DB25F</Variable>
+    <Variable Name="DB25FM-adapter_name" Comment="" EvaluatedDefinition="DB25F&#8209;M">DB25F&#8209;M</Variable>
+    <Variable Name="DB25FM-extension_name" Comment="" EvaluatedDefinition="DB25F&#8209;M">DB25F&#8209;M</Variable>
+    <Variable Name="VelcroTie_fullname" Comment="" EvaluatedDefinition="Кабельная стяжка с&#160;липучкой">Кабельная стяжка с&#160;липучкой</Variable>
+    <Variable Name="ABSfixator_name" Comment="" EvaluatedDefinition="ABSfixator">Кабельные фиксаторы</Variable>
+    <Variable Name="Removable-markers_fullname" Comment="" EvaluatedDefinition="Ярлыки для электродов съёмные">Ярлыки для электродов съёмные</Variable>
+    <Variable Name="Soft-skirt_fullname" Comment="" EvaluatedDefinition="Soft-skirt">Юбка для электродов</Variable>
+    <Variable Name="MCScap-plasters_name" Comment="" EvaluatedDefinition="MCScap-plasters">MCScap plasters</Variable>
+    <Variable Name="MCScap-mannequin_name" Comment="" EvaluatedDefinition="MCScap">MCScap</Variable>
+    <Variable Name="MCScap-S_name" Comment="" EvaluatedDefinition="MCScap&#8209;S">MCScap&#8209;S</Variable>
+    <Variable Name="MCScap-S_fullname" Comment="" EvaluatedDefinition="Кабель соединительный&#160;MCScap&#8209;S">Кабель соединительный&#160;[%=ModuleAndDevicesNames.MCScap-S_name%]</Variable>
+    <Variable Name="MCScap-U_name" Comment="" EvaluatedDefinition="MCScap&#8209;U">MCScap&#8209;U</Variable>
+    <Variable Name="MCScap-U_fullname" Comment="" EvaluatedDefinition="Кабель соединительный&#160;MCScap&#8209;U">Кабель соединительный&#160;[%=ModuleAndDevicesNames.MCScap-U_name%]</Variable>
+    <Variable Name="Unimax_name" Comment="" EvaluatedDefinition="Unimax">Унимакс</Variable>
+    <Variable Name="Unimax_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;гель&#160;Унимакс">[%=ModuleAndDevicesNames._EEGgel_firstname%]&#160;[%=ModuleAndDevicesNames.Unimax_name%]</Variable>
+    <Variable Name="MCScap-E_name" Comment="" EvaluatedDefinition="MCScap-E">MCScap&#8209;E</Variable>
+    <Variable Name="MCScap-T_name" Comment="" EvaluatedDefinition="MCScap-T">MCScap&#8209;T</Variable>
+    <Variable Name="MCScap-NT_name" Comment="" EvaluatedDefinition="MCScap-NT">MCScap&#8209;NT</Variable>
+    <Variable Name="MCScap-NTC_name" Comment="" EvaluatedDefinition="MCScap-NTC">MCScap&#8209;NTC</Variable>
+    <Variable Name="MCScap-NTH_name" Comment="" EvaluatedDefinition="MCScap-NTH">MCScap&#8209;NTH</Variable>
+    <Variable Name="MCScap-C_name" Comment="" EvaluatedDefinition="MCScap-C">MCScap&#8209;C</Variable>
+    <Variable Name="MCScap-TC_name" Comment="" EvaluatedDefinition="MCScap-TC">MCScap&#8209;TC</Variable>
+    <Variable Name="MCScap-StTC_name" Comment="" EvaluatedDefinition="MCScap-StTC">MCScap&#8209;StTC</Variable>
+    <Variable Name="MCScap-StNT_name" Comment="" EvaluatedDefinition="MCScap-StNT">MCScap&#8209;StNT</Variable>
+    <Variable Name="Ear-BASE_fullname" Comment="" EvaluatedDefinition="Ушные электроды">[%=ModuleAndDevicesNames._ear-electrode_firstname%] [%=ModuleAndDevicesNames._BASE%]</Variable>
+    <Variable Name="Ear-SLEEP_fullname" Comment="" EvaluatedDefinition="Ушные электроды SLEEP">[%=ModuleAndDevicesNames._ear-electrode_firstname%] [%=ModuleAndDevicesNames._SLEEP%]</Variable>
+    <Variable Name="Ear-PROFESSIONAL_fullname" Comment="" EvaluatedDefinition="Ушные электроды PROFESSIONAL">[%=ModuleAndDevicesNames._ear-electrode_firstname%] [%=ModuleAndDevicesNames._PROFESSIONAL%]</Variable>
+    <Variable Name="Ear-CLINIC_fullname" Comment="" EvaluatedDefinition="Ушные электроды CLINIC">[%=ModuleAndDevicesNames._ear-electrode_firstname%] [%=ModuleAndDevicesNames._CLINIC%]</Variable>
+    <Variable Name="MCScap-A_name" Comment="" EvaluatedDefinition="MCScap-A">MCScap&#8209;A</Variable>
+    <Variable Name="MCScap-AT_name" Comment="" EvaluatedDefinition="MCScap-AT">MCScap&#8209;AT</Variable>
+    <Variable Name="Repair-MCScap-Е_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;E">[%=ModuleAndDevicesNames._Repair-electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-E_name%]</Variable>
+    <Variable Name="Repair-MCScap-C_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;C">[%=ModuleAndDevicesNames._Repair-electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-C_name%]</Variable>
+    <Variable Name="Repair-MCScap-T_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;T">[%=ModuleAndDevicesNames._Repair-electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T_name%]</Variable>
+    <Variable Name="Repair-MCScap-NTC_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;NTC">[%=ModuleAndDevicesNames._Repair-electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-NTC_name%]</Variable>
+    <Variable Name="Repair-MCScap-ТC_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;TC">[%=ModuleAndDevicesNames._Repair-electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-TC_name%]</Variable>
+    <Variable Name="Repair-MCScap-NT_fullname" Comment="" EvaluatedDefinition="Электрод ремонтный MCScap&#8209;NT">[%=ModuleAndDevicesNames._Repair-electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-NT_name%]</Variable>
+    <Variable Name="Repairkit-CLINIC _fullname" Comment="" EvaluatedDefinition="Комплект ремонтный CLINIC">[%=ModuleAndDevicesNames._Repairkit_firstname%] [%=ModuleAndDevicesNames._CLINIC%]</Variable>
+    <Variable Name="Repairkit-SLEEP_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный SLEEP">[%=ModuleAndDevicesNames._Repairkit_firstname%] [%=ModuleAndDevicesNames._SLEEP%]</Variable>
+    <Variable Name="Repairkit-PROFESSIONAL_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный PROFESSIONAL">[%=ModuleAndDevicesNames._Repairkit_firstname%] [%=ModuleAndDevicesNames._PROFESSIONAL%]</Variable>
+    <Variable Name="Repairkit-CLINIC-TC_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный CLINIC-TC">[%=ModuleAndDevicesNames._Repairkit_firstname%] [%=ModuleAndDevicesNames._CLINIC-TC%]</Variable>
+    <Variable Name="Repairkit-PROFESSIONAL-NT_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный PROFESSIONAL-NT">[%=ModuleAndDevicesNames._Repairkit_firstname%] [%=ModuleAndDevicesNames._PROFESSIONAL-NT%]</Variable>
+    <Variable Name="Repairkit-BASE_fullname" Comment="" EvaluatedDefinition="Комплект ремонтный BASE">[%=ModuleAndDevicesNames._Repairkit_firstname%] [%=ModuleAndDevicesNames._BASE%]</Variable>
+    <Variable Name="_SLEEP" Comment="" EvaluatedDefinition="SLEEP">SLEEP</Variable>
+    <Variable Name="_PROFESSIONAL" Comment="" EvaluatedDefinition="PROFESSIONAL">PROFESSIONAL</Variable>
+    <Variable Name="_BASE" Comment="" EvaluatedDefinition="BASE">BASE</Variable>
+    <Variable Name="_CLINIC-TC" Comment="" EvaluatedDefinition="CLINIC-TC">CLINIC&#8209;TC</Variable>
+    <Variable Name="_PROFESSIONAL-NT" Comment="" EvaluatedDefinition="PROFESSIONAL-NT">PROFESSIONAL&#8209;NT</Variable>
+    <Variable Name="_ear-fixators_firstname" Comment="" EvaluatedDefinition="Фиксаторы ушные">Фиксаторы ушные</Variable>
+    <Variable Name="MCScap-RT30_name" Comment="" EvaluatedDefinition="MCScap&#8209;RT&#8209;30">MCScap&#8209;RT&#8209;30</Variable>
+    <Variable Name="MCScap-RT30_fullname" Comment="" EvaluatedDefinition="Комплект крепежный&#160;MCScap&#8209;RT&#8209;30">Комплект крепежный&#160;[%=ModuleAndDevicesNames.MCScap-RT30_name%]</Variable>
+    <Variable Name="granulGel_firstname" Comment="" EvaluatedDefinition="Твердый гель для регистрации ЭЭГ">Твердый гель для регистрации ЭЭГ</Variable>
+    <Variable Name="MCScap-T-HD_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;HD">MCScap&#8209;T&#8209;HD</Variable>
+    <Variable Name="MCScap-T-HD_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;HD">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-HD_name%]</Variable>
+    <Variable Name="MCScap-T-MR_name" Comment="" EvaluatedDefinition="MCScap&#8209;T&#8209;MR">MCScap&#8209;T&#8209;MR</Variable>
+    <Variable Name="MCScap-T-MR_fullname" Comment="" EvaluatedDefinition="Электрод MCScap&#8209;T&#8209;MR">[%=ModuleAndDevicesNames._electrode_firstname%] [%=ModuleAndDevicesNames.MCScap-T-MR_name%]</Variable>
+    <Variable Name="Clinic_name" Comment="" EvaluatedDefinition="CLINIC">[%=ModuleAndDevicesNames._CLINIC%]</Variable>
+    <Variable Name="Clinic_fullname" Comment="" EvaluatedDefinition="CLINIC">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Clinic_name%]</Variable>
+    <Variable Name="Base_name" Comment="" EvaluatedDefinition="BASE">[%=ModuleAndDevicesNames._BASE%]</Variable>
+    <Variable Name="Base_fullname" Comment="" EvaluatedDefinition="BASE">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Base_name%]</Variable>
+    <Variable Name="Professional-light_name" Comment="" EvaluatedDefinition="PROFESSIONAL light">PROFESSIONAL light</Variable>
+    <Variable Name="Professional-light_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL light">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Professional-light_name%]</Variable>
+    <Variable Name="Professional_name" Comment="" EvaluatedDefinition="PROFESSIONAL">[%=ModuleAndDevicesNames._PROFESSIONAL%]</Variable>
+    <Variable Name="Professional_fullname" Comment="" EvaluatedDefinition="PROFESSIONAL">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Professional_name%]</Variable>
+    <Variable Name="Sleep_name" Comment="" EvaluatedDefinition="SLEEP">[%=ModuleAndDevicesNames._SLEEP%]</Variable>
+    <Variable Name="Sleep_fullname" Comment="" EvaluatedDefinition="SLEEP">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Sleep_name%]</Variable>
+    <Variable Name="Electrode-set-classic_name" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-24</Variable>
+    <Variable Name="Electrode-set-classic_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-24">[%=ModuleAndDevicesNames.Electrode-set-classic_name%]</Variable>
+    <Variable Name="_Electrode-set_firstname" Comment="" EvaluatedDefinition="Комплект">Комплект</Variable>
+    <Variable Name="Electrode-set-36_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-36">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-36</Variable>
+    <Variable Name="Electrode-set-52_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET-52">[%=ModuleAndDevicesNames._ELECTRODE_SET%]-52</Variable>
+    <Variable Name="Electrode-set-74_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET 10-10">[%=ModuleAndDevicesNames._ELECTRODE_SET%] 10-10</Variable>
+    <Variable Name="_CLINIC" Comment="" EvaluatedDefinition="CLINIC">CLINIC</Variable>
+    <Variable Name="Professional-nt_name" Comment="" EvaluatedDefinition="PROFESSIONAL&#8209;NT">[%=ModuleAndDevicesNames._PROFESSIONAL-NT%]</Variable>
+    <Variable Name="Professional-nt_fullname" Comment="" EvaluatedDefinition="">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Professional-nt_name%]</Variable>
+    <Variable Name="Clinic-tc_name" Comment="" EvaluatedDefinition="CLINIC&#8209;TC">[%=ModuleAndDevicesNames._CLINIC-TC%]</Variable>
+    <Variable Name="Clinic-tc_fullname" Comment="" EvaluatedDefinition="Электродный шлем [[[Undefined variable ModuleAndDevicesNames._CLINIC-TC_name]]]">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames.Clinic-tc_name%]</Variable>
+    <Variable Name="MCScap-color_name" Comment="" EvaluatedDefinition="MCScap">MCScap</Variable>
+    <Variable Name="MCScap-color_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-color_name%]</Variable>
+    <Variable Name="MCScap-20_name" Comment="" EvaluatedDefinition="MCScap&#160;10&#8209;20">MCScap&#160;10&#8209;20</Variable>
+    <Variable Name="MCScap-20_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами MCScap&#160;10&#8209;20 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%] [%=ModuleAndDevicesNames.MCScap-20_name%]</Variable>
+    <Variable Name="MCScap-32_name" Comment="" EvaluatedDefinition="MCScap&#8209;32">MCScap&#8209;32</Variable>
+    <Variable Name="MCScap-32_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;кольцами&#160;MCScap&#8209;32">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-32_name%]</Variable>
+    <Variable Name="MCScap-51_name" Comment="" EvaluatedDefinition="MCScap&#8209;51">MCScap&#8209;51</Variable>
+    <Variable Name="MCScap-51_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами&#160;MCScap&#8209;51 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-51_name%]</Variable>
+    <Variable Name="MCScap-74_name" Comment="" EvaluatedDefinition="MCScap&#8209;74">MCScap&#8209;74</Variable>
+    <Variable Name="MCScap-74_fullname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;фиксирующими кольцами&#160;MCScap&#8209;74 с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_rings_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-74_name%]</Variable>
+    <Variable Name="MCScap-black_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;10 чёрный">MCScap 10&#8209;10 чёрный</Variable>
+    <Variable Name="MCScap-black_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;10 чёрный">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-black_name%]</Variable>
+    <Variable Name="MCScap-10-5_name" Comment="" EvaluatedDefinition="MCScap 10&#8209;5">MCScap 10&#8209;5</Variable>
+    <Variable Name="MCScap-cover_name" Comment="" EvaluatedDefinition="MCScap COVER">MCScap COVER</Variable>
+    <Variable Name="MCScap-light_name" Comment="" EvaluatedDefinition="MCScap LIGHT">MCScap LIGHT</Variable>
+    <Variable Name="MCScap-light_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap LIGHT">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-light_name%]</Variable>
+    <Variable Name="Tubular-cap_fullname" Comment="" EvaluatedDefinition="Шлем из&#160;трубок регулируемый">Шлем из&#160;трубок регулируемый</Variable>
+    <Variable Name="_textile-cap_firstname" Comment="" EvaluatedDefinition="Шлем текстильный">Шлем текстильный</Variable>
+    <Variable Name="Unigel_name" EvaluatedDefinition="Унигель">Унигель</Variable>
+    <Variable Name="_ELECTRODE_SET" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET">ELECTRODE&#160;SET</Variable>
+    <Variable Name="_mainMCScap" Comment="" EvaluatedDefinition="MCScap®">MCScap®</Variable>
+    <Variable Name="ABSfixator_fullname" Comment="" EvaluatedDefinition="Кабельные фиксаторы">[%=ModuleAndDevicesNames.ABSfixator_name%]</Variable>
+    <Variable Name="DB25FM-extension_fullname" Comment="" EvaluatedDefinition="Удлинитель электродный&#160;DB25F&#8209;M">[%=ModuleAndDevicesNames._ExtendedLead_firstname%]&#160;[%=ModuleAndDevicesNames.DB25FM-extension_name%]</Variable>
+    <Variable Name="Chest-belt_fullname" Comment="" EvaluatedDefinition="Пояс нагрудный&#160;MCScap">Пояс нагрудный&#160;MCScap</Variable>
+    <Variable Name="Chin-belt_fullname" Comment="" EvaluatedDefinition="Подбородник MCScap">Подбородник MCScap</Variable>
+    <Variable Name="DB25FM-adapter_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;DB25F&#8209;M">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]&#160;[%=ModuleAndDevicesNames.DB25FM-adapter_name%]</Variable>
+    <Variable Name="Disposable-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный одноразовый">Фиксатор защитный одноразовый</Variable>
+    <Variable Name="MCScap-10-5_fullname" Comment="" EvaluatedDefinition="Шлем текстильный&#160;MCScap 10&#8209;5">[%=ModuleAndDevicesNames._textile-cap_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-10-5_name%]</Variable>
+    <Variable Name="MCScap-A_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;A">[%=ModuleAndDevicesNames._ear-fixators_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-A_name%]</Variable>
+    <Variable Name="MCScap-AT_fullname" Comment="" EvaluatedDefinition="Фиксаторы ушные&#160;MCScap&#8209;AT">[%=ModuleAndDevicesNames._ear-fixators_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-AT_name%]</Variable>
+    <Variable Name="MCScap-C_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;C">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-C_name%]</Variable>
+    <Variable Name="MCScap-E_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;E">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-E_name%]</Variable>
+    <Variable Name="MCScap-cover_fullname" Comment="" EvaluatedDefinition="Фиксатор защитный многоразовый&#160;MCScap COVER">Фиксатор защитный многоразовый&#160;[%=ModuleAndDevicesNames.MCScap-cover_name%]</Variable>
+    <Variable Name="_mannequin_name" Comment="" EvaluatedDefinition="Манекен">Манекен</Variable>
+    <Variable Name="MCScap-mannequin_fullname" Comment="" EvaluatedDefinition="Манекен&#160;MCScap">[%=ModuleAndDevicesNames._mannequin_name%]&#160;[%=ModuleAndDevicesNames.MCScap-mannequin_name%]</Variable>
+    <Variable Name="MCScap-NT_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NT">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-NT_name%]</Variable>
+    <Variable Name="MCScap-NTC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NTC">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-NTC_name%]</Variable>
+    <Variable Name="MCScap-NTH_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;NTH">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-NTH_name%]</Variable>
+    <Variable Name="MCScap-StNT_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;StNT">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-StNT_name%]</Variable>
+    <Variable Name="MCScap-StTC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;StTC">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-StTC_name%]</Variable>
+    <Variable Name="MCScap-T_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;T">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-T_name%]</Variable>
+    <Variable Name="MCScap-TC_fullname" Comment="" EvaluatedDefinition="Электрод&#160;MCScap&#8209;TC">[%=ModuleAndDevicesNames._electrode_firstname%]&#160;[%=ModuleAndDevicesNames.MCScap-TC_name%]</Variable>
+    <Variable Name="MCScap-plasters_fullname" Comment="" EvaluatedDefinition="Пластырь&#160;MCScap plasters">Пластырь&#160;[%=ModuleAndDevicesNames.MCScap-plasters_name%]</Variable>
+    <Variable Name="TP2DB25_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB25">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]&#160;[%=ModuleAndDevicesNames.TP2DB25_name%]</Variable>
+    <Variable Name="TP2DB25F_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB25F">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]&#160;[%=ModuleAndDevicesNames.TP2DB25F_name%]</Variable>
+    <Variable Name="Unigel_fullname" EvaluatedDefinition="ЭЭГ&#160;гель&#160;Унигель">[%=ModuleAndDevicesNames._EEGgel_firstname%]&#160;[%=ModuleAndDevicesNames.Unigel_name%]</Variable>
+    <Variable Name="NVX2CAP_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;NVX2CAP">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]&#160;[%=ModuleAndDevicesNames.NVX2CAP_name%]</Variable>
+    <Variable Name="NVX2CAP24_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;NVX2CAP&#8209;24">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]&#160;[%=ModuleAndDevicesNames.NVX2CAP24_name%]</Variable>
+    <Variable Name="fixing-ring_fullname" Comment="" EvaluatedDefinition="Фиксирующее кольцо MCScap">Фиксирующее кольцо MCScap</Variable>
+    <Variable Name="labelrings-1020_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.labelrings_name]]], система 10-20">[%=ModuleAndDevicesNames.labelrings_name%], система 10-20</Variable>
+    <Variable Name="labelrings_name" Comment="" EvaluatedDefinition="Ярлыки для колец">Ярлыки для колец</Variable>
+    <Variable Name="labelrings-1010_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.labelrings_name]]], система 10&#8209;10">[%=ModuleAndDevicesNames.labelrings_name%], система 10&#8209;10</Variable>
+    <Variable Name="labelelectrodes_name" Comment="" EvaluatedDefinition="Ярлыки для электродов">Ярлыки для электродов</Variable>
+    <Variable Name="labelelectrodes-1020_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.labelelectrodes_name]]], система 10-20">[%=ModuleAndDevicesNames.labelelectrodes_name%], система 10-20</Variable>
+    <Variable Name="labelelectrodes-1010_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.labelelectrodes_name]]], система 10-10">[%=ModuleAndDevicesNames.labelelectrodes_name%], система 10-10</Variable>
+    <Variable Name="measuring-MCScap_fullname" Comment="" EvaluatedDefinition="Лента измерительная SECA">Лента измерительная SECA</Variable>
+    <Variable Name="measuring-standard_fullname" Comment="" EvaluatedDefinition="Лента измерительная сантиметровая, стандартная">Лента измерительная сантиметровая, стандартная</Variable>
+    <Variable Name="measuring-disposable_fullname" Comment="" EvaluatedDefinition="Лента мерная одноразовая MCScap">Лента мерная одноразовая MCScap</Variable>
+    <Variable Name="syringe_fullname" Comment="" EvaluatedDefinition="Шприц для геля">Шприц для геля</Variable>
+    <Variable Name="needle-reusable_fullname" Comment="" EvaluatedDefinition="Игла многоразовая">Игла многоразовая</Variable>
+    <Variable Name="needle-reusable-inf_fullname" Comment="" EvaluatedDefinition="Игла многоразовая укороченная">Игла многоразовая укороченная</Variable>
+    <Variable Name="disposable-needle_fullname" Comment="" EvaluatedDefinition="Одноразовые иглы">Одноразовые иглы</Variable>
+    <Variable Name="brush_fullname" Comment="" EvaluatedDefinition="Щеточка для чистки электродов">Щеточка для чистки электродов</Variable>
+    <Variable Name="bag_fullname" Comment="" EvaluatedDefinition="Сумка для хранения">Сумка для хранения</Variable>
+    <Variable Name="mannequin-mb_fullname" Comment="" EvaluatedDefinition="Манекен">Манекен</Variable>
+    <Variable Name="FoldingMannequin_fullname" Comment="" EvaluatedDefinition="Манекен складной">Манекен складной</Variable>
+    <Variable Name="Unipaste_name" Comment="" EvaluatedDefinition="Унипаста">Унипаста</Variable>
+    <Variable Name="Unipaste_fullname" Comment="" EvaluatedDefinition="ЭЭГ&#160;паста&#160;Унипаста">ЭЭГ&#160;паста&#160;[%=ModuleAndDevicesNames.Unipaste_name%]</Variable>
+    <Variable Name="disinfecting-wipes_fullname" Comment="" EvaluatedDefinition="Салфетки для дезинфекции">Салфетки для дезинфекции</Variable>
+    <Variable Name="disinfection-spay-small_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.disinfection-spay_name]]] маленький">[%=ModuleAndDevicesNames.disinfection-spay_name%] маленький</Variable>
+    <Variable Name="Uniscrub_name" Comment="" EvaluatedDefinition="Унискраб">Унискраб</Variable>
+    <Variable Name="Uniscrub_fullname" Comment="" EvaluatedDefinition="Гель абразивный Унискраб">[%=ModuleAndDevicesNames.Uniscrub_firstname%]&#160;[%=ModuleAndDevicesNames.Uniscrub_name%]</Variable>
+    <Variable Name="granulGEL_name" Comment="" EvaluatedDefinition="granulGEL">granulGEL</Variable>
+    <Variable Name="granulGEL_fullname" Comment="" EvaluatedDefinition="granulGEL">[%=ModuleAndDevicesNames.granulGEL_name%]</Variable>
+    <Variable Name="EEG-starter-kit_fullname" Comment="" EvaluatedDefinition="Установочный комплект">Установочный комплект</Variable>
+    <Variable Name="Uniscrub_firstname" Comment="" EvaluatedDefinition="Гель абразивный">Гель абразивный</Variable>
+    <Variable Name="disinfection-spay_name" Comment="003-7-007" EvaluatedDefinition="Спрей для дезинфекции">Спрей для дезинфекции</Variable>
+    <Variable Name="disinfection-spay-big_fullname" Comment="" EvaluatedDefinition="[[[Undefined variable ModuleAndDevicesNames.disinfection-spay_name]]] большой">[%=ModuleAndDevicesNames.disinfection-spay_name%] большой</Variable>
+    <Variable Name="_EEGgel_firstname" EvaluatedDefinition="ЭЭГ&#160;гель">ЭЭГ&#160;гель</Variable>
+    <Variable Name="demonstration-model_fullname" Comment="" EvaluatedDefinition="Демонстрационная модель MCScap">Демонстрационная модель MCScap</Variable>
+    <Variable Name="_textile-cap_rings_firstname" Comment="" EvaluatedDefinition="Шлем текстильный с&#160;кольцами">[%=ModuleAndDevicesNames._textile-cap_firstname%] с&#160;кольцами</Variable>
+    <Variable Name="Base-1020_fullname" Comment="" EvaluatedDefinition="Электродный шлем BASE&#160;10&#8209;20">[%=ModuleAndDevicesNames._EEGcap_firstname%] BASE&#160;10&#8209;20</Variable>
+    <Variable Name="Electrode-set-classic-EG_fullname" Comment="" EvaluatedDefinition="ELECTRODE&#160;SET classic с комплектом аксессуаров (L, M, S, XS)">[%=ModuleAndDevicesNames._ELECTRODE_SET%] classic с комплектом аксессуаров (L, M, S, XS)</Variable>
+    <Variable Name="Professional-nt-DB37_name" Comment="" EvaluatedDefinition="PROFESSIONAL&#8209;NT&#160;DB37M">[%=ModuleAndDevicesNames._PROFESSIONAL-NT%]&#160;DB37M</Variable>
+    <Variable Name="Professional-nt-DB37_fullname" Comment="" EvaluatedDefinition="Электродный шлем PROFESSIONAL&#8209;NT&#160;DB37M">[%=ModuleAndDevicesNames._EEGcap_firstname%] [%=ModuleAndDevicesNames._PROFESSIONAL-NT%]&#160;DB37M</Variable>
+    <Variable Name="TP2DB37F_name" Comment="" EvaluatedDefinition="TP2DB37F">TP2DB37F</Variable>
+    <Variable Name="TP2DB37F_fullname" Comment="" EvaluatedDefinition="Адаптер электродный&#160;TP2DB37F">[%=ModuleAndDevicesNames._ElectroAdapter_firstname%]&#160;[%=ModuleAndDevicesNames.TP2DB37F_name%]</Variable>
+</CatapultVariableSet>
