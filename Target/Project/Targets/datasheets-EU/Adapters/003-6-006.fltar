@@ -7,7 +7,7 @@
         <Variable Name="DocsVariables/DocSubCode">DS</Variable>
         <Variable Name="DocsVariables/Market">EU</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.DB25FM-extension_fullname%]</Variable>
-        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode.DB25FM-extension_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode-EU.DB25FM-extension_code%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />
 </CatapultTarget>

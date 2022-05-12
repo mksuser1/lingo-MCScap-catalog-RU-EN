@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="003-6-002.fltar"
@@ -82,10 +82,10 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">MCS.<ph
-              id="1">[%=ProductVariables.ProductCode%]</ph>-<ph
-              id="2">[%=DocsVariables.DocSubCode%]</ph>-<ph
-              id="3">[%=DocsVariables.Market%]</ph>-<ph
-              id="4">[%=DocsVariables.Language%]</ph></mrk></target></trans-unit><trans-unit
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=ProductVariables.ProductCode%]</ph>-<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.DocSubCode%]</ph>-<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.Market%]</ph>-<ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=DocsVariables.Language%]</ph></mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-variable"
         phase-name="pretrans"><source>DS</source><seg-source><mrk

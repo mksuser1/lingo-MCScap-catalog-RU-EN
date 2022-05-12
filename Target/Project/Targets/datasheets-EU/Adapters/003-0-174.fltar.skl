@@ -11,7 +11,7 @@
         <Variable Name="ProductVariables/ProductFullName">[%=Reg-Prod-Variables.MCScap-fullname%]</Variable>
         <Variable Name="ProductVariables/ProductLastName">[%=Reg-Prod-Variables.MCScap-name%]</Variable>
         <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
-        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode.MCScap-S_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode-EU.MCScap-S_code%]</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.MCScap-S_fullname%]</Variable>
     </Variables>
     <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />

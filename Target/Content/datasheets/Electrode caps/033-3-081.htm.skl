@@ -97,31 +97,28 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section">
-            <h2>砻קยด10ตว融</h2>
-            <p>砻קยด11ตว融</p>
-        </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>砻קยด12ตว融</h2>
+            <h2>砻קยด10ตว融</h2>
             <ul>
                 <li>
                     <p>
                         <MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" />,</p>
                 </li>
                 <li>
-                    <p>砻קยด13ตว融</p>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/EEG-starter-kit.flsnp" />
                 </li>
                 <li>
-                    <p>砻קยด14ตว融</p>
+                    <p>砻קยด11ตว融</p>
                 </li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด15ตว融</h2>
+            <h2>砻קยด12ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/PROFESSIONALlight-description.flsnp" />
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด16ตว融</h2>
+            <h2>砻קยด13ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/PROFESSIONALlight-datasheet.flsnp" />
         </section>
         <section class="noBreakInside" MadCap:conditions="documents.GroupDatasheet">
@@ -130,8 +127,8 @@
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
-                    <td>砻קยด17ตว融</td>
-                    <td>砻קยด18ตว融</td>
+                    <td>砻קยด14ตว融</td>
+                    <td>砻קยด15ตว融</td>
                     <td> </td>
                 </tr>
             </table>

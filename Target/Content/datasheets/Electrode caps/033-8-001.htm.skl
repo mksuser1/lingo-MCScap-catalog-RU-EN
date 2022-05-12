@@ -142,32 +142,28 @@
                 </tr>
             </table>
         </section>
-        <section class="target-section">
-            <h2>砻קยด15ตว融</h2>
-            <p>砻קยด16ตว融</p>
-        </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>砻קยด17ตว融</h2>
+            <h2>砻קยด15ตว融</h2>
             <ul>
                 <li>
                     <p>
                         <MadCap:variable name="ModuleAndDevicesNames.Base_fullname" />,</p>
                 </li>
                 <li>
-                    <p>
-                        <MadCap:variable name="ModuleAndDevicesNames.EEG-starter-kit_name" />,</p>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/EEG-starter-kit.flsnp" />
                 </li>
                 <li>
-                    <p>砻קยด18ตว融</p>
+                    <p>砻קยด16ตว融</p>
                 </li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด19ตว融</h2>
+            <h2>砻קยด17ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/BASE-description.flsnp" />
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด20ตว融</h2>
+            <h2>砻קยด18ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/BASE-datasheet.flsnp" />
         </section>
         <section class="noBreakInside">
@@ -176,10 +172,10 @@
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
-                    <td>砻קยด21ตว融</td>
+                    <td>砻קยด19ตว融</td>
                     <td>
-                        <p>砻קยด22ตว融</p>
-                        <p>砻קยด23ตว融</p>
+                        <p>砻קยด20ตว融</p>
+                        <p>砻קยด21ตว融</p>
                     </td>
                     <td> </td>
                 </tr>

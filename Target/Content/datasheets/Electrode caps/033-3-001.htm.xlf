@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">28</count>
+          unit="segment">24</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -68,7 +68,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Size</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">Size</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-td"
         phase-name="pretrans"><source><ph
@@ -216,36 +216,6 @@
               id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Professional-SXS_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-h2"
-        phase-name="pretrans"><source>Назначение</source><seg-source><mrk
-            mtype="seg"
-            mid="1">Назначение</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Intended use</mrk></target></trans-unit><trans-unit
-        id="12"
-        restype="x-xml-p"
-        phase-name="pretrans"><source>Научно-исследовательская ЭЭГ, ЭЭГ высокого разрешения*, МРТ‑совместимая ЭЭГ*.</source><seg-source><mrk
-            mtype="seg"
-            mid="1">Научно-исследовательская ЭЭГ, ЭЭГ высокого разрешения*, МРТ‑совместимая ЭЭГ*.</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="97">Routine EEG, research EEG, hight resolution EEG*.</mrk></target></trans-unit><trans-unit
-        id="13"
-        restype="x-xml-p"
-        phase-name="pretrans"><source>(* доступен по заказу.)</source><seg-source><mrk
-            mtype="seg"
-            mid="1">(* доступен по заказу.)</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">(*optional)</mrk></target></trans-unit><trans-unit
-        id="14"
-        restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
             mid="1">Состав комплекта</mrk></seg-source><target
@@ -254,7 +224,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="15"
+        id="12"
         restype="x-xml-p"
         phase-name="pretrans"><source>запасной электрод,</source><seg-source><mrk
             mtype="seg"
@@ -264,17 +234,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">spare electrode,</mrk></target></trans-unit><trans-unit
-        id="16"
-        restype="x-xml-p"
-        phase-name="pretrans"><source>установочный комплект (гель, шприц, игла, щеточка),</source><seg-source><mrk
-            mtype="seg"
-            mid="1">установочный комплект (гель, шприц, игла, щеточка),</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">EEG starter kit,</mrk></target></trans-unit><trans-unit
-        id="17"
+        id="13"
         restype="x-xml-p"
         phase-name="pretrans"><source>эксплуатационная документация,</source><seg-source><mrk
             mtype="seg"
@@ -284,7 +244,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">operational documentation,</mrk></target></trans-unit><trans-unit
-        id="18"
+        id="14"
         restype="x-xml-p"
         phase-name="pretrans"><source>сумка для хранения.</source><seg-source><mrk
             mtype="seg"
@@ -294,7 +254,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">bag.</mrk></target></trans-unit><trans-unit
-        id="19"
+        id="15"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -304,7 +264,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="20"
+        id="16"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -314,7 +274,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="21"
+        id="17"
         restype="x-xml-td"
         phase-name="pretrans"><source>2020-06-24</source><seg-source><mrk
             mtype="seg"
@@ -325,7 +285,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">2020-06-24</mrk></target></trans-unit><trans-unit
-        id="22"
+        id="18"
         restype="x-xml-td"
         phase-name="pretrans"><source>Из списка характеристик удален параметр "Фиксация электродных кабелей" по причине отказа от сплошных силиконовых трубок</source><seg-source><mrk
             mtype="seg"
@@ -336,7 +296,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Из списка характеристик удален параметр "Фиксация электродных кабелей" по причине отказа от сплошных силиконовых трубок</mrk></target></trans-unit><trans-unit
-        id="23"
+        id="19"
         restype="x-xml-td"
         phase-name="pretrans"><source>ЕФ</source><seg-source><mrk
             mtype="seg"
@@ -347,7 +307,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">ЕФ</mrk></target></trans-unit><trans-unit
-        id="24"
+        id="20"
         restype="x-xml-td"
         phase-name="pretrans"><source>2020-06-30</source><seg-source><mrk
             mtype="seg"
@@ -358,7 +318,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">2020-06-30</mrk></target></trans-unit><trans-unit
-        id="25"
+        id="21"
         restype="x-xml-td"
         phase-name="pretrans"><source>Добавлены изображения схемы и распайки</source><seg-source><mrk
             mtype="seg"
@@ -369,7 +329,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Добавлены изображения схемы и распайки</mrk></target></trans-unit><trans-unit
-        id="26"
+        id="22"
         restype="x-xml-td"
         phase-name="pretrans"><source>ЕФ</source><seg-source><mrk
             mtype="seg"
@@ -380,7 +340,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">ЕФ</mrk></target></trans-unit><trans-unit
-        id="27"
+        id="23"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -391,7 +351,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="28"
+        id="24"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"

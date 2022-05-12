@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">23</count>
+          unit="segment">21</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -68,7 +68,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Size</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Size</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-td"
         phase-name="pretrans"><source><ph
@@ -292,26 +292,6 @@
               id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Base-InfIII_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="15"
         restype="x-xml-h2"
-        phase-name="pretrans"><source>Назначение</source><seg-source><mrk
-            mtype="seg"
-            mid="1">Назначение</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100">Intended use</mrk></target></trans-unit><trans-unit
-        id="16"
-        restype="x-xml-p"
-        phase-name="pretrans"><source>Рутинная ЭЭГ, исследовательская ЭЭГ</source><seg-source><mrk
-            mtype="seg"
-            mid="1">Рутинная ЭЭГ, исследовательская ЭЭГ</mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="82">Routine EEG, Research EEG.</mrk></target></trans-unit><trans-unit
-        id="17"
-        restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
             mid="1">Состав комплекта</mrk></seg-source><target
@@ -320,7 +300,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="18"
+        id="16"
         restype="x-xml-p"
         phase-name="pretrans"><source>эксплуатационная документация.</source><seg-source><mrk
             mtype="seg"
@@ -330,7 +310,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">User Manual.</mrk></target></trans-unit><trans-unit
-        id="19"
+        id="17"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -340,7 +320,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="20"
+        id="18"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -350,7 +330,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="21"
+        id="19"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -361,7 +341,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="22"
+        id="20"
         restype="x-xml-p"
         phase-name="pretrans"><source>Изменено определение</source><seg-source><mrk
             mtype="seg"
@@ -372,7 +352,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">Изменено определение</mrk></target></trans-unit><trans-unit
-        id="23"
+        id="21"
         restype="x-xml-p"
         phase-name="pretrans"><source>Унификация названий параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"

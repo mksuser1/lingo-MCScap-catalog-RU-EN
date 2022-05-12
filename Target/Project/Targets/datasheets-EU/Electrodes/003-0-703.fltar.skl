@@ -6,7 +6,7 @@
         <Variable Name="DocsVariables/DocCode">砻קยด3ตว融</Variable>
         <Variable Name="DocsVariables/DocSubCode">砻קยด4ตว融</Variable>
         <Variable Name="DocsVariables/Market">砻קยด5ตว融</Variable>
-        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode.MCScap-T-MR_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode-EU.MCScap-T-MR_code%]</Variable>
         <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames.MCScap-T-MR_fullname%]</Variable>
         <Variable Name="ProductVariables/ProductFullName">[%=DevicesVariables.DeviceFullName%]</Variable>
         <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>

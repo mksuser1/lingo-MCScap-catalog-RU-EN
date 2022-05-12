@@ -2,7 +2,7 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <body>
         <p>
-            <MadCap:variable name="ModuleAndDevicesNames.Clinic-tc_fullname" /> – это текстильный шлем с предустановленными Ag/AgCl электродами <MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-TC.flsnp" /> и общим разъемом <MadCap:variable name="Global(External)Variables.DB-25M" />. <MadCap:snippetText src="../../../Resources/Snippets/electrode_caps/electrodecap-text.flsnp" /></p>
+            <MadCap:variable name="ModuleAndDevicesNames.Clinic-tc_fullname" /> – это текстильный шлем с предустановленными Ag/AgCl электродами <MadCap:snippetText src="../../../Resources/Snippets/Electrodes/link-MCScap-TC.flsnp" /> и общим разъемом <MadCap:variable name="Global(External)Variables.DB-25M" />. <MadCap:variable name="ModuleAndDevicesNames.Clinic-tc_fullname" /> рекомендован для проведения рутинного ЭЭГ обследования. <MadCap:snippetText src="../../../Resources/Snippets/electrode_caps/electrodecap-text.flsnp" /></p>
         <p>
             <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/textile-cap_text.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/10-10-marks.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/textile_caps/material-color-identification.flsnp" /></p>
         <p>
