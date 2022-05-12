@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/datasheets/Electrode caps/PROFESSIONAL-NT/Professional-nt-DB37_27-180.fltoc" DisableAutoSync="true" MasterStylesheet="/Content/Resources/Stylesheets/DatasheetA4.css" MasterPageLayout="/Content/Resources/PageLayouts/PassportA4-withoutIntendedFor.flpgl" GetLatestBeforeCompile="false" InjectEmptyPages="true" ConditionTagExpression="include[market.EU or siteLink.mks_ru] exclude[Default.NoOutput or Default.ScreenOnly or documents._All or documents.InternalDocument or market.All or siteLink.All] " OutputFile="[%=ProductVariables.ProductCode%] [%=DevicesVariables.DeviceName%] [%=DocsVariables.DocName%]">
+    <Variables>
+        <Variable Name="DocsVariables/DocName">Техническое описание</Variable>
+        <Variable Name="DocsVariables/DocRevision"> 0.1 </Variable>
+        <Variable Name="DocsVariables/DocCode"> MCS.[%=ProductVariables.ProductCode%]-[%=DocsVariables.DocSubCode%]-[%=DocsVariables.Market%]-[%=DocsVariables.Language%] </Variable>
+        <Variable Name="DocsVariables/DocSubCode">DS</Variable>
+        <Variable Name="DocsVariables/Market">EU</Variable>
+        <Variable Name="DevicesVariables/DeviceCode">[%=ModuleAndDevicesCode-GVB-EU.Clinic-tc_20_code%]</Variable>
+        <Variable Name="DevicesVariables/DeviceName">[%=ModuleAndDevicesNames-GVB.Clinic-tc_20_name%]</Variable>
+        <Variable Name="ProductVariables/ProductFullName">[%=Reg-Prod-Variables.MCScap-EN-fullname%]</Variable>
+        <Variable Name="ProductVariables/ProductFullNameTU">[%=ProductVariables.ProductFullName%]</Variable>
+        <Variable Name="ProductVariables/ProductLastName">[%=Reg-Prod-Variables.MCScap-EN-name%]</Variable>
+        <Variable Name="DevicesVariables/DeviceFullName">[%=DevicesVariables.DeviceName%]</Variable>
+        <Variable Name="ProductVariables/ProductName">[%=ProductVariables.ProductLastName%]</Variable>
+    </Variables>
+    <PDF DownsampleImages="false" RequireOpenPassword="false" RestrictPermissions="false" ShowUsedBookmarks="false" />
+</CatapultTarget>

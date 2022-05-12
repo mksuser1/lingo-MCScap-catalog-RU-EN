@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/datasheets/Electrode caps/SLEEP/Sleep20.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="none" StartSection="false" PageNumberReset="continue" PageType="first" ReplaceMergeNode="false">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/mod/Electrode caps/10-01M20.htm" conditions="documents._All,documents.ModDatasheet" />
+    </TocEntry>
+</CatapultToc>
