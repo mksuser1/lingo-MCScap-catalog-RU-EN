@@ -25,16 +25,16 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td class="ref_td">
+                                <td>
                                     <MadCap:variable name="TM-ModuleAndDevicesCode.SpongeD22_code" />
                                 </td>
-                                <td class="name_td">砻קยด2ตว融</td>
+                                <td>砻קยด2ตว融</td>
                             </tr>
                             <tr>
-                                <td class="ref_td">
+                                <td>
                                     <MadCap:variable name="TM-ModuleAndDevicesCode.SpongeD2250_code" />
                                 </td>
-                                <td class="name_td">砻קยด3ตว融</td>
+                                <td>砻קยด3ตว融</td>
                             </tr>
                         </table>
                     </td>

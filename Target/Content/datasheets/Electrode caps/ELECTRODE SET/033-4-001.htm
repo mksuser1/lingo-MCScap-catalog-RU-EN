@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName" MadCap:autonum="">
+        <h1 class="deviceName">
             <MadCap:variable name="ModuleAndDevicesNames.Electrode-set-classic_fullname" />
         </h1>
         <p class="shortDescription">Универсальный комплект из съёмных Ag/AgCl sintered электродов <MadCap:variable name="ModuleAndDevicesNames.MCScap-E_name" /> с разъемами <MadCap:variable name="Global(External)Variables.Touch Proof Name" /> и текстильных шлемов с кольцами по системе 10‑20.</p>
@@ -25,8 +25,12 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesCode.Electrode-set-classic_code" MadCap:conditions="market.All,market.RU" />
-                                    <MadCap:variable name="ModuleAndDevicesCode-EU.Electrode-set-classic_code" MadCap:conditions="market.All,market.EU" />
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Electrode-set-classic_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Electrode-set-classic_code" />
+                                    </p>
                                 </td>
                                 <td>
                                 </td>
@@ -41,7 +45,7 @@
         </section>
         <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2 MadCap:autonum="">Состав комплекта</h2>
+            <h2>Состав комплекта</h2>
             <ul>
                 <li>
                     <p>Текстильные шлемы с кольцами <MadCap:variable name="ModuleAndDevicesNames.MCScap-20_name" /> - <MadCap:conditionalText MadCap:conditions="market.All,market.RU">3</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="market.All,market.EU">2</MadCap:conditionalText> шт.,</p>
@@ -71,9 +75,10 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2 MadCap:autonum="">Описание</h2>
+            <h2>Описание</h2>
             <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/ELECTRODESET-description.flsnp" />
         </section>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/specification-diff.flsnp" />
         <section class="technicalData-section">
             <h2>Технические характеристики</h2>
             <table class="datasheet">
@@ -197,7 +202,7 @@
                 <col style="width:50%" />
                 <tr>
                     <th>
-                        <h2 MadCap:autonum="">Схема размещения колец</h2>
+                        <h2>Схема размещения колец</h2>
                     </th>
                 </tr>
                 <tr>

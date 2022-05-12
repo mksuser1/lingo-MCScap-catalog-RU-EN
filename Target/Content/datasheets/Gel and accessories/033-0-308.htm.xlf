@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="in-progress">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-0-308.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">21</count>
+          unit="segment">19</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -55,24 +55,6 @@
             MadCap:matchPercent="77">Syringe for dispensing EEG gel.</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-td"
-        phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
-                                    <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.syringe_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
-            mtype="seg"
-            mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.syringe_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="ExactMatch"
-            MadCap:matchPercent="100"
-            MadCap:diff="New"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.syringe_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
-        id="3"
-        restype="x-xml-td"
         phase-name="pretrans"><source>большой</source><seg-source><mrk
             mtype="seg"
             mid="1"
@@ -82,26 +64,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">big</mrk></target></trans-unit><trans-unit
-        id="4"
-        restype="x-xml-td"
-        phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
-                                    <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.syringe-5ml_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:parentConditions="Default.PrintOnly"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.syringe-5ml_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="ExactMatch"
-            MadCap:matchPercent="100"
-            MadCap:diff="New"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.syringe-5ml_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
-        id="5"
+        id="3"
         restype="x-xml-td"
         phase-name="pretrans"><source>маленький</source><seg-source><mrk
             mtype="seg"
@@ -113,35 +76,35 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">small</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Назначение</source><seg-source><mrk
             mtype="seg"
             mid="1">Назначение</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Intended use</mrk></target></trans-unit><trans-unit
-        id="7"
+        id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source>Для дозирования электропроводящего геля.</source><seg-source><mrk
             mtype="seg"
             mid="1">Для дозирования электропроводящего геля.</mrk></seg-source><target
-          state="needs-review-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="66"
-            MadCap:diff="ContentChanged" /></target><alt-trans
+            MadCap:diff="ContentChanged">For dispensing EEG gel.</mrk></target><alt-trans
           match-quality="84"
           origin="previous-version"><seg-source>Шприц для дозирования электропроводящего геля.</seg-source><target
             MadCap:segmentStatus="Untranslated">Syringe for dispensing EEG gel.</target></alt-trans><alt-trans
           match-quality="66"
           origin="previous-version"><seg-source>Шприц предназначен для дозирования электропроводящего геля.</seg-source><target
             MadCap:segmentStatus="Untranslated">The syringe is required for introduction of the contact gel.</target></alt-trans></trans-unit><trans-unit
-        id="8"
+        id="6"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -151,7 +114,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="9"
+        id="7"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -161,7 +124,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="10"
+        id="8"
         restype="x-xml-p"
         phase-name="pretrans"><source>Шприц предназначен для дозирования электропроводящего геля.</source><seg-source><mrk
             mtype="seg"
@@ -171,7 +134,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">The syringe is required for introduction of the contact gel.</mrk></target></trans-unit><trans-unit
-        id="11"
+        id="9"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -181,7 +144,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="12"
+        id="10"
         restype="x-xml-p"
         phase-name="pretrans"><source>20 мл<bpt
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> (REF <ph
@@ -202,18 +165,33 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="83"
             MadCap:diff="ContentChanged">20 ml<bpt
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt></mrk><mrk
+              id="1">&lt;MadCap:conditionalText MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt></mrk><mrk
             mtype="protected"
             mid="2"
-            MadCap:segmentStatus="Accepted"
+            MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="New">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe_code" /&gt;</ph>)<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept></mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe_code" /&gt;</ph>)<ept
+              id="1">&lt;/MadCap:conditionalText&gt;</ept></mrk></target><alt-trans
+          match-quality="83"
+          origin="previous-version"><seg-source>20 мл</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 ml</target></alt-trans><alt-trans
+          match-quality="83"
+          origin="previous-version"><seg-source>20 мл</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 ml</target></alt-trans><alt-trans
+          match-quality="83"
+          origin="previous-version"><seg-source>20 мл</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 ml</target></alt-trans><alt-trans
+          match-quality="83"
+          origin="previous-version"><seg-source>20 мл</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 ml</target></alt-trans><alt-trans
+          match-quality="83"
+          origin="previous-version"><seg-source>20 мл</seg-source><target
+            MadCap:segmentStatus="Untranslated">20 ml</target></alt-trans><alt-trans
           match-quality="83"
           origin="previous-version"><seg-source>20 мл</seg-source><target
             MadCap:segmentStatus="Untranslated">20 ml</target></alt-trans><alt-trans
@@ -229,7 +207,7 @@
           match-quality="83"
           origin="previous-version"><seg-source>20 мл</seg-source><target
             MadCap:segmentStatus="Untranslated">20 ml</target></alt-trans></trans-unit><trans-unit
-        id="13"
+        id="11"
         restype="x-xml-p"
         phase-name="pretrans"><source>5 мл (REF <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</source><seg-source><mrk
@@ -257,8 +235,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="New">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
-        id="14"
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.syringe-5ml_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+        id="12"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 15 г</source><seg-source><mrk
             mtype="seg"
@@ -268,7 +246,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 15 g</mrk></target></trans-unit><trans-unit
-        id="15"
+        id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>15 ±1 г</source><seg-source><mrk
             mtype="seg"
@@ -279,7 +257,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="72">15 ±1 g</mrk></target></trans-unit><trans-unit
-        id="16"
+        id="14"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -290,7 +268,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="17"
+        id="15"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"

@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="in-progress">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-7-004.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">22</count>
+          unit="segment">21</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -54,36 +54,18 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Electrode contact paste, highly conductive, adhesive for EEG and EMG.</mrk></target></trans-unit><trans-unit
         id="2"
-        restype="x-xml-td"
-        phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unipaste_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
-                                    <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Unipaste_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
-            mtype="seg"
-            mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unipaste_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Unipaste_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="ExactMatch"
-            MadCap:matchPercent="100"
-            MadCap:diff="New"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.Unipaste_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.Unipaste_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
-        id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Назначение</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:parentConditions="Default.NoOutput">Назначение</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">Intended use</mrk></target></trans-unit><trans-unit
-        id="4"
+        id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -93,7 +75,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Set</mrk></target></trans-unit><trans-unit
-        id="5"
+        id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -103,7 +85,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source>Паста электродная контактная, высокопроводщая, адгезивная <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> применяется в качестве фиксирующей и электропроводящей контактной среды при установке электродов на поверхности головы и тела при проведении следующих электрофизиологических исследований: электроэнцефалографии (ЭЭГ),вызванных потенциалов (ВП) мозга, транскраниальной магнитной стимуляции (ТМС), электромиографии (ЭМГ) и определении скоростей проведения по нервам, полисомнографии, проведении биообратной связи (БОС) по ЭЭГ и ЭМГ и т.д.</source><seg-source><mrk
@@ -115,8 +97,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="97">Highly conducting, adhesive paste <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is used as a fixing and electrically conductive contact medium when installing electrodes on the surface of the head and body when performing the following electrophysiological studies: electroencephalography (EEG), evoked potentials (EP) of the brain, transcranial magnetic stimulation (TMS), electromyography (EMG) and determining the speed of the nerves, polysomnography, conducting biofeedback (BF) EEG and EMG, etc.</mrk></target></trans-unit><trans-unit
-        id="7"
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is used as a fixing and electrically conductive contact medium when installing electrodes on the surface of the head and body when performing the following electrophysiological studies: electroencephalography (EEG), evoked potentials (EP) of the brain, transcranial magnetic stimulation (TMS), electromyography (EMG) and determining the speed of the nerves, polysomnography, conducting biofeedback (BF) EEG and EMG, etc.</mrk></target></trans-unit><trans-unit
+        id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> используется как при обычных исследованиях ЭЭГ и ВП (до одного часа), так и при длительных мониторинговых исследованиях и полисомнографии (до суток).</source><seg-source><mrk
@@ -128,8 +110,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is used both for normal EEG and EP studies (up to one hour), and for long-term monitoring studies and polysomnography (up to a day).</mrk></target></trans-unit><trans-unit
-        id="8"
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is used both for normal EEG and EP studies (up to one hour), and for long-term monitoring studies and polysomnography (up to a day).</mrk></target></trans-unit><trans-unit
+        id="7"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> обеспечивает надёжную фиксацию электродов, обладает высокими токопроводящими свойствами, снижает электросопротивление кожи, не портит электроды, легко смывается тёплой водой.</source><seg-source><mrk
@@ -141,8 +123,8 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> provides a reliable fixation of the electrodes, has high conductive properties, reduces the electrical resistance of the skin, does not damage the electrodes, and is easily washed off with warm water.</mrk></target></trans-unit><trans-unit
-        id="9"
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Unipaste_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> provides a reliable fixation of the electrodes, has high conductive properties, reduces the electrical resistance of the skin, does not damage the electrodes, and is easily washed off with warm water.</mrk></target></trans-unit><trans-unit
+        id="8"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -152,7 +134,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="10"
+        id="9"
         restype="x-xml-td"
         phase-name="pretrans"><source>0,3 - 1,5 См/м</source><seg-source><mrk
             mtype="seg"
@@ -163,7 +145,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">0.3 - 1.5 S/m</mrk></target></trans-unit><trans-unit
-        id="11"
+        id="10"
         restype="x-xml-td"
         phase-name="pretrans"><source>Импеданс</source><seg-source><mrk
             mtype="seg"
@@ -174,7 +156,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Impedance</mrk></target></trans-unit><trans-unit
-        id="12"
+        id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>1–2 кОм</source><seg-source><mrk
             mtype="seg"
@@ -185,7 +167,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">1–2 kΩ</mrk></target></trans-unit><trans-unit
-        id="13"
+        id="12"
         restype="x-xml-td"
         phase-name="pretrans"><source>Адгезия (показатель усилия отрыва)</source><seg-source><mrk
             mtype="seg"
@@ -196,7 +178,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Adhesion</mrk></target></trans-unit><trans-unit
-        id="14"
+        id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>не менее 4,5 Н/см<bpt
             id="1"
@@ -220,12 +202,12 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">not less than 4.5 N/ cm2 (at density application paste 0.16 g/cm<bpt
               id="1"
-              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>2<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept>)<bpt
+              ctype="x-superscript">&lt;sup&gt;</bpt>2<ept
+              id="1">&lt;/sup&gt;</ept>)<bpt
               id="2"
-              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt><ept
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept></mrk></target></trans-unit><trans-unit
-        id="15"
+              ctype="x-superscript">&lt;sup&gt;</bpt><ept
+              id="2">&lt;/sup&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="14"
         restype="x-xml-td"
         phase-name="pretrans"><source>ООО «Гельтек-Медика», Россия</source><seg-source><mrk
             mtype="seg"
@@ -235,7 +217,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Geltek, Russia</mrk></target></trans-unit><trans-unit
-        id="16"
+        id="15"
         restype="x-xml-td"
         phase-name="pretrans"><source>Номинальная масса пасты</source><seg-source><mrk
             mtype="seg"
@@ -245,7 +227,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="78">Nominal paste weight</mrk></target></trans-unit><trans-unit
-        id="17"
+        id="16"
         restype="x-xml-td"
         phase-name="pretrans"><source>120 г</source><seg-source><mrk
             mtype="seg"
@@ -255,7 +237,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">120 g</mrk></target></trans-unit><trans-unit
-        id="18"
+        id="17"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 155 г</source><seg-source><mrk
             mtype="seg"
@@ -265,7 +247,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="85">&lt; 155 g</mrk></target></trans-unit><trans-unit
-        id="19"
+        id="18"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -276,7 +258,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="20"
+        id="19"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"
@@ -287,29 +269,29 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">Унификация параметров в таблице ТТХ</mrk></target></trans-unit><trans-unit
-        id="21"
+        id="20"
         restype="x-xml-td"
         phase-name="pretrans"><source>2022-04-26</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:parentConditions="||documents.InternalDocument">2022-04-26</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0"
-            MadCap:diff="New" /></target></trans-unit><trans-unit
-        id="22"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"
+            MadCap:diff="New">2022-04-26</mrk></target></trans-unit><trans-unit
+        id="21"
         restype="x-xml-td"
         phase-name="pretrans"><source>Скрыты характеристики, оставлена только ссылка на производителя</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:parentConditions="||documents.InternalDocument">Скрыты характеристики, оставлена только ссылка на производителя</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0"
-            MadCap:diff="New" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101"
+            MadCap:diff="New">hide properties</mrk></target></trans-unit></body>
   </file>
 </xliff>

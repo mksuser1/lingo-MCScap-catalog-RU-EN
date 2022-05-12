@@ -29,7 +29,14 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>砻קยด2ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Professional-light_20_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Professional-light_21_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XL-name" />
                                 </td>
@@ -38,7 +45,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด3ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Professional-light_20-XLL_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Professional-light_21-XLL_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XLL-name" />
                                 </td>
@@ -47,7 +61,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด4ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Professional-light_20-L_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Professional-light_21-L_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.L-name" />
                                 </td>
@@ -56,7 +77,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด5ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Professional-light_20-LM_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Professional-light_21-LM_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.LM-name" />
                                 </td>
@@ -65,7 +93,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด6ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Professional-light_20-M_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Professional-light_21-M_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.M-name" />
                                 </td>
@@ -74,7 +109,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด7ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Professional-light_20-MS_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Professional-light_21-MS_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.MS-name" />
                                 </td>
@@ -83,7 +125,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด8ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Professional-light_20-S_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Professional-light_21-S_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.S-name" />
                                 </td>
@@ -101,7 +150,7 @@
         </section>
         <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>砻קยด9ตว融</h2>
+            <h2>砻קยด2ตว融</h2>
             <ul>
                 <li>
                     <p>
@@ -111,16 +160,17 @@
                     <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/EEG-starter-kit.flsnp" />
                 </li>
                 <li>
-                    <p>砻קยด10ตว融</p>
+                    <p>砻קยด3ตว融</p>
                 </li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด11ตว融</h2>
+            <h2>砻קยด4ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/PROFESSIONALlight-description.flsnp" />
         </section>
+        <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/specification-diff.flsnp" />
         <section class="technicalData-section">
-            <h2>砻קยด12ตว融</h2>
+            <h2>砻קยด5ตว融</h2>
             <MadCap:snippetBlock src="../../Resources/Snippets/electrode_caps/PROFESSIONALlight-datasheet.flsnp" />
         </section>
         <section class="noBreakInside" MadCap:conditions="documents.GroupDatasheet">
@@ -129,8 +179,8 @@
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
-                    <td>砻קยด13ตว融</td>
-                    <td>砻קยด14ตว融</td>
+                    <td>砻קยด6ตว融</td>
+                    <td>砻קยด7ตว融</td>
                     <td> </td>
                 </tr>
             </table>

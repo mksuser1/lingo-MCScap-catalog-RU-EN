@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="PROFESSIONALlight-description.flsnp"
@@ -82,8 +82,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made in the lightest version in the line of other electrode caps <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> is made in the lightest version in the line of other electrode caps <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -93,8 +93,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">It uses a textile cap <ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-light_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> without a chin belt and the thinnest Ag/AgCl sintered electrodes <ph
-              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../Electrodes/link-MCScap-NT.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk><mrk
+              id="3">&lt;MadCap:variable name="ModuleAndDevicesNames.MCScap-light_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> without a chin belt and the thinnest Ag/AgCl sintered electrodes <ph
+              id="4">&lt;MadCap:snippetText src="../Electrodes/link-MCScap-NT.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -113,7 +113,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">The cap has a <ph
-              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</mrk><mrk
+              id="5">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</mrk><mrk
             mtype="protected"
             mid="8"
             MadCap:segmentStatus="Untranslated"
@@ -123,6 +123,150 @@
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0"
             MadCap:diff="New" /></target><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> для подключения к ЭЭГ усилителю.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The cap has a <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector for connecting to an EEG amplifier.</target></alt-trans><alt-trans
           mid="6"
           match-quality="98"
           origin="previous-version"><seg-source>Шлем имеет общий разъемом <ph
@@ -142,7 +286,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> can be used for routine EEG, scientific EEG, high density EEG.</mrk></target><alt-trans
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> can be used for routine EEG, scientific EEG, high density EEG.</mrk></target><alt-trans
           match-quality="55"
           origin="previous-version"><seg-source><ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.Professional-light_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> рекомендован для проведения рутинного ЭЭГ обследования, научно-исследовательской ЭЭГ, ЭЭГ высокого разрешения.</seg-source><target
@@ -175,9 +319,9 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../textile_caps/textile-cap-light_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:snippetText src="../textile_caps/textile-cap-light_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:snippetText src="../textile_caps/10-10-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="3">&lt;MadCap:snippetText src="../textile_caps/seam-color-identification.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
@@ -192,7 +336,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../Electrodes/MCScap-NT_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="../Electrodes/electrode-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit></body>
+              id="1">&lt;MadCap:snippetText src="../Electrodes/MCScap-NT_text.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="2">&lt;MadCap:snippetText src="../Electrodes/electrode-marks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit></body>
   </file>
 </xliff>

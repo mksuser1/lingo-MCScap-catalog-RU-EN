@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">20</count>
+          unit="segment">19</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -56,7 +56,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">Adapter for connecting the cap with a <ph
               id="1">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> common connector to an amplifier with a <ph
               id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector.</mrk></target><alt-trans
@@ -70,24 +70,6 @@
               id="2"
               ctype="lb" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;br /&gt;</ph></target></alt-trans></trans-unit><trans-unit
         id="2"
-        restype="x-xml-td"
-        phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.TP2DB25F_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
-                                    <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.TP2DB25F_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
-            mtype="seg"
-            mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.TP2DB25F_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.TP2DB25F_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
-            MadCap:diff="New"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode.TP2DB25F_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.TP2DB25F_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
-        id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -97,7 +79,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="4"
+        id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -107,7 +89,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="5"
+        id="4"
         restype="x-xml-p"
         phase-name="pretrans"><source><ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25F_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> – это пассивный адаптер (коммутатор) для подключения ЭЭГ шлема с общим разъёмом <ph
@@ -126,8 +108,8 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged"><ph
-              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25F_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>  electrode adapter is a passive adapter (switch) for connecting an EEG cap with a common <ph
-              id="2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to the connectors of  <ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames.TP2DB25F_fullname" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode adapter is a passive adapter for connecting an EEG cap with a common <ph
+              id="2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to the connectors of <ph
               id="3">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
               id="4">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) of EEG amplifier.</mrk></target><alt-trans
           match-quality="98"
@@ -143,7 +125,7 @@
               id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.DB-25M" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> connector to the connectors of <ph
               id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
               id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN разъем" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) of EEG amplifier.</target></alt-trans></trans-unit><trans-unit
-        id="6"
+        id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source>20 разъёмов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений. Разъемы 11, 12, 13, 24, 25 могут быть использованы для произвольного подключения дополнительных электродов.</source><seg-source><mrk
             mtype="seg"
@@ -196,7 +178,7 @@
           match-quality="98"
           origin="previous-version"><seg-source>20 разъёмов адаптера промаркированы в соответствии с международной системой 10‑20 и предназначены для подключения электродов стандартных отведений.</seg-source><target
             MadCap:segmentStatus="Untranslated">20 adapter connectors are labeled in accordance with the international system 10‑20 and are designed to connect standard lead electrodes.</target></alt-trans></trans-unit><trans-unit
-        id="7"
+        id="6"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -206,7 +188,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="8"
+        id="7"
         restype="x-xml-td"
         phase-name="pretrans"><source>до 25 <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
@@ -222,7 +204,7 @@
             MadCap:matchPercent="101">up to 25 <ph
               id="1">&lt;MadCap:variable name="Global(External)Variables.Touch Proof Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> (<ph
               id="2">&lt;MadCap:variable name="Global(External)Variables.Touch Proof DIN штекер" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
-        id="9"
+        id="8"
         restype="x-xml-td"
         phase-name="pretrans"><source>25</source><seg-source><mrk
             mtype="seg"
@@ -232,7 +214,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">25</mrk></target></trans-unit><trans-unit
-        id="10"
+        id="9"
         restype="x-xml-td"
         phase-name="pretrans"><source>0,3 ±0,02 м</source><seg-source><mrk
             mtype="seg"
@@ -246,7 +228,7 @@
           match-quality="84"
           origin="previous-version"><seg-source>0,3 м ±0,02 м</seg-source><target
             MadCap:segmentStatus="Untranslated">0.3 ±0.02 m</target></alt-trans></trans-unit><trans-unit
-        id="11"
+        id="10"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 85 г</source><seg-source><mrk
             mtype="seg"
@@ -257,7 +239,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">&lt; 85 g</mrk></target></trans-unit><trans-unit
-        id="12"
+        id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 90 г</source><seg-source><mrk
             mtype="seg"
@@ -269,7 +251,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">&lt; 90 g</mrk></target></trans-unit><trans-unit
-        id="13"
+        id="12"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -280,7 +262,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="14"
+        id="13"
         restype="x-xml-td"
         phase-name="pretrans"><source>Унификация параметров в таблице ТТХ</source><seg-source><mrk
             mtype="seg"
@@ -292,7 +274,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="New">Унификация параметров в таблице ТТХ</mrk></target></trans-unit><trans-unit
-        id="15"
+        id="14"
         restype="x-xml-td"
         phase-name="pretrans"><source>2021-04-22</source><seg-source><mrk
             mtype="seg"
@@ -303,7 +285,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">2021-04-22</mrk></target></trans-unit><trans-unit
-        id="16"
+        id="15"
         restype="x-xml-td"
         phase-name="pretrans"><source>добавлены погрешности в параметр длина и масса</source><seg-source><mrk
             mtype="seg"
@@ -313,12 +295,12 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="97"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">добавлены погешности в параметр длина и масса</mrk></target><alt-trans
           match-quality="97"
           origin="previous-version"><seg-source>добавлены погешности в параметр длина и масса</seg-source><target
             MadCap:segmentStatus="Untranslated">добавлены погешности в параметр длина и масса</target></alt-trans></trans-unit><trans-unit
-        id="17"
+        id="16"
         restype="x-xml-td"
         phase-name="pretrans"><source>2022-04-22</source><seg-source><mrk
             mtype="seg"
@@ -330,7 +312,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100"
             MadCap:diff="New">2022-04-22</mrk></target></trans-unit><trans-unit
-        id="18"
+        id="17"
         restype="x-xml-td"
         phase-name="pretrans"><source>Добавлено назначение</source><seg-source><mrk
             mtype="seg"

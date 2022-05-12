@@ -24,7 +24,14 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>砻קยด2ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.MCScap-RT30_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-RT30_code" />
+                                    </p>
+                                </td>
                                 <td>
                                 </td>
                             </tr>
@@ -38,17 +45,17 @@
         </section>
         <MadCap:snippetBlock src="../../Resources/Snippets/textile_caps/textile-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>砻קยด3ตว融</h2>
+            <h2>砻קยด2ตว融</h2>
             <ul>
+                <li>砻קยด3ตว融</li>
                 <li>砻קยด4ตว融</li>
-                <li>砻קยด5ตว融</li>
             </ul>
         </section>
         <section class="fullDescription">
-            <p>砻קยด6ตว融</p>
+            <p>砻קยด5ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด7ตว融</h2>
+            <h2>砻קยด6ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -56,19 +63,19 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Материал фиксатора" />
                     </td>
-                    <td>砻קยด8ตว融</td>
+                    <td>砻קยด7ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
-                    <td>砻קยด9ตว融</td>
+                    <td>砻קยด8ตว融</td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
-                    <td>砻קยด10ตว融</td>
+                    <td>砻קยด9ตว融</td>
                 </tr>
             </table>
         </section>

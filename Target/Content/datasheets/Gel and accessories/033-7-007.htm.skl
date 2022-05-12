@@ -24,8 +24,15 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>砻קยด2ตว融</td>
-                                <td class="name_td">
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.disinfection-spay-big_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.disinfection-spay-big_code" />
+                                    </p>
+                                </td>
+                                <td>
                                 </td>
                             </tr>
                         </table>
@@ -37,23 +44,23 @@
             </table>
         </section>
         <section class="target-section" MadCap:conditions="Default.NoOutput">
-            <h2>砻קยด3ตว融</h2>
+            <h2>砻קยด2ตว融</h2>
             <p>
             </p>
         </section>
         <section class="set-section">
-            <h2>砻קยด4ตว融</h2>
+            <h2>砻קยด3ตว融</h2>
             <ul>
                 <li>
                     <MadCap:variable name="ModuleAndDevicesNames.disinfection-spay-big_fullname" />.</li>
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด5ตว融</h2>
-            <p>砻קยด6ตว融</p>
+            <h2>砻קยด4ตว融</h2>
+            <p>砻קยด5ตว融</p>
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด7ตว融</h2>
+            <h2>砻קยด6ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -62,7 +69,7 @@
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Действующие вещества" />
                     </td>
                     <!-- http://dezr.ru/preparat/estilodez-sprey -->
-                    <td>砻קยด8ตว融</td>
+                    <td>砻קยด7ตว融</td>
                 </tr>
                 <tr>
                 </tr>
@@ -70,31 +77,31 @@
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Производитель" />
                     </td>
-                    <td>砻קยด9ตว融</td>
+                    <td>砻קยด8ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Номинальный объем" />
                     </td>
-                    <td>砻קยด10ตว融</td>
+                    <td>砻קยด9ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
-                    <td>砻קยด11ตว融</td>
+                    <td>砻קยด10ตว融</td>
                 </tr>
             </table>
             <section MadCap:conditions="documents.InternalDocument">
                 <table>
                     <tr>
+                        <td>砻קยด11ตว融</td>
                         <td>砻קยด12ตว融</td>
-                        <td>砻קยด13ตว融</td>
                         <td> </td>
                     </tr>
                     <tr>
+                        <td>砻קยด13ตว融</td>
                         <td>砻קยด14ตว融</td>
-                        <td>砻קยด15ตว融</td>
                         <td> </td>
                     </tr>
                 </table>

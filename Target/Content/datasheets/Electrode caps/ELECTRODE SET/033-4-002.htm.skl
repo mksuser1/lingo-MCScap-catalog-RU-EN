@@ -24,7 +24,14 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>砻קยด2ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Electrode-set-36_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Electrode-set-36_code" />
+                                    </p>
+                                </td>
                                 <td>
                                 </td>
                             </tr>
@@ -38,26 +45,26 @@
         </section>
         <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>砻קยด3ตว融</h2>
+            <h2>砻קยด2ตว融</h2>
             <ul>
                 <li>
-                    <p>砻קยด4ตว融</p>
+                    <p>砻קยด3ตว融</p>
                 </li>
                 <li>
-                    <p>砻קยด5ตว融</p>
+                    <p>砻קยด4ตว融</p>
                 </li>
                 <li>
                     <p>
                         <MadCap:variable name="ModuleAndDevicesNames.labelelectrodes_name" />,</p>
                 </li>
                 <li>
-                    <p>砻קยด6ตว融</p>
+                    <p>砻קยด5ตว融</p>
                 </li>
                 <li>
                     <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/EEG-starter-kit.flsnp" />
                 </li>
                 <li>
-                    <p>砻קยด7ตว融</p>
+                    <p>砻קยด6ตว融</p>
                 </li>
                 <li>
                     <p>
@@ -66,11 +73,11 @@
             </ul>
         </section>
         <section class="fullDescription">
-            <h2>砻קยด8ตว融</h2>
+            <h2>砻קยด7ตว融</h2>
             <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/ELECTRODESET-description.flsnp" />
         </section>
         <section class="technicalData-section">
-            <h2>砻קยด9ตว融</h2>
+            <h2>砻קยด8ตว融</h2>
             <table class="datasheet">
                 <col class="col_param" />
                 <col class="col_value" />
@@ -78,13 +85,13 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Type_of_EEG" />
                     </td>
-                    <td>砻קยด10ตว融</td>
+                    <td>砻קยด9ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Body_position" />
                     </td>
-                    <td>砻קยด11ตว融</td>
+                    <td>砻קยด10ตว融</td>
                 </tr>
                 <tr>
                     <td>
@@ -108,79 +115,79 @@
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter тип разъема" />
                     </td>
-                    <td>砻קยด12ตว融</td>
+                    <td>砻קยด11ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Длина провода электрода" />
                     </td>
-                    <td>砻קยด13ตว融</td>
+                    <td>砻קยด12ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Кол-во эл-дов" />
                     </td>
-                    <td>砻קยด14ตว融</td>
+                    <td>砻קยด13ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Позиция электродов" />
                     </td>
-                    <td>砻קยด15ตว融</td>
+                    <td>砻קยด14ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Ушные фиксаторы" />
                     </td>
-                    <td>砻קยด16ตว融</td>
+                    <td>砻קยด15ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Маркировка посадочных мест" />
                     </td>
-                    <td>砻קยด17ตว融</td>
+                    <td>砻קยด16ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Маркировка электродов" />
                     </td>
-                    <td>砻קยด18ตว融</td>
+                    <td>砻קยด17ตว融</td>
                 </tr>
                 <tr MadCap:conditions="market.All,market.RU">
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter кол-во текстильных шлемов" />
                     </td>
-                    <td>砻קยด19ตว融</td>
+                    <td>砻קยด18ตว融</td>
                 </tr>
                 <tr MadCap:conditions="market.All,market.EU">
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter кол-во текстильных шлемов" />
                     </td>
-                    <td>砻קยด20ตว融</td>
+                    <td>砻קยด19ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Доступные размеры шлемов" />
                     </td>
-                    <td>砻קยด21ตว融</td>
+                    <td>砻קยด20ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="MCScap-Glossary-and-therms.parameter Electrodecap weight" />
                     </td>
-                    <td>砻קยด22ตว融</td>
+                    <td>砻קยด21ตว融</td>
                 </tr>
                 <tr>
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса нетто" />
                     </td>
-                    <td>砻קยด23ตว融</td>
+                    <td>砻קยด22ตว融</td>
                 </tr>
                 <tr MadCap:conditions="Default.PrintOnly">
                     <td>
                         <MadCap:variable name="Global(External)Variables.parameter Масса брутто" />
                     </td>
-                    <td>砻קยด24ตว融</td>
+                    <td>砻קยด23ตว融</td>
                 </tr>
             </table>
         </section>
@@ -189,7 +196,7 @@
                 <col style="width:50%" />
                 <tr>
                     <th>
-                        <h2>砻קยด25ตว融</h2>
+                        <h2>砻קยด24ตว融</h2>
                     </th>
                 </tr>
                 <tr>
@@ -198,13 +205,13 @@
                     </td>
                 </tr>
             </table>
-            <p>砻קยด26ตว融</p>
+            <p>砻קยด25ตว融</p>
         </section>
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
+                    <td>砻קยด26ตว融</td>
                     <td>砻קยด27ตว融</td>
-                    <td>砻קยด28ตว融</td>
                     <td> </td>
                 </tr>
             </table>

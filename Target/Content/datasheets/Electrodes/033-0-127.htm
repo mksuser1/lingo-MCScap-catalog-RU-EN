@@ -25,8 +25,12 @@
                             </tr>
                             <tr MadCap:conditions="publicationTo.datasheet,publicationTo.site">
                                 <td>
-                                    <MadCap:variable name="ModuleAndDevicesCode.MCScap-StNT_code" MadCap:conditions="market.All,market.RU" />
-                                    <MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-StNT_code" MadCap:conditions="market.All,market.EU" />
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.MCScap-StNT_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.MCScap-StNT_code" />
+                                    </p>
                                 </td>
                                 <td> </td>
                             </tr>

@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1 class="deviceName">
+        <h1 class="deviceName" MadCap:autonum="">
             <MadCap:variable name="ModuleAndDevicesNames.Clinic-tc_fullname" />
         </h1>
         <p class="shortDescription">砻קยด1ตว融</p>
@@ -29,7 +29,14 @@
                                 </th>
                             </tr>
                             <tr>
-                                <td>砻קยด2ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XL-name" />
                                 </td>
@@ -38,7 +45,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด3ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-XLL_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-XLL_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XLL-name" />
                                 </td>
@@ -47,7 +61,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด4ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-L_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-L_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.L-name" />
                                 </td>
@@ -56,7 +77,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด5ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-LM_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-LM_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.LM-name" />
                                 </td>
@@ -65,7 +93,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด6ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-M_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-M_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.M-name" />
                                 </td>
@@ -74,7 +109,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด7ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-MS_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-MS_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.MS-name" />
                                 </td>
@@ -83,7 +125,14 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>砻קยด8ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-S_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-S_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.S-name" />
                                 </td>
@@ -92,7 +141,14 @@
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
-                                <td>砻קยด9ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-SXS_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-SXS_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.SXS-name" />
                                 </td>
@@ -101,7 +157,14 @@
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
-                                <td>砻קยด10ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-XS_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-XS_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.XS-name" />
                                 </td>
@@ -110,7 +173,14 @@
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
-                                <td>砻קยด11ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-InfI_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-InfI_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.InfI-name" />
                                 </td>
@@ -119,7 +189,14 @@
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
-                                <td>砻קยด12ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-InfII_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-InfII_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.InfII-name" />
                                 </td>
@@ -128,7 +205,14 @@
                                 </td>
                             </tr>
                             <tr MadCap:conditions="">
-                                <td>砻קยด13ตว融</td>
+                                <td>
+                                    <p MadCap:conditions="market.All,market.RU">
+                                        <MadCap:variable name="ModuleAndDevicesCode.Clinic-tc_20-InfIII_code" />
+                                    </p>
+                                    <p MadCap:conditions="market.All,market.EU">
+                                        <MadCap:variable name="ModuleAndDevicesCode-EU.Clinic-tc_21-InfIII_code" />
+                                    </p>
+                                </td>
                                 <td>
                                     <MadCap:variable name="LocalVariables-Sizes.InfIII-name" />
                                 </td>
@@ -146,7 +230,7 @@
         </section>
         <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
         <section class="set-section">
-            <h2>砻קยด14ตว融</h2>
+            <h2 MadCap:autonum="">砻קยด2ตว融</h2>
             <ul>
                 <li>
                     <p>
@@ -156,13 +240,19 @@
                     <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/EEG-starter-kit.flsnp" />
                 </li>
                 <li>
-                    <p>砻קยด15ตว融</p>
+                    <p>砻קยด3ตว融</p>
                 </li>
             </ul>
         </section>
-        <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/electrode-cap-intention.flsnp" />
+        <p>
+            <section class="fullDescription">
+                <h2 MadCap:autonum="">砻קยด4ตว融</h2>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/CLINIC-TC-description.flsnp" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/specification-diff.flsnp" />
+            </section>
+        </p>
         <section class="technicalData-section">
-            <h2>砻קยด16ตว融</h2>
+            <h2 MadCap:autonum="">砻קยด5ตว融</h2>
             <MadCap:snippetBlock src="../../../Resources/Snippets/electrode_caps/CLINIC-TC-datasheet.flsnp" />
         </section>
         <section class="noBreakInside" MadCap:conditions="documents.GroupDatasheet">
@@ -171,9 +261,9 @@
         <section MadCap:conditions="documents.InternalDocument">
             <table>
                 <tr>
-                    <td>砻קยด17ตว融</td>
-                    <td>砻קยด18ตว融</td>
-                    <td>砻קยด19ตว融</td>
+                    <td>砻קยด6ตว融</td>
+                    <td>砻קยด7ตว融</td>
+                    <td>砻קยด8ตว融</td>
                 </tr>
             </table>
         </section>

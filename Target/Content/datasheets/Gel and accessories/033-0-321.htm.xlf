@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="completed">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="033-0-321.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">26</count>
+          unit="segment">25</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -52,30 +52,12 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
+            MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">A set of removable plastic fixators for wires with a nominal diameter of up to 1.5 mm with a retaining part.</mrk></target><alt-trans
           match-quality="99"
           origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для проводов номинальным диаметром до 1,5 мм с удерживающей частью.</seg-source><target
             MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for wires with a nominal diameter of up to 1.5 mm with a retaining part.</target></alt-trans></trans-unit><trans-unit
         id="2"
-        restype="x-xml-td"
-        phase-name="pretrans"><source><ph
-            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.ABSfixator_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>
-                                    <ph
-            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.ABSfixator_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
-            mtype="seg"
-            mid="1"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.ABSfixator_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.ABSfixator_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
-          state="translated"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="100"
-            MadCap:diff="New"><ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode.ABSfixator_code" MadCap:conditions="market.All,market.RU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
-              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-EU.ABSfixator_code" MadCap:conditions="market.All,market.EU" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
-        id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Назначение</source><seg-source><mrk
             mtype="seg"
@@ -85,7 +67,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Intended use</mrk></target></trans-unit><trans-unit
-        id="4"
+        id="3"
         restype="x-xml-p"
         phase-name="pretrans"><source>Для фиксации проводов ЭЭГ электродов.</source><seg-source><mrk
             mtype="seg"
@@ -96,7 +78,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0"
             MadCap:diff="New">For fixing wires of EEG electrodes.</mrk></target></trans-unit><trans-unit
-        id="5"
+        id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
@@ -106,7 +88,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
-        id="6"
+        id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 2 провода - 1 шт,</source><seg-source><mrk
             mtype="seg"
@@ -120,7 +102,7 @@
           match-quality="87"
           origin="previous-version"><seg-source>фиксатор на 2 провода - 1 шт,</seg-source><target
             MadCap:segmentStatus="Untranslated">ABS fixator for 2 wires - 1 pc,</target></alt-trans></trans-unit><trans-unit
-        id="7"
+        id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 3 провода - 1 шт,</source><seg-source><mrk
             mtype="seg"
@@ -134,7 +116,7 @@
           match-quality="84"
           origin="previous-version"><seg-source>фиксатор на 2 провода - 1 шт,</seg-source><target
             MadCap:segmentStatus="Untranslated">ABS fixator for 2 wires - 1 pc,</target></alt-trans></trans-unit><trans-unit
-        id="8"
+        id="7"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 4 провода - 1 шт,</source><seg-source><mrk
             mtype="seg"
@@ -148,7 +130,7 @@
           match-quality="84"
           origin="previous-version"><seg-source>фиксатор на 2 провода - 1 шт,</seg-source><target
             MadCap:segmentStatus="Untranslated">ABS fixator for 2 wires - 1 pc,</target></alt-trans></trans-unit><trans-unit
-        id="9"
+        id="8"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 5 проводов - 1 шт,</source><seg-source><mrk
             mtype="seg"
@@ -162,7 +144,7 @@
           match-quality="79"
           origin="previous-version"><seg-source>фиксатор на 2 провода - 1 шт,</seg-source><target
             MadCap:segmentStatus="Untranslated">ABS fixator for 2 wires - 1 pc,</target></alt-trans></trans-unit><trans-unit
-        id="10"
+        id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 6 проводов - 1 шт,</source><seg-source><mrk
             mtype="seg"
@@ -176,7 +158,7 @@
           match-quality="79"
           origin="previous-version"><seg-source>фиксатор на 2 провода - 1 шт,</seg-source><target
             MadCap:segmentStatus="Untranslated">ABS fixator for 2 wires - 1 pc,</target></alt-trans></trans-unit><trans-unit
-        id="11"
+        id="10"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 7 проводов - 1 шт,</source><seg-source><mrk
             mtype="seg"
@@ -190,7 +172,7 @@
           match-quality="79"
           origin="previous-version"><seg-source>фиксатор на 2 провода - 1 шт,</seg-source><target
             MadCap:segmentStatus="Untranslated">ABS fixator for 2 wires - 1 pc,</target></alt-trans></trans-unit><trans-unit
-        id="12"
+        id="11"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 8 проводов - 1 шт,</source><seg-source><mrk
             mtype="seg"
@@ -204,7 +186,7 @@
           match-quality="79"
           origin="previous-version"><seg-source>фиксатор на 2 провода - 1 шт,</seg-source><target
             MadCap:segmentStatus="Untranslated">ABS fixator for 2 wires - 1 pc,</target></alt-trans></trans-unit><trans-unit
-        id="13"
+        id="12"
         restype="x-xml-p"
         phase-name="pretrans"><source>ABS фиксатор на 9 проводов - 1 шт.</source><seg-source><mrk
             mtype="seg"
@@ -218,7 +200,7 @@
           match-quality="76"
           origin="previous-version"><seg-source>фиксатор на 2 провода - 1 шт,</seg-source><target
             MadCap:segmentStatus="Untranslated">ABS fixator for 2 wires - 1 pc,</target></alt-trans></trans-unit><trans-unit
-        id="14"
+        id="13"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
@@ -228,7 +210,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
-        id="15"
+        id="14"
         restype="x-xml-p"
         phase-name="pretrans"><source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.  Фиксаторы предназначены для удержания и позиционирования проводов электродов на электродных шлемах <ph
             id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>. Каждый фиксатор состоит из двух частей, разделительной и удерживающей, которые соединяются между собой за счет пазов в конструкции. Для соединения частей следует вложить выступы удерживающей части сбоку в пазы разделительной части.</source><seg-source><mrk
@@ -262,7 +244,7 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">The fixators are designed to hold and position the electrode wires on the <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode caps.</mrk><mrk
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames._mainMCScap" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode caps.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -298,8 +280,62 @@
             MadCap:segmentStatus="Untranslated">To connect the parts, insert the projections of the retaining part from the side into the grooves of the separating part.</target></alt-trans><alt-trans
           match-quality="95"
           origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
+          match-quality="95"
+          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
+          mid="2"
+          match-quality="99"
+          origin="previous-version"><seg-source>Фиксаторы предназначены для удержания и позиционирования проводов электродов на электродных шлемах MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The fixators are designed to hold and position the electrode wires on the MCScap electrode helmets. </target></alt-trans><alt-trans
+          mid="4"
+          match-quality="97"
+          origin="previous-version"><seg-source>Каждый фиксатор состоит из двух частей, разделительной и удерживающей, которые соединяются между собой за счет пазов в конструкции.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Each fixator consists of two parts, separating and retaining, which are interconnected by means of grooves in the structure.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Для соединения частей следует вложить выступы удерживающей части сбоку в пазы разделительной части.</seg-source><target
+            MadCap:segmentStatus="Untranslated">To connect the parts, insert the projections of the retaining part from the side into the grooves of the separating part.</target></alt-trans><alt-trans
+          match-quality="95"
+          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
+          match-quality="95"
+          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
+          mid="2"
+          match-quality="99"
+          origin="previous-version"><seg-source>Фиксаторы предназначены для удержания и позиционирования проводов электродов на электродных шлемах MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The fixators are designed to hold and position the electrode wires on the MCScap electrode helmets. </target></alt-trans><alt-trans
+          mid="4"
+          match-quality="97"
+          origin="previous-version"><seg-source>Каждый фиксатор состоит из двух частей, разделительной и удерживающей, которые соединяются между собой за счет пазов в конструкции.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Each fixator consists of two parts, separating and retaining, which are interconnected by means of grooves in the structure.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Для соединения частей следует вложить выступы удерживающей части сбоку в пазы разделительной части.</seg-source><target
+            MadCap:segmentStatus="Untranslated">To connect the parts, insert the projections of the retaining part from the side into the grooves of the separating part.</target></alt-trans><alt-trans
+          match-quality="95"
+          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
+          match-quality="95"
+          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
+            MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans><alt-trans
+          mid="2"
+          match-quality="99"
+          origin="previous-version"><seg-source>Фиксаторы предназначены для удержания и позиционирования проводов электродов на электродных шлемах MCScap.</seg-source><target
+            MadCap:segmentStatus="Untranslated">The fixators are designed to hold and position the electrode wires on the MCScap electrode helmets. </target></alt-trans><alt-trans
+          mid="4"
+          match-quality="97"
+          origin="previous-version"><seg-source>Каждый фиксатор состоит из двух частей, разделительной и удерживающей, которые соединяются между собой за счет пазов в конструкции.</seg-source><target
+            MadCap:segmentStatus="Untranslated">Each fixator consists of two parts, separating and retaining, which are interconnected by means of grooves in the structure.</target></alt-trans><alt-trans
+          mid="6"
+          match-quality="98"
+          origin="previous-version"><seg-source>Для соединения частей следует вложить выступы удерживающей части сбоку в пазы разделительной части.</seg-source><target
+            MadCap:segmentStatus="Untranslated">To connect the parts, insert the projections of the retaining part from the side into the grooves of the separating part.</target></alt-trans><alt-trans
+          match-quality="95"
+          origin="previous-version"><seg-source>Набор съемных пластиковых фиксаторов для соединения в группу от 2 до 9 проводов с номинальным диаметром до 1,5 мм.</seg-source><target
             MadCap:segmentStatus="Untranslated">A set of removable plastic fixators for grouping from 2 to 9 wires with a nominal diameter of up to 1.5 mm. </target></alt-trans></trans-unit><trans-unit
-        id="16"
+        id="15"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
@@ -309,7 +345,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
-        id="17"
+        id="16"
         restype="x-xml-td"
         phase-name="pretrans"><source>ABS</source><seg-source><mrk
             mtype="seg"
@@ -319,7 +355,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">ABS</mrk></target></trans-unit><trans-unit
-        id="18"
+        id="17"
         restype="x-xml-td"
         phase-name="pretrans"><source>9,5‑24,5 x 2 x 2,5 мм ±10%</source><seg-source><mrk
             mtype="seg"
@@ -329,7 +365,7 @@
             mid="1"
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="0">9,5‑24,5 x 2 x 2,5 mm ±10%</mrk></target></trans-unit><trans-unit
-        id="19"
+        id="18"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 3 г</source><seg-source><mrk
             mtype="seg"
@@ -345,8 +381,14 @@
             MadCap:segmentStatus="Untranslated">&lt; 2 g</target></alt-trans><alt-trans
           match-quality="87"
           origin="previous-version"><seg-source>&lt; 2 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 2 g</target></alt-trans><alt-trans
+          match-quality="87"
+          origin="previous-version"><seg-source>&lt; 2 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 2 g</target></alt-trans><alt-trans
+          match-quality="87"
+          origin="previous-version"><seg-source>&lt; 2 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 2 g</target></alt-trans></trans-unit><trans-unit
-        id="20"
+        id="19"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 3 г</source><seg-source><mrk
             mtype="seg"
@@ -358,6 +400,12 @@
             MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101"
             MadCap:diff="ContentChanged">&lt; 3 g</mrk></target><alt-trans
+          match-quality="87"
+          origin="previous-version"><seg-source>&lt; 2 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 2 g</target></alt-trans><alt-trans
+          match-quality="87"
+          origin="previous-version"><seg-source>&lt; 2 г</seg-source><target
+            MadCap:segmentStatus="Untranslated">&lt; 2 g</target></alt-trans><alt-trans
           match-quality="87"
           origin="previous-version"><seg-source>&lt; 2 г</seg-source><target
             MadCap:segmentStatus="Untranslated">&lt; 2 g</target></alt-trans><alt-trans

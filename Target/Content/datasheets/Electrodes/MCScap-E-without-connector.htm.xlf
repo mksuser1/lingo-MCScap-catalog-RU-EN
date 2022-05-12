@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="in-progress">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="MCScap-E-without-connector.htm"
@@ -48,50 +48,50 @@
         phase-name="pretrans"><source>Тонкий Ag/AgCl sintered электрод для регистрации ЭЭГ с проводом без разъёма.</source><seg-source><mrk
             mtype="seg"
             mid="1">Тонкий Ag/AgCl sintered электрод для регистрации ЭЭГ с проводом без разъёма.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="71">Thin Ag / AgCl sintered electrode for EEG recording with wire without connector.</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-td"
         phase-name="pretrans"><source>150</source><seg-source><mrk
             mtype="seg"
             mid="1">150</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">150</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-td"
         phase-name="pretrans"><source>190</source><seg-source><mrk
             mtype="seg"
             mid="1">190</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">190</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Состав комплекта</source><seg-source><mrk
             mtype="seg"
             mid="1">Состав комплекта</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Set</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Описание</source><seg-source><mrk
             mtype="seg"
             mid="1">Описание</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Description</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-p"
@@ -102,20 +102,22 @@
             mid="1">Электрод <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames-GVB.MCScap-E-without-connector_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> предназначен для замены электрода в электродном шлеме MCScap <ph
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesNames._BASE" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">The <ph
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesNames-GVB.MCScap-E-without-connector_name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> electrode is designed to replace the electrode in the <ph
+              id="2">&lt;MadCap:variable name="ModuleAndDevicesNames._BASE" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> MCScap electrode  cap.</mrk></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Технические характеристики</source><seg-source><mrk
             mtype="seg"
             mid="1">Технические характеристики</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">Specification</mrk></target></trans-unit><trans-unit
         id="8"
         restype="x-xml-p"
@@ -128,10 +130,10 @@
             mtype="seg"
             mid="3">(REF <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-GVB-EU.MCScap-E-without-connector-150_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">1.5 ±0.05 m</mrk><mrk
             mtype="protected"
             mid="2"
@@ -139,9 +141,9 @@
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-GVB-EU.MCScap-E-without-connector-150_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode-GVB-EU.MCScap-E-without-connector-150_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>1,9 ±0,05 м (REF <ph
@@ -153,39 +155,39 @@
             mtype="seg"
             mid="3">(REF <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-GVB-EU.MCScap-E-without-connector-190_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="90">1.9 ±0.05 m</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">(REF <ph
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="ModuleAndDevicesCode-GVB-EU.MCScap-E-without-connector-190_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
+              id="1">&lt;MadCap:variable name="ModuleAndDevicesCode-GVB-EU.MCScap-E-without-connector-190_code" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>)</mrk></target></trans-unit><trans-unit
         id="10"
         restype="x-xml-td"
         phase-name="pretrans"><source>без разъёма</source><seg-source><mrk
             mtype="seg"
             mid="1">без разъёма</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">without connector</mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-td"
         phase-name="pretrans"><source>&lt; 4 г</source><seg-source><mrk
             mtype="seg"
             mid="1">&lt; 4 г</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 4 g</mrk></target></trans-unit><trans-unit
         id="12"
         restype="x-xml-td"
@@ -193,10 +195,10 @@
             mtype="seg"
             mid="1"
             MadCap:parentConditions="Default.PrintOnly">&lt; 4 г</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="100">&lt; 4 g</mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-td"
@@ -204,21 +206,21 @@
             mtype="seg"
             mid="1"
             MadCap:parentConditions="||documents.InternalDocument">2022-05-06</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">2022-05-06</mrk></target></trans-unit><trans-unit
         id="14"
         restype="x-xml-td"
         phase-name="pretrans"><source>Создание файла</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:parentConditions="||documents.InternalDocument">Создание файла</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ExactMatch"
-            MadCap:matchPercent="100">Создание файла</mrk></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Создание файла</mrk></target></trans-unit></body>
   </file>
 </xliff>
